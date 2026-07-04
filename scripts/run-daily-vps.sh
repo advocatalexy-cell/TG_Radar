@@ -12,6 +12,10 @@ python scripts/fetch-posts.py
 python scripts/filter-signals.py
 python agents/digest-agent.py
 
+# digest-agent.py пишет свой упрощённый дайджест как побочный эффект обновления
+# state.json — не нужен, авторитетную версию собирает облачный Routine.
+rm -f "digests/$(date -u +%Y-%m-%d)-digest.md"
+
 git add data/processed data/state.json
 if ! git diff --cached --quiet; then
   git commit -m "Daily data collection $(date -u +%Y-%m-%d)"
