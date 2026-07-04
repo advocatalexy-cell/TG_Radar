@@ -20,6 +20,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from telethon import TelegramClient
+from telethon.sessions import StringSession
 from telethon.tl.types import Message
 
 load_dotenv()
@@ -27,6 +28,10 @@ load_dotenv()
 API_ID = int(os.environ["TELEGRAM_API_ID"])
 API_HASH = os.environ["TELEGRAM_API_HASH"]
 PHONE = os.environ["TELEGRAM_PHONE"]
+
+# В облачном Routine сессия передаётся компактной строкой (TELEGRAM_SESSION_STRING),
+# локально используется файл radar_session.session — без переменной работает как раньше.
+SESSION = StringSession(os.environ["TELEGRAM_SESSION_STRING"]) if os.environ.get("TELEGRAM_SESSION_STRING") else "radar_session"
 
 ROOT = Path(__file__).parent.parent
 SOURCES_FILE = ROOT / "sources" / "channels.json"
@@ -144,7 +149,7 @@ async def main() -> None:
 
     mode = f"backfill {date_label}" if backfill else "unread mode"
     print(f"Fetching {len(channels)} channels ({mode})...")
-    async with TelegramClient("radar_session", API_ID, API_HASH) as client:
+    async with TelegramClient(SESSION, API_ID, API_HASH) as client:
         await client.start(phone=PHONE)
         for channel in channels:
             if backfill:
