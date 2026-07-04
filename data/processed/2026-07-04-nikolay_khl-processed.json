@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1107,
+    "channel_id": "nikolay_khl",
+    "date": "2026-07-04T10:58:24+00:00",
+    "text": "Всем спасибо за участие и за вопросы! Это было круто 🥰 Делаем еще?",
+    "views": 1295,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает благодарность участникам, но не содержит информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 1106,
+    "channel_id": "nikolay_khl",
+    "date": "2026-07-04T09:03:33+00:00",
+    "text": "Начали эфир про ИИ, уже 100+ человек подключилось!",
+    "views": 1727,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Начат эфир про искусственный интеллект.",
+      "keywords": [
+        "ИИ",
+        "эфир",
+        "подключение"
+      ]
+    }
+  }
+]

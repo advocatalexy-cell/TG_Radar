@@ -1,0 +1,118 @@
+[
+  {
+    "id": 20384,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:58:49+00:00",
+    "text": "Здорово выросли) Молодцы)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20383,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:58:33+00:00",
+    "text": "Пишите - когда-то нас было трое))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20382,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:58:01+00:00",
+    "text": "Все равно напишу) Про ваш личный опыт )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20381,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:57:25+00:00",
+    "text": "Эх, нас 15, не пишите мне тогда))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20380,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:56:37+00:00",
+    "text": "5-10)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20379,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T08:55:50+00:00",
+    "text": "А небольшая компания для ваших целей - это примерно сколько человек?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о размере небольшой компании.",
+      "keywords": [
+        "небольшая компания",
+        "размер",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 20374,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-04T04:08:56+00:00",
+    "text": "Забегу к вам, Анна) спасибо)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без содержания.",
+      "keywords": []
+    }
+  }
+]
