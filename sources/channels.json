@@ -1,0 +1,1111 @@
+{
+  "version": "1.1",
+  "updated": "2026-06-20",
+  "channels": [
+    {
+      "id": "allthingslegal",
+      "name": "All Things Legal",
+      "url": "https://t.me/allthingslegal",
+      "type": "telegram",
+      "priority": "high",
+      "tags": [
+        "legal",
+        "legaltech",
+        "ai",
+        "law"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "LegalTech: новости права и технологий"
+    },
+    {
+      "id": "gpt-for-lawyers",
+      "name": "GPT for Lawyers",
+      "url": "https://t.me/GPT_for_Lawyers",
+      "type": "telegram",
+      "priority": "high",
+      "tags": [
+        "legal",
+        "ai",
+        "gpt",
+        "lawyers",
+        "practice"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Практическое применение GPT в юридической практике"
+    },
+    {
+      "id": "ai-skrepka",
+      "name": "AI Скрепка",
+      "url": "https://t.me/AI_Skrepka",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "legal",
+        "ai",
+        "russia",
+        "documents"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "ИИ и юридические документы, российский рынок"
+    },
+    {
+      "id": "legalmindai",
+      "name": "LegalMind AI",
+      "url": "https://t.me/LegalMindAI",
+      "type": "telegram",
+      "priority": "high",
+      "tags": [
+        "legal",
+        "ai",
+        "legaltech",
+        "research"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Аналитика на пересечении права и искусственного интеллекта"
+    },
+    {
+      "id": "yandex",
+      "name": "Яндекс",
+      "url": "https://t.me/yandex",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "sber_university",
+      "name": "СберУниверситет",
+      "url": "https://t.me/sber_university",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "oqode",
+      "name": "💎 Зерокодер",
+      "url": "https://t.me/oqode",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "exploitex",
+      "name": "Эксплойт",
+      "url": "https://t.me/exploitex",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "lifelongmooc",
+      "name": "Лайфлонг муки",
+      "url": "https://t.me/lifelongmooc",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "nikolay_khl",
+      "name": "Николай Хлебинский",
+      "url": "https://t.me/nikolay_khl",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "edutech_club",
+      "name": "Больше чем обучение (EduTech Club)",
+      "url": "https://t.me/edutech_club",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "neural_houses",
+      "name": "Нейросетевые покои: нейросети, ChatGPT, Midjourney",
+      "url": "https://t.me/neural_houses",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "k_pshinnik",
+      "name": "Кирилл Пшинник - ректор университета Зерокодер",
+      "url": "https://t.me/k_pshinnik",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "serge_ai",
+      "name": "Serge_AI 1.0",
+      "url": "https://t.me/serge_ai",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "tips_ai",
+      "name": "Tips AI | IT & AI",
+      "url": "https://t.me/tips_ai",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "alekseyorfeev",
+      "name": "Алексей Орфеев про бизнес и контент с помощью нейросетей и автоматизации",
+      "url": "https://t.me/AlekseyOrfeev",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "pro_servitude",
+      "name": "Про сервитуты и не только",
+      "url": "https://t.me/pro_servitude",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "ai_skrepka",
+      "name": "AI Скрепка | Евгений Мирошниченко",
+      "url": "https://t.me/AI_Skrepka",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "gpt_for_lawyers",
+      "name": "ИИ для юриста🤖",
+      "url": "https://t.me/GPT_for_Lawyers",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "docsllm_channel",
+      "name": "ilovedocs | AI",
+      "url": "https://t.me/docsllm_channel",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "ivan_ai_practice",
+      "name": "Иван — ИИ на практике",
+      "url": "https://t.me/ivan_ai_practice",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "wowai2025",
+      "name": "WOW AI",
+      "url": "https://t.me/wowai2025",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "katerinaeav_ai_edtech",
+      "name": "Екатерина Ведяшкина | Нейросети и EdTech",
+      "url": "https://t.me/katerinaEAV_AI_EdTech",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "deepseek_community",
+      "name": "DeepSeek & Qwen Сообщество",
+      "url": "https://t.me/deepseek_community",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "docsllm",
+      "name": "Нейросети | ilovedocs",
+      "url": "https://t.me/docsllm",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "vibe_coders_zerocoder",
+      "name": "Vibe Coders Чат & Сообщество",
+      "url": "https://t.me/vibe_coders_zerocoder",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Ai»"
+    },
+    {
+      "id": "ofd24",
+      "name": "OFD24 | ККТ, Маркировка, ЕГАИС, Меркурий, Честный ЗНАК, ДМДК, СБП, ЦТО, ОФД, 1С",
+      "url": "https://t.me/ofd24",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "orpau",
+      "name": "ОРПАУ - Общероссийский профсоюз арбитражных управляющих",
+      "url": "https://t.me/orpau",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "advocate_davidoff",
+      "name": "Адвокат Давыдов Михаил Владимирович",
+      "url": "https://t.me/advocate_davidoff",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "legaldaily",
+      "name": "legaldaily.ru",
+      "url": "https://t.me/legaldaily",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "loaderfromsvo",
+      "name": "Loader from SVO",
+      "url": "https://t.me/loaderfromSVO",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "corpconflicts",
+      "name": "Корпоративные конфликты",
+      "url": "https://t.me/corpconflicts",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lawread",
+      "name": "Lawread",
+      "url": "https://t.me/Lawread",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "prostokadry",
+      "name": "Блог кадровика",
+      "url": "https://t.me/prostokadry",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "privlawlib",
+      "name": "Private Law Library | PLL Право",
+      "url": "https://t.me/privlawlib",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lawfirms",
+      "name": "РУЛЬФЫ, ИЛЬФЫ И ИНХАУСЫ",
+      "url": "https://t.me/LawFirms",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "povorotnapravo",
+      "name": "Поворот на Право",
+      "url": "https://t.me/povorotnapravo",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "cryptopraktika",
+      "name": "КриптоПрактика",
+      "url": "https://t.me/cryptopraktika",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "cryptolaw1",
+      "name": "CRYPTOLAW",
+      "url": "https://t.me/cryptolaw1",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "pgemployment",
+      "name": "PG Employment | Трудовое право",
+      "url": "https://t.me/pgEmployment",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "advokatgrikevich",
+      "name": "Адвокат Грикевич",
+      "url": "https://t.me/advokatgrikevich",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "club_lawyers",
+      "name": "Lawyers.Club",
+      "url": "https://t.me/club_lawyers",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "vs_court",
+      "name": "Судебная практика СКЭС ВС РФ",
+      "url": "https://t.me/vs_court",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lgltech",
+      "name": "LegalTech",
+      "url": "https://t.me/Lgltech",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "spb_civilist",
+      "name": "Петербургская Цивилистика",
+      "url": "https://t.me/spb_civilist",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lektorium20",
+      "name": "Лекториум",
+      "url": "https://t.me/lektorium20",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "library_lawyer",
+      "name": "Библиотека юриста",
+      "url": "https://t.me/library_lawyer",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "trudprava",
+      "name": "Все о трудовых правах",
+      "url": "https://t.me/trudprava",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "pravotech",
+      "name": "ПравоТех",
+      "url": "https://t.me/pravotech",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "privlaw_journal",
+      "name": "Журнал \"Цивилистика\"",
+      "url": "https://t.me/privlaw_journal",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "ilovedocs",
+      "name": "ilovedocs",
+      "url": "https://t.me/ilovedocs",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "sibtaxforum",
+      "name": "Сибирский Налоговый Форум",
+      "url": "https://t.me/SibTaxForum",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "m5lawfirm",
+      "name": "Закономика ©️",
+      "url": "https://t.me/m5lawfirm",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "dd_tax",
+      "name": "Налоги и Таможня",
+      "url": "https://t.me/DD_tax",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "pishemvsud",
+      "name": "Пишем в суд",
+      "url": "https://t.me/pishemvsud",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "futurelawschool",
+      "name": "Future Law School",
+      "url": "https://t.me/FutureLawSchool",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lch_legal",
+      "name": "LCH.LEGAL CHANNEL",
+      "url": "https://t.me/lch_legal",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "civilcourt",
+      "name": "Судебная практика СКГД ВС РФ",
+      "url": "https://t.me/civilcourt",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "buhgalteriall",
+      "name": "Бухгалтерский квартал",
+      "url": "https://t.me/buhgalteriaLL",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "uslegalnews",
+      "name": "USlegalnews (Игорь Слабых о юридических новостях США)",
+      "url": "https://t.me/uslegalnews",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "sudpraktik",
+      "name": "СУДЕБНАЯ ПРАКТИКА",
+      "url": "https://t.me/sudpraktik",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "webjustice_ru",
+      "name": "Интернет-правосудие | Вебджастис",
+      "url": "https://t.me/webjustice_ru",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "lawsanctions",
+      "name": "The Sanctions Law",
+      "url": "https://t.me/lawsanctions",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "supreme_civil",
+      "name": "Гражданская практика ВС РФ",
+      "url": "https://t.me/supreme_civil",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "hamburgscore",
+      "name": "Владислав Асадуллин | Гамбургские счёты",
+      "url": "https://t.me/hamburgscore",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "m_logos",
+      "name": "М-Логос",
+      "url": "https://t.me/m_logos",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "damagesanatomy",
+      "name": "💀 Анатомия убытков",
+      "url": "https://t.me/damagesanatomy",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "alexeynikiforov_legalmanagement",
+      "name": "Никифоров || Юридический менеджмент",
+      "url": "https://t.me/AlexeyNikiforov_Legalmanagement",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "proverkabuh",
+      "name": "Проверка объектов недвижимости с Олесей Бухтояровой",
+      "url": "https://t.me/proverkabuh",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "gooddocsdesign",
+      "name": "GoodDocs",
+      "url": "https://t.me/GoodDocsDesign",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "minjust_russia",
+      "name": "Минюст России 🇷🇺",
+      "url": "https://t.me/minjust_russia",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "novikovalaw",
+      "name": "Ольга Новикова | Документы юриста",
+      "url": "https://t.me/novikovalaw",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "journaldtl",
+      "name": "Journal of Digital Technologies and Law",
+      "url": "https://t.me/JournalDTL",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "defacto_tax",
+      "name": "DeFacto",
+      "url": "https://t.me/defacto_tax",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "constructionconf",
+      "name": "Константин Лушников |СТРОИТЕЛЬНОЕ ПРАВО",
+      "url": "https://t.me/constructionconf",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "pbd_nikradio",
+      "name": "Представитель без доверки",
+      "url": "https://t.me/pbd_nikradio",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "legalnews_events",
+      "name": "Legal Tech в кулуарах| Дарья Бондарчук",
+      "url": "https://t.me/legalnews_events",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "legalops_okur",
+      "name": "LegalOps ОКЮР — База знаний",
+      "url": "https://t.me/legalops_okur",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "legalprocesses",
+      "name": "Бизнес-процессы юристов | Юрий Донников",
+      "url": "https://t.me/LegalProcesses",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "svsarbash",
+      "name": "Сарбаш: Аналитика обязательств",
+      "url": "https://t.me/svsarbash",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "veta_academy",
+      "name": "Академия Veta",
+      "url": "https://t.me/veta_academy",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "amicus_curiae_brief",
+      "name": "AMICUS CURIAE brief",
+      "url": "https://t.me/amicus_curiae_brief",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    },
+    {
+      "id": "msklegalhackers",
+      "name": "MOSCOW LEGAL HACKERS",
+      "url": "https://t.me/msklegalhackers",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "notes": "Импортирован из папки «Lawyer»"
+    }
+  ],
+  "schema": {
+    "id": "строчный уникальный идентификатор",
+    "name": "отображаемое название",
+    "url": "ссылка на канал",
+    "type": "telegram | rss | web",
+    "priority": "high | medium | low",
+    "tags": [
+      "тематические теги"
+    ],
+    "active": "активен ли источник",
+    "signal_ratio": "число 0-1, заполняется автоматически после анализа",
+    "notes": "произвольные заметки"
+  }
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "id": 76890,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T08:36:36+00:00",
+    "text": "Банк России разработал [методические рекомендации по обеспечению информационной безопасности при разработке и применении искусственного интеллекта](https://www.cbr.ru/Crosscut/LawActs/File/12204).\n\nhttps://www.cbr.ru/Crosscut/LawActs/File/12204",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "finance",
+      "summary": "Банк России разработал методические рекомендации по информационной безопасности при использовании искусственного интеллекта",
+      "keywords": [
+        "искусственный интеллект",
+        "информационная безопасность",
+        "Банк России",
+        "методические рекомендации",
+        "кибербезопасность"
+      ]
+    }
+  },
+  {
+    "id": 76889,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T08:34:05+00:00",
+    "text": "Как же прекрасно, боже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 76888,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T08:33:57+00:00",
+    "text": "https://youtu.be/m7TJqx8CYG8?si=AzzwSIrEv6gDNPDU",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на видео без дополнительного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 76887,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T07:47:35+00:00",
+    "text": "не факт что еще раз сможет чего-то значимого добиться. \n\"синдромом достижения цели и плато успешности\"",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение синдрома достижения цели и плато успешности.",
+      "keywords": [
+        "синдром достижения",
+        "успех",
+        "плато",
+        "психология"
+      ]
+    }
+  },
+  {
+    "id": 76886,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T07:47:28+00:00",
+    "text": "1. Кидаем все что есть в Notebooklm\n2. Далее настраиваем NotebookLM как MCP https://github.com/teng-lin/notebooklm-py\n3. Подключаем к клоду cli\n4. Пишем возьми из блокнота.... И покажи в формате mermaid mind map\n5. Сохрани в pdf",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Инструкция по использованию NotebookLM для создания майнд-карты.",
+      "keywords": [
+        "NotebookLM",
+        "инструкция",
+        "майнд-карта",
+        "pdf"
+      ]
+    }
+  },
+  {
+    "id": 76884,
+    "channel_id": "docsllm",
+    "date": "2026-06-20T06:43:55+00:00",
+    "text": "Google DeepMind покинул лауреат Нобелевской премии Джон Джампер — он перейдёт в Anthropic https://share.google/GIuksKhsEbfF5YU49",
+    "views": 142,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Лауреат Нобелевской премии Джон Джампер покинул Google DeepMind и присоединился к компании Anthropic.",
+      "keywords": [
+        "Джон Джампер",
+        "Google DeepMind",
+        "Anthropic",
+        "Нобелевская премия",
+        "искусственный интеллект"
+      ]
+    }
+  }
+]

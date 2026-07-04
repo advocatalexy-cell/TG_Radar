@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9832,
+    "channel_id": "uslegalnews",
+    "date": "2026-07-02T13:20:34+00:00",
+    "text": "К вчерашнему [посту](https://t.me/uslegalnews/9830). Классное объяснение John Oliver, как работает shadow docket в Верховном суде. \n\nhttps://youtu.be/qKeq4CEZtm8?is=qRMXjKTu19lXs0Zd",
+    "views": 1271,
+    "forwards": 11,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение видео о shadow docket в Верховном суде.",
+      "keywords": [
+        "shadow docket",
+        "Верховный суд",
+        "John Oliver",
+        "анализ",
+        "объяснение"
+      ]
+    }
+  }
+]

@@ -1,0 +1,423 @@
+[
+  {
+    "id": 20000,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T14:00:51+00:00",
+    "text": "Да, сайт уже есть, тестируем его и одновременно дорабатываем концепцию",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.6,
+      "category": "business",
+      "summary": "Тестирование сайта и доработка концепции",
+      "keywords": [
+        "сайт",
+        "тестирование",
+        "концепция"
+      ]
+    }
+  },
+  {
+    "id": 19997,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T13:45:20+00:00",
+    "text": "Шикарно!!! Благодарю)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выразил благодарность",
+      "keywords": [
+        "благодарность",
+        "поздравление",
+        "отзыв"
+      ]
+    }
+  },
+  {
+    "id": 19995,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T13:42:17+00:00",
+    "text": "Добрый день!\n\nВсе записи митапов размещены у нас в канале на ВК и Ютуб\n\nВот ссылка на митап по вайбкодингу \n\nhttps://vkvideo.ru/video-228141184_456239115?t=47m20s&t=47m21s",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Ссылка на видеозапись митапа по вайбкодингу",
+      "keywords": [
+        "митап",
+        "вайбкодинг",
+        "видео"
+      ]
+    }
+  },
+  {
+    "id": 19994,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T13:15:41+00:00",
+    "text": "Добрый день! Вчера впервые была на митапе, безумно интересно 🔥🔥\n\nПодскажите, пожалуйста, а есть возможность посмотреть запись по вайбкодингу? Она еще в доступе?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь интересуется записью митапа о вайбкодинге",
+      "keywords": [
+        "митап",
+        "вайбкодинг",
+        "запись"
+      ]
+    }
+  },
+  {
+    "id": 19993,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:20:34+00:00",
+    "text": "блин, в пункте 4 я имела в виду возможность разместить ВАКАНСИЮ!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение возможности разместить вакансию",
+      "keywords": [
+        "вакансия",
+        "работа",
+        "зployment"
+      ]
+    }
+  },
+  {
+    "id": 19990,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:18:50+00:00",
+    "text": "Это то, о чем в личку писала)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без содержания",
+      "keywords": [
+        "личное",
+        "сообщение",
+        "незначимое"
+      ]
+    }
+  },
+  {
+    "id": 19988,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:17:20+00:00",
+    "text": "Концепция создания сайта (платформы), где каждый лигалтех специалист может разместить свое \"резюме\" - единое пространство для специалистов узкой сферы, чтобы работодатели знали, где искать. Зашел, изучил, отобрал подходящих)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Создание платформы для легальных специалистов",
+      "keywords": [
+        "легалтех",
+        "резюме",
+        "работодатели",
+        "платформа"
+      ]
+    }
+  },
+  {
+    "id": 19987,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:15:06+00:00",
+    "text": "а расскажи поподробнее, что за сайт?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации о сайте",
+      "keywords": [
+        "сайт",
+        "информация",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 19986,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:14:56+00:00",
+    "text": "Кстати я несколько раз консультировала, то есть запрос есть, но многие не знают, к кому обращаться. Так что это тоже хороший вопрос",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение спроса на консультации",
+      "keywords": [
+        "консультации",
+        "спрос",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 19985,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:14:44+00:00",
+    "text": "Мы тут уже планировали давненько делать своей группой сайт, где каждый в сфере может добавить свою карточку\n\nПоэтому заходи к нам если что, обсудим, поможем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Приглашение в группу обсудить создание сайта",
+      "keywords": [
+        "группа",
+        "сайт",
+        "карточка",
+        "сфера"
+      ]
+    }
+  },
+  {
+    "id": 19984,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:13:55+00:00",
+    "text": "Насчет сайта - тоже могу помочь, по крайней мере с тестированием, продвижением",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Предложение помощи с тестированием и продвижением сайта",
+      "keywords": [
+        "сайт",
+        "тестирование",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 19983,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:13:20+00:00",
+    "text": "Давай сделаем опрос, можно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос без содержания",
+      "keywords": [
+        "опрос",
+        "анкетирование",
+        "вопросы"
+      ]
+    }
+  },
+  {
+    "id": 19982,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:10:08+00:00",
+    "text": "Хотя я думаю, что в нашей области карьерных консультантов ещё пока нет и не понятно, когда будут))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личные размышления о карьерных консультантах",
+      "keywords": [
+        "карьера",
+        "консультанты",
+        "отсутствие"
+      ]
+    }
+  },
+  {
+    "id": 19981,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:09:08+00:00",
+    "text": "Сделаю тогда опрос, если админ не против? Хочу понять, кому что было бы интереснее - просто смотреть на вакансии, смотреть и размещать резюме, активно искать работу с помощью сайта или даже искать карьерного консультанта",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос без содержания",
+      "keywords": [
+        "опрос",
+        "отзывы",
+        "вакансии"
+      ]
+    }
+  },
+  {
+    "id": 19980,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:06:54+00:00",
+    "text": "Я думаю я сделаю сайтик для всех желающих и помогу с продвижением вышкинцев чем смогу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Создание сайта для продвижения вышкинцев",
+      "keywords": [
+        "сайт",
+        "продвижение",
+        "вышкинцы"
+      ]
+    }
+  },
+  {
+    "id": 19979,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:06:26+00:00",
+    "text": "Сегодня как раз обсудили уже с коллегой из Вышки, думаю поговорим с Женей на следующей неделе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Внутреннее обсуждение с коллегами",
+      "keywords": [
+        "Внутреннее обсуждение",
+        "Коллеги",
+        "Планы"
+      ]
+    }
+  },
+  {
+    "id": 19978,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T12:06:03+00:00",
+    "text": "Еще было бы здорово сделать канал/сайт с резюме тех, кто ищет работу/проекты в лигал тех. Мы о таком говорили про выпускников магистратуры лигал тех, да, @EvgenyZhurba?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Идея создания канала для поиска работы в сфере лигал тех",
+      "keywords": [
+        "лигал тех",
+        " работа",
+        "проекты"
+      ]
+    }
+  },
+  {
+    "id": 19970,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T07:54:01+00:00",
+    "text": "Круто \nХорошая идея",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит положительную оценку, но не представляет собой значимый сигнал",
+      "keywords": [
+        "хорошо",
+        "идея",
+        "круто"
+      ]
+    }
+  },
+  {
+    "id": 19968,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T07:24:26+00:00",
+    "text": "Спасибо огромное! Так победим! :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравительная фраза",
+      "keywords": [
+        "поздравление",
+        "спасибо"
+      ]
+    }
+  },
+  {
+    "id": 19967,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T07:24:13+00:00",
+    "text": "Софья, привет! Отправлю в чаты тех, кто учился в магистратуре legal tech",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление или приветствие",
+      "keywords": [
+        "Софья",
+        "привет",
+        "магистратура"
+      ]
+    }
+  },
+  {
+    "id": 19966,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-19T07:21:03+00:00",
+    "text": "Коллеги, привет!\n\nУ меня родилась идея - сделать канал с вакансиями только legal tech / Legal Ops. Аналогов не видела. Надеюсь, вам понравится!\n\nРазместила уже две топовые вакансии. Размещение бесплатное, это все для энтузиастов и от энтузиастки)) \n\nПодскажите, куда ещё здорово было бы пошерить, если кто готов дать совет 🙏\n\nhttps://t.me/legaltech_styk",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор телеграм-канала делится идеей создания канала с вакансиями для legal tech/Legal Ops",
+      "keywords": [
+        "legal tech",
+        "вакансии",
+        "телеграм-канал"
+      ]
+    }
+  }
+]

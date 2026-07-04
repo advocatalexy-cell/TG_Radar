@@ -1,0 +1,67 @@
+[
+  {
+    "id": 201,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-06-29T14:51:15+00:00",
+    "text": "**Новое видео на канале**\n\nПоказываю с нуля, как оплатить Claude Code из России за 10 минут\n\nБез лишней воды, весь процесс по шагам\n\n[https://youtu.be/tPXsWyqRv7Q](https://youtu.be/tPXsWyqRv7Q)\n\nИнструкцию по обходу блокировок добавлю в ближайшее время",
+    "views": 448,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Инструкция по оплате Claude Code из России.",
+      "keywords": [
+        "оплата",
+        "Claude Code",
+        "инструкция",
+        "обход блокировок"
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-06-29T13:00:58+00:00",
+    "text": "**Нашёл сервис, который каждый день проверяет, не стали ли Codex и Claude Code глупее **🔬\n\nНазывается Marginlab\n\nБерут реальные CLI, не свою обвязку, запускают 50 задач из SWE Bench Pro и считают, стал ли результат хуже\n\nCodex тестируют с GPT 5.5 xhigh, Claude Code с Opus 4.8\n\nОтдельно смотрят, статистически значимое падение или обычный шум\n\nСейчас по Codex статус Nominal ✅ за неделю минус 2,4 процентных пункта, укладывается в шум\n\nПо Claude Code вывод делать рано, после перехода на Opus 4.8 заново собирают базу ⏳\n\nДве оговорки\n\nСервис проверяет только код на SWE задачах, он не покажет, стала ли модель хуже писать тексты или рассуждать\n\nТрекер измеряет связку целиком: модель плюс CLI плюс системный промпт, если упало, не факт что ухудшили именно веса\n\nДля ежедневной проверки «мой инструмент не сломался?» хватает\n\nЗамечали что модель стала отвечать хуже, или это ощущение? 🤔\n\n👉 Codex: https://marginlab.ai/trackers/codex/\n\n👉 Claude Code: https://marginlab.ai/trackers/claude-code/",
+    "views": 444,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Сервис Marginlab проверяет производительность Codex и Claude Code по задачам SWE Bench Pro.",
+      "keywords": [
+        "Codex",
+        "Claude Code",
+        "Marginlab",
+        "SWE Bench Pro",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-06-29T09:24:11+00:00",
+    "text": "**$200 в месяц за Claude Max, а лимит кончается за две недели ****💸**\n\n[**Карл Кан подал в федеральный суд на Anthropic**](https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers) от имени всех, кто платит за топовые тарифы\n\nНа сайте написано: Max 5x даёт в пять раз больше, Max 20x в двадцать раз\n\nПо факту одна пятичасовая сессия съедает 15% недельного запаса 😐\n\nМы это уже видели\n\nМобильный оператор продаёт «безлимитный интернет», вы радостно качаете видосы, а на третий день скорость до уровня телеграфа 📡\n\nИИ индустрия зачем-то решила прожить этот урок заново\n\nНам продают интеллект как воду из крана, но кран чужой, счётчик чужой, и считают так, что проверить нельзя\n\nБезлимит конечен, бесконечна только вера что в этот раз будет иначе 🙂\n\nВы на каком тарифе? Упирались уже в потолок?\n\n👉 Подробности иска: https://futurism.com/artificial-intelligence/anthropic-sued-ripping-off-customers",
+    "views": 508,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Карл Кан подал иск против Anthropic из-за нестандартной практики ограничения тарифов на Claude Max.",
+      "keywords": [
+        "исковое заявление",
+        "Anthropic",
+        "тарифы",
+        "Claude Max",
+        "искусственный интеллект"
+      ]
+    }
+  }
+]

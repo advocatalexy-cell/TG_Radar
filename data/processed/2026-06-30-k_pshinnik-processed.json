@@ -1,0 +1,22 @@
+[
+  {
+    "id": 145,
+    "channel_id": "k_pshinnik",
+    "date": "2026-06-30T09:22:57+00:00",
+    "text": "ураа, выпускной нашего потока курса по Claude code 🥳",
+    "views": 694,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление с выпускным курса.",
+      "keywords": [
+        "выпускной",
+        "курс",
+        "Claude code"
+      ]
+    }
+  }
+]

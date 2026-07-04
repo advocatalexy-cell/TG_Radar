@@ -1,0 +1,46 @@
+[
+  {
+    "id": 4781,
+    "channel_id": "tips_ai",
+    "date": "2026-06-30T18:20:40+00:00",
+    "text": "Anthropic [выпустили](https://www.anthropic.com/news/claude-sonnet-5) Sonnet 5\n\nОна будет по умолчанию для бесплатных и Pro тарифах за $20.\n\nНо интересно то, что вместе с моделью выкатили [Claude Science](https://claude.com/product/claude-science), как [Cowork](https://t.me/tips_ai/4536), но для учёных.\n\nВнутри 60+ научных баз (геномика, протеомика, химинформатика и тд) и отдельный агент-ревьюер, который проверяет цитаты и расчёты.\n\nАнализирует литературу, гоняет вычисления и собирает фигуры с манускриптами. \n\nКаждый результат воспроизводим: к нему прикладывается код и среда, в которой он получен. Так же тяжёлые вычисления гоняются на твоей же инфраструктуре, так что данные никуда не утекают.\n\nДоступно в бете на macOS и Linux для Pro и Max. (винды нету)\n\n[Блог](https://www.anthropic.com/news/claude-science-ai-workbench) / Скачать [Claude Science](https://claude.com/product/claude-science)\n\n@tips_ai #news",
+    "views": 1020,
+    "forwards": 49,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Anthropic представила новую модель Sonnet 5 и инструмент Claude Science для научных исследований, обеспечивающий воспроизводимость результатов.",
+      "keywords": [
+        "Anthropic",
+        "Sonnet 5",
+        "Claude Science",
+        "наука",
+        "искусственный интеллект"
+      ]
+    }
+  },
+  {
+    "id": 4780,
+    "channel_id": "tips_ai",
+    "date": "2026-06-30T16:39:25+00:00",
+    "text": "Я видел много где запускали Claude Code, но чтоб на [планшете](https://www.reddit.com/r/RemarkableTablet/comments/1twuldh/ssh_terminal_on_remarkable_paper_pro_yay_or_nay/) с электронными чернилами..\n\nE-ink обычно хейтят за медлительность, но для терминала где за раз рендерится по слову это не проблема, да и глаза не устают после 5 часов сессии 👍\n\nПланшет reMarkable Paper Pro\n\n@tips_ai",
+    "views": 1740,
+    "forwards": 48,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждение использования Claude Code на планшете с электронными чернилами reMarkable Paper Pro.",
+      "keywords": [
+        "Claude Code",
+        "планшет",
+        "электронные чернила",
+        "reMarkable",
+        "терминал"
+      ]
+    }
+  }
+]

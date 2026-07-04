@@ -1,0 +1,505 @@
+[
+  {
+    "id": 20314,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T11:29:23+00:00",
+    "text": "Роман, поздравляю с выходом книги! Ждем :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление с выходом книги.",
+      "keywords": [
+        "книга",
+        "поздравление",
+        "выход"
+      ]
+    }
+  },
+  {
+    "id": 20311,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T10:27:39+00:00",
+    "text": "Предзаказ сделан. \nВ ожидании и предвкушении прочтения)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сделал предзаказ и ожидает книгу.",
+      "keywords": [
+        "предзаказ",
+        "книга",
+        "ожидание"
+      ]
+    }
+  },
+  {
+    "id": 20306,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:15:22+00:00",
+    "text": "Да, на самом деле книга не только и не столько про ИИ, скорее про профессию в целом. Но издательство сказало, что так лучше продается, если написать ии в названии)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение названия книги о профессии с акцентом на ИИ.",
+      "keywords": [
+        "книга",
+        "профессия",
+        "ИИС",
+        "издательство",
+        "продажи"
+      ]
+    }
+  },
+  {
+    "id": 20305,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:14:01+00:00",
+    "text": "Как раз то, что нужно сейчас профессии, — концептуализация🔥",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "концептуализация",
+        "профессия",
+        "нужны"
+      ]
+    }
+  },
+  {
+    "id": 20304,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:12:53+00:00",
+    "text": "Смотрю оглавление… такой широкий комплексный подход… интересно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неопределенные впечатления без конкретики.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20303,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:11:12+00:00",
+    "text": "Там и про нашу магистратуру, кстати, есть :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит информацию о магистратуре.",
+      "keywords": [
+        "магистратура",
+        "образование",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 20301,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:10:33+00:00",
+    "text": "Роман, прямо мысли прочитал … спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20300,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:05:16+00:00",
+    "text": "Издательство выложило в открытый доступ оглавление и часть введения — вот.",
+    "views": 1770,
+    "forwards": 34,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Издательство опубликовало оглавление и вводную часть книги.",
+      "keywords": [
+        "издательство",
+        "оглавление",
+        "введение",
+        "книга"
+      ]
+    }
+  },
+  {
+    "id": 20299,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:05:15+00:00",
+    "text": "А вот кусочек, чтобы понять, о чем книга.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Отсутствует содержание для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20298,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T08:04:22+00:00",
+    "text": "Простите, если уже видели этот пост. \n\nЯ написал книгу про юридическую профессию и искусственный интеллект: \"Составила машина, подпишет человек\".\n\nЯ писал ее весь последний год. Накопились мысли по многим вопросам: о профессии, рынке юридических услуг, юридическом образовании, преподавании права и, естественно, об ИИ. Постарался изложить на бумаге все, что понял о нашей профессии и роли юриста. Думаю, она будет интересна и тем, кто практикует право, и тем, кто только учится.\n\nСквозь текст постарался провести мысль, ~~как мы дошли до жизни такой~~ \"что стало с профессией, которую мы когда-то полюбили?\" И постарался дать на него конструктивный ответ: как в 2026 году российскому юристу сохранять энергию, оставаться востребованным и не разочароваться в профессии. В общем, как сделать юриспруденцию снова благодарной (и благодатной).\n\n[Ссылка на предзаказ](https://www.chitai-gorod.ru/product/sostavila-masina-podpiset-celovek-kak-ii-menaet-uridiceskuu-professiu-obrazovanie-i-kar-eru-3168155). Обещают в июле напечатать. Естественно, появится и на маркетплейсах. Электронная версия — будет.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор анонсировал свою книгу о юридической профессии и искусственном интеллекте.",
+      "keywords": [
+        "книга",
+        "юриспруденция",
+        "искусственный интеллект",
+        "юридическая профессия",
+        "россия"
+      ]
+    }
+  },
+  {
+    "id": 20295,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T07:27:38+00:00",
+    "text": "Добавьте канал в [базу знаний legaltech.](https://legaltechbase.botman.one/)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит инструкцию по добавлению канала в базу знаний.",
+      "keywords": [
+        "канал",
+        "база знаний",
+        "legaltech"
+      ]
+    }
+  },
+  {
+    "id": 20293,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T07:22:11+00:00",
+    "text": "Коллеги, мы сделали канал где освещаем ИИ-инструменты для юристов, LegalTech. Уже вышло несколько обзоров, будем рады вашим предложениям и подписке!)\n\nhttps://t.me/legal_technik",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама нового канала о LegalTech.",
+      "keywords": [
+        "LegalTech",
+        "канал",
+        "ИИ-инструменты",
+        "юристы",
+        "обзоры"
+      ]
+    }
+  },
+  {
+    "id": 20292,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T07:01:11+00:00",
+    "text": "Хотя мой агент мне написал после анализа, что агент в этом не лучший помощник)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Личное мнение о неэффективности агента.",
+      "keywords": [
+        "агент",
+        "анализ",
+        "неэффективность"
+      ]
+    }
+  },
+  {
+    "id": 20291,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:54:34+00:00",
+    "text": "Я сначала тоже)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20290,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:53:40+00:00",
+    "text": "Я так и подумал)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20289,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:53:33+00:00",
+    "text": "Вполне возможно, мне тоже не нравится как он работает последнее время",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Негативные впечатления от работы.",
+      "keywords": [
+        "негатив",
+        "работа",
+        "впечатления"
+      ]
+    }
+  },
+  {
+    "id": 20288,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:52:30+00:00",
+    "text": "Сергей, пора агента подключать в чат) Мне кажется, что он будет эффективнее работать, чем бот)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение подключения агента в чат.",
+      "keywords": [
+        "агент",
+        "чат",
+        "бот"
+      ]
+    }
+  },
+  {
+    "id": 20287,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:51:48+00:00",
+    "text": "Сегодня буду сражаться с настройками бота, предупреждение сниму) сорри\nЧето он дурит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о настройках бота без значимых новостей.",
+      "keywords": [
+        "бот",
+        "настройки",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 20286,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:51:15+00:00",
+    "text": "Торгово-развлекательные центры, конечно)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20285,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:50:59+00:00",
+    "text": "Мне предупреждение, а товарищу сверху ничего)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без информационной ценности.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20282,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:50:17+00:00",
+    "text": "спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20281,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:50:11+00:00",
+    "text": "Крипта, ЮСДТ трс20",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит незначимую информацию о криптовалюте.",
+      "keywords": [
+        "криптовалюта",
+        "ЮСДТ",
+        "TRC20"
+      ]
+    }
+  },
+  {
+    "id": 20280,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:50:03+00:00",
+    "text": "может уже пора купить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенный вопрос о покупке.",
+      "keywords": [
+        "покупка",
+        "инвестиции",
+        "рынок"
+      ]
+    }
+  },
+  {
+    "id": 20279,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:49:51+00:00",
+    "text": "А кто-то может объяснить что такое трц, что его так массово продают?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит вопрос о торговых центрах и их продаже.",
+      "keywords": [
+        "трц",
+        "торговые центры",
+        "продажа"
+      ]
+    }
+  },
+  {
+    "id": 20278,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:49:37+00:00",
+    "text": "Еще один)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Отсутствие содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20272,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:32:46+00:00",
+    "text": "Да, не успеешь удалить 🙈.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20271,
+    "channel_id": "msklegalhackers",
+    "date": "2026-06-30T06:32:09+00:00",
+    "text": "Развелось вас во всех чатах",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативный пост без содержания.",
+      "keywords": []
+    }
+  }
+]

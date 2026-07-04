@@ -1,0 +1,24 @@
+[
+  {
+    "id": 156,
+    "channel_id": "legalmindai",
+    "date": "2026-07-02T09:08:08+00:00",
+    "text": "🔥 Уже скоро. Сегодня в 13.00 (мск). Наш онлайн-митап по Claude. Запрыгнуть в последний вагон можно через бота по ссылке [**здесь**](https://t.me/neuro_legal_bot?start=signup_web_0207&erid=123646)",
+    "views": 1051,
+    "forwards": 14,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс онлайн-митапа по Claude.",
+      "keywords": [
+        "митап",
+        "Claude",
+        "онлайн",
+        "анонс",
+        "вебинар"
+      ]
+    }
+  }
+]

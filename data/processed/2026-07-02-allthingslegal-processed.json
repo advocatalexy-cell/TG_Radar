@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1436,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-02T05:58:39+00:00",
+    "text": "Legaltech Hub обновил свою [карту LegalTech-решений на основе генИИ](https://www.legaltechnologyhub.com/contents/lth-genai-legal-tech-map-june-2026/). Теперь на карте почти 1196 решений в 19 категориях. \n\n#reference",
+    "views": 212,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Legaltech Hub обновил карту LegalTech-решений, добавив почти 1196 решений.",
+      "keywords": [
+        "LegalTech",
+        "генИИ",
+        "карта",
+        "решения",
+        "обновление"
+      ]
+    }
+  }
+]

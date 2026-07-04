@@ -1,0 +1,870 @@
+[
+  {
+    "id": 78251,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T14:33:24+00:00",
+    "text": "**Сбер открыл исходный код GFusion — экспериментальной языковой модели на базе GigaChat**\n\nКоманда GigaChat [представила](https://habr.com/ru/companies/sberbank/articles/1054690/) GFusion — диффузионную LLM, которая генерирует текст сразу блоками, редактируя их в процессе, а не выводит токены по одному. Проект полностью сделал стажёр команды GigaChat Pretrain: от идеи и обучения модели до поддержки инференса и публикации в open source.\n\nПо результатам [GFusion](https://gitverse.ru/GigaTeam/gfusion) оказалась до 70% быстрее GigaChat3-10B-A1.8B и на 39% быстрее версии с MTP. Просадка качества при этом составила всего 2–4 п.п. Открыты код модели, обучение, оптимизированные attention-ядра и поддержка в SGLang.\n\nМодель и код доступны : [GFusion-10B-A1.8B-base](https://huggingface.co/ai-sage/GFusion-10B-A1.8B-base)  [GFusion-10B-A1.8B](https://huggingface.co/ai-sage/GFusion-10B-A1.8B) \n\n[Мой Компьюте](https://t.me/mknewsru)р | [MK в MAX](https://max.ru/mknews)",
+    "views": 10388,
+    "forwards": 49,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "Сбер открыл исходный код экспериментальной языковой модели GFusion, которая быстрее предыдущих версий.",
+      "keywords": [
+        "Сбер",
+        "GFusion",
+        "языковая модель",
+        "исходный код",
+        "GigaChat"
+      ]
+    }
+  },
+  {
+    "id": 78249,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:56:01+00:00",
+    "text": "были там, но может не все смотрели",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78248,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:50:52+00:00",
+    "text": "Вишь плюсег?))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78247,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:50:51+00:00",
+    "text": "Вот здесь можно посмотреть\nhttps://playerok.com/claude/clean-accounts",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на сайт без дополнительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78246,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:50:10+00:00",
+    "text": "Там даже на 24 особо не разгонишься, под контекст останется совсем немного.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "разгон",
+        "контекст",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 78245,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:49:32+00:00",
+    "text": "да вот в самых популярных местах типа платимаркета самих аккаунтов  как будто бы нема, хотя объявления есть, но они отменяют заказы 🤷",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "В популярных местах, таких как платимаркет, нет активных аккаунтов, несмотря на наличие объявлений.",
+      "keywords": [
+        "платимаркет",
+        "аккаунты",
+        "заказы",
+        "отмена"
+      ]
+    }
+  },
+  {
+    "id": 78244,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:47:56+00:00",
+    "text": "Для счастливых обладателей 24+ Гб ОЗУ: \n\nНвидиа выпустила nvfp4 версию Qwen 3.6 27B. По тестам она лучше Q8 кванта от Unsloth\n\nhttps://fixupx.com/miaai_lab/status/2072294749482983501?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Нвидиа выпустила новую версию Qwen 3.6 с улучшенными характеристиками по сравнению с Q8 кванта.",
+      "keywords": [
+        "Нвидиа",
+        "Qwen 3.6",
+        "тесты",
+        "ОЗУ",
+        "производительность"
+      ]
+    }
+  },
+  {
+    "id": 78243,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:47:46+00:00",
+    "text": "А что считается проверенным местом? Продают их много где, но нигде нет гарантии от блока",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение надежности продажи мест для чего-то.",
+      "keywords": [
+        "проверенные места",
+        "гарантия",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 78242,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:37:59+00:00",
+    "text": "Коллеги, я прочитал почти 3 тысячи сообщений за месяц, очень много переслал себе в избранное! \n\nВсем большой респект 💗🌹",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78241,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T13:33:39+00:00",
+    "text": "коллеги, а кто знаете проверенные места где можно купить готовый акк на Клод, если свой забанили 🙏",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение покупки аккаунтов на Клод.",
+      "keywords": [
+        "аккаунт",
+        "Клод",
+        "покупка",
+        "забанили"
+      ]
+    }
+  },
+  {
+    "id": 78238,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T10:53:17+00:00",
+    "text": "Это пост Диего https://x.com/diegocabezas01/status/2072436501263339841?s=46",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78237,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T10:00:29+00:00",
+    "text": "Когда сам себя забанишь в будущем\nЛюбопытное из PQ-лога: кто-то с МегаФон-Краснодара 188.170.195.19 ходит через PQ на a-api.anthropic.com — Claude API. Возможно ты сам, возможно кто-то из юзеров тоже пользуется Claude.)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Пользователь с IP-адресом из МегаФон-Краснодара обращается к Claude API, что может указывать на использование ИИ-технологий.",
+      "keywords": [
+        "МегаФон",
+        "Claude API",
+        "технологии",
+        "PQ-лог",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 78236,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:52:21+00:00",
+    "text": "Кайф. Коллеги, спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение с благодарностью, не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78235,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:46:16+00:00",
+    "text": "Они уже среди нас :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное утверждение без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78234,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:45:46+00:00",
+    "text": "Только в этом случае Hermes будет как обычный юзер. Никаких признаков бота или автоматизации - Telethon (через который он сидит в телеге) имитирует обычное мобильное приложение Telegram. Разница только в том, что этот «пользователь» читает посты круглосуточно :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Описание работы бота Hermes в Telegram.",
+      "keywords": [
+        "Hermes",
+        "Telegram",
+        "бот",
+        "автоматизация"
+      ]
+    }
+  },
+  {
+    "id": 78233,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:39:22+00:00",
+    "text": "Или так, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78232,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:39:04+00:00",
+    "text": "Telegram (канал):\n\nОткройте канал → Управление каналом → Администраторы.\nДобавить администратора.\nНайдите бота по его @username (тот, что заканчивается на bot — его вы задавали в @BotFather).\nВыдайте нужные права (публикация сообщений, редактирование, удаление и т. д.) и сохраните.\n\nБез права «Публикация сообщений» бот не сможет ничего постить в канал.\nЕсли это группа, а не канал — бота можно добавить как обычного участника через «Добавить участников», а потом при необходимости повысить до админа.\nЕсли же вы имели в виду другую платформу:\n\nDiscord — бота добавляют не в канал, а на сервер: через OAuth2-ссылку приглашения (scope bot + нужные права), доступ к конкретным каналам потом настраивается ролями.\nSlack — сначала установить приложение в workspace, затем в нужном канале написать /invite @имя_бота.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Инструкция по добавлению бота в Telegram и других платформах.",
+      "keywords": [
+        "бот",
+        "Telegram",
+        "инструкция",
+        "администратор",
+        "добавление"
+      ]
+    }
+  },
+  {
+    "id": 78231,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:39:02+00:00",
+    "text": "Если уже есть Hermes, то достаточно его попросить об этом. Он сам настроит окружение  (TDlib, MTproto и т.п), запросит смски и зарегается как юзер. \nНужна активная симка или готовый акк в телеге",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Техническое руководство по настройке окружения для использования Telegram через Hermes.",
+      "keywords": [
+        "Hermes",
+        "Telegram",
+        "настройка",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 78229,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:04:17+00:00",
+    "text": "А как вы бота в каналы добавили?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о добавлении бота в каналы.",
+      "keywords": [
+        "бот",
+        "каналы",
+        "добавление"
+      ]
+    }
+  },
+  {
+    "id": 78228,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T09:03:43+00:00",
+    "text": "Можно и на High, в принципе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неинформативный комментарий.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78227,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:53:10+00:00",
+    "text": "Или гермес  не оттуда брал инфу?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное утверждение о источнике информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78226,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:52:45+00:00",
+    "text": "В статье Teo писал, что выше high нет смысла ставить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Утверждение о ставках выше high.",
+      "keywords": [
+        "ставки",
+        "high",
+        "Teo"
+      ]
+    }
+  },
+  {
+    "id": 78225,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:49:08+00:00",
+    "text": "#полезное \n\nЯ завел один тг аккаунт под ИИ специально и туда добавил Гермес. Настроил ему свои интересы и дал каналов 30 по ии тематике. Он каждое утро присылает мне дайджест из описания новостей и уже прямых ссылок на репозитарии или сервисы в соответствии с моими интересами (обработка фото, безопасность, уменьшение траты токенов и т.д.) т.е. я даже не знаю с каких каналов он берет - он выдает мне кратко выжимку и сразу ссылку на сервис.\n\nвот пример новости: \n\nВыгодный флоу для Fable:\n\nFable 5 можно использовать не как “модель, которая делает всё подряд”, а как техлида-оркестратора: он планирует, разбивает задачу и собирает финальное решение, а рутину отдаёт более дешёвым агентам. В Claude Code ставим /model fable, затем /effort max, после этого через /agents создаём двух сабагентов. Первый — deep-reasoner на Opus, для архитектуры, сложного дебага, алгоритмов и спорных решений. Второй — fast-worker на Sonnet, для тестов, форматирования, простых правок и бойлерплейта.\n\nДальше в CLAUDE.md проекта можно добавить правило: Fable — главный, он не должен сам тащить всю работу; reasoning-heavy задачи отправляются в deep-reasoner, механика — в fast-worker, а для второго независимого мнения подключается Codex. Для этого в Claude Code ставится официальный OpenAI Codex plugin: сначала /plugin marketplace add openai/codex-plugin-cc, потом /plugin install codex@openai-codex, затем /reload-plugins и /codex:setup. После этого Claude сможет дергать Codex прямо из сессии: например /codex:rescue --background проверь этот план и предложи альтернативу или /codex:review --background.\n\nПользоваться можно таким промптом: “Goal: вот задача. Context: вот ограничения и файлы. Ты техлид. Сначала дай план, сложные части отдай deep-reasoner, механику fast-worker, а рискованные решения проверь через Codex как независимого senior-инженера. Потом синтезируй лучший вариант и выполняй”. Смысл в том, чтобы Fable 5 не сжигался на простые правки, а работал там, где он реально нужен: стратегия, декомпозиция, архитектура и финальное решение.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Fable 5 может быть использован как техлид-оркестратор для эффективного выполнения задач с распределением ролей между агентами.",
+      "keywords": [
+        "Fable 5",
+        "техлид",
+        "агенты",
+        "Claude Code",
+        "искусственный интеллект"
+      ]
+    }
+  },
+  {
+    "id": 78224,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:30:43+00:00",
+    "text": "Был у нас веб с экспертом, @mtevs организовывал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о вебинаре с экспертом.",
+      "keywords": [
+        "вебинар",
+        "эксперт",
+        "организация"
+      ]
+    }
+  },
+  {
+    "id": 78223,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:29:12+00:00",
+    "text": "Я бы кстати познакомился бы с каким-нибудь судебным экспертом на эту тему, чтобы совсем статью приземлить на российские реалии.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь выражает желание познакомиться с судебным экспертом.",
+      "keywords": [
+        "судебный эксперт",
+        "связь",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 78222,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:09:38+00:00",
+    "text": "Спасибо ☺️ \nУже в работе использую эти знания, когда агентства мне рассказывают, что вы не сможете доказать, что мы генерили картинки.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о личном опыте, связанном с генерацией картинок.",
+      "keywords": [
+        "генерация",
+        "картинки",
+        "опыт",
+        "агентства"
+      ]
+    }
+  },
+  {
+    "id": 78221,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:05:46+00:00",
+    "text": "В умелых руках же, согласен!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78220,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:05:28+00:00",
+    "text": "Это я понимаю, не дурачок)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78219,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:05:06+00:00",
+    "text": "Это нейроверстка, спасибо.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост относится к нейроверстке, не содержит значимого содержания.",
+      "keywords": [
+        "нейроверстка",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 78218,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T08:04:48+00:00",
+    "text": "Степан, Дуся, вы красавцы, вёрстка огонь!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о комплиментах к работе.",
+      "keywords": [
+        "вёрстка",
+        "комплименты",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 78215,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T07:56:27+00:00",
+    "text": "**Как распознать ИИ-контент**\n\nНейросети могут сгенерировать фото/видео за несколько секунд, а отличить результат от работы человека всё сложнее. Но как узнать, кем был создан цифровой объект? \n\nУчастники нашего сообщества Степан Леонтьев @law_exe и Евдокия Шматина @evdokia_arch подготовили большой материал о маркировке ИИ-изображений. \n\nЕвдокия разбирает, как к этому подходят разные юрисдикции, а Степан рассказывает техническую сторону того, как работают «паспорта контента» и невидимые метки.\n\nЭто одна из первых в России подробных статей про цифровой след на креативах. Очень рады, что такой материал появился внутри нашего сообщества.\n\nСпасибо авторам за этот вклад!",
+    "views": 627,
+    "forwards": 28,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "В России опубликована подробная статья о маркировке ИИ-изображений и их цифровом следе.",
+      "keywords": [
+        "ИИ",
+        "маркировка",
+        "изображения",
+        "цифровой след",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 78214,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T07:37:27+00:00",
+    "text": "@kirill_trubitsyn1975",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78213,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T07:35:46+00:00",
+    "text": "https://www.casus.legal/ не грузится ссылка",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка не доступна.",
+      "keywords": [
+        "ссылка",
+        "не доступна",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 78211,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:53:07+00:00",
+    "text": "Вот за что отстающему спасибо, так это за сохранение хоть каких бесплатных квот по API.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост благодарит за сохранение бесплатных квот по API.",
+      "keywords": [
+        "бесплатные квоты",
+        "API",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 78210,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:51:27+00:00",
+    "text": "А что ещё остаётся отстающему Гуглу? Прикручивать преферанс и куртизанок 🙂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост с незначительным юмором о Гугле.",
+      "keywords": [
+        "Гугл",
+        "юмор",
+        "преферанс",
+        "куртизанки"
+      ]
+    }
+  },
+  {
+    "id": 78209,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:49:26+00:00",
+    "text": "Объявляется неделя новой фичи, количество нейрослопа вырастет вдвое.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о новой фиче и увеличении нейрослопа.",
+      "keywords": [
+        "неделя",
+        "новая фича",
+        "нейрослоп"
+      ]
+    }
+  },
+  {
+    "id": 78208,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:44:53+00:00",
+    "text": "Минтайм ин Гугл: «А давайте добавим к NotebookLM создание рилсиков!!!»\n\nhttps://fixupx.com/notebooklm/status/2071987494799716626?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Компания предлагает добавить создание коротких видео к продукту NotebookLM.",
+      "keywords": [
+        "NotebookLM",
+        "создание видео",
+        "технологии",
+        "Google"
+      ]
+    }
+  },
+  {
+    "id": 78207,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:42:05+00:00",
+    "text": "Как я понимаю, у антропиков больше пригорает не от того, что русский юрист Максимка делает ходатайства сидя в городе Воронеже, а от того, что китайцы его дистиллируют нагло. Лишь бы всякими нехорошими способами не платил, а то к антропикам вопросики будут уже другого порядка. Там же моделька не самая продвинутая, дело в обвязке, а её намного легче повторить. Русские юзеры чуть ли не результат френдли файер.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Пост обсуждает ситуацию с русским юристом и китайскими разработками в неформальном ключе.",
+      "keywords": [
+        "антропики",
+        "юрист",
+        "Китай",
+        "модель",
+        "дистилляция"
+      ]
+    }
+  },
+  {
+    "id": 78206,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T05:19:23+00:00",
+    "text": "Благодарю вас, Ян",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение благодарности.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78205,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T03:18:58+00:00",
+    "text": "Советы по использованию Fable 5 без упора в лимиты от Тео\n\nhttps://fixupx.com/theo/status/2072481845363822914?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Советы по использованию Fable 5.",
+      "keywords": [
+        "Fable 5",
+        "советы",
+        "Тео"
+      ]
+    }
+  },
+  {
+    "id": 78204,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T03:00:33+00:00",
+    "text": "Ну и объём собираемой информация ничем не более шпионский, чем в вашем, блин, браузере",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Высказано недовольство по поводу объема собираемой информации.",
+      "keywords": [
+        "информация",
+        "шпионаж",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 78203,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T02:59:35+00:00",
+    "text": "Это перепечатка поста с реддита. Там в комментах автору напихали, что сбор всей телеметрии, которую «открыл» автор, прямо прописан в Пользовательском соглашении",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение условий пользовательского соглашения в комментариях на реддите.",
+      "keywords": [
+        "пользовательское соглашение",
+        "телеметрия",
+        "реддит",
+        "комментарии"
+      ]
+    }
+  },
+  {
+    "id": 78202,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T02:35:40+00:00",
+    "text": "Пишут, что проверка «паспорта» уже встроена в Claude, как в Максе :)\n\nВ Claude Code нашли внедрённый шпионский скрипт Дарио явно предназначенный против пользователей продукта за VPN [в Китае и России].\n\nКод предназначен для сбора данных, чтобы Дарио понимал, что вы сидите за VPN, а не в какой Флориде.\n\nhttps://www.internationalcyberdigest.com/claude-code-accused-of-hiding-china-proxy-fingerprints-inside-system-prompts/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "В коде Claude найден шпионский скрипт, собирающий данные о пользователях, использующих VPN.",
+      "keywords": [
+        "Claude",
+        "шпионский скрипт",
+        "VPN",
+        "проверка",
+        "данные"
+      ]
+    }
+  },
+  {
+    "id": 78201,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T00:59:23+00:00",
+    "text": "Не будет, сняли же экспортный контроль",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "Снятие экспортного контроля влияет на международную торговлю.",
+      "keywords": [
+        "экспорт",
+        "контроль",
+        "торговля",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 78200,
+    "channel_id": "docsllm",
+    "date": "2026-07-02T00:57:37+00:00",
+    "text": "Бро, ну тебе ж английским по бежевому объяснили, что с модели сняли экспортные ограничения полностью)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "экспортные ограничения",
+        "модель",
+        "информация"
+      ]
+    }
+  }
+]

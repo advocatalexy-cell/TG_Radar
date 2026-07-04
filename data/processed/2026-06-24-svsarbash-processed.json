@@ -1,0 +1,67 @@
+[
+  {
+    "id": 3911,
+    "channel_id": "svsarbash",
+    "date": "2026-06-24T11:44:59+00:00",
+    "text": "**🖊️****На смерть писаки-графомана**\n\nИ вот теперь убит он на дуэли\nБез пистолетов и без шпаг\nСражен одним лишь [аргументом](https://t.me/svsarbash/3909)\nИ без каких-нибудь бумаг",
+    "views": 278,
+    "forwards": 20,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит стихотворение о смерти писателя.",
+      "keywords": [
+        "стихотворение",
+        "письмо",
+        "письменность",
+        "смерть",
+        "литература"
+      ]
+    }
+  },
+  {
+    "id": 3910,
+    "channel_id": "svsarbash",
+    "date": "2026-06-24T10:12:54+00:00",
+    "text": "📊 [Голосование](https://forms.cloud.microsoft/r/ehscGVNGfY?origin=lprLink) по сегодняшней [дуэли](https://t.me/svsarbash/3909). Открыто для любого желающего. [Результаты](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAANGgiz5UREpFUUI4UjE0OFg2OERaODRFWFo3TUQ1US4u&preview=%257B%2522ViewModeIndex%2522%3A0%257D&analysis=true) - онлайн.                                                                                                                             ⚠️ Требуется наличие аккаунта в Microsoft.",
+    "views": 312,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о голосовании по дуэли без содержания или значимой информации.",
+      "keywords": [
+        "голосование",
+        "дуэль",
+        "Microsoft",
+        "результаты"
+      ]
+    }
+  },
+  {
+    "id": 3909,
+    "channel_id": "svsarbash",
+    "date": "2026-06-24T05:39:37+00:00",
+    "text": "🔥 Уже сегодня вечером в Римке!                                                                                                                 🆕 `24 июня в 19:00` (мск) в Римке впервые состоится **правовая дуэль** между СВ и горожанином. 🗡❤️Участники сразятся в споре о том, что предпочтительнее: перспективность или ретроактивность зачёта. Исход дуэли будет зависеть от вас — именно зрители определят победителя.\nМесто проведения: зал ВНА. Ждём всех римкоспособных!                                                                                                  ⚠️ Кому нужно содействие, чтобы попасть в Римку - обращайтесь без колебаний [ко мне](https://t.me/sarbashsv).                                                                                                                                  🧑‍💻 Лучше проверить все настройки сильно **заранее** (`сейчас!`) - Римка даётся не всем, а только избранным. После начала мероприятия мы уже не успеем вам помочь.",
+    "views": 357,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс правовой дуэли в Римке.",
+      "keywords": [
+        "правовая дуэль",
+        "Римка",
+        "мероприятие",
+        "спор",
+        "горожанин"
+      ]
+    }
+  }
+]

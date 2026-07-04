@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1435,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-01T06:22:52+00:00",
+    "text": "Коллега из ALITA Брайан Танг, в его качестве основателя LITE Lab Гонконгского университета, разработал со студентами методологию для юристов, которые хотят сделать шаг от простого пользования ИИ через окошко чатбота (по-прежнему это большинство юристов) к интеграции ИИ в рабочие процессы. Все это на базе того, что у многих юристов и так уже включено в enterprise-подписку Miscrosoft365 - MS CoPilot. Примеры того, что модно сделать для решения простых ежедневных проблем, студенты выкладывают [здесь](https://litelab.law.hku.hk/CopilotCookbook/).\n\n#reference",
+    "views": 152,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Разработана методология интеграции ИИ в рабочие процессы юристов с использованием MS CoPilot.",
+      "keywords": [
+        "ИИ",
+        "юристы",
+        "методология",
+        "Microsoft 365",
+        "интеграция"
+      ]
+    }
+  },
+  {
+    "id": 1434,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-01T05:22:14+00:00",
+    "text": "Ну и для тех, у кого две недели ломка не проходит - [Fable вернется](https://www.reuters.com/business/us-lift-export-controls-anthropics-fable-ai-model-tuesday-source-says-2026-06-30/) к массам.",
+    "views": 188,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Анонс возвращения Fable к пользователям.",
+      "keywords": [
+        "Fable",
+        "возвращение",
+        "экспортные ограничения"
+      ]
+    }
+  },
+  {
+    "id": 1433,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-01T05:17:13+00:00",
+    "text": "Один день из жизни вайбкодера 😉.",
+    "views": 199,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Личный опыт работы вайбкодера.",
+      "keywords": [
+        "вайбкодер",
+        "опыт",
+        "жизнь"
+      ]
+    }
+  }
+]

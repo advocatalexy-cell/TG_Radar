@@ -1,0 +1,31 @@
+# Environment
+.env
+.env.local
+
+# Telethon session (авторизованный доступ к личному Telegram-аккаунту)
+*.session
+*.session-journal
+
+# Claude Code local settings (содержат токены и разрешения)
+settings.local.json
+.claude/settings.local.json
+
+# Raw data (большие файлы, не для VCS)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/

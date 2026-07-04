@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sqlite": {
+      "command": "mcp-server-sqlite",
+      "args": [
+        "--db-path",
+        "D:\\YandexDisk\\Zerocoder\\ClaudeCode\\Radar\\data\\radar.db"
+      ]
+    }
+  }
+}

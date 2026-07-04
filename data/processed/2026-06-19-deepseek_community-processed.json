@@ -1,0 +1,42 @@
+[
+  {
+    "id": 20496,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-19T19:14:38+00:00",
+    "text": "Лишь бы вообще deepseek  не порезали и платным не сделали)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Разговор о потенциальной платности deepseek",
+      "keywords": [
+        "deepseek",
+        "платный",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 20495,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-19T19:14:16+00:00",
+    "text": "Там ещё какой то режим распознавания картинки внедрили возможно и из за этого тоже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обновление функционала приложения с возможностью распознавания изображений",
+      "keywords": [
+        "распознавание",
+        "технологии",
+        "обновление"
+      ]
+    }
+  }
+]

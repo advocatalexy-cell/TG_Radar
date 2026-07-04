@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2292,
+    "channel_id": "alexeynikiforov_legalmanagement",
+    "date": "2026-06-30T08:00:53+00:00",
+    "text": "Лучше 1 раз сделать, чем 2 раза правильно. Начал экспериментировать над переводом обзоров в видеоформат. [Встречайте](https://youtu.be/MAGBS93zzdA?si=ilb5xlZ6VtXww6TS)!",
+    "views": 394,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор начал экспериментировать с переводом обзоров в видеоформат.",
+      "keywords": [
+        "эксперимент",
+        "видеоформат",
+        "обзоры"
+      ]
+    }
+  }
+]

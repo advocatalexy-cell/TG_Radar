@@ -1,0 +1,78 @@
+[
+  {
+    "id": 20631,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-29T19:11:52+00:00",
+    "text": "Слышали и слышали то, что с 12 июня он недоступен.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20630,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-29T16:55:46+00:00",
+    "text": "я про клод ии",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение о ИИ Клод.",
+      "keywords": [
+        "Клод",
+        "ИИ",
+        "искусственный интеллект"
+      ]
+    }
+  },
+  {
+    "id": 20629,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-29T16:53:23+00:00",
+    "text": "меня заблочили после 2 попытки зайти на бесплатно. создала другую почту и все равно вылетаю. не пойму почему",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сообщает о проблемах с доступом к сервису.",
+      "keywords": [
+        "блокировка",
+        "доступ",
+        "почта"
+      ]
+    }
+  },
+  {
+    "id": 20628,
+    "channel_id": "deepseek_community",
+    "date": "2026-06-29T16:30:50+00:00",
+    "text": "Кто слышал о Claude Mythos",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о Claude Mythos без предоставления информации.",
+      "keywords": [
+        "Claude Mythos",
+        "вопрос",
+        "информация"
+      ]
+    }
+  }
+]

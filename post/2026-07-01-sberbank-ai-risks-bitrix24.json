@@ -1,0 +1,14 @@
+{
+  "schema_version": "radar-social-content/v1",
+  "source": {
+    "title": "Сбербанк назвал шесть рисков ИИ для юристов и предложил систему AI-governance",
+    "url": "https://www.rapsinews.ru/digital_law_news/20260630/311989130.html",
+    "published_at": "2026-06-30"
+  },
+  "image_prompt": "Flat corporate illustration of a lawyer in a business suit holding a glowing shield icon that represents data protection, standing in front of a faint courthouse silhouette with floating lock and document icons around him, no text in the image, clean minimal vector style, soft blue and white corporate palette, studio lighting, 4k.",
+  "platforms": {
+    "bitrix24": {
+      "content": "[ИИ и право] Сбербанк назвал шесть рисков ИИ для юристов\n\nЧто произошло: на Петербургском юридическом форуме Сбербанк представил перечень из шести рисков использования ИИ в юридической работе – от утечки конфиденциальных данных до вредоносных инструкций внутри документов, которые обрабатывает модель. По статистике эксперта, 63% компаний с утечками данных не имели политики по ИИ.\n\nЧто это значит для нас: если сотрудники используют ИИ-сервисы для работы с договорами и позициями по делам без единых правил, риск утечки есть и у нас.\n\nЧто делаем: до конца месяца фиксируем список разрешенных ИИ-сервисов и правила работы с конфиденциальными данными, обсуждение – на ближайшей летучке юридического отдела."
+    }
+  }
+}

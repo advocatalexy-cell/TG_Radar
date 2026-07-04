@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1811,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-06-19T16:36:47+00:00",
+    "text": "всем привет! Ребят, а Вы где заказы берете?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Спрос о nguồn получения заказов",
+      "keywords": [
+        "заказы",
+        "источники",
+        "покупки"
+      ]
+    }
+  }
+]

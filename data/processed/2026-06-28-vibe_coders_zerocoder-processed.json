@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1906,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-06-28T13:35:00+00:00",
+    "text": "[Crush CLI](https://github.com/charmbracelet/crush)  — AI-агент в терминале [Новый CLI]\n⏺Open-source. MIT. Не locked-in к одному провайдеру.\n\n**Crush** — это CLI-агент от charmbracelet (тех же ребят, что сделали Gum, Glow, Bubble Tea).\nРаботает прямо в терминале, \n   **Что умеет**:\n\n**Bash**: запускает команды, сервера, тесты. Может поднять dev-сервер в фоне и с ним работать.\n\n**Где брать**\n  `https://github.com/charmbracelet/crush`\nСтавится через  go install  или бинарники из релизов.\n\n**Подводные камни**\n⏺LSP не мгновенный. После запуска надо пару секунд на индексацию.\n⏺ OpenCode Go иногда падает. Если API возвращает кривой JSON — краш. Это не Crush, это провайдер.\n\nCrush **видит файловую систему не через  cat / ls , а через собственные инструменты**:\n[смотреть скриншот поста]\n\nL**SP**\nЗапускается автоматически для поддерживаемых языков:\n ⏺Go: gopls\n⏺Rust: rust-analyzer\n⏺Python: pyright\n⏺TypeScript: typescript-language-server\n⏺C/C++: clangd\n\n**Диагностика** ( lsp_diagnostics ) — ошибки компиляции до запуска. References (\nlsp_references ) — кто вызывает эту функцию, без тупого grep-а.\n\n**MCP** (Model Context Protocol)\nДва транспорта:\n⏺stdio: запускает процесс, общается через stdin/stdout (JSON-RPC)\n⏺http: подключается к удалённому MCP-серверу\n\n**Хуки**\n**Два типа:**\n⏺pre_tool_call: перехватывает вызов инструмента до выполнения (можно запретить,\nмодифицировать аргументы)\n⏺post_tool_output: перехватывает результат (можно инжектить контекст, санитизировать\nвывод)\n**Хуки** — это внешние скрипты, получают JSON на stdin, возвращают JSON на stdout.\n\n**Skills**\nMarkdown-файлы с YAML frontmatter. Когда Crush видит  name  и  description  в фронтматтере — подгружает как скилл при совпадении с задачей\n\n🥳[Чат с халявой и туториалами — вход бесплатно](https://t.me/+kBolpz5RrXk1ZmFi) \n\n😎 [GIG AI](https://t.me/gigaitools)    [Отзывы](https://t.me/otzivigigai)    [Услуги](https://t.me/gigaiservices)",
+    "views": 803,
+    "forwards": 14,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлен новый CLI-агент Crush от charmbracelet для работы в терминале.",
+      "keywords": [
+        "CLI",
+        "agente",
+        "charmbracelet",
+        "разработка",
+        "инструменты"
+      ]
+    }
+  }
+]
