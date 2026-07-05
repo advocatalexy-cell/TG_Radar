@@ -8,6 +8,8 @@ cd /opt/radar
 source venv/bin/activate
 mkdir -p data/raw
 
+git pull --rebase
+
 python scripts/fetch-posts.py
 python scripts/filter-signals.py
 python agents/digest-agent.py
@@ -19,6 +21,7 @@ rm -f "digests/$(date -u +%Y-%m-%d)-digest.md"
 git add data/processed data/state.json
 if ! git diff --cached --quiet; then
   git commit -m "Daily data collection $(date -u +%Y-%m-%d)"
+  git pull --rebase
   git push
 else
   echo "No new processed data to commit."
