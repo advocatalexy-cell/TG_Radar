@@ -1,0 +1,822 @@
+[
+  {
+    "id": 78653,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:52:31+00:00",
+    "text": "Но телеметрию собирать не перестанут, конечно же",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение сбора телеметрии.",
+      "keywords": [
+        "телеметрия",
+        "сбор",
+        "данные"
+      ]
+    }
+  },
+  {
+    "id": 78652,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:52:17+00:00",
+    "text": "А они на IPO идут)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение IPO без конкретной информации.",
+      "keywords": [
+        "IPO",
+        "новости",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 78651,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:52:02+00:00",
+    "text": "Потому что шитшторм поднялся) Думаю, не надо объяснять, как работает истерия?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение истерии без конкретных данных или событий.",
+      "keywords": [
+        "истерия",
+        "шиншторм",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 78649,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:44:42+00:00",
+    "text": "**Lumways - генеpация kонтента от 50 видео за раз**.\n\n**Lumways** — AI-платфоpма для быстрой генерацuu kреативов, видео и рuлс в одном месте.\n\n✅** 50–100–200 генерацuй сразу**\n✅ Оплата kpuптой\n✅ Все AI-моdели на одной площадkе\n**✅ Pipeline для автоматичесkой генерацuu Reels**\n✅ Поиск тренdовых вuдео и kонтента внутри cеpвиcа\n✅** Поддержkа NSFW-kонтента**\n\nНе нужно прыгать между cоцcетями, AI-сервucами и редаkторами.\n\n🚀 **Lumways — создавай больше kонтента быстрее.**\n\n🌐 **lumways.com**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Lumways представляет AI-платформу для генерации видеоконтента.",
+      "keywords": [
+        "Lumways",
+        "AI-платформа",
+        "генерация контента",
+        "видео",
+        "Reels"
+      ]
+    }
+  },
+  {
+    "id": 78648,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:29:37+00:00",
+    "text": "Они читали таймзону и прокси какой используется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неизвестная информация о таймзонах и прокси.",
+      "keywords": [
+        "таймзона",
+        "прокси",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 78647,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:28:00+00:00",
+    "text": "Если это прописано - зачем откатывать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост задаёт риторический вопрос о необходимости откатов в контексте прописанных норм.",
+      "keywords": [
+        "откаты",
+        "нормы",
+        "рипторика"
+      ]
+    }
+  },
+  {
+    "id": 78646,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T13:27:24+00:00",
+    "text": "почему же тогда в твиттере Тарик сказал что откатят это?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение некоего отката на платформе Твиттер.",
+      "keywords": [
+        "Твиттер",
+        "Тарик",
+        "откат",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 78644,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T12:38:35+00:00",
+    "text": "А в это время в Китае https://www.ixbt.com/news/2026/07/03/kitaj-vvodit-objazatelnoe-obuchenie-iskusstvennomu-intellektu-na-vseh-urovnjah-obrazovanija.html",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Китай вводит обязательное обучение искусственному интеллекту на всех уровнях образования.",
+      "keywords": [
+        "Китай",
+        "искусственный интеллект",
+        "обучение",
+        "образование",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 78643,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T12:32:42+00:00",
+    "text": "Минцифры будет регулировать ИИ в России\n\nПолномочия ведомства собираются расширить 1 сентября — в России впервые появится орган, регулирующий область искусственного интеллекта.\n\nПод регулирование Минцифры могут попасть около 28 тысяч организаций, которые занимаются разработкой ПО.\n\nrozetked.me/news/47028",
+    "views": 5333,
+    "forwards": 49,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "В России Минцифры начнет регулировать искусственный интеллект с сентября 2023 года.",
+      "keywords": [
+        "Минцифры",
+        "регулирование",
+        "искусственный интеллект",
+        "Россия",
+        "организация"
+      ]
+    }
+  },
+  {
+    "id": 78642,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T11:45:22+00:00",
+    "text": "У меня \"само прошло\" 🤷‍♂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без значимого контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78637,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T10:48:39+00:00",
+    "text": "Так и не устранил проблему, уже в разных браузерах попробовал, в то числе с телефона. Но хотя бы приложение работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь испытывает проблемы с браузерами, но приложение функционирует.",
+      "keywords": [
+        "проблема",
+        "браузер",
+        "приложение",
+        "работа",
+        "телефон"
+      ]
+    }
+  },
+  {
+    "id": 78636,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T10:07:41+00:00",
+    "text": "Напишу в личку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78635,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T10:05:39+00:00",
+    "text": "Господа айтишники! А может кто посоветовать устройство из трёх букв для работы на компе можно платное чтобы работало сразу и без глюков? Заранее спасибо.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь ищет рекомендации по устройству для работы на компьютере.",
+      "keywords": [
+        "устройство",
+        "компьютер",
+        "рекомендации"
+      ]
+    }
+  },
+  {
+    "id": 78634,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:52:34+00:00",
+    "text": "Камеру на лоб и за работу. Технологические гиганты придумали способ бесплатно копировать человеческие навыки https://share.google/uVJjn6jSvhL4jIH9l",
+    "views": 175,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Технологические компании разработали метод бесплатного копирования человеческих навыков с помощью специальных камер.",
+      "keywords": [
+        "технологии",
+        "человеческие навыки",
+        "копирование",
+        "гиганты",
+        "инновации"
+      ]
+    }
+  },
+  {
+    "id": 78633,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:52:34+00:00",
+    "text": "О как",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78631,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:46:15+00:00",
+    "text": "У меня так было 3 дня в браузере, а в вс коде работал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78630,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:37:20+00:00",
+    "text": "В чем суть скандала\nПо словам сотрудников Alibaba, компания сослалась на то, что в Claude Code был обнаружен скрытый механизм, который мог:\nопределять, находится ли пользователь в Китае;\nопределять возможную связь пользователя с китайской AI-лабораторией.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Сотрудники Alibaba сообщили о наличии скрытого механизма в Claude Code, который определял местоположение и связь пользователей с китайскими лабораториями.",
+      "keywords": [
+        "Alibaba",
+        "Claude Code",
+        "скандал",
+        "AI",
+        "механизм"
+      ]
+    }
+  },
+  {
+    "id": 78629,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:36:24+00:00",
+    "text": "https://archive.is/5Lb6C",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на архив, не содержащая новостного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78628,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:20:22+00:00",
+    "text": "Осталось только протестировать на тех кому забанили акк. Отказывались ли они от передачи своих данных.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение тестирования на пользователях с забаненными аккаунтами.",
+      "keywords": [
+        "тестирование",
+        "заблокированные аккаунты",
+        "данные"
+      ]
+    }
+  },
+  {
+    "id": 78627,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:18:28+00:00",
+    "text": "Я думаю, у них там не прямая передача локации, а сбор косвенных признаков (железо, провайдеры, тематики, контент, окружение, смежный софт).",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Обсуждение методов сбора информации о пользователях в условиях ограничения прямой передачи данных.",
+      "keywords": [
+        "локация",
+        "сбор данных",
+        "методы",
+        "технологии",
+        "признаки"
+      ]
+    }
+  },
+  {
+    "id": 78626,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:18:20+00:00",
+    "text": "Выше Ян уже протер мне фары по поводу \"секретного кода\" :)\nhttps://t.me/docsllm/78203",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит незначимую информацию о 'секретном коде'.",
+      "keywords": [
+        "секретный код",
+        "шутка",
+        "фары"
+      ]
+    }
+  },
+  {
+    "id": 78625,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:16:40+00:00",
+    "text": "Не... там секретный код.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78624,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:16:05+00:00",
+    "text": "Так они в настройках прямо об этом спрашивают юзера. Можно даже отказаться :)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователи могут отказаться от предоставления данных в настройках.",
+      "keywords": [
+        "настройки",
+        "данные",
+        "отказ",
+        "пользователи"
+      ]
+    }
+  },
+  {
+    "id": 78623,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:09:52+00:00",
+    "text": "Что-то мне подсказывает, что код собирает слепок юзера (fingerprint) и отправляет его куда следует.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Подозрение о сборе данных пользователей с помощью кода.",
+      "keywords": [
+        "код",
+        "слепок пользователя",
+        "данные",
+        "подозрения"
+      ]
+    }
+  },
+  {
+    "id": 78622,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:09:45+00:00",
+    "text": "В Claude Code есть код который определяет местонахождение юзера.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "В Claude Code представлена функция для определения местоположения пользователя.",
+      "keywords": [
+        "Claude Code",
+        "местоположение",
+        "технологии",
+        "код",
+        "функция"
+      ]
+    }
+  },
+  {
+    "id": 78621,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T09:08:42+00:00",
+    "text": "Насчёт печальных Claude-банов.\n\nhttps://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обнаружен скрытый код в Claude, который тайно блокирует пользователей из Китая.",
+      "keywords": [
+        "Claude",
+        "бан",
+        "Китай",
+        "технологии",
+        "программирование"
+      ]
+    }
+  },
+  {
+    "id": 78618,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:32:22+00:00",
+    "text": "Спасибо, попробую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает благодарность.",
+      "keywords": [
+        "спасибо",
+        "пробую"
+      ]
+    }
+  },
+  {
+    "id": 78617,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:32:14+00:00",
+    "text": "Тогда связи нет😅",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78616,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:32:00+00:00",
+    "text": "У меня наооборот, на телефоне работает, на компе-нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблема с работой приложения на компьютере.",
+      "keywords": [
+        "телефон",
+        "компьютер",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 78615,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:31:47+00:00",
+    "text": "С чистого браузера), как раз хром установила на тлф и такая вот история пошла:)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78614,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:30:46+00:00",
+    "text": "Проверьте скорость Интернета, если не поможет, то почистите кеш браузера.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекомендации по улучшению работы Интернета.",
+      "keywords": [
+        "Интернет",
+        "скорость",
+        "кеш",
+        "браузер"
+      ]
+    }
+  },
+  {
+    "id": 78613,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:30:15+00:00",
+    "text": "У меня такое было, только не помню на забаненном или уже на новом😅. Точно помню, что на на тлф такая история, с компа все нормально",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78612,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:29:33+00:00",
+    "text": "Нее, ещё 4 живут.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенная информация о статусе объектов.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78611,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:28:18+00:00",
+    "text": "Мб дело в 5 акках😬",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное утверждение о возможной причине проблемы.",
+      "keywords": [
+        "аккаунты",
+        "проблема",
+        "недоумение"
+      ]
+    }
+  },
+  {
+    "id": 78610,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:28:03+00:00",
+    "text": "Меня пока не забанили, я фабл не трогал после того как вновь ее сделали доступной",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с фаблом.",
+      "keywords": [
+        "фабл",
+        "доступность",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 78609,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:27:52+00:00",
+    "text": "Нет связки. У меня 5 акков забанили до ее выхода повторного.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78608,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:16:51+00:00",
+    "text": "Новую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 78607,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:14:51+00:00",
+    "text": "А еще вопрос к тем, кого банили — вы использовали новую модель или нет тут связки?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о банах пользователей и использовании новой модели.",
+      "keywords": [
+        "бан",
+        "модель",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 78606,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T08:09:25+00:00",
+    "text": "Коллеги, кто-нибудь сталкивался с такой проблемой: при заходе в Клод , просит подтвердить, что я человек. Подтверждаю, несколько секунд крутит, потом опять просит подтвердить что человек, так уже несколько раз?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь сталкивается с проблемой подтверждения идентичности при входе в систему.",
+      "keywords": [
+        "Клод",
+        "проблема",
+        "подтверждение",
+        "вход"
+      ]
+    }
+  },
+  {
+    "id": 78605,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T07:39:25+00:00",
+    "text": "«Египет победил»: Qwen3-4B превратили в «самый согласованный ИИ в истории» / Хабр https://habr.com/ru/news/1055630/",
+    "views": 204,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Новая версия Qwen3-4B стала самым согласованным искусственным интеллектом в истории благодаря достижениям в Египте.",
+      "keywords": [
+        "Qwen3-4B",
+        "Искусственный интеллект",
+        "Египет",
+        "разработка",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 78603,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T04:50:26+00:00",
+    "text": "audio.cpp — новый интересный репозиторий для локальной работы с аудио-моделями.\n\nИдея простая: собрать разные аудио-задачи в один быстрый C++-рантайм без зоопарка Python-окружений. В одном фреймворке уже есть распознавание речи, диаризация, VAD, синтез речи, клонирование голоса, voice conversion, разделение источников и генерация музыки.\n\nПо сути, это попытка сделать более универсальную локальную аудио-инфраструктуру: не отдельный демо-скрипт под каждую модель, а общий CLI/сервер и набор пайплайнов, которые можно встроить в свои приложения.\n\nДля практики особенно интересны ASR и диаризация. Уже можно пробовать Qwen3-ASR-0.6B для мультиязычной транскрибации, Citrinet для английской ASR и Sortformer для диаризациит(разметки «кто и когда говорит»). Parakeet-TDT-0.6B-v3 тоже есть в репозитории, но пока проходит стадию тестирования.\n\nhttps://github.com/0xShug0/audio.cpp",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлен новый репозиторий audio.cpp для локальной работы с аудио-моделями в C++.",
+      "keywords": [
+        "аудио",
+        "модели",
+        "C++",
+        "распознавание речи",
+        "диаризация"
+      ]
+    }
+  },
+  {
+    "id": 78602,
+    "channel_id": "docsllm",
+    "date": "2026-07-05T04:45:05+00:00",
+    "text": "@PureLSD PyMuPDF 1.28 научился собирать PDF из Markdown с контролем вида через CSS - удобно для документных пайплайнов.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "PyMuPDF 1.28 теперь поддерживает сборку PDF из Markdown с использованием CSS.",
+      "keywords": [
+        "PyMuPDF",
+        "PDF",
+        "Markdown",
+        "CSS",
+        "технологии"
+      ]
+    }
+  }
+]
