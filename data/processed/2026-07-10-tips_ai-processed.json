@@ -1,0 +1,24 @@
+[
+  {
+    "id": 4799,
+    "channel_id": "tips_ai",
+    "date": "2026-07-10T17:39:52+00:00",
+    "text": "Я конечно видел много способов harness для агентов, но это пожалуй самый прикольный:\n\nПарень [придумал](https://x.com/steveruizok/status/2075303919664734295?s=20) для агентов papercuts, чтобы они могли жаловаться на любую ерунду которую нашли во время выполнения задачи\n\nПотом по этим записям можно понять какие узкие места в репо замедляют работу, например: где есть расхождение доков, какие скрипты перестали работать и тд.\n\nПросто нужно добавить в AGENTS․md эту инструкцию:\n# Log papercuts\n\nWhen you encounter small friction while working—a failed tool call, confusing\nsetup, flaky command, stale cache, misleading error, missing helper, or\nnon-obvious gotcha—record it in `PAPERCUTS.md`.\n\nCreate the file if it does not exist. Append one entry in this format:\n\n## YYYY-MM-DD HH:MM — <model>\n\n<What you were doing> → <what got in the way>. Include a possible cause or fix\nwhen useful.\n\nLog papercuts proactively when they occur, but do not interrupt the main task.\nDo not add duplicate entries. Papercuts are minor workflow friction, distinct\nfrom completed-work logs and real bugs or tracked issues. \n\nИли еще проще, на [гитхабе](https://github.com/treygoff24/papercuts) есть специальный CLI-тул под это.\n\nНу и само по себе интересно читать как агент на естественном языке ругается на глупые проблемы☕️\n\n@tips_ai",
+    "views": 2984,
+    "forwards": 329,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Придуманный способ для агентов фиксировать мелкие проблемы в процессе работы и улучшать рабочий процесс.",
+      "keywords": [
+        "агенты",
+        "papercuts",
+        "инструмент",
+        "workflow",
+        "GitHub"
+      ]
+    }
+  }
+]
