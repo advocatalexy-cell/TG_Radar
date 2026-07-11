@@ -1,0 +1,46 @@
+[
+  {
+    "id": 5267,
+    "channel_id": "yandex",
+    "date": "2026-07-06T15:26:46+00:00",
+    "text": "💌 **Возможностей помочь фондам стало ещё больше.** У Яндекса появилась новая механика поддержки НКО [«Добавление»](https://yandex.go.link/charity?source=deeplink&adj_t=1vc5nm3v_1vot9q5i&adj_campaign=pr_add&ref=1vc5nm3v_1vot9q5i&adj_fallback=https://help.yandex.ru/roundup?utm_source=fallback_1vc5nm3v_1vot9q5i&utm_campaign=pr_add&utm_content=&utm_term=&adj_redirect_macos=https://help.yandex.ru/roundup?utm_source=fallback_1vc5nm3v_1vot9q5i&utm_campaign=pr_add&utm_content=&utm_term=). Как она работает — рассказываем в карточках. \n\n↘️ Кроме «Добавления», вы можете отправить средства на благотворительность через Яндекс ещё тремя способами: [округлением](https://t.me/yandex/4598), через [платформу прямых пожертвований](https://help.yandex.ru/donate-platform?=&donateplatform=1&form_mode=desktop&seed=783b279f&search=&program=active_platform&theme=&geo=&recipients=&tab=filter&support_category=) и подписку [на «Ты хорош!»](https://help.yandex.ru/ty-horosh). \n\nПодписывайтесь 🌺 @yandex_charity",
+    "views": 16282,
+    "forwards": 13,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Яндекс представил новую механику поддержки благотворительных фондов.",
+      "keywords": [
+        "Яндекс",
+        "благотворительность",
+        "поддержка",
+        "фонды",
+        "механика"
+      ]
+    }
+  },
+  {
+    "id": 5266,
+    "channel_id": "yandex",
+    "date": "2026-07-06T13:06:07+00:00",
+    "text": "🔴 **Они возродили репбазу в своём вузе и сами конструируют себе звуковые педали! **Знакомьтесь, это инженеры из ЛЭТИ и их музыкальная группа «Секреты Взлома Пчёл». Мы поддержали ребят вместе с Яндекс Музыкой и BandLink и пригласили выступить на Муз-вуз сцене Young Con. В ролике — их история, путь к фестивалю и впечатления от выступления.\n\n↘️ Как прошёл фестиваль, [смотрите в этом ролике](https://t.me/yandex/5204). А про главные анонсы Young Con [читайте в этих карточках](https://t.me/yandex/5192).\n\n👉 [Откройте путь в Яндекс через стажировки](https://yandex.ru/yaintern/)",
+    "views": 17592,
+    "forwards": 42,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Инженеры из ЛЭТИ создают музыкальные инструменты и выступают на фестивале.",
+      "keywords": [
+        "ЛЭТИ",
+        "музыка",
+        "фестиваль",
+        "инженеры",
+        "Young Con"
+      ]
+    }
+  }
+]

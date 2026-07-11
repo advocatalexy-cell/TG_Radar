@@ -1,0 +1,34 @@
+[
+  {
+    "id": 20427,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-06T14:48:28+00:00",
+    "text": "Не волк, а work",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20426,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-06T14:11:40+00:00",
+    "text": "не волк",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  }
+]

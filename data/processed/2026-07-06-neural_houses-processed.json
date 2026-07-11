@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1871,
+    "channel_id": "neural_houses",
+    "date": "2026-07-06T10:04:29+00:00",
+    "text": "**Друзья, привет! Запускаем челлендж** 📣\n\n__Ваша задача - протестировать этот промпт __👇\n\n```Imagine it is the year 2050.\n\nCreate a random moment from the life of a person working alongside AI. Do not explain the person's job in advance. Instead, reveal it through the details of the environment, technology, clothing, interfaces, transportation, architecture, and the way the person interacts with AI.\n\nThe scene should feel like a candid photograph capturing a real moment in everyday life in 2050.\n\nAvoid clichés such as evil robots with red eyes or flying cars included just for the sake of looking futuristic. Make the future feel unexpected, believable, practical, and unique.\n\nPhotorealistic, cinematic, highly detailed, storytelling image, future technology, human-AI collaboration, 2050.\n```\n\n**Делитесь в комментариях своими результатами и не забывайте указывать, через какую ИИ вы прогоняли этот промпт** 👇",
+    "views": 1476,
+    "forwards": 10,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запуск челленджа на создание сцен из будущего с AI.",
+      "keywords": [
+        "челлендж",
+        "AI",
+        "2050",
+        "промпт",
+        "креативность"
+      ]
+    }
+  },
+  {
+    "id": 1870,
+    "channel_id": "neural_houses",
+    "date": "2026-07-06T07:01:54+00:00",
+    "text": "📊 **ИИ инструменты, которые полностью меняют создание презентаций**\n\n__Сегодня есть инструменты, которые делают черновик слайдов за пару минут, а вам остаётся только поправить структуру и смысл.__\n\n**Вот несколько популярных инструментов** 👇\n\n🎨 [**Gamma**](https://gamma.app/)\n                                                                                                                                                                                                                 Генерирует полноценные презентации по текстовому запросу и сразу предлагает готовую структуру слайдов и дизайн.\n\n🧩 [**Tome**](https://tomeapp.ai/)\n                                                                                                                                                                                                                          Хорош для сторителлинга и продуктовых презентаций. Умеет превращать идею в связный визуальный рассказ.\n\n✍️ [**Canva**](https://www.canva.com/)\n                                                                                                                                                                                                                Классический редактор, но с AI функциями для генерации слайдов, текста и визуалов прямо внутри презентации.\n\n⚡[** Decktopus**](https://www.decktopus.com/)\n                                                                                                                                                                                                                          Автоматически собирает презентации по теме и задаёт структуру, экономя время на оформлении.\n\n💬 **А чем вы делаете презентации сейчас — вручную или уже через AI?**👇",
+    "views": 1410,
+    "forwards": 53,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обзор инструментов для создания презентаций с помощью ИИ.",
+      "keywords": [
+        "ИИ",
+        "презентации",
+        "инструменты",
+        "Gamma",
+        "Canva"
+      ]
+    }
+  }
+]
