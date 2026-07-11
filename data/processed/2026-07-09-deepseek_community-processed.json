@@ -1,0 +1,479 @@
+[
+  {
+    "id": 20869,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:22:28+00:00",
+    "text": "А вот то, насколько технологии вне политики, а я технарь, тем более в подписанных соглашенниях с РФ даже по ИИ (там более овердофига).\n\nИ тут читать, что в РФ постараются залочить.\n\nНу могу лишь предположить кого их трёх. Но, Вангую, вряд ли.\nФизически не смогут. Экономически - уж тем более )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.6,
+      "category": "tech",
+      "summary": "Обсуждение влияния технологий на политику и возможные ограничения в России в сфере искусственного интеллекта.",
+      "keywords": [
+        "технологии",
+        "политика",
+        "искусственный интеллект",
+        "Россия",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 20868,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:19:30+00:00",
+    "text": "Вот и пусть живут с этой информацией )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20867,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:19:15+00:00",
+    "text": "Часть их стран заблокировано от Китая.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Несодержательное утверждение о блокировке стран от Китая.",
+      "keywords": [
+        "блокировка",
+        "Китай",
+        "страны"
+      ]
+    }
+  },
+  {
+    "id": 20866,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:18:52+00:00",
+    "text": "Ну а про битву Китая против ЕС в русекторе, мы ещё будем наблюдать )\nИзначально ЕС в ноккауте на текущий момент времени.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждение текущих событий между Китаем и ЕС в русекторе.",
+      "keywords": [
+        "Китай",
+        "ЕС",
+        "битва",
+        "русектор",
+        "экономика"
+      ]
+    }
+  },
+  {
+    "id": 20865,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:17:41+00:00",
+    "text": "То че ка.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20864,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:17:35+00:00",
+    "text": "Ну а если не Великобритан - то просто смотрим, как их решения заполоняют всю Европу своими решениями. Да просто, vps в этих странах больше не работает.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение влияния решений Великобритании на Европу.",
+      "keywords": [
+        "Великобритания",
+        "Европа",
+        "решения",
+        "vps"
+      ]
+    }
+  },
+  {
+    "id": 20863,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:15:26+00:00",
+    "text": "Я вижу некоторые ошибки из разных стран по обычным варинтам. То TCP, То UDP. Млин, чуть ли не раз в неделю.\nНо это не означает, что у всех так должно быть.\n\nТем более, у релокантов.\n\nДля релокантов должна быть иная история в Европу. Там ограничение пошло из Великобритан, когда их детишки решили за счёт впн повысить возраст в паспорте.\n\nИ это не первая страна, которая с этим сталкивается (я уже сбился со счёту).\n\nТо есть вопросы:\n1) а откуда географически был вопрос?\n\nИ да, второго не будет. Там после ответа на первый будет всем понятным.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает проблемы подключения к интернету через VPN в разных странах, особенно среди релокантов.",
+      "keywords": [
+        "VPN",
+        "реликанты",
+        "проблемы подключения",
+        "интернет",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 20862,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:09:56+00:00",
+    "text": "Вопрос лишь в доступе, если даже и ограничат. Мы в русекторе. Если кто распределился по Всему Земному Шарику. Там и посмотрим. Кто куда не совсем удачным распределился )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит размышления о распределении чего-то по миру, но не имеет четкой информативной нагрузки.",
+      "keywords": [
+        "распределение",
+        "доступ",
+        "ремарка"
+      ]
+    }
+  },
+  {
+    "id": 20861,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:09:13+00:00",
+    "text": "Да не будет их никто получать.\n\nДа есть три нейросетки, у каждой из них своё финансирование и свои идеи.\n\nПаспорта?\n\nЯ в последний раз пользовался китайскими, когда юзал миджорни, а после китайцы пробросили на наркобаронов из Индонезии, которые меня перенаправили на мексиканских.\n\nКайф от них лишь получил один. У меня были все нейросети ими оплаченными )))\n\nА по факту, чтобы запретить китайские нейросетки - это нужно крайне дико постараться.\n\nА \"дико стараться\" - в такое никто не умеет (голосом из фильма, на выходохе из сигары) :)))\n\nНе придумываем идей там, где их не существует. И не будет существовать.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит личные размышления о нейросетях и их использовании.",
+      "keywords": [
+        "нейросетки",
+        "Китай",
+        "финансирование",
+        "идеи",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 20860,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:04:31+00:00",
+    "text": "И да, тут есть филологи. Они бы смогли тут найти две ошибки.\n\nИх тут нет, специальным.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит обсуждение ошибок в тексте, но не несет значимой информации.",
+      "keywords": [
+        "ошибки",
+        "текст",
+        "филологи"
+      ]
+    }
+  },
+  {
+    "id": 20859,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:02:49+00:00",
+    "text": "Если у тебя есть идеи, как исправить тему в ведение паспортов - мне, мелким шрифтом, я им передам, напрямую )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь предлагает идеи по улучшению паспортной темы.",
+      "keywords": [
+        "идеи",
+        "паспорт",
+        "предложения"
+      ]
+    }
+  },
+  {
+    "id": 20858,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T17:01:53+00:00",
+    "text": "Да чёт прошло уже более четырёх лет - даже задач таких не было.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный комментарий без конкретного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20856,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T16:59:31+00:00",
+    "text": "Интересным, а эти новости будут через день пересылать, или через два",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Комментирование новостей без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20855,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T16:59:07+00:00",
+    "text": "И не прошло и двух дней. Мы это уже обсудили двумя днями ранее.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20854,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T13:28:16+00:00",
+    "text": "Китайские паспорта народ пойдет получать?)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит шутливый комментарий о получении китайских паспортов.",
+      "keywords": [
+        "Китай",
+        "паспорта",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 20853,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T13:27:46+00:00",
+    "text": "Как-то тревожно...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост несет эмоциональную нагрузку, но не содержит конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20852,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T13:27:25+00:00",
+    "text": "**DeepSeek и другие китайские нейронки ХОТЯТ ЗАКРЫТЬ** **— власти Китая собираются ограничить доступ иностранцам ко всем своим топовым ИИ**\n\nОни уже ведут переговоры с Alibaba, ByteDance и Z ai. Окончательное решение **ещё не принято**, но всё идет к этому — мера зацепит** все будущие поколения.\n\n**● [GPT News](https://t.me/gpt_news) | [ChatGPT BOT](https://t.me/GPT_chat_robot)",
+    "views": 9614,
+    "forwards": 147,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Китайские власти планируют ограничить доступ иностранцев к своим передовым ИИ-технологиям.",
+      "keywords": [
+        "Китай",
+        "Искусственный интеллект",
+        "ограничения",
+        "власти",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 20851,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T09:06:59+00:00",
+    "text": "Переводишь модели в формат для Эдж галери и все",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит информацию о переводе моделей без значимого содержательного контекста.",
+      "keywords": [
+        "модели",
+        "Эдж галери",
+        "перевод"
+      ]
+    }
+  },
+  {
+    "id": 20850,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T09:06:44+00:00",
+    "text": "Правильно есть Эдж галери",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20848,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:56:17+00:00",
+    "text": "оставят немножко дипсика , по лицензии для яндыкса\nчтоб сверху него гигачат прикрутить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение лицензирования Дипсика для Яндекса с возможностью интеграции с Гигачат.",
+      "keywords": [
+        "Яндекс",
+        "Дипсик",
+        "Гигачат",
+        "лицензия"
+      ]
+    }
+  },
+  {
+    "id": 20847,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:55:22+00:00",
+    "text": "потому что идет война нейронок\nклод вон умный какой , пиндосы боятся к ускоглазым попадет в работу\nу тех квен уже не дурак, может поспорить с клодом\nзадормо чего его раздавать всем подряд",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит мнения о конкуренции между нейросетями.",
+      "keywords": [
+        "нейросети",
+        "конкуренция",
+        "Клод",
+        "Квентин"
+      ]
+    }
+  },
+  {
+    "id": 20846,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:29:16+00:00",
+    "text": "Хайп. Все не так однозначно(тм)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20845,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:19:01+00:00",
+    "text": "Откуда такая инфа если не секрет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на источник информации.",
+      "keywords": [
+        "информация",
+        "источник",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 20844,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:18:31+00:00",
+    "text": "Алиса ai и гигачат ... Наше всё",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о Алисе и гигачате без конкретного содержания.",
+      "keywords": [
+        "Алиса",
+        "гигачат",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 20843,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-09T06:18:15+00:00",
+    "text": "Это гг тогда получается..",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное выражение без контекста.",
+      "keywords": []
+    }
+  }
+]
