@@ -1,0 +1,44 @@
+[
+  {
+    "id": 20458,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-07T17:51:24+00:00",
+    "text": "Можете мне в лс суть спора написать. \nМы работаем в патнерстве. Два частнопрактикующих+адвокат.  Посмотрим, кому ближе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на личное сообщение о сути спора между партнёрами.",
+      "keywords": [
+        "спор",
+        "партнерство",
+        "адвокат"
+      ]
+    }
+  },
+  {
+    "id": 20457,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-07T17:45:56+00:00",
+    "text": "Коллеги, посоветуйте частнопрактикующего юриста из СПб по спору частного заемщика с банком.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос рекомендации юриста.",
+      "keywords": [
+        "юрист",
+        "спор",
+        "банк",
+        "СПб",
+        "заемщик"
+      ]
+    }
+  }
+]

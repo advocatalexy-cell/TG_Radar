@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1445,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-07T16:45:40+00:00",
+    "text": "Хм, это уже приказ, или все еще предложение? Вдруг действительно пора?",
+    "views": 347,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясное выражение сомнений по поводу действий.",
+      "keywords": [
+        "приказ",
+        "предложение",
+        "сомнения"
+      ]
+    }
+  },
+  {
+    "id": 1444,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-07T15:54:13+00:00",
+    "text": "Еще одна Legal AI-компания, Norm AI, [стала единорогом](https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html). В отличии от своих коллег в тусовке единорогов Harvey и Legora Norm не скрывает свои амбиции сделать конкуренцию своим клиентам - они создали AI-native юрфирму Norm Law. \n\n#ai #legal_business",
+    "views": 364,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Norm AI стала единорогом и открыла AI-native юрфирму Norm Law для конкуренции с клиентами.",
+      "keywords": [
+        "Norm AI",
+        "единорог",
+        "AI-native",
+        "юрфирма",
+        "конкуренция"
+      ]
+    }
+  },
+  {
+    "id": 1443,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-07T11:38:27+00:00",
+    "text": "Не по теме канала, но не смог пройти мимо...",
+    "views": 379,
+    "forwards": 5,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не соответствует тематике канала.",
+      "keywords": []
+    }
+  }
+]
