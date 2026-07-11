@@ -1,0 +1,75 @@
+[
+  {
+    "id": 20472,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-08T16:26:21+00:00",
+    "text": "Но в силу своего реноме и скилла вытаскивать самые тяжелые трудовые споры может позволить себе выбирать, но давай обсудим в лс уже детали)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение личных деталей в личных сообщениях.",
+      "keywords": [
+        "реноме",
+        "скилл",
+        "трудовые споры",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 20471,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-08T16:24:29+00:00",
+    "text": "Ооо! 10 из 10! Спасибо 🙏🏻",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит благодарность без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20470,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-08T16:24:12+00:00",
+    "text": "Привет, Таня, это тебе ко мне, у меня есть один из лучших экспертов по трудовому праву в России) \n\nКоторая еще и у Михаила Зиновьевича училась, ахахаха",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20469,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-08T16:23:23+00:00",
+    "text": "Коллеги, здравствуйте! \nМожет быть кто-то может посоветовать хорошего юриста по трудовым делам? Желательно с большим опытом и проработкой внутренних документов?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос рекомендации юриста по трудовым делам.",
+      "keywords": [
+        "юрист",
+        "трудовые дела",
+        "рекомендации"
+      ]
+    }
+  }
+]

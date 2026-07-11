@@ -1,0 +1,24 @@
+[
+  {
+    "id": 148,
+    "channel_id": "k_pshinnik",
+    "date": "2026-07-08T12:05:18+00:00",
+    "text": "Курс в эти выходные в Москве. Оффлайн. 2 дня. Минимум теории максимум кейсов.\n\nОсталось 2 места: https://zerocoder.ru/offline-intensive-vibe-coding",
+    "views": 3480,
+    "forwards": 11,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама оффлайн-курса по программированию в Москве.",
+      "keywords": [
+        "курс",
+        "Москва",
+        "программирование",
+        "оффлайн",
+        "реклама"
+      ]
+    }
+  }
+]

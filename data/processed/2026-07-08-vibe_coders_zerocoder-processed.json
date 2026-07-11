@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1991,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-08T10:44:40+00:00",
+    "text": "всем привет друзья. на днях со своей небольшой командой запустили стартап - провайдер ии-моделей.\n\nв euromodels.xyz уже доступны:\n- glm 5.2\n- gpt 5.5\n- claude fable 5\n- claude opus 4.8\n- claude sonnet 5\n- kimi k2.6\n\nподдерживаем: claude code, cursor, opencode и другие open-ai, anthropic интерфейсы\n\nоплатить можно криптовалютой, через сбп, сберпэй или банковскую карту рф.\nподдержка 24/7\n\nпишите если у вас есть идеи что можно сделать, или как можем посотрудничать, буду очень рад!\n\nhttps://euromodels.xyz",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "business",
+      "summary": "Авторы запустили стартап по предоставлению ИИ-моделей.",
+      "keywords": [
+        "стартап",
+        "ИИ-модели",
+        "провайдер",
+        "криптовалюта",
+        "сотрудничество"
+      ]
+    }
+  }
+]
