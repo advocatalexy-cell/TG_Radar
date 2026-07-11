@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": 1452,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-11T15:42:44+00:00",
+    "text": "Новое исследование от Deloitte Legal «[The AI Imperative: Reshaping of the Legal Industry](https://www.deloitte.com/uk/en/services/legal/research/ai-imperative-reshaping-of-the-legal-industry.html)». Они предлагают трехэтапную дорожную карту для ИИ-трансформации юридических департаментов. \n\n#ai #legal_operations",
+    "views": 122,
+    "forwards": 5,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Deloitte Legal представили исследование о трансформации юридической отрасли с помощью ИИ.",
+      "keywords": [
+        "исследование",
+        "ИИ",
+        "юридическая отрасль",
+        "Deloitte",
+        "трансформация"
+      ]
+    }
+  },
+  {
+    "id": 1451,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-11T14:51:34+00:00",
+    "text": "О потенциальном выходе на рынок юридических услуг крупных технологических платформ расскажу юристам с 2017 года (☝️☝️картинка выше слайд из презентации). В первую очередь для того, чтобы юристы начали о своем рынке думать по-новому, применять «out-of-the-box thinking». В пример приводил всегда в т.ч. Amazon. Компания, конечно, уже несколько лет в очень нишевом сегменте оказывает юридические услуги, но теперь она решила официально заявить о своих амбициях на этом рынке. И делает Amazon это как другие игроки - через технологии. Встречайте [Amazon Quick for Legal](https://aws.amazon.com/ru/quick/legal/). \n\nЕсли ваша реакция «Да они просто предлагают инструменты, они всего лишь один из многих LegalTech-вендоров», то разрешите огорчить. Но это уже в отдельном посте, пока поиграйте с новой игрушкой. \n\n#ai #legal_business",
+    "views": 227,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Amazon расширяет свои амбиции на рынке юридических услуг с запуском Amazon Quick for Legal.",
+      "keywords": [
+        "Amazon",
+        "юридические услуги",
+        "технологии",
+        "LegalTech",
+        "out-of-the-box thinking"
+      ]
+    }
+  }
+]
