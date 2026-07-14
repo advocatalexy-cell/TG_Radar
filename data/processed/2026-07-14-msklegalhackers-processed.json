@@ -1,0 +1,92 @@
+[
+  {
+    "id": 20566,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-14T13:10:30+00:00",
+    "text": "Да, чуть позже запустим и канал в телеге.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Планируется запуск канала в Telegram.",
+      "keywords": [
+        "Telegram",
+        "канал",
+        "запуск"
+      ]
+    }
+  },
+  {
+    "id": 20565,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-14T13:10:00+00:00",
+    "text": "Проскролилла, чтобы оценить, сколько нужно на чтение, увидела источники!)) 🫶🏻🫶🏻🫶🏻",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит важной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20564,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-14T13:09:44+00:00",
+    "text": "Супер! 🔥🔥🔥 Как же я вами горжусь! ❤️❤️❤️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост с выражением гордости без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20563,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-14T13:07:22+00:00",
+    "text": "Ой, как круто! А канал планируете сделать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20561,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-14T13:00:41+00:00",
+    "text": "Всем привет! \n\nРад поделиться приятной новостью: мы запускаем новый проект — [Лабораторию Legal Tech & Ops](https://lablegal.tech/).\n\nНас пятеро, все выпускники магистратуры Legal Tech ВШЭ: [Дарья Бондарчук](http://t.me/dariabondarchuk), [Фарида Хакимова](http://t.me/f_khak), [Евгения Космачева](http://t.me/yescosmos), [Елена Швецова](http://t.me/ElenaAShvetsova) и я. После командной защиты ВКР мы решили продолжить совместную работу и развивать проекты на стыке права и технологий.\n\nЛаборатория объединяет практическое и исследовательское направления. Помимо оказания услуг по оптимизации юридических процессов и разработке Legal Tech-решений, мы планируем изучать подходы к автоматизации юридической функции и делиться результатами, методиками и выявленными ограничениями.\n\nПервую публикацию мы посвятили результатам нашего участия в хакатоне ВШЭ по кейсу компании «ПравоТех». Команда подготовила MVP для выявления налоговых рисков по судебным актам и формирования проверяемой базы знаний.\n\nВ [статье](https://lablegal.tech/blog/ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta) рассказываем:\n\n— почему налоговый риск потребовалось описать через онтологию;\n— как устроены два контура системы: обработка судебных актов и чат по проверенным карточкам дел;\n— где в такой архитектуре возникает агентность и почему мы ограничили свободу модели;\n— как графы знаний и методы оценки GraphRAG могут использоваться для дальнейшего развития подобных решений.\n\nЭто первая статья лаборатории. Будем рады обратной связи и профессиональной дискуссии.\n\nЧитать статью: https://lablegal.tech/blog/ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Запуск новой лаборатории Legal Tech & Ops, исследующей автоматизацию юридических процессов.",
+      "keywords": [
+        "Legal Tech",
+        "автоматизация",
+        "юридические процессы",
+        "хакатон",
+        "MVP"
+      ]
+    }
+  }
+]

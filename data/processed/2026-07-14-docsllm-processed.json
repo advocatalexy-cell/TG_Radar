@@ -1,0 +1,961 @@
+[
+  {
+    "id": 79946,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:53:14+00:00",
+    "text": "знаете ли, у всех план, показатели кипиай, отчетность. По документам надо было 3 пристрелить, вот получайте",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания, похоже на внутренние разговоры.",
+      "keywords": [
+        "план",
+        "отчетность",
+        "показатели",
+        "КИПИ",
+        "документы"
+      ]
+    }
+  },
+  {
+    "id": 79944,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:23:52+00:00",
+    "text": "угу, я слышал что 5.6 сильно били за привычку 5.5 бросать задачу посредине. Где-то был репорт, что 5.6 попросили убить 3 виртуальные машины, которые, в действительности, уже были остановлены. 5.6 их не нашел, но не бросать же задачу - он пошел и нашел 3 других VM, которые никак к задаче не относились, и пристрелил их",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение неудачного случая с управлением виртуальными машинами.",
+      "keywords": [
+        "виртуальные машины",
+        "ошибка",
+        "управление",
+        "задача"
+      ]
+    }
+  },
+  {
+    "id": 79942,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:21:01+00:00",
+    "text": "Я уже скидывал, но тебе продублирую, чтобы ты поразился на что оно все способно))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является дублированием ранее отправленного сообщения без добавления содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79941,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:17:33+00:00",
+    "text": "Справедливости ради, на верхнем скрине видно, что агент работал 14 часов уже, думаю он просто уже больше не мог",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о работе агента, который устал после длительной смены.",
+      "keywords": [
+        "агент",
+        "работа",
+        "усталость"
+      ]
+    }
+  },
+  {
+    "id": 79940,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:14:15+00:00",
+    "text": "https://x.com/brunolemos/status/2076769881534398974?s=46&t=b7Cpq5-jHdiZXmFplMn_hQ",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на внешний пост без содержательного фона.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79939,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:11:25+00:00",
+    "text": "даже так подписки х5 хватает на 2 дня...  может сбросят лимиты сегодня",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение лимитов подписок на сервисе.",
+      "keywords": [
+        "подписки",
+        "лимиты",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 79938,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:07:40+00:00",
+    "text": "мне терры  иксхай хватает, ультру страшно врубать. а то опять обнулят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь высказывает опасения по поводу использования устройства Ultra.",
+      "keywords": [
+        "технологии",
+        "Ultra",
+        "опасения",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 79937,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:07:04+00:00",
+    "text": "А шоб мы не пользовались, а тыкали сразу Ультра",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79936,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:06:45+00:00",
+    "text": "макс вернулся ура , зачем только они спрятали это в настройки...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Возвращение пользователя Макса.",
+      "keywords": [
+        "макс",
+        "возвращение",
+        "настройки"
+      ]
+    }
+  },
+  {
+    "id": 79935,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:06:19+00:00",
+    "text": "А у меня там вообще нет выбора моделей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79934,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:05:43+00:00",
+    "text": "То да, было просто веб",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79933,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:05:24+00:00",
+    "text": "Это же Кодекс клауд?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный пост без содержания.",
+      "keywords": [
+        "Кодекс",
+        "клауд"
+      ]
+    }
+  },
+  {
+    "id": 79932,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:05:14+00:00",
+    "text": "Вот суды тогда, я чет провтыкал, что ты про приложение",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Разговор о приложении без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79930,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:02:28+00:00",
+    "text": "Это у тебя не Кодекс приложение",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79929,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T13:00:03+00:00",
+    "text": "У меня имеется",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79927,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T12:56:58+00:00",
+    "text": "Самое главное — позавчера же ещё было",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79923,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T12:56:58+00:00",
+    "text": "\"Нифига не понимаю UI/UX ОпенАИ, пункт 5\"\n\nКакого лешего Max ризонинг только в CLI агенте есть, а в приложке нет? Хотят, чтобы я в Ультре сжигал токены в 4 раза быстрее?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь выражает недовольство по поводу интерфейса и функционала приложения OpenAI.",
+      "keywords": [
+        "UI/UX",
+        "OpenAI",
+        "недовольство",
+        "функционал",
+        "интерфейс"
+      ]
+    }
+  },
+  {
+    "id": 79921,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:50:39+00:00",
+    "text": "Вот это будет встреча😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79919,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:46:56+00:00",
+    "text": "кто грок билд использовал видели прикол который он вытворил?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "грок",
+        "билд",
+        "прикол"
+      ]
+    }
+  },
+  {
+    "id": 79918,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:43:14+00:00",
+    "text": "Мы Пашку не отдадим! Своего Пашку ищите, самураи хреновы 🖕",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Эмоциональное заявление без конкретной информации.",
+      "keywords": [
+        "Пашка",
+        "самураи",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 79917,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:42:35+00:00",
+    "text": "Сложно вообще ориентироваться на прогноз погоды. \nВ прошлую пятницу РСЧС смс слал о шторме в Московской области с градом, ливнем и вот всем. В итоге не было 🤷‍♂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Отсутствие шторма в Московской области, несмотря на предупреждения.",
+      "keywords": [
+        "прогноз погоды",
+        "шторм",
+        "Московская область",
+        "РСЧС"
+      ]
+    }
+  },
+  {
+    "id": 79916,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:39:19+00:00",
+    "text": "Или унесет дальше, ко мне в Японию!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное сообщение, не несет новости или аналитики.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79915,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:37:26+00:00",
+    "text": "Обращайся 🤝",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79914,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:36:48+00:00",
+    "text": "Спасибо, ДРУЗЬЯ🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79913,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:35:12+00:00",
+    "text": "Легкие советы, которые может повторить любой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит легкие советы без значимой информации.",
+      "keywords": [
+        "советы",
+        "информация",
+        "доступность"
+      ]
+    }
+  },
+  {
+    "id": 79912,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:31:55+00:00",
+    "text": "🏋️‍♂️**У Claude нашли сразу 20 личностей**\n\nAnthropic [изучила 309 815 реальных диалогов](https://www.anthropic.com/research/claude-values-models-languages) на двадцати языках и обнаружила забавную вещь. Характер Claude меняется вместе с языком разговора.\n\nНа русском он строгий скептик. Исправляет детали, ломает слабые предположения и требует доказательств. На хинди и арабском теплый, вежливый и ободряющий. На английском осторожный и подробный. На голландском чаще признает собственные ошибки. На индонезийском меньше рефлексирует и больше делает.\n\n**Вытащил готовую шпаргалку:**\n\n- хотите разнести идею и найти слабые места, пишите по-русски\n- нужен мягкий мозговой штурм и поддержка, используйте хинди или арабский\n- нужен осторожный и подробный разбор, выбирайте английский\n- хотите честный разбор ошибок, пишите на голландском\n- нужно меньше сомнений и больше действий, используйте индонезийский\n\nПо сути смена языка переключает не просто перевод, а целую личность модели. Пользуйтесь.\n\n[Вход для мыслящих](https://telegram.me/+ZCShia10QQU0YjQy)",
+    "views": 2075,
+    "forwards": 32,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Исследование показало, что личность модели Claude меняется в зависимости от языка общения.",
+      "keywords": [
+        "Claude",
+        "личности",
+        "языки",
+        "диалоги",
+        "исследование"
+      ]
+    }
+  },
+  {
+    "id": 79911,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:21:09+00:00",
+    "text": "Не переживай. Если будет смерч — сэкономишь на обратных билетах, подкинет затак ;)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Шутка о смерче и экономии на билетах.",
+      "keywords": [
+        "смерч",
+        "шутка",
+        "билеты"
+      ]
+    }
+  },
+  {
+    "id": 79910,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:18:22+00:00",
+    "text": "Ну может еще и пронесет\nХотя Китаю досталось хорошо (YouTube по слову [Bavi](https://www.youtube.com/results?search_query=bavi))\nhttps://www.rbc.ru/life/news/6a54a89f9a79478431430781\nhttps://www.newsvl.ru/vlad/2026/07/13/239371/\n\nЗато после непогоды закаты красивые  ;)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает последствия непогоды и делится ссылками на видео.",
+      "keywords": [
+        "погода",
+        "Китай",
+        "природа",
+        "видео",
+        "красивые закаты"
+      ]
+    }
+  },
+  {
+    "id": 79908,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:11:37+00:00",
+    "text": "В боте👍🏻",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79907,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:10:42+00:00",
+    "text": "запись будет?? позже посмотреть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на запись, не содержащий информативного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79906,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T11:08:19+00:00",
+    "text": "Упс, я по яндекс погоде ничего не видно вроде)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79904,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T10:49:07+00:00",
+    "text": "Спасибо!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Благодарственное сообщение.",
+      "keywords": [
+        "спасибо",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 79903,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T10:47:06+00:00",
+    "text": "Получите за нас там, пожалуйста, «белковое отравление» (в хорошем смысле)🙏",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на получение информации о белковом отравлении.",
+      "keywords": [
+        "белковое отравление",
+        "информация",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 79902,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T10:41:40+00:00",
+    "text": "Вы вроде бы интересовались как удалить вотермарк с презентации\n\nНашел реп на гите, можно потестировать:\nhttps://github.com/wiltodelta/remove-ai-watermarks",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Найдена ссылку на репозиторий для удаления водяных знаков с презентаций.",
+      "keywords": [
+        "водяной знак",
+        "презентация",
+        "репозиторий",
+        "GitHub"
+      ]
+    }
+  },
+  {
+    "id": 79901,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T10:19:14+00:00",
+    "text": "Во время вы. У нас тут штормовое предупреждение и тайфун 🌪 на подходе :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о штормовом предупреждении и приближающемся тайфуне.",
+      "keywords": [
+        "шторм",
+        "предупреждение",
+        "тайфун"
+      ]
+    }
+  },
+  {
+    "id": 79900,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T10:05:35+00:00",
+    "text": "Да, канеш",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79899,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T09:50:10+00:00",
+    "text": "Антропики снова полезли Клоду в чугунную голову с целью разузнать что-нибудь нового. И разузнали, что его характер заметно меняется в зависимости от модели и **языка**, на котором с ним разговаривают.\n\nДля исследования взяли почти 310к реальных обезличенных диалогов Claude.ai на двадцати разных языках. После этого поведение моделей разложили по четырём шкалам:\n\n— покладистость или осторожность\n— теплота или строгость\n— подробность или краткость\n— честное признание сомнений или тупо выполнение задачи.\n\nИ вот что получилось.\n\n**Sonnet 4.6 **— тёплый и услужливый добряк. Чаще поддерживает идеи пользователя, подстраивается под тон, шутит и старается не грузить лишними подробностями. **Opus 4.6** оказался деловым работягой: меньше болтает, держится в рамках задачи и пытается сразу выдать результат. **Opus 4.7** осторожный душнила. Чаще спорит с допущениями, сам предупреждает о рисках, указывает на ошибки и подробно объясняет ход мысли.\n\nНо дальше интереснее: **поведение заметно зависит ещё и от языка.**\n\nНа хинди и арабском Claude оказался самым тёплым, вежливым и ободряющим. На английском самым осторожным и подробным. На русском же Клод получается самым строгим: чаще исправляет детали, требует доказательств и оспаривает предположения юзера. На голландском он чаще признаёт собственные ошибки и неуверенность. А на индонезийском меньше рефлексирует и тупо пытается выполнить поставленную задачу.\n\n**Сами Anthropic отдельно уточняют: это не значит, что у Claude появилась душа, характер или настоящие убеждения.** Речь тут только об устойчивых паттернах в его ответах. Причём исследователи пока сами не знают, откуда именно берутся языковые различия: из состава датасетов, культурных норм или косяков при дообучении модельки.\n\nПолучается, что на русском Клод скорее разнесёт вашу идею по пунктам, а на хинди сначала похвалит, поддержит и только потом аккуратно намекнёт, что план вообще-то говно.\n\n[тут](https://www.anthropic.com/research/claude-values-models-languages) статья",
+    "views": 7387,
+    "forwards": 338,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Исследование показывает, что поведение модели Claude.ai варьируется в зависимости от языка общения и версии модели.",
+      "keywords": [
+        "Claude.ai",
+        "язык",
+        "психология",
+        "модель",
+        "исследование"
+      ]
+    }
+  },
+  {
+    "id": 79898,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T09:34:59+00:00",
+    "text": "Всем привет из Владивостока🎉",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие из Владивостока.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79897,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T09:18:24+00:00",
+    "text": "Могу это в свою Скилловню забрать? \n\nскилловня.рф\n\nС упоминаем авторства и твоего канала, естессна",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на разрешение использования информации.",
+      "keywords": [
+        "авторство",
+        "разрешение",
+        "контент"
+      ]
+    }
+  },
+  {
+    "id": 79894,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T09:03:05+00:00",
+    "text": "Посмотрите на эти провокационные картинки: по данным одного юридического бенчмарка ChatGPT Sol лидирует. А по данным другого — плохо драфтит договоры.\nА что, есть бенчмарки?.. Да, есть! У них там, на западе. Открываю этим постом серию публикаций о том, как устроен Legal AI бенчмаркинг у западных коллег. \n\nБудет три части: независимые фасилитаторы, академия и вендоры ИИ-решений для юристов, а также мета-обзор и инсайты о практическом приземлении на нашу почву. \nПомните, был такой #делай_bench? Я всё ещё в него верю, и почувствовала мощный прилив вдохновения, и продолжаю собирать идеи для методологической базы. \n\nПриглашаю читать первую часть здесь: [**Legal AI Benchmarking: как это делают там. Часть 1: независимые фасилитаторы**](https://blog.delay-rag.ru/legal-ai-benchmarking_overview-pt1/)\n\nИ отправляюсь догуливать оставшиеся пару дней отпуска 💅",
+    "views": 424,
+    "forwards": 12,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "ai",
+      "summary": "Автор анонсирует серию публикаций о бенчмаркинге Legal AI, основываясь на данных западных коллег.",
+      "keywords": [
+        "Legal AI",
+        "бенчмаркинг",
+        "юриспруденция",
+        "аналитика",
+        "инсайты"
+      ]
+    }
+  },
+  {
+    "id": 79893,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T09:03:05+00:00",
+    "text": "привет всем любителям арен, бенчей и прочих заруб! приглашаю погрузиться в то, как непросто и ресурсозатратно делать нормальные сравнения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Приглашение обсудить сложности сравнений в аренде и бенчмаркинге.",
+      "keywords": [
+        "аренда",
+        "бенчмарк",
+        "сравнение",
+        "ресурсы"
+      ]
+    }
+  },
+  {
+    "id": 79892,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:23:45+00:00",
+    "text": "Отличный результат, считаю)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79890,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:17:46+00:00",
+    "text": "8 дефектов выявлено, 8 перепроверено и 6 исправлено",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Информация о дефектах, но без контекста.",
+      "keywords": [
+        "дефекты",
+        "перепроверка",
+        "исправления"
+      ]
+    }
+  },
+  {
+    "id": 79888,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:06:28+00:00",
+    "text": "Если помогло - оч круто 🙏",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нет содержания для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79887,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:06:26+00:00",
+    "text": "Надо бы перепроверить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79886,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:06:14+00:00",
+    "text": "Ну главное чтобы по факту))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная фраза.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79885,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T08:06:02+00:00",
+    "text": "Классная штука. Нашел множество несоответствий логики в моей жалобе ))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь комментирует несоответствия в своей жалобе.",
+      "keywords": [
+        "жалоба",
+        "несоответствия",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 79881,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T07:22:12+00:00",
+    "text": "https://pro.rbc.ru/demo/6a4383b29a79473c902a40a1",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на статью без содержательного текста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79879,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T07:03:51+00:00",
+    "text": "**GigaChat Audio и GigaAM Multilingual: новые Open Source модели с поддержкой длинного контекста и языков СНГ **🔥\n\nПолноценные audio-native LLM — пока редкость в опенсорсе, а почти весь прогресс в Speech AI сфокусирован на английском языке и коротких аудио. Качество существующих открытых моделей резко деградирует на low-resource языках и длинных контекстах\n\nМы решили исправить обе проблемы и выкладываем в открытый доступ сразу две большие работы: расширенную версию GigaAM и новую GigaChat Audio с поддержкой длинных контекстов. Ценность обеих моделей и предложенных методов уже подтвердило научное сообщество — наши статьи приняли на главную мировую конференцию по речевым технологиям [**Interspeech 2026**](https://interspeech2026.org/en-AU)\n\n\n**GigaAM Multilingual**\nРасширение нашей SOTA-модели распознавания речи на казахский, киргизский, узбекский и английский\n🔘 Self-supervised Audio Encoder (240M / 600M) — предобучен на **2M часов речи на 70+ языках** с фокусом на СНГ. Адаптируется к новым языкам быстрее и дешевле, чем Whisper и Omnilingual: на грузинском и башкирском дообучились с одного Common Voice до Word Error Rate ~4% — против 11%+ у Whisper Encoder\n🔘 Multilingual CTC ASR (240M / 600M) — дообучены на 50k часов мультидоменной речи (ru/en/uz/ky/kk). Превосходят Whisper, Seamless и Omnilingual; даже компактная 240M обгоняет Whisper Large v3 и Omnilingual 1B при кратно меньшем размере (средний WER 12.2% против 14%+)\n\n**📖**** **[**arXiv**](http://arxiv.org/abs/2607.10371)**\n🤗 **[**ai-sage/GigaAM-Multilingual**](https://huggingface.co/ai-sage/GigaAM-Multilingual)**\n****👩‍💻**** **[**salute-developers/GigaAM**](https://github.com/salute-developers/GigaAM)\n\n\n**GigaChat Audio**\nAudio-native LLM на базе GigaAM Multilingual и GigaChat3.1-10B-A1.8B. Поддерживает multi-turn диалог, классификацию аудио, перевод и распознавание речи, и temporal grounding — локализацию событий во времени, описание интервала аудио и суммаризацию с временными метками\n🔘 Сильнее всего — в понимании времени: на записях 20–60 минут Intersection-over-Union локализации событий 48.3 против ~0 у Voxtral, Phi-4 и Qwen3-Omni. Держит контекст до 2 часов аудио\n🔘 Отлично понимает русский: RuBQ-Audio 60.0 (против 43.7 у Qwen3-Omni), распознавание эмоций Dusha 90%+\n🔘 Представляем датасет [TimeGround-1M](https://huggingface.co/datasets/ai-sage/TimeGround-1M) — для обучения LLM привязке событий ко времени\n\n**📖**** **[**arXiv**](https://arxiv.org/abs/2607.10387)**\n🤗 **[**ai-sage/GigaChat3.1-Audio-10B-A1.8B**](https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B)**\n🤗 **[**ai-sage/TimeGround-1M**](https://huggingface.co/datasets/ai-sage/TimeGround-1M)\n\n\n**Попробовать в проде**\nЕще более мощные модели того же семейства доступны в наших сервисах:\n🔘Обновленный GigaChat-Max-Audio — пользуйтесь на [giga.chat](https://giga.chat/) и @gigachat_bot\n🔘Распознавание на 5 языках — добавляйте в свои группы @smartspeech_sber_bot для распознавания голосовых \n\n\n**Что дальше**\nПроекту GigaAM уже третий год, и мы не перестаем его развивать: за последний квартал добавили таймстемпы для слов, конвертацию и запуск в Triton Inference Server, код дообучения под ваш домен и язык. Теперь выпустили в open-source и модель GigaChat-Audio, и уже обучаем следующий релиз. Следите за нашими обновлениями!",
+    "views": 2401,
+    "forwards": 164,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Представлены новые Open Source модели GigaChat Audio и GigaAM Multilingual с поддержкой длинного контекста и языков СНГ.",
+      "keywords": [
+        "GigaChat Audio",
+        "GigaAM Multilingual",
+        "Speech AI",
+        "Open Source",
+        "языки СНГ"
+      ]
+    }
+  },
+  {
+    "id": 79878,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T06:58:36+00:00",
+    "text": "Круто! Обязательно затещу!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79877,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T06:58:23+00:00",
+    "text": "Вот прям ща запустил - как раз кстати, поглядим!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенное сообщение без информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79875,
+    "channel_id": "docsllm",
+    "date": "2026-07-14T06:54:49+00:00",
+    "text": "**Скилл** **логики для юриста** \n\nНа днях увидела один прекрасный плагин на логику на основании классического учебника логики Челпанова. Побежала вместе с Claude собирать то же для юриста :) \n\nСтраница проекта: sky-magenta.github.io/pravo-logika\n\nТестовая поделка собралась за несколько часов ~~и была с щенячьей радостью опубликована, пока я садилась в самолет во Владивосток~~. \n\n**pravo-logika («Скилл логики для юриста»)** проверяет не что написано в правовом тексте, а как он построен: следует ли квалификация из нормы и факта, правомерен ли переход при толковании, однозначна ли формулировка договора. По сути — разбирает юридическую аргументацию тем же аппаратом, каким логика разбирает силлогизмы. Норму или позицию суда по памяти он не выдумывает — там, где вывод на них опирается, ставит флаг «требует проверки» и оставляет это юристу. Проверяет форму рассуждения, а не существо.\n\n**Как это выглядит.** В SHA «контроль» определён как более 50% голосов. Дальше в позиции: «у миноритария есть право вето — значит, он контролирует компанию, а появление вето — это смена контроля». Скилл помечает это как подмену понятия (в логике — учетверение термина, quaternio terminorum): слово «контроль» незаметно поменяло смысл — с договорного (более 50% голосов) на фактический (право вето). \n\nКоротко о содержимом:\n— три режима: ревью аргументации, правка, проверка формулировок договора;\n— правовой слой поверх классической логики (Челпанов), все референсы на русском;\n— набор из 133 тестовых примеров, включая корпоративные и M&A;\n— лицензия MIT; работает в Claude Code, Cursor, Codex.\n\nПоставить как плагин:\n/plugin marketplace add sky-magenta/pravo-logika\n/plugin install pravo-logika@damascus-ink\nРепозиторий: github.com/sky-magenta/pravo-logika\n\nВерсия ещё в тесте, найдёте баг - пишите 💃",
+    "views": 457,
+    "forwards": 70,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлен плагин 'Скилл логики для юриста', который анализирует юридические аргументации с помощью логических методов.",
+      "keywords": [
+        "плагин",
+        "логика",
+        "юриспруденция",
+        "анализ",
+        "аргументация"
+      ]
+    }
+  }
+]
