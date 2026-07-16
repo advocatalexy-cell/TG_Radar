@@ -1,0 +1,1976 @@
+[
+  {
+    "id": 80198,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:24:33+00:00",
+    "text": "Я взял чисто под локальные модели asus zephyrus с 32 гб, rtx 5080 16 гб и intel core ultra 9 386h. \n\nМне понравилось, модели шуршат довольно резво. Из минусов - печка и шум. Но замеров не проводил и с маками сравнивать не берусь - не люблю их.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным опытом использования ноутбука Asus Zephyrus.",
+      "keywords": [
+        "Asus Zephyrus",
+        "ноутбук",
+        "модели",
+        "опыт",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 80197,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:23:51+00:00",
+    "text": "В браузере многие юзали, хз, может и оформлял кто скилл",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80196,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:21:15+00:00",
+    "text": "в браузере, про локальный я даже не подумал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о браузере без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80195,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:20:11+00:00",
+    "text": "Нет, где искать-то, Вы уточняйте, в браузере или локальном комплекте",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит вопросы о поиске информации.",
+      "keywords": [
+        "поиск",
+        "браузер",
+        "локальный комплект"
+      ]
+    }
+  },
+  {
+    "id": 80194,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:19:29+00:00",
+    "text": "Есть те, кто пробовал — скоростя медленные. На том, что влезает в память — 20-25 т/с",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение медленной работы и ограниченности по памяти.",
+      "keywords": [
+        "скорость",
+        "память",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 80193,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:18:52+00:00",
+    "text": "на гитхаб может или тут делились инструкциями",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации, лишь упоминает о ресурсах для инструкций.",
+      "keywords": [
+        "GitHub",
+        "инструкции",
+        "делиться"
+      ]
+    }
+  },
+  {
+    "id": 80192,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:17:47+00:00",
+    "text": "В где?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный запрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80191,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:15:57+00:00",
+    "text": "а кто-то скрипт/скилл/агета собирал, чтобы практику искать в Консультанте для клода или кодекса?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос информации о скрипте или агентах для поиска практики в Консультанте.",
+      "keywords": [
+        "скрипт",
+        "агент",
+        "практика",
+        "Консультант",
+        "кодекс"
+      ]
+    }
+  },
+  {
+    "id": 80189,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:07:11+00:00",
+    "text": "Я не призываю к покупке на Али. Просто интересен сам факт - есть ли те, кто пробовал (или планирует) подобные решения на AMD Ryzen AI Max+ 395 для локальных моделек? Как оно?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение использования AMD Ryzen AI Max+ 395 для локальных моделей.",
+      "keywords": [
+        "AMD",
+        "Ryzen",
+        "AI",
+        "локальные модели",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80188,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:03:29+00:00",
+    "text": "Нормальные серовозы дешевле тащат",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80187,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T13:03:13+00:00",
+    "text": "Адская переплата",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Недостаток информации, чтобы оценить значимость.",
+      "keywords": [
+        "переплата",
+        "финансы",
+        "недостаток информации"
+      ]
+    }
+  },
+  {
+    "id": 80186,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:46:01+00:00",
+    "text": "Еще лучше. Не, я ж не только с ии работаю. Я в экосистеме эппл давно, у меня специфического софта много куплено под макось. Да и привык",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования экосистемы Apple.",
+      "keywords": [
+        "Apple",
+        "экосистема",
+        "софт",
+        "макось"
+      ]
+    }
+  },
+  {
+    "id": 80185,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:45:08+00:00",
+    "text": "Или Линух",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неизвестная фраза без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80184,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:44:50+00:00",
+    "text": "И алишка. С серовозов хоть какой-то спрос есть. На алишке я покупал ноут, потом горя хапнул его назад отправлять. 2 месяца прошло, еще и возврат платный. Я уж попрощался с деньгами",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится негативным опытом возврата товара на платформе AliExpress.",
+      "keywords": [
+        "AliExpress",
+        "возврат",
+        "ноутбук",
+        "покупка",
+        "негативный опыт"
+      ]
+    }
+  },
+  {
+    "id": 80183,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:43:49+00:00",
+    "text": "Винда....",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80182,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:43:30+00:00",
+    "text": "А если такое?\nGMKtec EVO-X3 AMD Ryzen AI Max+ 395 128 ГБ за 341 334 ₽ на AliExpress \nhttps://ali.click/1h58h1y",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Реклама нового продукта GMKtec на AliExpress.",
+      "keywords": [
+        "GMKtec",
+        "AMD Ryzen",
+        "реклама",
+        "AliExpress",
+        "ноутбук"
+      ]
+    }
+  },
+  {
+    "id": 80181,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:33:48+00:00",
+    "text": "Так и есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80180,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:32:46+00:00",
+    "text": "Под 300к где то получится думаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное сообщение без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80179,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:15:21+00:00",
+    "text": "Да, видел. Там либо 48 pro брать, либо 36 max. pro уже кастом, под заказ и после удорожания может стоить дороже 36 max",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение цен на модели телефонов.",
+      "keywords": [
+        "48 pro",
+        "36 max",
+        "цены",
+        "телефоны",
+        "заказ"
+      ]
+    }
+  },
+  {
+    "id": 80178,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:02:28+00:00",
+    "text": "36 (чип слабее), 48, 64,128. Блин, а 256 нет, оказывается, в макбуках",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение характеристик чипов в макбуках.",
+      "keywords": [
+        "макбуки",
+        "чипы",
+        "характеристики"
+      ]
+    }
+  },
+  {
+    "id": 80177,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T12:01:06+00:00",
+    "text": "36 есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная информация.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80176,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:59:59+00:00",
+    "text": "Это я про m5max pro",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80175,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:59:44+00:00",
+    "text": "32 там вообще такой модели нет, там 45 Гб после 24 насколько знаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение модели с объемом данных.",
+      "keywords": [
+        "модель",
+        "данные",
+        "объем"
+      ]
+    }
+  },
+  {
+    "id": 80174,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:59:27+00:00",
+    "text": "Сорян, но у соседа только 2 почки, на кастомный мак не хватит 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит шутку о соседях и кастомных компьютерах.",
+      "keywords": [
+        "юмор",
+        "сосед",
+        "мак"
+      ]
+    }
+  },
+  {
+    "id": 80173,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:58:35+00:00",
+    "text": "54-256 — это уже большой объём",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный или неполный контекст.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80172,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:57:26+00:00",
+    "text": "32 это немного",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80171,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:28:56+00:00",
+    "text": "Все только на себе тестирую)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80170,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:26:54+00:00",
+    "text": "Скрепку проверял, бро?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неявный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80169,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:13:09+00:00",
+    "text": "Не, старая партия еще есть. Топчики которые. Я хочу на m5max взять с 32 гигами оперативы, чтоб лет 5 ближайших не заморачиваться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение о покупке компьютера m5max с 32 ГБ оперативной памяти.",
+      "keywords": [
+        "m5max",
+        "покупка",
+        "оперативная память",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80168,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T11:12:00+00:00",
+    "text": "Видеомонтаж в 4 к. В перспективе — 5 к",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминание о видеомонтаже в 4K и перспективе 5K.",
+      "keywords": [
+        "видеомонтаж",
+        "4K",
+        "5K"
+      ]
+    }
+  },
+  {
+    "id": 80167,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T10:44:17+00:00",
+    "text": "Посмотрел, там его перерабатывать надо прилично, потому что он все таки на персоналию завязан и там много всяких штук прописано от того, что мне не нравится в документах, что я требую в таких ситуациях, как сохранять, что использовать и тд",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение необходимости переработки документов из-за личных предпочтений.",
+      "keywords": [
+        "переработка",
+        "документы",
+        "персоналия",
+        "требования"
+      ]
+    }
+  },
+  {
+    "id": 80166,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T10:35:26+00:00",
+    "text": "Он же автоматически создаёт и сохраняет нужные скилы, которые повторяются) \n\nМожно конечно повытаскивать попробовать)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение автоматического создания и сохранения скиллов.",
+      "keywords": [
+        "скилы",
+        "автоматизация",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 80165,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T10:32:42+00:00",
+    "text": "Может скил создать?) я бы забрал 👀",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80164,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T10:31:20+00:00",
+    "text": "Пока само постановление не получил, но полагаю, что это массовая проблема, мне товарищ написал, что на том же участке влепили штраф\n\nТо есть проблема в том,что штрафы лепят, но оплатить по факту невозможно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "other",
+      "summary": "Проблема с невозможностью оплаты штрафов, которые были выставлены.",
+      "keywords": [
+        "штрафы",
+        "проблема",
+        "оплата",
+        "неудобство"
+      ]
+    }
+  },
+  {
+    "id": 80163,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T10:25:53+00:00",
+    "text": "Привет, а на основании чего отменили?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределённый вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80161,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T09:46:35+00:00",
+    "text": "Вайбкодерам на заметку)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80160,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T09:38:17+00:00",
+    "text": "Нет, впн США.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о VPN-сервисе в США без содержания.",
+      "keywords": [
+        "VPN",
+        "США",
+        "услуга"
+      ]
+    }
+  },
+  {
+    "id": 80159,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T09:30:32+00:00",
+    "text": "У меня Регистрация - Польша, впн - Польша, карта - Казахстан. 1 год полет нормальный.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования регистрации и карты.",
+      "keywords": [
+        "Регистрация",
+        "Польша",
+        "Казахстан",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 80158,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T09:29:28+00:00",
+    "text": "у меня есть впн территориально синхронизированный с картой оплаты, по моим наблюдениям сейчас расхождение между платёжным средством и локацией входа - основная причина бана",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Расхождение между платёжным средством и локацией входа может привести к блокировке аккаунтов.",
+      "keywords": [
+        "VPN",
+        "блокировка",
+        "платёжное средство",
+        "локация",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 80156,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T09:26:04+00:00",
+    "text": "Использовали ВПН Польши?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос об использовании VPN в Польше.",
+      "keywords": [
+        "ВПН",
+        "Польша",
+        "безопасность",
+        "интернет"
+      ]
+    }
+  },
+  {
+    "id": 80155,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:49:30+00:00",
+    "text": "А вы из РФ через red shield?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о способах доступа из России.",
+      "keywords": [
+        "РФ",
+        "red shield",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 80154,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:47:50+00:00",
+    "text": "Спасибо за советы в любом случае, загадочные проблемы абсолютно\nна трех ноутбуках в квартире все ок с аналогичными настройками впнами и прочим\nно новый упорно сопротивляется)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение проблем с настройками на ноутбуках.",
+      "keywords": [
+        "проблемы",
+        "ноутбуки",
+        "настройки",
+        "впн"
+      ]
+    }
+  },
+  {
+    "id": 80153,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:44:41+00:00",
+    "text": "А геоблок это что? Впн стоит, в браузере клод открывается спокойно, если речь оь этом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о геоблокировке и использовании VPN.",
+      "keywords": [
+        "геоблок",
+        "VPN",
+        "браузер"
+      ]
+    }
+  },
+  {
+    "id": 80152,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:44:25+00:00",
+    "text": "Кодекс нще не попробовал, с чатомгпт как-то не сложились еще давно отношения, но видимо придется пробовать\nПотому что дальше да, отчаяние и обращение к компьютерному мастеру",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с ChatGPT и своим настроением.",
+      "keywords": [
+        "ChatGPT",
+        "опыт",
+        "отношения",
+        "компьютер",
+        "отчаяние"
+      ]
+    }
+  },
+  {
+    "id": 80151,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:42:48+00:00",
+    "text": "И кодекс также? Геоблок не идет?\nЕсли проверено, то тогда мастера на профи через удаленку вызвать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение вопросов геоблока и вызова специалистов.",
+      "keywords": [
+        "геоблок",
+        "мастера",
+        "удаленка",
+        "кодекс"
+      ]
+    }
+  },
+  {
+    "id": 80150,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:39:25+00:00",
+    "text": "Добрый день, печальный апдейт - в терминале тоже отказ в установке без объяснения причин, после ввода команды на установку терминал просто молча думает без каких-либо уведомлений неограниченное время🥲",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Проблемы с установкой в терминале без объяснений.",
+      "keywords": [
+        "терминал",
+        "установка",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 80149,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T08:23:38+00:00",
+    "text": "после последнего сброса лимит codex будто бы уменьшился",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь замечает изменение в лимитах codex.",
+      "keywords": [
+        "codex",
+        "лимит",
+        "изменение"
+      ]
+    }
+  },
+  {
+    "id": 80148,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:43:24+00:00",
+    "text": "Я сам тот еще скопи-дом, но большую часть я храню на классических блинах, быстрой памяти у меня буквально 5tb по разным накопителям.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится информацией о своем хранении данных.",
+      "keywords": [
+        "скопи-дом",
+        "хранение",
+        "данные",
+        "накопители"
+      ]
+    }
+  },
+  {
+    "id": 80147,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:43:19+00:00",
+    "text": "конечно нужна, по крайней мере можно будет обменять на еду потом))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80145,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:42:04+00:00",
+    "text": "Не я понимаю, что как говорится были бы данные и желание. Я просто призадумался над самой концепцией: а нужна ли моим данным быстрая память в таком объеме.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор размышляет о необходимости быстрой памяти для своих данных.",
+      "keywords": [
+        "данные",
+        "память",
+        "концепция",
+        "размышления"
+      ]
+    }
+  },
+  {
+    "id": 80144,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:40:33+00:00",
+    "text": "выдает отчеты такого типа",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Описание типа отчетов.",
+      "keywords": [
+        "отчеты",
+        "тип",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 80143,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:38:50+00:00",
+    "text": "у меня 2 тб и уже не хватает под один проект где надо собрать огромную бд.  А так я просто отслеживаю ботом очень много ssd всяких в надежде вытащить что то с дисконтом 70%+))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом и поиском SSD по скидкам.",
+      "keywords": [
+        "SSD",
+        "дисконт",
+        "база данных",
+        "проект",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 80142,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:38:10+00:00",
+    "text": "Нормально относится. С марта сижу в Клоде с протона",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Личное мнение о ситуации с использованием Клода и Протона.",
+      "keywords": [
+        "Клод",
+        "Протон",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 80140,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:24:43+00:00",
+    "text": "Чтобы lossless музыку стримить😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможности стрима lossless музыки.",
+      "keywords": [
+        "lossless",
+        "музыка",
+        "стриминг"
+      ]
+    }
+  },
+  {
+    "id": 80139,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:20:51+00:00",
+    "text": "А для чего такой объем?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80138,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:15:02+00:00",
+    "text": "Пока все меряются, чей агент умнее, на HN завирусилось эссе с неудобным вопросом: а что если топ-модели скоро подешевеют, и не от щедрости?\n\nАвтор не хайпожор, а разработчик, который несколько недель просидел на открытой GLM 5.2 вместо Opus. И он разложил экономику:\n\n- лаборатории берут ~25 баксов за миллион токенов\n- железо под этим запросом стоит ~10% от цены\n- GLM 5.2 при сопоставимом качестве кода просит 4.40\n\nА самое интересное: пересесть это не «миграция на три года». Claude Code просто ходит в модель по API. Меняешь адрес и ключ, и клод даже не замечает, что думает уже другой головой\n\nВ комментах на HN поймали иронию дня: Claude с радостью поможет тебе с него же и слезть. Первый продукт в истории, который охотно помогает себя заменить\n\nЯ на слово не поверил и проверил: посадил свой Claude Code на GLM 5.2. Работает. Через Ollama Cloud, 800 деревянных в месяц, из РФ оплачивается без танцев с бубном\n\nВ статье показываю, как провернуть то же самое у себя: от установки и оплаты до запуска одной командой. Повторяется за вечер, даже если ты такое никогда не настраивал\n\nПлюс разложил экономику без хайпа (спойлер: у Anthropic всё не так жирно, как пишет автор, и от этого тезис только страшнее) и честно, где GLM тащит, а где не жмись и оставь Opus\n\nЗалетайте почитать\nhttps://ituzovlab.ru/materials/glm-5-2-claude-code",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Анализ экономических аспектов использования моделей GLM 5.2 и Claude Code показывает, что топ-модели могут подешеветь, что представляет собой серьёзный сигнал для индустрии.",
+      "keywords": [
+        "GLM 5.2",
+        "Claude Code",
+        "экономика",
+        "искусственный интеллект",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 80137,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:14:57+00:00",
+    "text": "Нашел тут пост, может кому-то интересно будет попробовать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит незначимую информацию и кампанию по привлечению внимания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80136,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T07:04:58+00:00",
+    "text": "Как Клод относится к аккаунтам на Protonmail и Tuta?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неопределенный вопрос о мнении Клода относительно аккаунтов на Protonmail и Tuta.",
+      "keywords": [
+        "Клод",
+        "Protonmail",
+        "Tuta",
+        "аккаунты",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 80134,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:49:33+00:00",
+    "text": "Это да, продавец не гарантия, но у норм продавцов пали меньше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о продавцах и их надежности.",
+      "keywords": [
+        "продавец",
+        "гарантия",
+        "нормальные"
+      ]
+    }
+  },
+  {
+    "id": 80133,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:43:10+00:00",
+    "text": "ну на том что я прислал отзывов очень много и оценка 4.9. а паленые ссд они и 5 лет назад в ситилинке торговались спокойно, а оригинал можно было и у перекупа взять. я взял самсунг свой на авито",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом покупки SSD и обсуждает возможность приобретения подделок.",
+      "keywords": [
+        "SSD",
+        "отзывы",
+        "покупка",
+        "подделки",
+        "авито"
+      ]
+    }
+  },
+  {
+    "id": 80132,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:41:02+00:00",
+    "text": "Сейчас такие времена, Кингстон как и Самсунг разный бывает...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о брендах Кингстон и Самсунг.",
+      "keywords": [
+        "Кингстон",
+        "Самсунг",
+        "бренды"
+      ]
+    }
+  },
+  {
+    "id": 80131,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:40:19+00:00",
+    "text": "Может хоть рост стабилизируется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий без конкретного содержательного контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80130,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:40:03+00:00",
+    "text": "Ну через 3 года цена станет привычной",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит нечеткое предсказание о будущем.",
+      "keywords": [
+        "цена",
+        "предсказание",
+        "будущее"
+      ]
+    }
+  },
+  {
+    "id": 80129,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:39:55+00:00",
+    "text": "не, кингстон  обычный , он в европе плюс минус также стоит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение цен на товары в Европе.",
+      "keywords": [
+        "Кингстон",
+        "цены",
+        "Европа"
+      ]
+    }
+  },
+  {
+    "id": 80128,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:37:48+00:00",
+    "text": "Ага... подешевеет.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80127,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:35:45+00:00",
+    "text": "Программисты вайбкодят вслух. Теперь для них появился новый девайс от Verne Technologies, чтобы не мешали работать коллегам",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Выпущен новый девайс от Verne Technologies для программистов.",
+      "keywords": [
+        "программисты",
+        "девайс",
+        "Verne Technologies",
+        "работа",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 80126,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:35:18+00:00",
+    "text": "Лично я покупаю готовые гугл аккаунты на всяких сервисах с двухфакторной идентификацией.\nПри регистрации в Клоде потом он обычно не спрашивает телефон.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом покупки готовых аккаунтов Google.",
+      "keywords": [
+        "Google аккаунты",
+        "двухфакторная идентификация",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 80125,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:33:56+00:00",
+    "text": "Китайский подвал?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная фраза.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80124,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:29:07+00:00",
+    "text": "Буду благодарен",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Содержание поста не представляет новостного значимости.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80123,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:23:37+00:00",
+    "text": "могу прислать ссылку на ssd 4tb за 46к. я такое отслеживаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама на SSD.",
+      "keywords": [
+        "SSD",
+        "реклама",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 80122,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:03:57+00:00",
+    "text": "Ну Эппл уже подняли цены на не-айфоны, не знаю, чего ты ждёшь, скорее всего в этом году ещё одно повышение увидим",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "Apple повысила цены на некорпоративную продукцию и ожидается новое повышение.",
+      "keywords": [
+        "Apple",
+        "цены",
+        "повышение",
+        "продукция",
+        "бизнес"
+      ]
+    }
+  },
+  {
+    "id": 80121,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T06:02:42+00:00",
+    "text": "Да я уже всерьёз думаю о внеплановом апгрейде ноута. Хотел дождаться новую яблочную поделку (которая с сенсором), но про неё слухи противоречивые. А то потом придётся почку соседа продавать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает мысли о будущем апгрейде ноутбука.",
+      "keywords": [
+        "апгрейд",
+        "ноутбук",
+        "слухи",
+        "Apple",
+        "сенсор"
+      ]
+    }
+  },
+  {
+    "id": 80120,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:55:00+00:00",
+    "text": "Или откладывать покупку года на 3 минимум",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Совет по откладыванию крупных покупок.",
+      "keywords": [
+        "покупка",
+        "отложить",
+        "совет"
+      ]
+    }
+  },
+  {
+    "id": 80119,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:54:49+00:00",
+    "text": "Поэтому если что-то брать — то брать сейчас",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80118,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:54:36+00:00",
+    "text": "Изделия с памятью из новых поставок — х2",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Информация о новых поставках изделий с памятью.",
+      "keywords": [
+        "изделия с памятью",
+        "новые поставки",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80117,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:54:18+00:00",
+    "text": "Макс и это ещё цены на накопители/оперативу из старых партий",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение цен на накопители и оперативную память.",
+      "keywords": [
+        "цены",
+        "накопители",
+        "оперативная память"
+      ]
+    }
+  },
+  {
+    "id": 80116,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:49:28+00:00",
+    "text": "У меня есть канистра 95 и ssd на 2 Тб. Повешу его как брелок и пойду гулять с канистрой в центр. Все девочки мои 🙂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является шуткой или личным высказыванием без информационной ценности.",
+      "keywords": [
+        "шутка",
+        "брелок",
+        "канистра"
+      ]
+    }
+  },
+  {
+    "id": 80115,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:48:30+00:00",
+    "text": "Ладно-ладно, Второй Рим)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80114,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:47:46+00:00",
+    "text": "Мамадорогая, как подорожала память. Залез посмотреть SSD на 4 Тб. 100 000 почти в Ситилинке! Внешний t7shield — 70 к.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Цены на SSD-накопители значительно возросли.",
+      "keywords": [
+        "SSD",
+        "цены",
+        "память",
+        "технологии",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 80113,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:44:59+00:00",
+    "text": "Сам ты лимита, а мы возвращаем Константинополь в родную гавань 😉",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит незначительное высказывание без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80112,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:43:21+00:00",
+    "text": "Лимита)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80111,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:42:52+00:00",
+    "text": "Чейто? Стамбул не резиновый! Понаедут тут, а потом Клод тормозит 🙂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит юмористический комментарий о ситуации в Стамбуле.",
+      "keywords": [
+        "Стамбул",
+        "юмор",
+        "тема эмиграции"
+      ]
+    }
+  },
+  {
+    "id": 80110,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:42:10+00:00",
+    "text": "Тогда я тоже со Стамбула)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80109,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:24:46+00:00",
+    "text": "Надо 1 сентября в день естественного переименовать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на переименование в день 1 сентября.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80106,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:01:37+00:00",
+    "text": "Второй вариант: я по паспорту R R ;)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80105,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T05:01:05+00:00",
+    "text": "То есть вы не пишете реальное имя и фамилию ни в одном из полей?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о политике конфиденциальности имен.",
+      "keywords": [
+        "имя",
+        "фамилия",
+        "конфиденциальность"
+      ]
+    }
+  },
+  {
+    "id": 80104,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:59:36+00:00",
+    "text": "Если я правильно понимаю карточный процессинг, мерчант не видит, что вы пишете в имени и фамилии.\nСам от лени всегда пишу  R R, никаких вопросов (это не касаемо оплаты за клод).",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится мнением о карточном процессинге и написании имени и фамилии.",
+      "keywords": [
+        "карточный процессинг",
+        "мерчант",
+        "имя",
+        "фамилия"
+      ]
+    }
+  },
+  {
+    "id": 80103,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:49:41+00:00",
+    "text": "И как вы указываете имя и фамилию при регистрации? Ведь при указании платёжной карты от правды не уйти",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение процесса регистрации и указания имени при использовании платёжной карты.",
+      "keywords": [
+        "регистрация",
+        "платёжная карта",
+        "имя",
+        "фамилия"
+      ]
+    }
+  },
+  {
+    "id": 80102,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:48:42+00:00",
+    "text": "Друзья, посоветуйте плиз, какую почту можно зарегить и с нее открыть новый акк в Клоде? У меня ящики gmail уже заканчиваются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос совета о почтовых сервисах для регистрации нового аккаунта.",
+      "keywords": [
+        "почта",
+        "регистрация",
+        "аккаунт",
+        "совет",
+        "Клод"
+      ]
+    }
+  },
+  {
+    "id": 80101,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:48:37+00:00",
+    "text": "Я ж написал — в памяти",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80100,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:47:18+00:00",
+    "text": "Это в системной инструкции?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации о системной инструкции.",
+      "keywords": [
+        "системная инструкция",
+        "информация",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 80099,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:32:00+00:00",
+    "text": "а у меня завтра обновление. недельный лимит на сутки )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о личном обновлении без сути.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80098,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:28:09+00:00",
+    "text": "У меня вчера вечером и так сбросились, абыдна",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80096,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:25:45+00:00",
+    "text": "Вот козявки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80095,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T04:20:27+00:00",
+    "text": "Клод сбросил лимиты) Фестиваль щедрости😂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о снятии лимитов от Клода.",
+      "keywords": [
+        "Клод",
+        "лимиты",
+        "фестиваль щедрости"
+      ]
+    }
+  },
+  {
+    "id": 80094,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:35:37+00:00",
+    "text": "Понаехалы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Отсутствует содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80093,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:35:23+00:00",
+    "text": "Воронеж — это маленький Стамбул, ты не знал?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Утверждение о Воронеже как маленьком Стамбуле.",
+      "keywords": [
+        "Воронеж",
+        "Стамбул",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 80092,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:34:48+00:00",
+    "text": "А как же Воронеж?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный контекст запроса о Воронеже.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80091,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:34:43+00:00",
+    "text": "Стамбуле?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80090,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:05:18+00:00",
+    "text": "Чортовы эмигранты",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нейтральное высказывание без значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80089,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T03:04:39+00:00",
+    "text": "У меня давно так. Я живу в Стамбуле и удалённо работаю с Россией.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится личным опытом работы из Стамбула.",
+      "keywords": [
+        "Стамбул",
+        "удаленная работа",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 80088,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T02:41:28+00:00",
+    "text": "Кажуть,  Ternary Bonsai 27B (5,9 Гб) очень неплохо показывает себя на фоне Qwen 3.6 27B в полной точности\n\nhttps://fixupx.com/teksedge/status/2077196916019085781?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "ai",
+      "summary": "Ternary Bonsai 27B показывает хорошие результаты по сравнению с Qwen 3.6 27B.",
+      "keywords": [
+        "Ternary Bonsai",
+        "Qwen 3.6",
+        "искусственный интеллект",
+        "результаты",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 80087,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T02:36:09+00:00",
+    "text": "Гугл обновляет Гемму 4 https://fixupx.com/googlegemma/status/2077449152062247219?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Гугл обновляет Гемму 4.",
+      "keywords": [
+        "Гугл",
+        "Гемма 4",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 80084,
+    "channel_id": "docsllm",
+    "date": "2026-07-16T01:58:03+00:00",
+    "text": "Стартап Миры Мурати релизнул свою первую модель Inkling\n\nИ сразу – в опенсорс. И сразу – обученную с нуля и огромную, на 975 миллиардов параметров (MoE 41B активных). \n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\nМоделька мультимодальная, с хорошими метриками на аудио и image бенчмарках. Плюс неплохой ризонинг. В целом по способностям уровень GLM-5.2 с небольшой просадкой по кодингу.",
+    "views": 15776,
+    "forwards": 261,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Стартап Миры Мурати выпустил мультимодальную модель Inkling с 975 миллиардов параметров в опенсорс.",
+      "keywords": [
+        "Inkling",
+        "стартуп",
+        "модель",
+        "мультимодальная",
+        "опенсорс"
+      ]
+    }
+  }
+]
