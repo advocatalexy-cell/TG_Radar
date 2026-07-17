@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1911,
+    "channel_id": "neural_houses",
+    "date": "2026-07-17T08:17:51+00:00",
+    "text": "🚀 **GPT-5.6, Inkling и Claude для учителей**\n\nЛовите свежий дайджест новостей из мира ИИ 👇\n\n🧠 **GPT-5.6 от OpenAI**\n\nOpenAI представила новое обновление GPT-5.6.\n\nМодель стала лучше справляться со сложными рабочими задачами, анализом информации и профессиональными сценариями.\n\n**Подробнее **[**здесь**](https://openai.com/ru-RU/index/gpt-5-6/)\n\n⚙️** Inkling от Thinking Machines**\n\nThinking Machines Lab выпустила свою первую open-weight модель — Inkling.\n\nМодель поддерживает работу с текстом, изображениями и аудио, а разработчики могут адаптировать её под свои задачи.\n\n**Подробнее **[**тут**](https://thinkingmachines.ai/news/introducing-inkling/)\n\n🎉 **Claude for Teachers от Anthropic**\n\nAnthropic представила Claude для учителей.\n\nИИ помогает создавать учебные материалы, готовить уроки и адаптировать задания под учеников.\n\n**Подробнее **[**здесь**](https://www.anthropic.com/news/claude-for-teachers)\n**                                                                                                                                                                                                                         Кто сейчас лидирует в гонке ИИ: OpenAI, Anthropic или новые игроки? ****🧐**",
+    "views": 589,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Объявлены новые ИИ-модели от OpenAI, Thinking Machines и Anthropic, предназначенные для работы в образовании и профессиональной сфере.",
+      "keywords": [
+        "ИИ",
+        "GPT-5.6",
+        "Inkling",
+        "Claude for Teachers",
+        "новости"
+      ]
+    }
+  }
+]
