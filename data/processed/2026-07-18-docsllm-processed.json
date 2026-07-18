@@ -1,0 +1,974 @@
+[
+  {
+    "id": 80627,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T13:30:11+00:00",
+    "text": "Вот крайне любопытная штука — новый оптимизированный движок инференса для работы на ЦПУ. \n\nЗаявляют, что чисто на ЦПУ  Квен 35В МоЕ выдаёт аж 10 т/сек. \n\nUPD: углубился в комменты, судя по всему, особых оптимизация для ЦПУ нет(((, чуваки позиционируют себя в первую очередь как больше соответствующих Европейскому ИИ Акту, никакой телеметрии и т.п.\n\nhttps://www.reddit.com/r/LocalLLM/s/sf8MtoAj7h",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлен новый движок инференса для работы на ЦПУ, обещающий высокую производительность.",
+      "keywords": [
+        "оптимизированный движок",
+        "инференс",
+        "ЦПУ",
+        "перформанс",
+        "Европейский ИИ Акт"
+      ]
+    }
+  },
+  {
+    "id": 80626,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T13:20:18+00:00",
+    "text": "Прочитать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на действие без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80625,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T13:19:43+00:00",
+    "text": "Чё делать-то с этим?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержится значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80624,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T13:18:35+00:00",
+    "text": "Да мы подзатянули даже, надо было раньше сворачивать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о необходимости сворачивания.",
+      "keywords": [
+        "сворачивать",
+        "подзатянули",
+        "поздно"
+      ]
+    }
+  },
+  {
+    "id": 80622,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T13:17:39+00:00",
+    "text": "... или не будут. Эксперимент был слишком краток.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит неопределенную информацию без конкретного содержания.",
+      "keywords": [
+        "эксперимент",
+        "неопределенность",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 80620,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:56:09+00:00",
+    "text": "LM Studio представила **Bionic** — новый агентский интерфейс для работы с открытыми языковыми моделями.\n\nЕсли раньше LM Studio в первую очередь ассоциировалась с удобным запуском локальных LLM, то Bionic делает следующий шаг: теперь это полноценный AI-агент, способный работать с кодом, документами и файлами, используя как локальные модели, так и (при необходимости) облачные open-weight модели. ([9to5Mac](https://9to5mac.com/2026/07/16/lm-studio-expands-beyond-chat-with-bionic-a-new-ai-agent-app-for-open-models/?utm_source=chatgpt.com))\n\nЧто заявлено:\n• агентный режим для выполнения сложных задач;\n• работа с кодом, исследованиями и большими наборами документов;\n• возможность переключаться между локальным запуском и облаком в зависимости от сложности задачи;\n• политика Zero Data Retention для облачных запросов;\n• локальная голосовая диктовка, работающая во всех приложениях. ([9to5Mac](https://9to5mac.com/2026/07/16/lm-studio-expands-beyond-chat-with-bionic-a-new-ai-agent-app-for-open-models/?utm_source=chatgpt.com))\n\nФактически LM Studio выходит на территорию, где сегодня работают Codex, Claude Code, OpenCode, Crush и другие AI-harness’ы, но делает ставку на экосистему открытых моделей и возможность выполнять значительную часть задач локально. При этом классический LM Studio продолжает развиваться как отдельный продукт. ([9to5Mac](https://9to5mac.com/2026/07/16/lm-studio-expands-beyond-chat-with-bionic-a-new-ai-agent-app-for-open-models/?utm_source=chatgpt.com))\n\nОригинальный анонс:\nhttps://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "LM Studio представила новый агентский интерфейс Bionic для работы с открытыми языковыми моделями.",
+      "keywords": [
+        "Bionic",
+        "агентский интерфейс",
+        "открытые языковые модели",
+        "LM Studio",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80619,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:55:55+00:00",
+    "text": "Пробовали. Народ не заценил",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение реакции народа на что-то.",
+      "keywords": [
+        "реакция",
+        "народ",
+        "пробовали"
+      ]
+    }
+  },
+  {
+    "id": 80618,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:55:55+00:00",
+    "text": "Потому что 99% разговоров будут в болталке, а остальные темы будут тухнуть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Комментарий о разговорной активности в чате.",
+      "keywords": [
+        "болталка",
+        "разговор",
+        "темы"
+      ]
+    }
+  },
+  {
+    "id": 80617,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:55:54+00:00",
+    "text": "Потому что эксперимент с темами показал, что это плохая идея",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Эксперимент с темами признан неудачным.",
+      "keywords": [
+        "эксперимент",
+        "темы",
+        "неудача"
+      ]
+    }
+  },
+  {
+    "id": 80616,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:55:51+00:00",
+    "text": "был эксперимент на эту тему - отказались. Мне как пользователю такие группы неудобны, многим другим, скорее всего, тоже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение неудобства от участия в каких-то группах.",
+      "keywords": [
+        "эксперимент",
+        "группы",
+        "неудобство"
+      ]
+    }
+  },
+  {
+    "id": 80615,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:53:45+00:00",
+    "text": "Вопрос в студию. Почему здесь чат, а не группа с темами? Очевидно же, что это удобнее, системнее и проч. Ммм?🤨",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос об удобстве формата общения в чате.",
+      "keywords": [
+        "чат",
+        "группа",
+        "темы"
+      ]
+    }
+  },
+  {
+    "id": 80614,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T12:29:13+00:00",
+    "text": "**В сеть утек исходный код Suno, но создать конкурента не выйдет**\n\nВ открытый доступ попал репозиторий стартапа Suno, создающего высококачественную нейромузыку по тексту или запросу. Утекли исходники (версии 2023–2024, после этого в 2025 модель сильно апнули, но исходников новых версий в утечке нет), внутренние логи и скрипты для сбора данных — в частности, упоминается парсинг более 2 млн треков с YouTube Music.\n\nОднако сами веса обученной модели не скомпрометированы. Без них код бесполезен для локального запуска. В Suno уже заявили, что утечка касается устаревшего кода и не влияет на текущие сервисы.\n\nТаким образом, о появлении открытой альтернативы Suno речь не идёт. Утечка лишь подлила масла в пламя судебных исков от звукозаписывающих лейблов, которые обвиняют стартап в нелегальном использовании контента. Но технически это событие вияд ли приблизило эру локальных музыкальных нейросетей сопоставимого уровня.",
+    "views": 5952,
+    "forwards": 28,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "В сеть утекло старое программное обеспечение стартапа Suno, но без обученных весов модель не может быть локально запущена.",
+      "keywords": [
+        "Suno",
+        "утечка",
+        "исходный код",
+        "нейромузыка",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80613,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T11:39:30+00:00",
+    "text": "🇨🇳 В ответ на слухи об M7 Ultra компания Huawei представляет **MateDataCenter Home Edition** — первый в мире домашний ЦОД на базе компактного атомного реактора поколения Hualong-mini:\n— мощность реактора 5 МВт\n— RAM 128 ТБ\n— NVMe 2 ПБ\n— Встроенный терминал Guowang\n\nПредзаказ открыт на AliExpress!\nПродай квартиру, купи наш ЦОД. Автограф Си на память",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Huawei представила первый в мире домашний центр обработки данных на базе атомного реактора Hualong-mini.",
+      "keywords": [
+        "Huawei",
+        "домашний ЦОД",
+        "атомный реактор",
+        "технологии",
+        "инновации"
+      ]
+    }
+  },
+  {
+    "id": 80612,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T11:20:52+00:00",
+    "text": "Кстати, я тут подумал, а что тебе мешает на ресурсоёмкие задачи и сейчас 5.5 кидать?))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный комментарий без значимого содержания.",
+      "keywords": [
+        "ресурсоёмкие задачи",
+        "комментарий",
+        "неясно"
+      ]
+    }
+  },
+  {
+    "id": 80610,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T10:21:20+00:00",
+    "text": "ГЛМ тоже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное сообщение без дополнительного контекста.",
+      "keywords": [
+        "ГЛМ"
+      ]
+    }
+  },
+  {
+    "id": 80609,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T10:08:15+00:00",
+    "text": "Тогда уж, оплата в токенах разных провайдеров ии, на выбор😂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о возможности оплаты в токенах различных провайдеров ИИ.",
+      "keywords": [
+        "оплата",
+        "токены",
+        "ИИ",
+        "провайдеры",
+        "выбор"
+      ]
+    }
+  },
+  {
+    "id": 80608,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T10:05:43+00:00",
+    "text": "Субботнее...",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Содержание незначимо для новостного анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80607,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:48:40+00:00",
+    "text": "Сложно предположить влезет ли то чего пока еще нет в то чего также еще нет))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное высказывание без конкретики.",
+      "keywords": [
+        "неясность",
+        "предположение",
+        "отсутствие данных"
+      ]
+    }
+  },
+  {
+    "id": 80606,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:46:05+00:00",
+    "text": "3 не влезет, думаешь?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не информативный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80605,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:45:34+00:00",
+    "text": "Ну Кими к2.6 засунуть можно будет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное сообщение о возможностях Кими и версии 2.6.",
+      "keywords": [
+        "Кими",
+        "версия",
+        "2.6"
+      ]
+    }
+  },
+  {
+    "id": 80604,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:42:46+00:00",
+    "text": "Apple готовит настоящий компьютер-монстр. M7 Ultra может получить до 1,5 ТБ оперативной памяти. 💾\n\nДа, вы не ослышались. По данным Марка Гурмана (Bloomberg), Apple проектирует чип M7 Ultra с поддержкой до 1,5 ТБ объединенной памяти. Если это случится, Apple Silicon впервые догонит по максимуму памяти легендарный Mac Pro 2019 на Intel.\n\nПравда, есть нюанс. Из-за мирового дефицита памяти такая конфигурация может выйти не сразу — или вообще оказаться очень ограниченной.\n\nДля сравнения: уже в этом году ожидается M5 Ultra с рекордными для Apple 768 ГБ памяти, а M7 Ultra должен поднять планку почти вдвое.\n\nНо самое интересное — цена. Если Apple сохранит нынешнюю стоимость апгрейда памяти, версия с 1,5 ТБ ОЗУ может подорожать более чем на $35 000 только за память. Это уже уровень профессиональных студий, крупных ИИ-проектов и научных вычислений.\n\nОбычным пользователям такие объемы вряд ли понадобятся, но сам факт впечатляет: Apple постепенно снимает одно из последних ограничений Apple Silicon.\n\nА как думаете, кому вообще может понадобиться 1,5 ТБ оперативной памяти? Или это уже перебор даже для профессионалов? 👇\n\nВсе про маки @pro_mac",
+    "views": 575,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "Apple разрабатывает чип M7 Ultra с поддержкой до 1,5 ТБ оперативной памяти.",
+      "keywords": [
+        "Apple",
+        "M7 Ultra",
+        "оперативная память",
+        "чип",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 80603,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:42:46+00:00",
+    "text": "Только став вайбкодером Вася понял, что третья почка — это не патология, а дар Божий 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост с шуткой о вайбкодерах и почках.",
+      "keywords": [
+        "вибкодер",
+        "шутка",
+        "почка"
+      ]
+    }
+  },
+  {
+    "id": 80602,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:40:34+00:00",
+    "text": "Корыстная узкоглазая сволочь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неуместный комментарий.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80601,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:40:20+00:00",
+    "text": "Ага денег просит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит просьбу о деньгах.",
+      "keywords": [
+        "деньги",
+        "попросить",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 80600,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:40:00+00:00",
+    "text": "Забанил кимоша? 😂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит незначительное сообщение без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80599,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:39:40+00:00",
+    "text": "Уже поздно🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80598,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T09:38:22+00:00",
+    "text": "В настройках смотрите, одна из вкладок",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80589,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T08:06:31+00:00",
+    "text": "зато там есть игровые автоматы. если вдруг кто-то захочет все таки попробовать, пишите кину инвайт 😆 подписки на 1 день как раз хватит чтобы выжечь все лимиты. дают подписку обоим как я понял",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о играх на автоматах и подписках.",
+      "keywords": [
+        "игровые автоматы",
+        "подписки",
+        "инвайт"
+      ]
+    }
+  },
+  {
+    "id": 80587,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:50:07+00:00",
+    "text": "Как курсор получается\nНе знал спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Непонятный пост без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80586,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:33:31+00:00",
+    "text": "а нет, в кими просто сжигается все и сразу . короче одноразовая подписка. не советую)))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится неудачным опытом с одноразовой подпиской на сервис.",
+      "keywords": [
+        "подписка",
+        "неудачный опыт",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 80585,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:13:38+00:00",
+    "text": "Ну хай/мед не так сильно. Макс и особенно Ультра — там да. Но у ГПТ есть резеты кстати",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение особенностей устройств и платформа.",
+      "keywords": [
+        "ГПТ",
+        "Макс",
+        "Ультра",
+        "резеты",
+        "особенности"
+      ]
+    }
+  },
+  {
+    "id": 80584,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:12:19+00:00",
+    "text": "Сол тоже выжигает квоту, как 5.5 не выжигал, но да, тут только экспериментировать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост обсуждает использование Сол для квот.",
+      "keywords": [
+        "Сол",
+        "квота",
+        "эксперимент"
+      ]
+    }
+  },
+  {
+    "id": 80583,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:10:36+00:00",
+    "text": "Попробуйте Кими еще, я там что-то так и не понял лимиты где смотреть, но на 20 баксовой в них упереться так и не получилось, хотя я код им делал и субагентов пускал толпами. Условный гпт за 20 бачей  закончился бы сразу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с сервисом Кими, обсуждая лимиты.",
+      "keywords": [
+        "Кими",
+        "лимиты",
+        "опыт",
+        "субагенты",
+        "код"
+      ]
+    }
+  },
+  {
+    "id": 80582,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T07:06:50+00:00",
+    "text": "Ну так тем более есть смысл гпт подключать в пайплайн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение подключения GPT в рабочие процессы.",
+      "keywords": [
+        "GPT",
+        "пайплайн",
+        "подключение"
+      ]
+    }
+  },
+  {
+    "id": 80581,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:32:46+00:00",
+    "text": "Больше токенов уходит на ресерчи конечно, спокойно по 2-3 млн токенов за раз, а иногда по 20 агентов фигачат в раз.\n\nКороче токенмаксинг жесткий",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает использование токенов в ресерче, но не предоставляет значимой информации.",
+      "keywords": [
+        "токены",
+        "ресерч",
+        "агенты"
+      ]
+    }
+  },
+  {
+    "id": 80580,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:31:45+00:00",
+    "text": "Я после новости его ещё обновлю, Фейбл в пайплайн добавлю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное сообщение о добавлении в пайплайн.",
+      "keywords": [
+        "Фейбл",
+        "пайплайн",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 80579,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:31:01+00:00",
+    "text": "А, это ты зря. Переходи лучше на схему 100+100",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный и непонятный комментарий.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80578,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:30:36+00:00",
+    "text": "Но посмотрю ага",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80577,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:30:26+00:00",
+    "text": "Я как раз его обновил с учётом новых моделей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о обновлении чего-то без ключевой информации.",
+      "keywords": [
+        "обновление",
+        "модели",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 80576,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:30:26+00:00",
+    "text": "У меня там 20 баксовая, много не напишет)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80574,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:29:50+00:00",
+    "text": "Глянь мой суперповерс, пущай и код пишет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама или обсуждение личного проекта без значимого содержания.",
+      "keywords": [
+        "суперповерс",
+        "код",
+        "проект"
+      ]
+    }
+  },
+  {
+    "id": 80573,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:29:08+00:00",
+    "text": "Он у меня ревьючит план до написания кода и после реализации",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение процесса ревью проекта.",
+      "keywords": [
+        "ревью",
+        "план",
+        "код"
+      ]
+    }
+  },
+  {
+    "id": 80572,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:28:37+00:00",
+    "text": "Подписка на ЧатГПТ есть?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о наличии подписки на ЧатГПТ.",
+      "keywords": [
+        "подписка",
+        "ЧатГПТ",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 80571,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:27:56+00:00",
+    "text": "Мне не хватает недельной квоты, поэтому я еле использую его(\n\nУже думал вместо клодовских субчиков вызывать в рамках кода новую Кими или еще чего.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своими трудностями с квотами и размышлениями о заменах.",
+      "keywords": [
+        "квота",
+        "Кими",
+        "клодовские субчики"
+      ]
+    }
+  },
+  {
+    "id": 80570,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T06:23:45+00:00",
+    "text": "Ну слава Богу. А то Фэйбл реально основным преимуществом Антропик осталась",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о предпочтениях между Фэйбл и Антропик.",
+      "keywords": [
+        "Фэйбл",
+        "Антропик",
+        "преимущество"
+      ]
+    }
+  },
+  {
+    "id": 80569,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:25:54+00:00",
+    "text": "**Hugging Face × alphaXiv **[**запустили**](https://huggingface.co/spaces/ICML-2026-agent-repro/challenge)** крутой челлендж**\n\nВ качестве задачи разработчикам и исследователям предлагают взять любую интересующую научную работу и попытаться воспроизвести ее ключевые результаты с помощью агентов.\n\nЦель проекта – создать публичную базу проверок научных работ, чтобы сделать их более прозрачными и воспроизводимыми. Особенно учитывая, что около 70% работ в ИИ не воспроизводятся.\n\nИз приятного: организаторы предлагают GPU-кредиты на 4000$ + отдельные призы от OpenResearch. А сам челлендж закончится 2 августа, так что не упустите возможность поучаствовать.",
+    "views": 15443,
+    "forwards": 304,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Hugging Face и alphaXiv запускают челлендж по воспроизводимости научных результатов в области ИИ.",
+      "keywords": [
+        "Hugging Face",
+        "alphaXiv",
+        "челлендж",
+        "воспроизводимость",
+        "научные работы"
+      ]
+    }
+  },
+  {
+    "id": 80568,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:25:53+00:00",
+    "text": "Ой какое дело хорошее",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80567,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:24:34+00:00",
+    "text": "Так хорошо себя чувствую, что не стала выдергиваться из отпуска и срочно что-то делать в фейбле!)) 😎",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится своими впечатлениями об отпуске.",
+      "keywords": [
+        "отпуск",
+        "настроение",
+        "фейбл"
+      ]
+    }
+  },
+  {
+    "id": 80566,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:21:36+00:00",
+    "text": "Ага, для Макс и Тим Премиум",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама или упоминание сервиса.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80565,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:20:13+00:00",
+    "text": "То есть останется в подписках?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80564,
+    "channel_id": "docsllm",
+    "date": "2026-07-18T03:09:03+00:00",
+    "text": "Hahaha",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]
