@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2311,
+    "channel_id": "corpconflicts",
+    "date": "2026-07-19T06:16:51+00:00",
+    "text": "Украинские блоггеры запустили новое бинго в твиттере",
+    "views": 7,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Украинские блоггеры объявили о запуске нового бинго в Twitter.",
+      "keywords": [
+        "блоггеры",
+        "бинго",
+        "Twitter",
+        "Украина"
+      ]
+    }
+  }
+]
