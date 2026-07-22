@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2106,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-22T07:03:44+00:00",
+    "text": "Сегодня в 13:00 в эфире соберем мини соцсеть с помощью инструментов, доступных в РФ без блокировок. Подключайтесь 🔥\n\n👉 [Зайти на вебинар](https://university.zerocoder.ru/marathon-vibecode-1-2_web?utm_content=channel_oqode&utm_term=22.07.26&erid=2W5zFHHrtUH)\n\nКто был на первом эфире марафона? Делитесь впечатлениями 👇",
+    "views": 1051,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс вебинара по созданию мини соцсети.",
+      "keywords": [
+        "вебинар",
+        "соцсеть",
+        "инструменты",
+        "без блокировок",
+        "марафон"
+      ]
+    }
+  }
+]

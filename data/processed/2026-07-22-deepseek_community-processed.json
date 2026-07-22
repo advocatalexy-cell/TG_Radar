@@ -1,0 +1,142 @@
+[
+  {
+    "id": 21127,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:35:36+00:00",
+    "text": "Qwen 3.8 vs Qwen 3.7-Plus\n**Qwen 3.7-Plus** — бюджетная модель линейки 3.7 (июнь 2026). Главная идея: приблизиться к флагманскому Max, но в ~6 раз дешевле.\n**Где 3.8 выигрывает:**\n**Качество рассуждений и кода** — 3.8 превосходит даже Max, а Plus заметно уступает Max. Разрыв с 3.8 ещё больше.\n**Мультимодальность** — Plus работает с изображениями и видео, 3.8 добавляет ещё и документы.\n**Масштаб** — 2.4 трлн параметров.\n**Где 3.7-Plus по-прежнему хорош:**\n**Цена** — $0.40/M input, один из самых выгодных вариантов для продакшена.\n**Скорость** — ~53 t/s, для потоковых задач этого достаточно.\n**«Достаточно хорошо»** — по части тестов Plus совпадает с Max, так что переплата за 3.8 не всегда оправдана.\n**Итог:** для сложных агентных и кодовых задач — 3.8. Для массовых и рутинных — 3.7-Plus по-прежнему отличный выбор.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Сравнение производительности и возможностей моделей Qwen 3.8 и Qwen 3.7-Plus.",
+      "keywords": [
+        "Qwen 3.8",
+        "Qwen 3.7-Plus",
+        "машинное обучение",
+        "модели",
+        "аналитика"
+      ]
+    }
+  },
+  {
+    "id": 21126,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:34:56+00:00",
+    "text": "Жалко что на sql бекапы не хватило мозгов чтобы их вшивать . Одну вкладку чисто по приколу добавил чтобы посмотреть на инструментарий доступных код моделей на litert",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится своими размышлениями по поводу SQL и инструментов для работы с код моделями.",
+      "keywords": [
+        "SQL",
+        "бекапы",
+        "код модели",
+        "литература"
+      ]
+    }
+  },
+  {
+    "id": 21125,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:30:01+00:00",
+    "text": "Посмотрите на этот мод приятно удивитесь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21124,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:29:22+00:00",
+    "text": "Сожрал пдф на 560 чанков пдф -20 мб",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенный пост без значимой информации.",
+      "keywords": [
+        "пдф",
+        "чанки",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 21123,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:28:45+00:00",
+    "text": "Глубокая модификация гугловской грани",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждение изменений в продукте Google.",
+      "keywords": [
+        "Google",
+        "модификация",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 21122,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T12:28:21+00:00",
+    "text": "Halved - rel - \n Rag Search - context - active in chat\n Search in web\n Пересобрана архитектура скиллов навыков будет в будущем поддержка самообучения новым навыкам",
+    "views": 20,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Пересобрана архитектура скиллов, планируется поддержка самообучения новым навыкам.",
+      "keywords": [
+        "архитектура",
+        "скиллы",
+        "самообучение",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 21118,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-22T10:40:55+00:00",
+    "text": "А что насчет Qwen3.7-**Plus**?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение модели Qwen3.7-Plus.",
+      "keywords": [
+        "Qwen3.7-Plus",
+        "модель",
+        "технологии"
+      ]
+    }
+  }
+]
