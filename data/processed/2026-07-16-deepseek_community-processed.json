@@ -1,0 +1,23 @@
+[
+  {
+    "id": 21028,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-16T12:05:25+00:00",
+    "text": "**Сделал короткий AI Shorts с необычной идеей. Хочу получить мнение людей, которые интересуются ИИ. Что можно улучшить? \n\n****https://youtube.com/shorts/T7B3Fy63S5s?si=x4_bwk6JyGjUmxHt**",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится коротким видео об идее в сфере ИИ и ждет отзывы.",
+      "keywords": [
+        "AI",
+        "мнение",
+        "идеи",
+        "обратная связь"
+      ]
+    }
+  }
+]

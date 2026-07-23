@@ -1,0 +1,529 @@
+[
+  {
+    "id": 80723,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T13:38:54+00:00",
+    "text": "я не покупал подписку пока, но у меня 4 таких купона на 3 дня каждый. Как их использовать - неясно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь задает вопрос о том, как использовать купоны на подписку.",
+      "keywords": [
+        "купоны",
+        "подписка",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 80722,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T13:28:58+00:00",
+    "text": "Во, разбудили) Спасибо!)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80721,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T13:26:54+00:00",
+    "text": "Да работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80720,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T13:25:51+00:00",
+    "text": "Товарищи, а у всех GPT сейчас прилег отдохнуть?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь интересуется состоянием GPT.",
+      "keywords": [
+        "GPT",
+        "состояние",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 80718,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T10:52:17+00:00",
+    "text": "заценим. или уже подвезли серверов за утро, или просто маркетинговый ход китайским конем, но дали подписаться (эккаунт был и раньше, просто подписку останавливал). дают ~~интернет~~ доступ к новым эккаунтам по талонам, делюсь",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждается доступ к новым эккаунтам и возможный маркетинговый ход.",
+      "keywords": [
+        "доступ",
+        "эккаунты",
+        "маркетинг",
+        "талоны"
+      ]
+    }
+  },
+  {
+    "id": 80717,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T10:29:27+00:00",
+    "text": "Вот с «ещё» и «быстренько» как раз проблемы серьёзные",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблемы с терминологией.",
+      "keywords": [
+        "проблемы",
+        "терминология",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 80716,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T10:28:44+00:00",
+    "text": "А мы ещё на Антропик за лимиты жалуемся)) Зажрались))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост с юмором о лимитах на услуги.",
+      "keywords": [
+        "Антропик",
+        "лимиты",
+        "юмор"
+      ]
+    }
+  },
+  {
+    "id": 80715,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T10:04:28+00:00",
+    "text": "**🍿**** ИИ-Лаборатория США: \"Китай не должен подобраться к нашим технологиям\".\n\nТем временем, в лаборатории США:**\n\n[**Подписаться**](https://t.me/+D6hk9KdX5QMxNjAy)",
+    "views": 4433,
+    "forwards": 94,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "США обеспокоены возможным доступом Китая к своим технологиям.",
+      "keywords": [
+        "ИИ",
+        "США",
+        "Китай",
+        "технологии",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 80712,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T08:31:28+00:00",
+    "text": "Кто-нибудь чем-то пользуется на постоянке для мэшапов / аудиогенераций? Именно сервисом, не Suno",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователи ищут сервисы для мэшапов и аудиогенераций.",
+      "keywords": [
+        "мэшапы",
+        "аудиогенерация",
+        "сервисы"
+      ]
+    }
+  },
+  {
+    "id": 80711,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T08:25:37+00:00",
+    "text": "Можно через api пользовать ;)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о возможности использования API.",
+      "keywords": [
+        "API",
+        "возможность",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 80709,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T08:01:30+00:00",
+    "text": "Вау. Ну это китайцы, поставят быстренько ещё серверов, будут продолжать делать профит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарии о возможной установке новых серверов китайскими компаниями.",
+      "keywords": [
+        "Китай",
+        "сервера",
+        "прибыль"
+      ]
+    }
+  },
+  {
+    "id": 80708,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:57:29+00:00",
+    "text": "подписку на Kimi уже не оформить - все уже куплено до нас:)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Подписка на Kimi больше недоступна.",
+      "keywords": [
+        "Kimi",
+        "подписка",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 80707,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:49:16+00:00",
+    "text": "да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80706,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:47:10+00:00",
+    "text": "Спасибо. А Kimi в России доступна без сервисов на 3 буквы?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о доступности Kimi в России.",
+      "keywords": [
+        "Kimi",
+        "Россия",
+        "доступность"
+      ]
+    }
+  },
+  {
+    "id": 80705,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:17:16+00:00",
+    "text": "просто, вот что хочется сказать жителям поднебесной!",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80704,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:15:49+00:00",
+    "text": "согласен, это же просто юмор:)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит юмор и не имеет значимого содержания.",
+      "keywords": [
+        "юмор",
+        "развлечение",
+        "пост"
+      ]
+    }
+  },
+  {
+    "id": 80703,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T07:12:16+00:00",
+    "text": "Очередная статья на РБК на тему «Проблема не в технологии: почему 95% ИИ-проектов проваливаются» [https://pro.rbc.ru/demo/6a5892019a79474408a81ae7](https://pro.rbc.ru/demo/6a5892019a79474408a81ae7)\n \nУже приевшиеся примеры, где всепошлонетак. Однако есть небольшой параграф: «Что отличает компании, у которых получилось», в которой автор утверждает, что: «__Компании, которые сегодня получают максимальную отдачу от искусственного интеллекта, почти никогда не начинали проекты с идеи сокращения людей. Они начинали с поиска мест, где сотрудники перестали успевать создавать ценность.__»\n \nИ далее: «__Хороший пример — Morgan Stanley. Компания внедрила генеративный ИИ не для того, чтобы заменить финансовых консультантов, а чтобы избавить их от постоянного поиска информации в тысячах внутренних документов. Сегодня система помогает консультантам находить нужные материалы за секунды вместо долгого ручного поиска. В результате специалисты стали тратить больше времени на работу с клиентами, а не на навигацию по корпоративной базе знаний.__»\n \nЕсли это хороший пример, и, если это достижение глобального банка с десятками тысяч сотрудников и прибылью в десяти миллиардов долларов в части внедрения ИИ, которое чтототам улучшает, так у российских юристов уже 35 лет есть СПСы с аналогичным функционалом...",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Статья РБК подчеркивает, что успех ИИ-проектов зависит от правильного подхода к внедрению технологий, а не от автоматизации рабочих мест.",
+      "keywords": [
+        "ИИ-проекты",
+        "успех",
+        "технологии",
+        "пример",
+        "Morgan Stanley"
+      ]
+    }
+  },
+  {
+    "id": 80702,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T06:18:10+00:00",
+    "text": "Вот тебе и китайцы. Два стула из первых пяти заняли. Кодинг, правда, не юридические задачи.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Китайские компании заняли два места в рейтинге, но это не связано с юридическими задачами.",
+      "keywords": [
+        "Китай",
+        "рейтиг",
+        "кодинг",
+        "юридические задачи"
+      ]
+    }
+  },
+  {
+    "id": 80700,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T05:50:09+00:00",
+    "text": "Вынести ненужные вещи из кладовки. 4500 р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама услуг по уборке.",
+      "keywords": [
+        "уборка",
+        "клодовка",
+        "услуги"
+      ]
+    }
+  },
+  {
+    "id": 80699,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T05:36:49+00:00",
+    "text": "Муншоты сами уже дисклеймерами обложили свои заявления, что типа не ожидайте такого же опыта от использования",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Муншоты предупреждают о различиях в опыте использования своих продуктов.",
+      "keywords": [
+        "Муншоты",
+        "дисклеймеры",
+        "опыт",
+        "заявления"
+      ]
+    }
+  },
+  {
+    "id": 80698,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T05:36:00+00:00",
+    "text": "Ну там явно не Митос",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80691,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T04:16:07+00:00",
+    "text": "Как по мне, выбор — это всегда хорошо. Всегда есть хоть какая-то альтернатива. План Б.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Выбор всегда полезен, так как предоставляет альтернативу.",
+      "keywords": [
+        "выбор",
+        "альтернатива",
+        "план Б"
+      ]
+    }
+  },
+  {
+    "id": 80690,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T04:14:42+00:00",
+    "text": "Вот что конкуренция животворящая делает!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный комментарий о конкуренции.",
+      "keywords": [
+        "конкуренция",
+        "животворящая"
+      ]
+    }
+  },
+  {
+    "id": 80689,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T04:14:11+00:00",
+    "text": "в июле и дипсик должен выйти вроде как...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Анонсирование выхода дипсика в июле.",
+      "keywords": [
+        "дипсик",
+        "выпуск",
+        "июль"
+      ]
+    }
+  },
+  {
+    "id": 80688,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T04:11:30+00:00",
+    "text": "у Kimi какие то проблемы с мощностями",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "У Kimi возникли проблемы с мощностями.",
+      "keywords": [
+        "Kimi",
+        "мощности",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 80686,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T04:10:06+00:00",
+    "text": "Qwen 3.8 вышел, вроде говорят что кими 3.1 не за горами",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вышла новая версия Qwen 3.8, ожидается выход Kimi 3.1.",
+      "keywords": [
+        "Qwen 3.8",
+        "Kimi 3.1",
+        "новости",
+        "версии"
+      ]
+    }
+  },
+  {
+    "id": 80685,
+    "channel_id": "docsllm",
+    "date": "2026-07-20T01:26:16+00:00",
+    "text": "Но, кстати, с этим поаккуратнее надо, смотреть самому, что он предлагает удалить)) https://www.reddit.com/r/ClaudeCode/s/eVsfMqxE5f",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит ссылку на Reddit без значимого содержания.",
+      "keywords": [
+        "ссылка",
+        "Reddit",
+        "обсуждение"
+      ]
+    }
+  }
+]

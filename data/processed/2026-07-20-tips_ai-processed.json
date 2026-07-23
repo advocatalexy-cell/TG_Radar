@@ -1,0 +1,24 @@
+[
+  {
+    "id": 4809,
+    "channel_id": "tips_ai",
+    "date": "2026-07-20T06:43:54+00:00",
+    "text": "Почему я пользуюсь именно CLI а не веб версией Claude/GPT, даже для рутинных задач. \n\nВот наглядная разница между ChatGPT и Codex:\n\n@tips_ai",
+    "views": 2592,
+    "forwards": 52,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится своим мнением о предпочтениях в использовании CLI и веб-версий ИИ.",
+      "keywords": [
+        "CLI",
+        "веб-версия",
+        "ChatGPT",
+        "Codex",
+        "предпочтения"
+      ]
+    }
+  }
+]

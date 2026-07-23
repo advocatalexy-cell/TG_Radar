@@ -1,0 +1,24 @@
+[
+  {
+    "id": 21065,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-18T07:07:34+00:00",
+    "text": "Всем кто страдает с зацикливанием Qwen3 Coder Next\nПроблема оказалась в OpenCode.\nПросто поменял агента на Pi Agent и чудесным образом квин излечился.\n\nUPD: возможно причина в том что в OpenCode был включен режим рассуждений, в который как оказалось эта модель не умеет. Вероятно из-за этого у неё кукуха и ехала",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Проблема зацикливания модели Qwen3 Coder была решена сменой агента на Pi Agent.",
+      "keywords": [
+        "Qwen3 Coder",
+        "OpenCode",
+        "Pi Agent",
+        "зацикливание",
+        "модель"
+      ]
+    }
+  }
+]

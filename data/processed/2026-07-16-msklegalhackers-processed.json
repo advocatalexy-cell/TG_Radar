@@ -1,0 +1,22 @@
+[
+  {
+    "id": 20591,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-16T13:24:54+00:00",
+    "text": "Всем привет, хочу взять юсдт, если кто продаёт, напишите",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь ищет продавца USDT.",
+      "keywords": [
+        "USDT",
+        "покупка",
+        "обмен"
+      ]
+    }
+  }
+]

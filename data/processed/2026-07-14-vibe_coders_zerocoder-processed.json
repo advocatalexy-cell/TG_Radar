@@ -1,0 +1,273 @@
+[
+  {
+    "id": 2049,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:16:06+00:00",
+    "text": "У вас 2 крайности…либо оф за 25 либо что то сомнительное за 3 коп…ну есть же золотая середина( опенроутер там какой нить или наши какие сервисы с понятной схемой работы. Будем искать…середину эту)))Но если вдруг у вас появится на сайте документация для понимания как эта экономия работает..понесу ₽ вам)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь обсуждает варианты выбора услуг, упоминая о необходимости наличия документации.",
+      "keywords": [
+        "услуги",
+        "средняя цена",
+        "документация"
+      ]
+    }
+  },
+  {
+    "id": 2048,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:13:47+00:00",
+    "text": "Тогда платишь 25$ братан , бл в чем проблема то? Че чешешь там где не хочется?😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2047,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:13:21+00:00",
+    "text": "А так хочется клод за 3 копейки…ммммм",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит личное желание и не имеет значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2046,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:12:35+00:00",
+    "text": "Тут еще личный опыт. Я уже по дурости и вере в красивые лозунги на сайте больше 2к потерял(((…я про доступы к супер ии 🤖 по 3 копейки(((",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим негативным опытом с покупкой доступа к ИИ.",
+      "keywords": [
+        "опыт",
+        "потери",
+        "ИИ",
+        "доступы"
+      ]
+    }
+  },
+  {
+    "id": 2045,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:11:55+00:00",
+    "text": "Все просто ! В жизни! Не умеешь тогда плати больше!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2044,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:11:28+00:00",
+    "text": "Да да еще говорят бесплатный сыр только в мышеловке ! И менталитет у нас такой что прежде чем попробовать начинают искать подвох",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о менталитете и страхе перед подвохом.",
+      "keywords": [
+        "менталитет",
+        "подвох",
+        "бесплатный сыр"
+      ]
+    }
+  },
+  {
+    "id": 2043,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:10:33+00:00",
+    "text": "Мы все свои проекты пишем через свой роутер , и все норм!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о проекте и роутере не содержит значимой информации.",
+      "keywords": [
+        "роутер",
+        "проекты",
+        "норм"
+      ]
+    }
+  },
+  {
+    "id": 2042,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:10:09+00:00",
+    "text": "Нет но с детства люблю сказки и очень хочется верить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное мнение автора о сказках.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2041,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:10:05+00:00",
+    "text": "Тогда покупаешь за 25$ и пользуешься ! В чем проблема то?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2040,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:09:16+00:00",
+    "text": "Ты пользовался?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос без содержания и анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2039,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:09:16+00:00",
+    "text": "Берем ссылку на интересующий сервис кидаем дип сику и просим поковырятся и от выдает все подводные камни 🪨…потом сами думаем анализируем)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит рекомендацию протестировать сервис, но не предоставляет значимой информации.",
+      "keywords": [
+        "сервис",
+        "анализ",
+        "рекомендация"
+      ]
+    }
+  },
+  {
+    "id": 2038,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T13:07:19+00:00",
+    "text": "В том что запросы к клоду например пойдут клоду а не более дешевой модели ибо умный роутинг у этого сервиса это темный ящик. Когда тебе обещяют цену в условный доллар а оф цена 25 тут в любом случае задумаешься в чем подвох и просто магическими фразами «умный роутинг»  и « дешево потому что сим селябим ахалай махалай»))))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает вопросы ценообразования и непрозрачности сервиса.",
+      "keywords": [
+        "умный роутинг",
+        "цены",
+        "клоду",
+        "модели",
+        "непрозрачность"
+      ]
+    }
+  },
+  {
+    "id": 2035,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T12:59:18+00:00",
+    "text": "В чем сомневаешься?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2034,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T12:59:12+00:00",
+    "text": "😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Эмодзи без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2033,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-14T12:58:43+00:00",
+    "text": "Сомнительный сервис",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "сервис",
+        "сомнительный",
+        "информация"
+      ]
+    }
+  }
+]

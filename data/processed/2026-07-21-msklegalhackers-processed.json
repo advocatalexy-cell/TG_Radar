@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20661,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-21T13:20:22+00:00",
+    "text": "Коллеги, всех приветствую! \nДелаюсь резюме, знакомая в активном поиске первой работы, есть интерес к сфере Legal Tech",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь ищет работу для знакомой в сфере Legal Tech.",
+      "keywords": [
+        "резюме",
+        "Legal Tech",
+        "поиск работы"
+      ]
+    }
+  },
+  {
+    "id": 20659,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-21T12:34:30+00:00",
+    "text": "Спасибо, добавлю в[ базу знаний legaltech](https://legaltechbase.botman.one/?ysclid=mrun35okp9785055376)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку на базу знаний, без значимого содержания.",
+      "keywords": [
+        "legaltech",
+        "база знаний",
+        "ссылка"
+      ]
+    }
+  },
+  {
+    "id": 20656,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-21T07:55:08+00:00",
+    "text": "Добрый день, я уточню и напишу в лс если не возражаете",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь планирует уточнить информацию в личных сообщениях.",
+      "keywords": [
+        "уточнение",
+        "личные сообщения",
+        "коммуникация"
+      ]
+    }
+  },
+  {
+    "id": 20655,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-21T07:54:41+00:00",
+    "text": "~~Коллеги, привет\n\nКто-нибудь подскажет контакты человека, кто специализируется на трудовом праве?\n\nНужна консультация (трудовые отношения в сфере образования) с разбором порядка действий\n\nЕстественно не бесплатно\n\nБуду признателен за помощь~~\n\n**UPD: специалиста нашли, спасибо большое чату**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о поиске специалиста по трудовому праву.",
+      "keywords": [
+        "трудовое право",
+        "консультация",
+        "образование"
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1463,
+    "channel_id": "allthingslegal",
+    "date": "2026-07-23T05:00:12+00:00",
+    "text": "История, скорее всего, придуманная, но все равно прикольная.",
+    "views": 182,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенная история без значимого контента.",
+      "keywords": [
+        "история",
+        "прикольная",
+        "выдуманная"
+      ]
+    }
+  }
+]

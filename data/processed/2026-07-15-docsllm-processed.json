@@ -1,0 +1,740 @@
+[
+  {
+    "id": 80011,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:33:26+00:00",
+    "text": "Тут все весьма прозаично) гермес на дипсик)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "гермес",
+        "дипсик"
+      ]
+    }
+  },
+  {
+    "id": 80010,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:29:49+00:00",
+    "text": "А если завести новый аккаунт Клода, но использовать с того же устройства, то по IP его не запалят?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение создания нового аккаунта Клода без выявления по IP.",
+      "keywords": [
+        "аккаунт",
+        "Клод",
+        "IP",
+        "устройство",
+        "анонимность"
+      ]
+    }
+  },
+  {
+    "id": 80009,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:29:46+00:00",
+    "text": "Как круто! А агента где делали?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 80008,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:28:15+00:00",
+    "text": "Коллеги, поделюсь небольшой историей) \n\nПолучил я недавно штраф за проезд без оплаты по платным дорогам\n\nРешил, что проведу небольшой эксперимент с агентом, которого недавно себе подключил:\n\nБуду действовать ровно так, как опишет агент и подам те документы, которые агент подготовит\n\nДал ему данные по штрафу, постановление\n\nОн написал инструкцию о том, куда и что отправлять, сам подготовил жалобу и положил мне на GDrive. Я прочитал жалобу просто чтобы знать, что он там пакостей не нагородил, скопировал и отправил в нужное место по инструкции\n\nСегодня пришло заветное уведомление об отмене штрафа)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным опытом отмены штрафа с помощью агента.",
+      "keywords": [
+        "штраф",
+        "отмена",
+        "опыт",
+        "агент",
+        "документы"
+      ]
+    }
+  },
+  {
+    "id": 80006,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:18:27+00:00",
+    "text": "При установке у меня просто виснет на фазе загрузки расширений. Клод пишет, что баг",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользовательский комментарий о проблеме с установкой приложения.",
+      "keywords": [
+        "установка",
+        "баг",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 80005,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:17:42+00:00",
+    "text": "При установке? Только что свое расширение ставил оно как будто заглючило, но поставилось",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом установки расширения.",
+      "keywords": [
+        "расширение",
+        "установка",
+        "глюки"
+      ]
+    }
+  },
+  {
+    "id": 80004,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:16:10+00:00",
+    "text": "Привет ребята! У кого-нибудь еще не зависает в Клоде окно расширений?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сообщает о проблемах с расширениями в программе Клод.",
+      "keywords": [
+        "проблемы",
+        "Клод",
+        "расширения",
+        "зависает"
+      ]
+    }
+  },
+  {
+    "id": 80003,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T13:08:30+00:00",
+    "text": "Такая же была проблема\nПомогло только создание нового аккаунта",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом создания нового аккаунта.",
+      "keywords": [
+        "проблема",
+        "аккаунт",
+        "создание"
+      ]
+    }
+  },
+  {
+    "id": 80001,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:57:50+00:00",
+    "text": "с ним тоже не все так просто, недавно решил возобновить подписку спустя перерыв, а он не принял ни одну из казахских карт (ранее их же с удовольствием). причем, он даже не пытался с них списать, потому что предложил месяц за $0",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с подпиской на сервис, не принимающий казахские карты.",
+      "keywords": [
+        "подписка",
+        "казахские карты",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 80000,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:57:48+00:00",
+    "text": "Мне кажется, что тут не угадаешь, моему аккаунту 4-5 мес, и впн забывал включать и fable использовал и локации менял, до сих пор работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования аккаунта без блокировок.",
+      "keywords": [
+        "аккаунт",
+        "VPN",
+        "локализация",
+        "Fable"
+      ]
+    }
+  },
+  {
+    "id": 79999,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:57:17+00:00",
+    "text": "напишите мне, пожалуйста, т.к. я вам не могу написать, кажется. 😬",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на обратную связь.",
+      "keywords": [
+        "запрос",
+        "обратная связь",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 79998,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:55:47+00:00",
+    "text": "Ну я сразу могу сказать. Я сидела под лос-Анджелесом, ничего не обновляла и никуда дополнительно не заходила пока работала с Клодом. У меня нет подозрений, что это из-за локации.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом работы с Клодом под Лос-Анджелесом.",
+      "keywords": [
+        "Лос-Анджелес",
+        "Клод",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 79997,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:55:46+00:00",
+    "text": "Кажется стоит отпустить и переходить на GPT, там есть work теперь и в целом меньше проблем и тп. \n\nПодумайте)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь предлагает рассмотреть переход на GPT.",
+      "keywords": [
+        "GPT",
+        "переход",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 79996,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:55:38+00:00",
+    "text": "А если завести новый аккаунт Клода, но использовать с того же устройства, то по IP его не запалят?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможности скрыть новый аккаунт Клода по IP.",
+      "keywords": [
+        "аккаунт",
+        "Клод",
+        "IP",
+        "сигнализация",
+        "устройство"
+      ]
+    }
+  },
+  {
+    "id": 79995,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:55:01+00:00",
+    "text": "Можно)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79994,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:54:36+00:00",
+    "text": "Неа - все банально попробовала обновить приложение на iphone c фейковым американским аккаунтом для appstore. + отключила VPN при открытом приложении + Fable использовала. что-то из этого...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом обновления приложения на iPhone.",
+      "keywords": [
+        "приложение",
+        "iPhone",
+        "VPN",
+        "опыт",
+        "Fable"
+      ]
+    }
+  },
+  {
+    "id": 79993,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:53:23+00:00",
+    "text": "А можно у вас лично поспрашивать про ваш аккаунт? может и получится найти эти критерии?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Посетители канала задают вопросы о личном аккаунте.",
+      "keywords": [
+        "вопросы",
+        "аккаунт",
+        "Telegram"
+      ]
+    }
+  },
+  {
+    "id": 79992,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:52:59+00:00",
+    "text": "Что-то вайбкодили вчера?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79991,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:51:53+00:00",
+    "text": "вот! и меня тоже! 14.41...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79990,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:51:07+00:00",
+    "text": "моему 4 месяца",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не является значимой новостью.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79989,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:49:19+00:00",
+    "text": "Кто бы знал критерии блокировки)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79988,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:48:05+00:00",
+    "text": "Если подписку как gift оформлять, то Антропик тоже блокирует?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о блокировке подарочных подписок в Антропик.",
+      "keywords": [
+        "подписка",
+        "подарок",
+        "Антропик",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 79986,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:45:12+00:00",
+    "text": "Где-то 3 месяца, сначала пользовалась бесплатно. Потом 27.06. купила макс с польской карты подруги.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится информацией о покупке услуги.",
+      "keywords": [
+        "покупка",
+        "услуга",
+        "пользователь",
+        "карта"
+      ]
+    }
+  },
+  {
+    "id": 79985,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:44:38+00:00",
+    "text": "сколько аккаунту???",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79984,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:43:33+00:00",
+    "text": "Меня тоже забанили сегодня в 3. Я написала апелляцию, посмотрим какой будет результат.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сообщает о бане и поданной апелляции.",
+      "keywords": [
+        "бан",
+        "апелляция",
+        "пользователь"
+      ]
+    }
+  },
+  {
+    "id": 79982,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:02:52+00:00",
+    "text": "Вика, и ты тут?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79981,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:01:35+00:00",
+    "text": "Коллеги, мой аккаунт Клода заблокировали, вернули оплату Pro. Все оплачено было от сербской компании. Что делать? Имеет ли смысл подавать на апелляцию, находясь в отпуске не в РФ? Что работает в качестве аргументов для разблокировки? Она вообще кому-то удавалась?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится проблемой заблокированного аккаунта и ищет советы по разблокировке.",
+      "keywords": [
+        "аккаунт",
+        "блокировка",
+        "апелляция",
+        "Клод",
+        "советы"
+      ]
+    }
+  },
+  {
+    "id": 79980,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T12:01:16+00:00",
+    "text": "Содержимое журнальных полок в 7/11 в японии………",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение содержимого полок с журналами в японском магазине 7/11.",
+      "keywords": [
+        "Япония",
+        "7/11",
+        "журналы",
+        "магазин",
+        "содержимое"
+      ]
+    }
+  },
+  {
+    "id": 79977,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T08:52:09+00:00",
+    "text": "«Я больше не программист»: Торвальдс рассказал, почему перестал писать код и за что ругает ИИ | dev.by https://share.google/zIArdOGJtfW7BMjyN",
+    "views": 262,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Линус Торвальдс объяснил, почему прекратил программировать и выразил критику по отношению к ИИ.",
+      "keywords": [
+        "Торвальдс",
+        "программирование",
+        "ИИ",
+        "технологии",
+        "критику"
+      ]
+    }
+  },
+  {
+    "id": 79976,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T08:51:30+00:00",
+    "text": "@runetlex_academy_bot",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79975,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T08:48:28+00:00",
+    "text": "в боте это где???",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является вопросом без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79974,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T07:31:10+00:00",
+    "text": "Пользователи ChatGPT-5.6 Sol пожаловались на самовольное удаление файлов\n\nПользователи ИИ-модели от OpenAI GPT-5.6 Sol сообщили о случаях удаления файлов и баз данных без отдельного разрешения. Жалобы появились после публичного запуска модели, предназначенной в том числе для программирования и выполнения продолжительных задач на компьютере.\"\n https://www.kommersant.ru/doc/8815369",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Пользователи ChatGPT-5.6 Sol столкнулись с проблемой самовольного удаления файлов.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "удаление файлов",
+        "модель",
+        "программирование"
+      ]
+    }
+  },
+  {
+    "id": 79972,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T06:52:45+00:00",
+    "text": "Доброе утро, коллеги\nсегодня пытался скачать в автоматическом режиме видео с помощью codex чата \nверсия gpt 5.6 не сработала - все время выдавало, что на сайте не может пройти антиботовые системы и капчу \nпоменял на версию 5.5 - все получилось\nимейте в виду, кому тоже нужно так скачивать материалы)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом скачивания видео с помощью разных версий codex чата.",
+      "keywords": [
+        "codex",
+        "видео",
+        "скачивать",
+        "gpt",
+        "антиботовые системы"
+      ]
+    }
+  },
+  {
+    "id": 79970,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T06:42:16+00:00",
+    "text": "Вот поэтому к биллингу нейронок надо привязывать только киргизские карты :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о привязке биллинга нейронных сетей к киргизским картам.",
+      "keywords": [
+        "биллинг",
+        "нейронки",
+        "киргизские карты",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 79969,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T06:21:58+00:00",
+    "text": "Да, это как раз план",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательно.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79966,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T05:14:39+00:00",
+    "text": "Бро, я верно понял, что тебе ты и свой суперпауверс прокачаешь?))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Шумовой пост без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 79965,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T05:10:22+00:00",
+    "text": "Глава Google DeepMind призвал создать независимую организацию для оценки мощнейших ИИ-моделей под эгидой США https://share.google/8cEPQaV25oHLy6XST",
+    "views": 300,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Глава Google DeepMind предложил создать независимую организацию для оценки мощных ИИ-моделей в США.",
+      "keywords": [
+        "Google DeepMind",
+        "ИИ",
+        "независимая организация",
+        "оценка моделей",
+        "США"
+      ]
+    }
+  },
+  {
+    "id": 79964,
+    "channel_id": "docsllm",
+    "date": "2026-07-15T05:10:22+00:00",
+    "text": "Anthropic выставил счет разработчику на $16,6 млн: на карте не хватило средств https://share.google/loA0efFpeH4cPweJG",
+    "views": 272,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Разработчик не смог оплатить счет от Anthropic в размере $16,6 млн из-за нехватки средств.",
+      "keywords": [
+        "Anthropic",
+        "разработка",
+        "счет",
+        "финансы",
+        "недостаток"
+      ]
+    }
+  }
+]
