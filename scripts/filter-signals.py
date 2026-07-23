@@ -15,7 +15,7 @@
 import argparse
 import json
 import os
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from openai import OpenAI
@@ -26,6 +26,7 @@ load_dotenv()
 ROOT = Path(__file__).parent.parent
 RAW_DIR = ROOT / "data" / "raw"
 PROCESSED_DIR = ROOT / "data" / "processed"
+CHANNELS_FILE = ROOT / "sources" / "channels.json"
 
 openai_client = OpenAI()
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
@@ -86,7 +87,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: dict) -> None:
+def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: dict) -> tuple[str, int, int]:
     with open(raw_file, encoding="utf-8") as f:
         posts = json.load(f)
 
@@ -117,6 +118,34 @@ def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: di
 
     signals = sum(1 for r in results if r["classification"].get("signal"))
     print(f"  {channel_id}: {signals}/{len(results)} signals -> {out_file.name}")
+    return channel_id, signals, len(results)
+
+
+def update_signal_ratios(channel_stats: dict[str, tuple[int, int]]) -> None:
+    """Пересчитывает signal_ratio по каждому обработанному каналу и сохраняет в channels.json.
+
+    channel_stats: {channel_id: (signals, total)} — накоплено по всем processed-файлам
+    канала за весь прогон (может объединять несколько дат одного канала).
+    """
+    if not channel_stats or not CHANNELS_FILE.exists():
+        return
+
+    with open(CHANNELS_FILE, encoding="utf-8") as f:
+        config = json.load(f)
+
+    changed = False
+    for channel in config.get("channels", []):
+        ch_id = channel.get("id")
+        if ch_id in channel_stats:
+            signals, total = channel_stats[ch_id]
+            channel["signal_ratio"] = round(signals / total, 2) if total > 0 else None
+            changed = True
+
+    if changed:
+        config["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        with open(CHANNELS_FILE, "w", encoding="utf-8") as f:
+            json.dump(config, f, ensure_ascii=False, indent=2)
+        print(f"\nsignal_ratio обновлён для {len(channel_stats)} канал(ов) в {CHANNELS_FILE.name}")
 
 
 def main() -> None:
@@ -133,8 +162,13 @@ def main() -> None:
         raw_files = list(RAW_DIR.glob(f"{date_str}-*-raw.json"))
         print(f"Mode: date={date_str} — processing {len(raw_files)} raw files...")
 
+    channel_stats: dict[str, tuple[int, int]] = {}
     for f in raw_files:
-        process_file(f, date_str, args.mode, processed_max_ids)
+        channel_id, signals, total = process_file(f, date_str, args.mode, processed_max_ids)
+        prev_signals, prev_total = channel_stats.get(channel_id, (0, 0))
+        channel_stats[channel_id] = (prev_signals + signals, prev_total + total)
+
+    update_signal_ratios(channel_stats)
 
 
 if __name__ == "__main__":
