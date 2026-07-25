@@ -8,7 +8,11 @@ set -e
 cd /opt/radar
 source venv/bin/activate
 
-git pull
+set -a; source .env; set +a
+source scripts/vps-common.sh
+trap alert_on_error ERR
+
+git_pull_retry
 
 DATE=$(date -u +%Y-%m-%d)
 if [ ! -f "digests/${DATE}-digest.md" ]; then

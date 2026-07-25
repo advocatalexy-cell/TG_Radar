@@ -8,7 +8,11 @@ cd /opt/radar
 source venv/bin/activate
 mkdir -p data/raw
 
-git pull --rebase
+set -a; source .env; set +a
+source scripts/vps-common.sh
+trap alert_on_error ERR
+
+git_pull_retry --rebase
 
 python scripts/fetch-posts.py
 python scripts/filter-signals.py
@@ -21,7 +25,7 @@ rm -f "digests/$(date -u +%Y-%m-%d)-digest.md"
 git add data/processed data/state.json
 if ! git diff --cached --quiet; then
   git commit -m "Daily data collection $(date -u +%Y-%m-%d)"
-  git pull --rebase
+  git_pull_retry --rebase
   git push
 else
   echo "No new processed data to commit."
