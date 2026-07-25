@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2129,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-24T18:02:29+00:00",
+    "text": "может кому нужно для монтажа",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2128,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-24T18:02:17+00:00",
+    "text": "Ребят ,нарегал 4 акка heygen с подпиской креатор нулевые отдаю по 500 , если возьмете 4 отдам с скидкой по 350. с пруфами без скама",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама о продаже аккаунтов с подпиской креатор в Heygen.",
+      "keywords": [
+        "аккаунты",
+        "Heygen",
+        "продажа",
+        "подписка",
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 2127,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-24T17:10:35+00:00",
+    "text": "Привет ☩ आत्मैव रिपुः ☩, добро пожаловать в Vibe Coders Чат & Сообщество! Как дела?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие в чате",
+      "keywords": []
+    }
+  }
+]

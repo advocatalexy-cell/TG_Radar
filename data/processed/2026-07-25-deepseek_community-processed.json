@@ -1,5 +1,237 @@
 [
   {
+    "id": 21205,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T20:27:46+00:00",
+    "text": "DLAP есть называется катай что угодно хоть оптоволокно связывай",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение без содержательной информации.",
+      "keywords": [
+        "DLAP",
+        "оптоволокно",
+        "связь"
+      ]
+    }
+  },
+  {
+    "id": 21204,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T20:25:24+00:00",
+    "text": "Меш чаты в прошлом добро пожаловать в эпоху меш ИИ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение новой эпохи меш ИИ.",
+      "keywords": [
+        "меш ИИ",
+        "эпоха",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 21203,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T20:24:27+00:00",
+    "text": "Пердолинг идет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит информативного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21202,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T20:24:15+00:00",
+    "text": "Подтвердилось то что не было коннекта напрямую к интерфейсам сетей. За одно спасибо exo helix новый вариант подключения. Условно 5 устройств через otg к пк",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Появился новый способ подключения устройств через OTG к ПК.",
+      "keywords": [
+        "подключение",
+        "OTG",
+        "устройства",
+        "интерфейсы",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 21201,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:26:58+00:00",
+    "text": "Там очевидно что сейчас просто прямых подводок к интерфейсам сети андроид нет иза этого не работает. Вернее работает но не напрямую если вчитаться в детали) коннект были. Но это не стыкуется с моим просканировал подключил без лишних нажатий автоматом влан прочее и пошло",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение проблем подключения к интерфейсам сети Android.",
+      "keywords": [
+        "сеть",
+        "Android",
+        "подключение",
+        "интерфейсы",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 21200,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:17:18+00:00",
+    "text": "Посмотреть наработки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21199,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:15:35+00:00",
+    "text": "Затея крайне годная но путь тернист",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный комментарий без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21198,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:15:21+00:00",
+    "text": "Как полностью протестирую особенно прогон среднетяжелых моделей так сразу на форум скинуть будет и в открытом гх",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь планирует тестирование моделей и публикацию результатов.",
+      "keywords": [
+        "тестирование",
+        "модели",
+        "форум",
+        "публикация",
+        "гайд"
+      ]
+    }
+  },
+  {
+    "id": 21197,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:14:09+00:00",
+    "text": "Больше в деталях. Ну и подводку к битчату нужно будет немного исправить но в целом. Проект не прототип и не поверхностное изменение интерфейса. Копал крайне глубоко билды делались по часу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Сообщение о работе над проектом без ключевых новостей.",
+      "keywords": [
+        "проект",
+        "интерфейс",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 21196,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T18:12:51+00:00",
+    "text": "Короче ещё пару доработок и практически готово. А не теоретически как это было раньше. DLAP рабочий прочие вещи тоже живые",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение доработок системы DLAP.",
+      "keywords": [
+        "доработки",
+        "DLAP",
+        "рабочий",
+        "система",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 21194,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T17:42:01+00:00",
+    "text": "Triangle",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только одно слово без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21193,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T17:41:42+00:00",
+    "text": "Максимально готовая версия никаких сырцов. Шардинг есть битчат интеграция есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение готовых решений без конкретной информации.",
+      "keywords": [
+        "шардинг",
+        "интеграция",
+        "битчат"
+      ]
+    }
+  },
+  {
     "id": 21192,
     "channel_id": "deepseek_community",
     "date": "2026-07-25T13:15:48+00:00",
@@ -9,13 +241,13 @@
     "has_media": false,
     "classification": {
       "signal": false,
-      "score": 0.2,
+      "score": 0.1,
       "category": "other",
-      "summary": "Обсуждение завершения проекта TriangleUi.",
+      "summary": "Автор делится информацией о разработке финальной версии проекта TriangleUi.",
       "keywords": [
         "TriangleUi",
-        "проект",
-        "финалка"
+        "разработка",
+        "финал"
       ]
     }
   }

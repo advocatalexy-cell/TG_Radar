@@ -1,0 +1,24 @@
+[
+  {
+    "id": 6724,
+    "channel_id": "privlawlib",
+    "date": "2026-07-24T16:42:16+00:00",
+    "text": "Коллеги, всем добрый вечер!\nИщем полный текст решения  James Finlay & Co v NZ Kwik Hoo Tong HM **[1929] 1 K.B. 400**\n\nЕсли у кого есть доступ к LLMC Digital, будем вам благодарны!🙏🏼",
+    "views": 2757,
+    "forwards": 2,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на доступ к тексту судебного решения.",
+      "keywords": [
+        "судебное решение",
+        "James Finlay",
+        "NZ Kwik Hoo Tong",
+        "LLMC Digital",
+        "доступ"
+      ]
+    }
+  }
+]

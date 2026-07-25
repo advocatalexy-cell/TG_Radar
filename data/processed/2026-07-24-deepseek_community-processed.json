@@ -1,0 +1,219 @@
+[
+  {
+    "id": 21177,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:35:57+00:00",
+    "text": "Привет)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21176,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:35:48+00:00",
+    "text": "Вали твой проект тяжело модифицировали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проект 'Вали' был подвергнут модификациям.",
+      "keywords": [
+        "проект",
+        "модификации",
+        "Вали"
+      ]
+    }
+  },
+  {
+    "id": 21175,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:31:39+00:00",
+    "text": "Пробный шарик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21174,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:31:18+00:00",
+    "text": "Ща запилю qr коннект для простаков как в битчат и раздачу модели клиентам по бт. Основной шард идёт другим путем для клиентов бт канал через битчат будет в присутствии",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Разработка новых функций для битчат.",
+      "keywords": [
+        "битчат",
+        "QR",
+        "раздача модели",
+        "клиенты"
+      ]
+    }
+  },
+  {
+    "id": 21173,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:21:19+00:00",
+    "text": "Вали будет в коке",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная информация.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21172,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:20:43+00:00",
+    "text": "Файл прикреплен к личному каналу кому интересно знакомимся",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит информацию о файле, прикрепленном к личному каналу.",
+      "keywords": [
+        "файл",
+        "канал",
+        "знакомство"
+      ]
+    }
+  },
+  {
+    "id": 21171,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:19:24+00:00",
+    "text": "Теперь тесты",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на тестовые материалы.",
+      "keywords": [
+        "тесты",
+        "запрос",
+        "материалы"
+      ]
+    }
+  },
+  {
+    "id": 21170,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:18:26+00:00",
+    "text": "Это ебать работы было",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21169,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:17:42+00:00",
+    "text": "Внутри чаттер уи выделал шард",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный контекст о выделении шард внутри чаттер уи.",
+      "keywords": [
+        "чаттер",
+        "шард",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 21168,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T20:17:32+00:00",
+    "text": "Наконец то",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение недостаточно информативно.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21165,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T18:58:54+00:00",
+    "text": "Как птички",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21164,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-24T18:58:51+00:00",
+    "text": "Да я пнул GEDGE теперь модели на лайтрт летають",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о личном достижении в области технологий.",
+      "keywords": [
+        "GEDGE",
+        "модели",
+        "лайтрт"
+      ]
+    }
+  }
+]

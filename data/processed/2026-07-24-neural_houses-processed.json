@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1925,
+    "channel_id": "neural_houses",
+    "date": "2026-07-24T13:01:27+00:00",
+    "text": "🚀 **Qwen 3.8, Gemini 3.6 Flash и OpenAI Presence**\n\nЛовите свежий дайджест новостей из мира ИИ 👇\n\n🤖 **Qwen 3.8 Max Preview и Qwen Image 3.0**\n\nAlibaba представила новую флагманскую модель **Qwen 3.8 Max Preview**, которая, по словам разработчиков, уступает только Fable 5.\n                                                                                                                                                                                                                                                           Вместе с ней вышла **Qwen Image 3.0** — модель для генерации изображений с поддержкой длинных промптов, улучшенной работой с текстом и созданием сложных инфографик и интерфейсов.\n\n[Qwen 3.8** **](https://www.qwencloud.com/pricing/token-plan)**                                                                                                                                                                                                                                    ** [Qwen Image 3.0](https://qwen.ai/blog?id=qwen-image-3.0)\n\n⚡️ **Gemini 3.6 Flash от Google**\n\nGoogle представила Gemini 3.6 Flash — новую основную модель для кодинга, работы с документами и AI-агентов. \n                                                                                                                                                                                                                                                                           Вместе с ней вышла Gemini 3.5 Flash-Lite для дешёвых массовых задач и Gemini 3.5 Flash Cyber для поиска и исправления уязвимостей\n                                                                                                                                                                                                                                                                  **Подробнее **[**здесь**](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)**.**   \n                                                                                                                                                                                                                                                                          🧠 **OpenAI Presence**\n                                                                                                                                                                                                                                                                     \nOpenAI представила **Presence** — платформу для создания AI-агентов, которых можно интегрировать в продукты и рабочие процессы компаний.\nСервис позволяет запускать голосовых и текстовых помощников и подключать их к корпоративным данным.\n                                                                                                                                                                                                                                                                      **Подробнее **[здесь](https://openai.com/index/introducing-openai-presence/)**.**\n**                                                                                                                                                                                                                                                                 Как думаете, сможет ли Alibaba навязать серьёзную конкуренцию OpenAI и Google? ****👇**",
+    "views": 935,
+    "forwards": 18,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Alibaba и Google представили новые модели искусственного интеллекта: Qwen 3.8 и Gemini 3.6 Flash.",
+      "keywords": [
+        "Qwen 3.8",
+        "Gemini 3.6",
+        "ИИ",
+        "модели",
+        "Alibaba"
+      ]
+    }
+  },
+  {
+    "id": 1924,
+    "channel_id": "neural_houses",
+    "date": "2026-07-24T07:02:15+00:00",
+    "text": "🧑‍💻**Сайт, генератор постов и автопостинг — три проекта за один бесплатный интенсив**\n\n⚡️ За 3 вечера участники соберут рабочие инструменты без кода: сайт с контентом, генератор постов для соцсетей и автоматическую публикацию материалов \n\n🗓 **27 июля — 3 августа пройдёт бесплатный интенсив «Вайб-кодинг для НЕтехнарей».**\n\nНа практике разберём, как с помощью ИИ и no-code инструментов создавать свои проекты без опыта разработки.\n\n🎯 __В результате у вас будут готовые кейсы для портфолио и понимание, как применять вайбкодинг в реальных задачах.__\n\n➡️ [**Забрать место на интенсив**](https://sites.zerocoder.ru/vibecoding-teachers?utm_source=telegram&utm_medium=pokoi&utm_campaign=neuro-teach-web-2&utm_content=announce&utm_term=24.07.26&erid=2W5zFH32gKj)** **⬅️\n\nРЕКЛАМА ООО \"ЗЕРОКОДЕР\" · ИНН 9715401631",
+    "views": 1096,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о бесплатном интенсиве по созданию сайтов и контента без программирования.",
+      "keywords": [
+        "интенсив",
+        "вайб-кодинг",
+        "без кода",
+        "генератор постов",
+        "автопостинг"
+      ]
+    }
+  }
+]

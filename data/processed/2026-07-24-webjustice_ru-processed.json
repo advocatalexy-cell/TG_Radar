@@ -1,0 +1,23 @@
+[
+  {
+    "id": 999,
+    "channel_id": "webjustice_ru",
+    "date": "2026-07-24T09:52:06+00:00",
+    "text": "**Выясняем у соискателей:**\n\n📸 как следует [поступать с доказательствами](https://advocat.shotapp.ru/products/futbolka-kakie-vashi-kotozatelstva-3-100642), если вы кот\n📸 как справляться со [стрессом](https://advocat.shotapp.ru/products/dorojnyiy-nabor-nasudilsya-i-spit-100614)\n\nСтавьте 👋 -  если вы за кота\nСтавьте 😎 - если за голубя\n\n#пятничное",
+    "views": 150,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост с опросом о предпочтениях между котом и голубем.",
+      "keywords": [
+        "опрос",
+        "кошки",
+        "голуби",
+        "стресс"
+      ]
+    }
+  }
+]

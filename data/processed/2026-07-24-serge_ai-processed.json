@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1506,
+    "channel_id": "serge_ai",
+    "date": "2026-07-24T17:07:42+00:00",
+    "text": "**Opus 5. Готовим кошельки…**\n\nДаже не буду расписывать, что он хорош… Цены те же, что и ранее были на эту модель \n\n[Подробности здесь](https://www.anthropic.com/news/claude-opus-5)",
+    "views": 5047,
+    "forwards": 30,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост рекламирует модель Opus 5 без значимого содержания.",
+      "keywords": [
+        "Opus 5",
+        "реклама",
+        "коэффициенты",
+        "модель"
+      ]
+    }
+  }
+]
