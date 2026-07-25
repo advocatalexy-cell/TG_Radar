@@ -8,7 +8,7 @@ set -e
 cd /opt/radar
 source venv/bin/activate
 
-set -a; source .env; set +a
+set -a; source <(sed 's/\r$//' .env); set +a
 source scripts/vps-common.sh
 trap alert_on_error ERR
 
