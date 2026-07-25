@@ -22,7 +22,7 @@ python agents/digest-agent.py
 # state.json — не нужен, авторитетную версию собирает облачный Routine.
 rm -f "digests/$(date -u +%Y-%m-%d)-digest.md"
 
-git add data/processed data/state.json
+git add data/processed data/state.json sources/channels.json
 if ! git diff --cached --quiet; then
   git commit -m "Daily data collection $(date -u +%Y-%m-%d)"
   git_pull_retry --rebase
