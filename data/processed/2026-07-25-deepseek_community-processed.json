@@ -1,0 +1,22 @@
+[
+  {
+    "id": 21192,
+    "channel_id": "deepseek_community",
+    "date": "2026-07-25T13:15:48+00:00",
+    "text": "TriangleUi ) максимально близок. Пилю финалку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение завершения проекта TriangleUi.",
+      "keywords": [
+        "TriangleUi",
+        "проект",
+        "финалка"
+      ]
+    }
+  }
+]
