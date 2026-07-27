@@ -1,0 +1,219 @@
+[
+  {
+    "id": 2221,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T07:49:37+00:00",
+    "text": "Ok",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неизвестный текст.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2218,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T07:00:38+00:00",
+    "text": "Привет! Я пока только начинаю во все вникать, поэтому просто читаю для начала.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом изучения информации.",
+      "keywords": [
+        "изучение",
+        "опыт",
+        "начало"
+      ]
+    }
+  },
+  {
+    "id": 2215,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T06:11:30+00:00",
+    "text": "Бери кодекс за 20 баксов(лучше за 60), там есть компосер не плохой у которого чтобы в лимиты уйти нужно прям ОЧЕНЬ постараться. Ну и плюс 70 баксов на остальные модели апи будет.\nНо для твоих целей тебе за 20 хватит подписки с головой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама подписки на кодекс и композер.",
+      "keywords": [
+        "кодекс",
+        "подписка",
+        "реклама",
+        "компосер",
+        "цены"
+      ]
+    }
+  },
+  {
+    "id": 2212,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:26:36+00:00",
+    "text": "Моя 1660 видеокарта спокойно тянет Gemma 12b, причём в олламе там модель нормальная , но помешье. А я вот развернул 12b, мне нравится , чаще всего ее использую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится опытом использования видеокарты для работы с моделью Gemma 12b.",
+      "keywords": [
+        "видеокарта",
+        "Gemma 12b",
+        "технологии",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 2209,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:20:40+00:00",
+    "text": "Надо попробовать Gemma",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2208,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:19:25+00:00",
+    "text": "Гляну , спасибо! А вообще , я проект целиком сделал на  Gemma, вдлвесок развернул локальную модель, если той не будет хватать, но... Хватает. Токенов конечно немеренно кушает, но их хватает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится опытом использования модели Gemma.",
+      "keywords": [
+        "Gemma",
+        "модель",
+        "локальная",
+        "токены",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 2207,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:12:15+00:00",
+    "text": "Посмотрите там тоже небольшой бесплатный лимит есть.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о бесплатном лимите.",
+      "keywords": [
+        "бесплатный",
+        "лимит",
+        "предложение"
+      ]
+    }
+  },
+  {
+    "id": 2206,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:11:23+00:00",
+    "text": "Grok? У меня гемма, grok'a , нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2205,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:05:00+00:00",
+    "text": "Я про Кими тоже слышала. Да она платная. Бесплатные лимиты есть Qwen  и Grok.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение платных и бесплатных лимитов для AI-приложений.",
+      "keywords": [
+        "Кими",
+        "платные",
+        "бесплатные лимиты",
+        "Qwen",
+        "Grok"
+      ]
+    }
+  },
+  {
+    "id": 2204,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T05:01:39+00:00",
+    "text": "Сейчас, я слышал, кими к2 прям разрывная модель, но она в подписке за 10 баксов в олламе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение модели кими к2 и её подписки.",
+      "keywords": [
+        "кими к2",
+        "модель",
+        "подписка",
+        "олламе"
+      ]
+    }
+  },
+  {
+    "id": 2201,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-07-27T03:22:37+00:00",
+    "text": "У меня стоит ollama  бесплатные установила агентов. Итог агент сломал мне код.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь сообщает о проблемах с кодом после установки агента ollama.",
+      "keywords": [
+        "ollama",
+        "агент",
+        "код",
+        "проблемы"
+      ]
+    }
+  }
+]

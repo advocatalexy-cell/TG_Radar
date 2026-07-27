@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2545,
+    "channel_id": "club_lawyers",
+    "date": "2026-07-27T09:29:17+00:00",
+    "text": "📋 ❗️Новая заявка❗️\n\n Локация: Владимир\n Отрасль: Арбитражное право\n Задача: Заседание в апелляции, поддержать доводы апелляционной жалобы\n Стоимость: 5-10к\n Предельный срок отклика на заявку: 72 часа\n\n[📲 Написать автору заявки](tg://user?id=7019159801)",
+    "views": 390,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит информацию о новой заявке в сфере арбитражного права.",
+      "keywords": [
+        "заявка",
+        "арбитражное право",
+        "апелляция",
+        "стоимость",
+        "Владимир"
+      ]
+    }
+  },
+  {
+    "id": 2544,
+    "channel_id": "club_lawyers",
+    "date": "2026-07-27T07:01:36+00:00",
+    "text": "**Кажется, шестая версия заключения уже финальная. Но нет:** надо добавить еще один аргумент, уточнить риск, перепроверить практику и снова поправить вывод. И так по кругу.\n\nТеперь заключение по делу будет готово с первого раза. [ПравоКонсультант](https://pravo.tech/product/consultant?utm_source=telegram&utm_medium=post&utm_campaign=a:pravo_consultant%7Cb:lenta%7Cc:no%7Cd:MAG-67265_8_telegram%7Ce:MAG-67265_9_telegram%7Cf:t.me/club_lawyers%7Cg:no%7Ch:leadgen&utm_content=ad:1002702&erid=2W5zFK7Qoi9) за минуты соберет выводы, риски, аргументы и ссылки на судебную практику.\n\n**Попробуйте бесплатно прямо сейчас: **[https://pravo.click/xo0ejQ?erid=2W5zFK7Qoi9](https://pravo.click/xo0ejQ?erid=2W5zFK7Qoi9)",
+    "views": 502,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост рекламирует сервис для юридического заключения.",
+      "keywords": [
+        "реклама",
+        "юридические услуги",
+        "заключения",
+        "аргументы"
+      ]
+    }
+  }
+]
