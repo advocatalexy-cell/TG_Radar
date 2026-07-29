@@ -1,0 +1,22 @@
+[
+  {
+    "id": 221,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-07-29T07:26:07+00:00",
+    "text": "Актуально для пользователей Telegram Premium ⭐️\n\nБуду благодарен, если поддержите канал голосом:\n\nhttps://t.me/boost/ivan_ai_practice",
+    "views": 311,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о поддержке канала голосом.",
+      "keywords": [
+        "Telegram Premium",
+        "поддержка",
+        "канал"
+      ]
+    }
+  }
+]
