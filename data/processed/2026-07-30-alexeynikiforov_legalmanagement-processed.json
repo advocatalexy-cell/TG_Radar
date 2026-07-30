@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2348,
+    "channel_id": "alexeynikiforov_legalmanagement",
+    "date": "2026-07-30T06:36:38+00:00",
+    "text": "Как уже писал, начал вести [Youtube блог](https://youtu.be/FVrGFExhtJM?si=GuSzsaZhcqBUQWQK). Будут разные темы, сейчас делаю заметки по теме появления, изменения и умирания профессий. Все, конечно, на примере нашей. Так что подписывайтесь, этот контент будет только на Youtube.",
+    "views": 362,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится информацией о своем новом Youtube блоге.",
+      "keywords": [
+        "блог",
+        "Youtube",
+        "профессии",
+        "контент",
+        "изменения"
+      ]
+    }
+  }
+]

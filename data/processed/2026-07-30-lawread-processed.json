@@ -1,0 +1,18 @@
+[
+  {
+    "id": 417,
+    "channel_id": "lawread",
+    "date": "2026-07-30T10:05:38+00:00",
+    "text": "ЦА подписаться",
+    "views": 231,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  }
+]
