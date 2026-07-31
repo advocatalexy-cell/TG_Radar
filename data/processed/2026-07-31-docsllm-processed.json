@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 82051,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:48:17+00:00",
+    "text": "спасибо)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Простое выражение благодарности.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82050,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:45:57+00:00",
+    "text": "ого.. трудно это осознать и принять 👀",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82049,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:45:18+00:00",
+    "text": "отправил вам в личку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о личной переписке.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82048,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:43:03+00:00",
+    "text": "давайте, будет интересно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на обсуждение без конкретного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82047,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:42:52+00:00",
+    "text": "я, если что, никак не связан с данным каналом и его авторами))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь заявляет о своей незаинтересованности в связи с каналом.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82046,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:42:38+00:00",
+    "text": "кстати, я не знаю, в здешнем сообществе наверняка баян, но я сам наткнулся недавно, есть канал в телеграме, который оповещает о сбросе лимитов в codex/claude. я бы поделился, вдруг кому полезно будет, но не хочу получить бан за рекламу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится информацией о канале, который уведомляет о сбросах лимитов.",
+      "keywords": [
+        "канал",
+        "оповещения",
+        "лимиты",
+        "codex",
+        "claude"
+      ]
+    }
+  },
+  {
+    "id": 82045,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:41:02+00:00",
+    "text": "а нет, извиняюсь - ios приложение на flutter, чем бы оно не было",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "iOS",
+        "Flutter",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 82044,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:39:59+00:00",
+    "text": "я сегодня зашел на один из гпт-аккаунтов, а у меня какой то китаец проектирует приложение для эпл вотч, все лимиты сожрал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с использованием GPT-аккаунтов.",
+      "keywords": [
+        "GPT",
+        "приложение",
+        "эпл",
+        "лимиты",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 82043,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:38:37+00:00",
+    "text": "Я бы скорее такую схему рассмотрел \n\nOpus 5 оркестратор (или Sol)\nLuna max исполнитель",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение схемы использования оркестраторов и исполнителей.",
+      "keywords": [
+        "оркестратор",
+        "исполнитель",
+        "схема",
+        "Opus 5",
+        "Luna max"
+      ]
+    }
+  },
+  {
+    "id": 82042,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:38:07+00:00",
+    "text": "больше дураков богу дураков",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82041,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:37:49+00:00",
+    "text": "Ну и будет плодить Luna дураков на Luna Low, не уверен что это хорошая идея",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь выражает сомнения относительно проекта Luna Low.",
+      "keywords": [
+        "Luna",
+        "Low",
+        "сомнения",
+        "проект"
+      ]
+    }
+  },
+  {
+    "id": 82040,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:33:07+00:00",
+    "text": "ура, теперь можно luna только на ультра гонять",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о возможности запускать luna на ультра настройках.",
+      "keywords": [
+        "luna",
+        "ультра",
+        "запуск"
+      ]
+    }
+  },
+  {
+    "id": 82039,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:26:20+00:00",
+    "text": "Скорее первый вариант, чем второй, так как в другие часы Kimi нормально работает и без квн. И с помощью того же VS Code нормально Kimi Code запускается. Нормально кодит или работает с файлами",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение работы Kimi Code и VS Code.",
+      "keywords": [
+        "Kimi Code",
+        "VS Code",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 82038,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T13:03:51+00:00",
+    "text": "@Roman_Yankovskiy а доставляют то как красиво.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит комментарий без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82037,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T12:43:47+00:00",
+    "text": "@Jane_lawyer эксперт по кимоше.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82036,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T12:34:20+00:00",
+    "text": "Коллеги, подскажите, пожалуйста - по итогам позавчерашнего вебинара тоже оформил себе подписку на Kimi, которая упоминается в последних сообщениях. \n\nВчера в 11 вечера по Москве попробовал использовать К3 через Kimi Work, но не получил ни одного ответа. Не могу взять в толк:\n\n(1) это происходит из-за того, что большая нагрузка на сервера (как пишут на Реддите), в том числе в ночное время по китайскому часовому поясу, либо\n\n(2) это РКН блокирует сервисы Cloudflare. \n\nВы как используете Kimi, подключаюсь к серверам разработчиков или сторонних провайдеров? Если делаете это напрямую, то подключаетесь Вы, __так сказать__, из России?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает проблемы с использованием Kimi после вебинара.",
+      "keywords": [
+        "Kimi",
+        "сервера",
+        "обсуждение",
+        "проблемы",
+        "подписка"
+      ]
+    }
+  },
+  {
+    "id": 82035,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:29:24+00:00",
+    "text": "между ними есть тариф за 40$ - я как раз на него перейти хочу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает тариф за 40$.",
+      "keywords": [
+        "тариф",
+        "обсуждение",
+        "переход"
+      ]
+    }
+  },
+  {
+    "id": 82034,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:16:46+00:00",
+    "text": "А там после 20 сразу 100, или есть промежуточный тариф?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о тарифах.",
+      "keywords": [
+        "тариф",
+        "вопрос",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 82033,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:14:45+00:00",
+    "text": "на кими 100$ я пока не готов тратить, но он обещает в 6 раз больше лимит. Так что мб как раз на недельку беспрерывной работы и хватит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится мыслями о том, что не готов инвестировать пока.",
+      "keywords": [
+        "инвестиции",
+        "обещания",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 82032,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:13:56+00:00",
+    "text": "по аналогии с Солом: он на ультра моде в 2-3 сессии выжигает недельный лимит подписки за 2 суток. Т.е. следующие 5 дней работать он не сможет, пока лимиты не обновятся. Если бы не было недельного лимита, то он мог бы работать всю неделю, пока не выжжет месячный лимит. Здесь аналогично)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение о лимитах подписки на услугу без конкретной новостной составляющей.",
+      "keywords": [
+        "подписка",
+        "лимиты",
+        "сессии"
+      ]
+    }
+  },
+  {
+    "id": 82031,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:08:01+00:00",
+    "text": "а, так у меня за 20$ обе подписки) я на этот лимит и ориентируюсь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о подписках за 20$.",
+      "keywords": [
+        "подписки",
+        "стоимость",
+        "лимит"
+      ]
+    }
+  },
+  {
+    "id": 82030,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:04:52+00:00",
+    "text": "Я не говорю, что Кими плохая или что ей пользоваться не надо, я просто не понимаю, а чем месячный лимит преимущество, если он на изи съедается за день?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение месячного лимита в использовании сервиса Кими.",
+      "keywords": [
+        "Кими",
+        "лимит",
+        "услуга",
+        "пользователи",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 82029,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:02:46+00:00",
+    "text": "Т.е. в два раза дороже, а токенов явно больше, чем в 2 раза",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение цен на токены, но без конкретного контекста.",
+      "keywords": [
+        "токены",
+        "цены",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 82028,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:02:12+00:00",
+    "text": "100",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82027,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:02:06+00:00",
+    "text": "а какой тариф?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о тарифах.",
+      "keywords": [
+        "тариф",
+        "вопрос",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 82026,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:02:00+00:00",
+    "text": "а так смысл 5-ч и 7-д лимитов исключительно в том чтобы 99% юзеров не могло использовать все токены, которые им доступны",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение лимитов на использование токенов.",
+      "keywords": [
+        "токены",
+        "лимиты",
+        "пользователи",
+        "использование",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 82025,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:01:57+00:00",
+    "text": "Сол ультра, можно и за день съесть, если дать задачи на дизайн интерфейса)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82024,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:01:21+00:00",
+    "text": "По 4-9 часов гоалы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82023,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:01:13+00:00",
+    "text": "В Сол Ультра",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82022,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:01:09+00:00",
+    "text": "Ещё раз, недельный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не значимое сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82021,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T11:01:02+00:00",
+    "text": "Ну смотрите, я в пару-тройку параллельных гоалов на ЧатГПТ с Sol Ultra выжирал недельный лимит за пару суток. Это мой максимум)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о личном опыте использования ЧатГПТ.",
+      "keywords": [
+        "ЧатГПТ",
+        "Sol Ultra",
+        "лимит",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 82020,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:59:57+00:00",
+    "text": "у кими сейчас это как маркетинговая штука я так понимаю, они своё приложение пытаются пропихивать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост касается маркетинга приложения без значимого содержания.",
+      "keywords": [
+        "маркетинг",
+        "приложение",
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 82019,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:58:59+00:00",
+    "text": "так любой месячный лимит можно съесть за сутки, это вопрос чатов. У меня выше вот, например, где-то чуть меньше суток работал кими в 2-х чатах.\nГПТ на аналогичном тарифе отлетел бы точно так же, просто он не даст поработать больше чем 7-д лимит)) а потом и больше чем 5-ч лимит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение работы чат-ботов и их лимитов.",
+      "keywords": [
+        "чат-боты",
+        "лимиты",
+        "ГПТ",
+        "работа",
+        "тариф"
+      ]
+    }
+  },
+  {
+    "id": 82018,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:53:04+00:00",
+    "text": "Это ж потому и добавили, что недельную люди слишком быстро выжирать будут",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение изменения в плане предложения чего-либо.",
+      "keywords": [
+        "неделя",
+        "изменения",
+        "люди"
+      ]
+    }
+  },
+  {
+    "id": 82017,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:52:15+00:00",
+    "text": "Так а плюс-то в чём, если месячная квота настолько мелкая, что за день проедается?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждается недостаток месячной квоты на что-то важное.",
+      "keywords": [
+        "квота",
+        "недостаток",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 82016,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:50:58+00:00",
+    "text": "есть месячный лимит - Х токенов. В кодексе/клоде я могу потратить столько токенов, сколько мне позволят 5-ч и 7-д лимиты. Здесь они тоже есть для Kimi Code, но если использовать Kimi Work - он будет брать токены сразу из месячного лимита",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение лимитов на использование токенов в Kimi Code и Kimi Work.",
+      "keywords": [
+        "токены",
+        "лимиты",
+        "Kimi Code",
+        "Kimi Work"
+      ]
+    }
+  },
+  {
+    "id": 82015,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:49:09+00:00",
+    "text": "В зет коде дают скидку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама о скидке в зет коде.",
+      "keywords": [
+        "скидка",
+        "зет код",
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 82014,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:48:57+00:00",
+    "text": "И пакет наверняка может меняться)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Недостаточно информации для оценки значимости.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82013,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:48:48+00:00",
+    "text": "Толька с сюрприз-механикой — ты не знаешь, сколько в пакете",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неопределенную информацию о пакете с сюрпризом.",
+      "keywords": [
+        "сюрприз",
+        "пакет",
+        "неопределенность"
+      ]
+    }
+  },
+  {
+    "id": 82012,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:48:29+00:00",
+    "text": "Во-во, это просто пакет токенов, получается",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неформальная реакция на что-то.",
+      "keywords": [
+        "токены",
+        "пакет",
+        "реакция"
+      ]
+    }
+  },
+  {
+    "id": 82011,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:43:48+00:00",
+    "text": "У Кими нет часовых и недельных лимитов? Можно за день все спустить?\nТ.е. это по сути не подписка, а покупка фиксированного количества токенов получается?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение лимитов использования токенов в сервисе Кими.",
+      "keywords": [
+        "Кими",
+        "токены",
+        "лимиты"
+      ]
+    }
+  },
+  {
+    "id": 82010,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:30:41+00:00",
+    "text": "А в чём плюс-то?) От меня ускользает) Лимиты подписки настолько низкие, что есть месячный лимит и его можно за день потратить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится недовольством о лимитах подписки.",
+      "keywords": [
+        "лимиты",
+        "подписка",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 82009,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:13:41+00:00",
+    "text": "ИИ привёл к перерасходу бюджета на 860 % — Amazon признала, что нейросети сделали ошибки «катастрофически дорогими» https://share.google/XCX8dX12jOpMVXjKN",
+    "views": 175,
+    "forwards": 2,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "business",
+      "summary": "Amazon признала, что использование нейросетей привело к значительному перерасходу бюджета.",
+      "keywords": [
+        "ИИ",
+        "бюджет",
+        "Amazon",
+        "нейросети",
+        "ошибки"
+      ]
+    }
+  },
+  {
+    "id": 82008,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T10:13:40+00:00",
+    "text": "из плюсов: Кими умнее чем GPT, это реально видно. Например, мне нужно было перенести большую базу данных на отдельный HDD, который периодически отваливался, и параллельно подгружать новую инфу туда. Кодекс это не уловил, приходилось его тыкать каждый раз когда эта ошибка возникала. Кими наоборот - уловил, сделал скрипт с учетом этого, отобразил виджет со шкалой переноса.\n\nТакже к плюсам можно, наверное, отнести возможность выжать всю подписку за день\n \n\nИз минусов:\n1. Лимиты ощутимо меньше чем в GPT.\n2. Он не умеет читать собственные диалоги соседние. Диалоги в Codex он смог прочитать и понять что мне надо, а вот диалог из своей соседней сессии не смог. И вместе с этим - чем дольше он работает в одной сессии - тем больше токенов он ест на тех же задачах.\n3. У меня его немного поплавило под конец и он перестал нормально работать - в ризонинге была куча бессвязного текста с иероглифами, он ничего плохого не сделал при этом (он в целом ничего не сделал в течение этого ризонинга), но потратил где-то 1% лимита прежде чем я его остановил. Вылечилось загрузкой новой сессии",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Автор делится положительным и отрицательным опытом использования ИИ-системы Кими по сравнению с GPT.",
+      "keywords": [
+        "Кими",
+        "GPT",
+        "Искусственный интеллект",
+        "опыт",
+        "отзывы"
+      ]
+    }
+  },
+  {
+    "id": 82007,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:58:10+00:00",
+    "text": "Как впечатление?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82006,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:58:04+00:00",
+    "text": "вообще, чисто математически выгоднее покупать подписку вот таким вот каскадным способом, потому что тарифы каждый раз обновляются при повышении",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост обсуждает выгодность покупки подписки каскадным способом.",
+      "keywords": [
+        "подписка",
+        "тарифы",
+        "выгода"
+      ]
+    }
+  },
+  {
+    "id": 82005,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:57:00+00:00",
+    "text": "ага, за день всю выжал) Но вечьма результативно. У следующего тарифа в 2,5 раза больше лимит, на него перейду как раз",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о повышении лимита тарифа.",
+      "keywords": [
+        "тариф",
+        "лимит",
+        "результативность"
+      ]
+    }
+  },
+  {
+    "id": 82004,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:55:13+00:00",
+    "text": "уже закончилась?) так можно каждый день подписку покупать))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит недоумение по поводу подписки.",
+      "keywords": [
+        "подписка",
+        "недоумение",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 82003,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:48:18+00:00",
+    "text": "а кто-то повышал тариф подписки Кими - вам вот этот \"пропорциональный возврат\" как оформляли - как скидку при оплате или как возврат на карту разницы между тарифами?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о возврате разницы между тарифами подписки Кими.",
+      "keywords": [
+        "тариф",
+        "подписка",
+        "возврат",
+        "Кими"
+      ]
+    }
+  },
+  {
+    "id": 82002,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:47:19+00:00",
+    "text": "@userNsk Алексей, коммерческие объявления просьба предварительно обсуждать с администрацией группы)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Коммерческие объявления должны обсуждаться с администрацией группы.",
+      "keywords": [
+        "коммерческие объявления",
+        "администрация",
+        "группа"
+      ]
+    }
+  },
+  {
+    "id": 82001,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T09:38:14+00:00",
+    "text": "К нам периодически поступают вопросы о предоставлении API\n\nхотим понять насколько это это вообще востребовано\nшта?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о востребованности API со стороны пользователей.",
+      "keywords": [
+        "API",
+        "востребованность",
+        "вопросы"
+      ]
+    }
+  },
+  {
+    "id": 81998,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T08:12:11+00:00",
+    "text": "Kwikpay",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 81997,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T07:30:20+00:00",
+    "text": "В приложении банка, перевод за рубеж (mobile wallet)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о функции перевода в банковском приложении.",
+      "keywords": [
+        "банк",
+        "перевод",
+        "мобильный кошелек"
+      ]
+    }
+  },
+  {
+    "id": 81996,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T07:25:30+00:00",
+    "text": "Преступление и наказание, собственно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 81995,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T07:23:11+00:00",
+    "text": "Коллеги, кто с карты СНГ оплачивает подписки - вы как сейчас переводите деньги на саму иностранную карту?\nРаньше через золотую корону пополнял, но сейчас ограничили переводы в Казахстан",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение способов перевода денег за подписки из СНГ.",
+      "keywords": [
+        "переводы",
+        "подписки",
+        "СНГ",
+        "финансы",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 81991,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T05:57:34+00:00",
+    "text": "Их объединяет… :)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 81990,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T05:44:24+00:00",
+    "text": "Интересные соседи у книги «юристы и нейросети»:\nВнутри убийцы, ванильный убийца, убийца на выставке собак, клуб убийств по четвергам, чисто шведские убийства, убийства и кексики, кофе пончики и труп, стирание, опасная игра бабули\n🚬💀",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит список названий книг, связанных с темой убийств.",
+      "keywords": [
+        "книги",
+        "убийцы",
+        "литература",
+        "досуг"
+      ]
+    }
+  },
+  {
+    "id": 81988,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T03:27:49+00:00",
+    "text": "**OpenAI сбросили цены на GPT 5.6**\n\nLuna теперь дешевле в пять раз, всего $0.2/$1.2 за миллион токенов, против $1/$6 на релизе. Цену Terra сбросили на 20%, до $2/$12 за миллион токенов. Понижение цен касается не только API, но и квоты в Codex/ChatGPT Work. Sol не получил понижения цены, но для него выпустили Fast режим, который в 2.5x быстрее по 2x цене, но про дату релиза Sol запущенного на железе Cerebras OpenAI всё ещё молчат.\n\n@ai_newz",
+    "views": 50479,
+    "forwards": 891,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "OpenAI снизила цены на свои услуги GPT и Terra, увеличив доступность продуктов.",
+      "keywords": [
+        "OpenAI",
+        "цены",
+        "GPT",
+        "Terra",
+        "бизнес"
+      ]
+    }
+  },
+  {
+    "id": 81987,
+    "channel_id": "docsllm",
+    "date": "2026-07-31T02:05:20+00:00",
+    "text": "Рецепт из канала можно отправлять Гале, а не копить годами в избранном) с пометкой «Галя, напомни зачем я это сделала и как это готовить»)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о рецептах и обмене ими.",
+      "keywords": [
+        "рецепт",
+        "Галя",
+        "кулинария"
+      ]
+    }
+  }
+]

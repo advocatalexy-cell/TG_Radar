@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20741,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-31T08:00:37+00:00",
+    "text": "ага, уже бегут к тебе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20737,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-31T07:22:41+00:00",
+    "text": "Спасибо большое!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Выражение благодарности.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20736,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-31T07:22:21+00:00",
+    "text": "Забираю в свой канал Стык! :) @legaltech_styk",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о забирании канала.",
+      "keywords": [
+        "канал",
+        "забираю",
+        "Стык"
+      ]
+    }
+  },
+  {
+    "id": 20734,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-31T07:03:05+00:00",
+    "text": "У нас появилась база выпускников Лигалтех магистратуры ВШЭ кстати",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о появлении базы выпускников.",
+      "keywords": [
+        "выпускники",
+        "Лигалтех",
+        "магистратура",
+        "ВШЭ"
+      ]
+    }
+  },
+  {
+    "id": 20733,
+    "channel_id": "msklegalhackers",
+    "date": "2026-07-31T06:52:40+00:00",
+    "text": "Всем доброго дня! Хочу поделиться LegalTech вакансиями в команду Центра юридической поддержки X5) Уверена, что в профильном сообществе найдётся наш человек! \n\n🟢 Младший юрист (функционал: работа в Doczilla, разметка договоров, разработка и настройка чек-листов для проверки договоров на риски, адаптация типовых шаблонов договоров под бизнес-процессы, актуализация типовых договоров, перевод типовых форм в цифровой формат) \n\nВажен навык Legal design, опыт договорной работы.\n\n🟢 Юрист (функционал: разработка форм оферт, применение ЭЦП при заключении электронных сделок, автоматизация договорной работы, правовое сопровождение некоммерческих договоров, разработка и сопровождение типовых форм. Подробнее на скрине)\n\nГибрид, после испытательного всего 1 день в неделю в офисе, БЦ Оазис, м. Добрынинская\n\nОткликнуться: https://hh.ru/vacancy/135311237?hhtmFrom=employer_vacancies\n\nHR для связи — Елена, ElZvereva@x5.ru\n\nЕсть возможность сразу через меня передать резюме руководителю",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о вакансиях в LegalTech команде Центра юридической поддержки X5.",
+      "keywords": [
+        "вакансии",
+        "LegalTech",
+        "юрист",
+        "X5",
+        "команда"
+      ]
+    }
+  }
+]
