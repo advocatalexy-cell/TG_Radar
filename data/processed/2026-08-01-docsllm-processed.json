@@ -1,0 +1,302 @@
+[
+  {
+    "id": 82089,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T13:11:29+00:00",
+    "text": "да, работает без сбоев и квн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82088,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T13:10:38+00:00",
+    "text": "коллеги, а у вас в гугловские сервисы (буквально в сам гугл и почту) нормально заходит без трех букв? весь день какая-то фигня",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблемы с доступом к сервисам Google.",
+      "keywords": [
+        "Google",
+        "сервисы",
+        "доступ",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 82087,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T13:10:37+00:00",
+    "text": "💀 дипломатично",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82086,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T13:09:15+00:00",
+    "text": "Можно посмотреть нашу базу знаний про это!) https://runetlexbase.ru/legal_LLM_knowledgebase/znakomstvo-s-nejrosetyami/obzor-llm",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на базу знаний о нейросетях.",
+      "keywords": [
+        "нейросети",
+        "база знаний",
+        "обзор",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 82085,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T12:53:12+00:00",
+    "text": "Есть так называемая большая тройка - ChatGPT, Google Gemini, Claude. Это те нейросети которые показывают наилучшее качество.\nЕсть пучок китайских нейросетей вроде DeepSeek, Qwen, glm. Они далеко от тройки, но применимы в юрзадачах.\nДальше начинается зона вне категорий. Это наши YandexGPT, GigaChat и прочие варианты для нейрогурманов. Увы они не нашли массового признания и любви.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.4,
+      "category": "tech",
+      "summary": "Обсуждение нейросетей и их качества на фоне большой тройки и китайских аналогов.",
+      "keywords": [
+        "нейросети",
+        "ChatGPT",
+        "Google Gemini",
+        "Claude",
+        "YandexGPT"
+      ]
+    }
+  },
+  {
+    "id": 82084,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T12:49:21+00:00",
+    "text": "**Запись вебинара про тёмную лошадку нейросетей**\n\nСтепан Леонтьев и Николай Божков @jur_perevod, руководитель консалтинговой компании и ментор курса «Нейросети для юриста», недавно провели вебинар, где разобрали ZCode. Это китайская замена Claude Code, которая работает из России без проблем с доступом. \n\nСначала поговорили о том, что такое ИИ-агенты вообще, а потом разобрали как сделать инструкции (skills) для них. \n\nПрямо в эфире запустили автоматическую проверку сайта на ошибки по законодательству о персональных данных (152-ФЗ) с формированием отчёта. \n\nНиколай отдельно рассказал про безопасность: риски при отправке рабочих документов на сервера в Сингапур и Китай и как быть с адвокатской тайной. \n\nЗавершили вебинар разбором тарифной сетки этой нейросети (спойлер — в Китае все ожидаемо дешевле)!\n\n[**Смотрите запись и открывайте для себя новые доступные инструменты**](https://s.salebot.pro/r/runetlex_academy_web2907_1?utm_source=ad&utm_medium=neuralnetworks&utm_campaign=ilovedocsai)**!**",
+    "views": 242,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Вебинар о ZCode, китайской замене Claude Code, и использовании ИИ-агентов для юридических задач.",
+      "keywords": [
+        "нейросети",
+        "ZCode",
+        "вебинар",
+        "Юридические технологии",
+        "безопасность данных"
+      ]
+    }
+  },
+  {
+    "id": 82083,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T12:36:54+00:00",
+    "text": "Добрый день, уважаемые коллеги подскажите новичку в мире ИИ какое для юриста наиболее работоспособно читала что Cloude, в интернете куча информации, но буду благодарна если поделитесь опытом как установить их в РФ и какую ИИ лучше ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос совета по выбору и установке ИИ инструментов для юристов в России.",
+      "keywords": [
+        "ИИ",
+        "юрист",
+        "инструменты",
+        "установка",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 82078,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T08:27:56+00:00",
+    "text": "Google пришлось откатить ИИ-функцию для Google Earth спустя сутки после запуска.\n\nВчера компания представила инструмент, который позволял с помощью ИИ изменять реальные здания и локации прямо на карте. Однако пользователи быстро нашли ему совсем другое применение.\n\nВместо безобидных экспериментов пользователи начали создавать 11 сентября, удары ядерки, падения метеоритов и многое другое. \n\nВ результате уже сегодня Google отключила новую функцию, откатив обновление.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Google отключила ИИ-функцию в Google Earth из-за злоупотреблений пользователями.",
+      "keywords": [
+        "Google Earth",
+        "ИИ",
+        "функция",
+        "откат",
+        "злоупотребления"
+      ]
+    }
+  },
+  {
+    "id": 82075,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T08:17:42+00:00",
+    "text": "🔥 **DeepSeek** обновил **V4-Flash** 🔥\n\nНазвание новой модели -** deepseek-v4-flash-0731**. Это дальнейшая тренировка предыдущей модели deepseek-v4-flash. Архитектура такая же, изменились только веса.\n\nЧто выросло на бенчмарках:\n- Terminal Bench 2.1: 61.8 → 82.7\n- DeepSWE: 7.3 → 54.4 (не опечатка)\n- Cybergym: 38.7 → 76.7\n- Toolathlon verified: 49.7 → 70.3\n...\n\nМодель стала лучше для длинных агентных сессий и программирования. На мой взгляд deepseek-v4-flash-0731 это лучшая модель по соотношению цена/качество в этом ценовом диапазоне.\n\nСкоро обещают выпустить обновление для V4-Pro. \n\nВеса модели:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nЧат разработчика:\nhttps://chat.deepseek.com/\n\nТакже можно попробовать на моем сайте. Чат и API:\nhttps://rus-gpt.com/models",
+    "views": 708,
+    "forwards": 15,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "DeepSeek представил обновленную модель deepseek-v4-flash-0731 с улучшенными показателями на бенчмарках.",
+      "keywords": [
+        "DeepSeek",
+        "модель",
+        "бенчмарки",
+        "AI",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 82074,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T08:17:14+00:00",
+    "text": "**Как выжать максимум из GPT-5.6: Sol, Terra и Luna**\n\nРазбор трёх моделей семейства GPT-5.6, доступных по подписке Codex: чем они отличаются по цене, скорости и интеллекту, как выбирать модель под задачу, настраивать уровень reasoning, экономить на кэше и строить мультиагентные схемы работы.\n\n[**Читать статью**](https://telegra.ph/Kak-vyzhat-maksimum-iz-GPT-56-Sol-Terra-i-Luna-07-29)",
+    "views": 429,
+    "forwards": 10,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Обзор моделей GPT-5.6 и советы по эффективному использованию.",
+      "keywords": [
+        "GPT-5.6",
+        "модели",
+        "разбор",
+        "интеллект",
+        "настройка"
+      ]
+    }
+  },
+  {
+    "id": 82073,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T08:10:07+00:00",
+    "text": "Да даже не для россиян… Только для самих европейцев разве что. С тамошней зарегулированностью это только для сильных духом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост затрагивает тему жизненных условий в Европе, но не содержит значимой информации.",
+      "keywords": [
+        "Европа",
+        "самостоятельность",
+        "регулирование"
+      ]
+    }
+  },
+  {
+    "id": 82072,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T03:45:16+00:00",
+    "text": "Можно сказать в этом чате уже был анонс этой книги)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминание о книге без содержания.",
+      "keywords": [
+        "книга",
+        "анонс",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 82071,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T03:43:13+00:00",
+    "text": "На ЛитРес появилась книга о том, как ИИ внедрялось на госслужбе РФ. (Реальная история 2025 года).\nКнига небольшая, чтения минут на 20.  Вот ссылка кому лень искать в литресе\n\nhttps://www.litres.ru/book/igor-radchenko/mertvye-dushi-nashego-vremeni-pohozhdeniya-pervogo-cifrovog-74256588/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "На ЛитРес вышла книга о внедрении ИИ на госслужбе РФ.",
+      "keywords": [
+        "книга",
+        "ИИ",
+        "госслужба",
+        "ЛитРес",
+        "история"
+      ]
+    }
+  },
+  {
+    "id": 82070,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T01:07:19+00:00",
+    "text": "отправил вам",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не было предоставлено текста для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82069,
+    "channel_id": "docsllm",
+    "date": "2026-08-01T01:06:49+00:00",
+    "text": "Также прошу поделиться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на обмен информацией.",
+      "keywords": []
+    }
+  }
+]
