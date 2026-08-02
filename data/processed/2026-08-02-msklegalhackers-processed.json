@@ -1,0 +1,62 @@
+[
+  {
+    "id": 20761,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-02T13:53:35+00:00",
+    "text": "бесплатно Пр0ба шиш новому покупателю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама о бесплатной пробе продукта для нового покупателя.",
+      "keywords": [
+        "бесплатно",
+        "проба",
+        "покупатель"
+      ]
+    }
+  },
+  {
+    "id": 20760,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-02T13:44:11+00:00",
+    "text": "на халяву Проба Мяy новому клиенту",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Публикация о бесплатной пробе продукта.",
+      "keywords": [
+        "бесплатно",
+        "клиент",
+        "продукт"
+      ]
+    }
+  },
+  {
+    "id": 20759,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-02T13:23:43+00:00",
+    "text": "Дам денег под %",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о предложении займа под процент.",
+      "keywords": [
+        "деньги",
+        "заем",
+        "процент"
+      ]
+    }
+  }
+]

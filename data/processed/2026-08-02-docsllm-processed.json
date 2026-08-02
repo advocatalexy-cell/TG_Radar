@@ -1,0 +1,395 @@
+[
+  {
+    "id": 82130,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T09:59:26+00:00",
+    "text": "@PureLSD",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запись не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82127,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T09:28:42+00:00",
+    "text": "Нейрогурманы шифруются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации или анализа.",
+      "keywords": [
+        "нейрогурманы",
+        "шифровка"
+      ]
+    }
+  },
+  {
+    "id": 82126,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T09:23:27+00:00",
+    "text": "А может мы чего-то не знаем. И это был Сбер-Cloud или Yandex-Cloud 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенные размышления о облачных сервисах.",
+      "keywords": [
+        "Сбер-Cloud",
+        "Yandex-Cloud",
+        "облачные сервисы"
+      ]
+    }
+  },
+  {
+    "id": 82124,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T09:22:29+00:00",
+    "text": "Или Клавдия)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82123,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T09:20:12+00:00",
+    "text": "Я почти уверен что Клод банит всех кто называет его cloud)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Шутка о том, что Клод банит пользователей, называющих его Cloud.",
+      "keywords": [
+        "Клод",
+        "бан",
+        "шантаж",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 82122,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:56:43+00:00",
+    "text": "Первый бан? Легко сдаетесь. Клод любит настойчивых. Переходите на новый аккаунт ;)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о переходе на новый аккаунт после блокировки.",
+      "keywords": [
+        "бан",
+        "аккаунт",
+        "Клод"
+      ]
+    }
+  },
+  {
+    "id": 82121,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:49:03+00:00",
+    "text": "На 5.6 sol",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Краткая информация о цене криптовалюты Solana.",
+      "keywords": [
+        "Solana",
+        "цена",
+        "криптовалюта"
+      ]
+    }
+  },
+  {
+    "id": 82120,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:47:48+00:00",
+    "text": "Codex",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82119,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:41:15+00:00",
+    "text": "Приветствую, настал день, когда меня тоже забанил cloud.\nНа что переходить?\nНужна рабочая, стабильная и проверенная лошадка для работы в юриспруденции. Наверное, как у большинства, работа (составление) с документами, анализ, практика.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет альтернативу для работы в юриспруденции после блокады Cloud.",
+      "keywords": [
+        "юриспруденция",
+        "альтернатива",
+        "документы"
+      ]
+    }
+  },
+  {
+    "id": 82118,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:19:14+00:00",
+    "text": "Firecrawl выпустили один из самых быстрых PDF-парсеров — он обрабатывает страницу всего за 0,002 секунды.\n\nЧто умеет:\n• Преобразует PDF в Markdown, сохраняя структуру документа, таблицы и форматирование;\n• Обрабатывает до 200 документов всего за 2,8 секунды;\n• Написан на Rust, поэтому работает быстро, потребляет минимум ресурсов и легко разворачивается;\n• Полностью открыт и не имеет ограничений на использование.\n\nhttps://github.com/firecrawl/pdf-inspector",
+    "views": 171,
+    "forwards": 31,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Firecrawl выпустили быстрый PDF-парсер на Rust, который быстро преобразует документы в Markdown.",
+      "keywords": [
+        "PDF-парсер",
+        "Rust",
+        "Markdown",
+        "Firecrawl",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82117,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:19:01+00:00",
+    "text": "ааа, увидел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная фраза.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82116,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:18:21+00:00",
+    "text": "это что?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный запрос без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82114,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T08:12:46+00:00",
+    "text": "Решил попробовать, но сначала попросил его в чате сделать самопрезентацию.\nИтог на скринах, с четвертой попытки и уже прямым запросом с его точным названием — он сообразил! Интересно...\n\nХороший вариант агента, где нельзя ставить впн. Спасибо!",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом общения с агентом, но без значимой информации.",
+      "keywords": [
+        "агент",
+        "самопрезентация",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 82113,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T06:09:43+00:00",
+    "text": "Посмотрел: да, можно - и скиллами, и плагинами",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение возможностей использования скиллов и плагинов.",
+      "keywords": [
+        "скиллы",
+        "плагины",
+        "возможности"
+      ]
+    }
+  },
+  {
+    "id": 82112,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T06:07:26+00:00",
+    "text": "Но что сам Kimi говорит, что можно)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82111,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T06:05:11+00:00",
+    "text": "В их десктоп-приложении есть чат и Kimi Work (аналог Cowork у Claude), я Kimi Work не пробовал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится информацией о функциях десктоп-приложения.",
+      "keywords": [
+        "чат",
+        "десктоп-приложение",
+        "Kimi Work",
+        "аналоги",
+        "обслуживание"
+      ]
+    }
+  },
+  {
+    "id": 82110,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T05:52:46+00:00",
+    "text": "а в их дескоп приложении?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос об использовании десктоп приложения.",
+      "keywords": [
+        "десктоп",
+        "приложение",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 82109,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T05:52:12+00:00",
+    "text": "Дополню: для Kimi Code точно можно писать и использовать скиллы, точно можно, если пользоваться расширением в VS Code",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение использования Kimi Code и расширения в VS Code.",
+      "keywords": [
+        "Kimi Code",
+        "скиллы",
+        "VS Code",
+        "расширение"
+      ]
+    }
+  },
+  {
+    "id": 82108,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T05:45:46+00:00",
+    "text": "Да, можно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённый ответ без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82107,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T05:14:51+00:00",
+    "text": "https://youtu.be/qyPCVqFUyDo?si=YpgCTe1gnTaZvXQr",
+    "views": 183,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на видео без дополнительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82106,
+    "channel_id": "docsllm",
+    "date": "2026-08-02T03:42:24+00:00",
+    "text": "Всех приветствую! вопрос по Kimi там скилы можно самому делать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о возможности создания скиллов в Kimi.",
+      "keywords": [
+        "Kimi",
+        "скилы",
+        "вопрос"
+      ]
+    }
+  }
+]
