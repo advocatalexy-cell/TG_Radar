@@ -1,0 +1,1017 @@
+[
+  {
+    "id": 82201,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:39:10+00:00",
+    "text": "Я видел в одном видео, что гермес это умеет делать если дать доступы\n\nПо поводу сяоми не знаю, но видел, как парень управлял шторами, светом и тд))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Упоминание о возможностях управления устройствами через Гермес и Xiaomi.",
+      "keywords": [
+        "Гермес",
+        "Xiaomi",
+        "управление",
+        "устройства"
+      ]
+    }
+  },
+  {
+    "id": 82200,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:37:34+00:00",
+    "text": "Надо мной висит проклятие забвения активации робота пылесоса, стоит дойти до двери",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82199,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:37:06+00:00",
+    "text": "Господа агентоводы, кто то в курсе, можно ли заставить агента командовать техникой, подключенной к умному дому сяоми?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможности интеграции агента с умным домом Xiaomi.",
+      "keywords": [
+        "умный дом",
+        "Xiaomi",
+        "агент",
+        "техника"
+      ]
+    }
+  },
+  {
+    "id": 82198,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:17:30+00:00",
+    "text": "если прикручивать к saas сервису, то надо брать на себя риски, что кто-то загрузит кучу перс данных за которые потом отвечать собственнику этого saas. Надо делать сильную юридическую обвязку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "При разработке SaaS сервиса необходимо учитывать юридические риски, связанные с загрузкой персональных данных.",
+      "keywords": [
+        "SaaS",
+        "персональные данные",
+        "юридические риски",
+        "обязанности",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 82197,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:14:38+00:00",
+    "text": "Тебе надо посмотреть действительно в сторону проектов, которые сейчас создаются в сфере лигалтех\n\nЯ бы допустим в своем сервисе встроил такую функцию пользователям, чтобы у них был выбор\n\nХотя, в тоже время сейчас один из главных вопросов, которые все задают проектам: копировать сложно? Если копировать легко, то проще свое написать и внедрить в продукт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждение возможностей внедрения новых функций в лигалтех и проблемы копирования проектов.",
+      "keywords": [
+        "лигалтех",
+        "функции",
+        "копирование",
+        "проекты",
+        "инновации"
+      ]
+    }
+  },
+  {
+    "id": 82196,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T13:10:59+00:00",
+    "text": "Хороший: узкий и мятый галстук в цвет пиджака, ещё и с не завязанным узлом.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о моде и внешнем виде.",
+      "keywords": [
+        "галстук",
+        "мода",
+        "пиджак",
+        "внешний вид"
+      ]
+    }
+  },
+  {
+    "id": 82195,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T12:43:45+00:00",
+    "text": "Галстук хороший. \nДавайте искать позитив!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82193,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T10:14:53+00:00",
+    "text": "Подписку злодеи подкинули",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82192,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T10:12:35+00:00",
+    "text": "Я вообще ИИ не пользуюсь)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь сообщает о своем неприменении ИИ.",
+      "keywords": [
+        "ИИ",
+        "пользование",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82191,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:59:48+00:00",
+    "text": "На Литресе есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82190,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:55:33+00:00",
+    "text": "Электронные книги закончились… урвал последнюю на озоне получается 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор шутит о покупке электронной книги.",
+      "keywords": [
+        "электронные книги",
+        "покупка",
+        "озон"
+      ]
+    }
+  },
+  {
+    "id": 82189,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:52:20+00:00",
+    "text": "Скорее всего большинство плевать хотело, но в своих публичных выступлениях они же не будут в этом признаваться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Публичные выступления часто не отражают истинное отношение людей.",
+      "keywords": [
+        "публичные выступления",
+        "мнение",
+        "общество"
+      ]
+    }
+  },
+  {
+    "id": 82188,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:51:57+00:00",
+    "text": "У них как бы ничего нельзя",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82187,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:51:50+00:00",
+    "text": "Мб среди адвокатов пиарить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82186,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:30:39+00:00",
+    "text": "Так мы с тобой не станем миллионерами )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82185,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:30:12+00:00",
+    "text": "Ну это база, не только физикам, но и МСБ тоже в РФ. Пока не начнут массово штрафовать все в гробу видали эти анонимайзеры. А штрафовать не начнут)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение недостатков анонимайзеров в России.",
+      "keywords": [
+        "анонимайзеры",
+        "штрафы",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 82184,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:29:03+00:00",
+    "text": "Я пока в отпуске был, отошел немного от дел, лежал и думал. Понял, что физикам не нужна конфиденциальность. Надо пробовать встроить в корпоративные системы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор размышляет о конфиденциальности для физиков и идее внедрения в корпоративные системы.",
+      "keywords": [
+        "физика",
+        "конфиденциальность",
+        "корпоративные системы"
+      ]
+    }
+  },
+  {
+    "id": 82183,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:26:43+00:00",
+    "text": "уже устал )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает усталость автора.",
+      "keywords": [
+        "усталость"
+      ]
+    }
+  },
+  {
+    "id": 82182,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:26:03+00:00",
+    "text": "Тут должна была быть реклама @ht_lkn :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост представляет собой рекламу.",
+      "keywords": [
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 82181,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T09:23:35+00:00",
+    "text": "Будете в Лувре, обязательно посмотрите знаменитую картину \"фио Лиза\" 😁\nПохоже это тот случай, когда плохое обезличивание хуже, чем совсем никакого",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекомендация посетить Лувр с упоминанием картины 'Мона Лиза'.",
+      "keywords": [
+        "Лувр",
+        "Мона Лиза",
+        "искусство",
+        "рекомендация"
+      ]
+    }
+  },
+  {
+    "id": 82180,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T08:12:01+00:00",
+    "text": "Обезлизили",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82179,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T08:06:45+00:00",
+    "text": "мону лизу тоже обезличили))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82177,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:52:45+00:00",
+    "text": "Ян, это конкретное оценочное решение по конкретному спору\n\nСлабая подготовка истца и не более. Ну и громкий заголовок журналистской братии\n\nВы правы, интереснее сами решения и мотивировки. И лучше не первой инстанции )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение конкретного судебного решения без значимой информации.",
+      "keywords": [
+        "судебное решение",
+        "оценка",
+        "спор",
+        "журналистика",
+        "подготовка"
+      ]
+    }
+  },
+  {
+    "id": 82176,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:28:23+00:00",
+    "text": "Когда вам говорят, что номер телефона — не персональные данные, это может оказаться правдой... \n\nНа самом деле персональные данные — это номер телефона, номер телефона или, например, номер телефона.\n\n#ст3 #152фз",
+    "views": 1462,
+    "forwards": 9,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение номера телефона как персональных данных.",
+      "keywords": [
+        "персональные данные",
+        "номер телефона",
+        "закон"
+      ]
+    }
+  },
+  {
+    "id": 82175,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:28:21+00:00",
+    "text": "Ну там такая обезличка, конечно, моё почтение))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82174,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:28:09+00:00",
+    "text": "Я не обращал внимание к московских районниках файлы называются, действительно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82172,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:26:38+00:00",
+    "text": "Это норма для публикации решений на сайте суда",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждается норма публикации судебных решений.",
+      "keywords": [
+        "суд",
+        "публикация",
+        "решения"
+      ]
+    }
+  },
+  {
+    "id": 82171,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:25:41+00:00",
+    "text": "Не, это другое, либо журналисты опять всё переврали\n\nUPD: Журналисты переврали, в оригинальной новости про арбитражный суд ни слова) Так что это явно то дело",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает и критикует искаженную информацию в новостях.",
+      "keywords": [
+        "журналисты",
+        "новости",
+        "арбитражный суд",
+        "искажение"
+      ]
+    }
+  },
+  {
+    "id": 82170,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:25:14+00:00",
+    "text": "Обезличенная? Какие мы осторожные))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82168,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:10:40+00:00",
+    "text": "Ой, а подкиньте ссылку на карточку или номер дела",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации по делу.",
+      "keywords": [
+        "карточка",
+        "номер дела",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 82167,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:10:09+00:00",
+    "text": "Советую ещё потестить анонсированный Qwen 3.8 MAX. Его OCR из коробки на рукописном тексте в моём мини-бенче показал себя даже лучше 3.6 Flash",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "ai",
+      "summary": "В новой версии Qwen 3.8 MAX улучшен OCR для рукописного текста по сравнению с 3.6 Flash.",
+      "keywords": [
+        "Qwen 3.8 MAX",
+        "OCR",
+        "рукописный текст",
+        "анализ",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82166,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:04:10+00:00",
+    "text": "3.6 Flash",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82165,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T07:01:27+00:00",
+    "text": "Какую модель выбирали?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос без дополнительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82164,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:52:40+00:00",
+    "text": "В этом плане они очень хороши, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточная информация для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82162,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:43:10+00:00",
+    "text": "суд по тексту акта сам себе противоречит, там вроде апелляцию подали, ждём решения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение противоречий в судебном акте и подача апелляции.",
+      "keywords": [
+        "суд",
+        "апелляция",
+        "противоречия",
+        "решение"
+      ]
+    }
+  },
+  {
+    "id": 82161,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:39:04+00:00",
+    "text": "Я бы так сказал: надо быть стрессоустойчивым и скорпулёзным, чтобы добиться от него хорошего результата. Иногда такое выдаёт 😁\nПользуюсь ежедневно на работе.\n\nС gpt проще работать.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным мнением о работе с GPT.",
+      "keywords": [
+        "стрессоустойчивость",
+        "результат",
+        "GPT",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 82159,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:35:51+00:00",
+    "text": "Мне Gemini рукописные позиции физиков распознавал. Я был удивлен качеству распознования.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Качество распознавания рукописных позиций физиков с помощью Gemini удивило автора.",
+      "keywords": [
+        "Gemini",
+        "распознавание",
+        "рукописные позиции",
+        "физики",
+        "качество"
+      ]
+    }
+  },
+  {
+    "id": 82158,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:30:39+00:00",
+    "text": "по времени также как Chat gpt work",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82157,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:30:08+00:00",
+    "text": "установил Hermes на ПК , авторизовался через Grok, дал задание по распознанию договора большого - тоже без ошибок, но долго",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь установил Hermes для распознавания договоров.",
+      "keywords": [
+        "Hermes",
+        "распознавание",
+        "договор",
+        "технология",
+        "Grok"
+      ]
+    }
+  },
+  {
+    "id": 82156,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:28:13+00:00",
+    "text": "Gemini сейчас по OCR прям мощная стала в чате, распознала договор очень плохого качества на 27 листов сканов, выдала итоговый документ на 50 листов (поля, отступы и т.д.) И это все без сокращения, как ИИ обычно любят. В нейроюристе тоже есть функция OCR - очень быстро и весьма неплохо как по мне.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Gemini и нейроюрист значительно улучшили функции распознавания документов с помощью OCR.",
+      "keywords": [
+        "Gemini",
+        "OCR",
+        "технологии",
+        "недвижимость",
+        "документы"
+      ]
+    }
+  },
+  {
+    "id": 82154,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:22:47+00:00",
+    "text": "жду потестить Deepseek но что то новиночка так и не подтянулась :( во флэш 4 они прям супер по их картинкам, хочется видеть основную модель",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Ожидание новой версии Deepseek без конкретной информации.",
+      "keywords": [
+        "Deepseek",
+        "новинка",
+        "ожидание",
+        "флэш 4",
+        "модель"
+      ]
+    }
+  },
+  {
+    "id": 82153,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:18:03+00:00",
+    "text": "при анализе договоров и фабл и квен выделяли одни и теже пункты - никакой разницы не было",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Анализ договоров показал идентичные пункты в двух документах.",
+      "keywords": [
+        "договоры",
+        "анализ",
+        "фабл",
+        "квен",
+        "идентичность"
+      ]
+    }
+  },
+  {
+    "id": 82152,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:17:09+00:00",
+    "text": "я говорю про 3.8 превью",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение предварительного просмотра версии 3.8.",
+      "keywords": [
+        "превью",
+        "версия",
+        "3.8"
+      ]
+    }
+  },
+  {
+    "id": 82151,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:16:55+00:00",
+    "text": "и Qwen местами составляла пункты лучше Fable",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение сравнительных характеристик Qwen и Fable.",
+      "keywords": [
+        "Qwen",
+        "Fable",
+        "сравнение",
+        "пункты"
+      ]
+    }
+  },
+  {
+    "id": 82149,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:16:15+00:00",
+    "text": "составление протоколов разногласий к договорам поставки с торговыми сетями",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "business",
+      "summary": "Обсуждение составления протоколов разногласий по договорам поставки.",
+      "keywords": [
+        "протоколы",
+        "разногласия",
+        "договоры",
+        "поставка",
+        "торговые сети"
+      ]
+    }
+  },
+  {
+    "id": 82148,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:13:45+00:00",
+    "text": "А какой опыт использования был?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82147,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:06:30+00:00",
+    "text": "У меня большой опыт с малышами, а в целом пусть расцветают сто цветов.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное утверждение о опыте с детьми.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82146,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:05:09+00:00",
+    "text": "Кстати, в нашем чате здесь про Qwen почему-то и не говорят, хотя, как по мне, очень и очень достойная модель.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение модели Qwen в чате.",
+      "keywords": [
+        "Qwen",
+        "модель",
+        "обсуждение",
+        "чат",
+        "достойная"
+      ]
+    }
+  },
+  {
+    "id": 82145,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T06:04:35+00:00",
+    "text": "Так-так-так, новиночка :)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82144,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T05:51:10+00:00",
+    "text": "Алибаба пообещала скоро выпустить Qwen 3.8-27B в паблик https://fixupx.com/UnslothAI/status/2084110664789024769?s=20",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Алибаба анонсировала выпуск модели Qwen 3.8-27B в публичный доступ.",
+      "keywords": [
+        "Алибаба",
+        "Qwen 3.8-27B",
+        "выпуск",
+        "AI"
+      ]
+    }
+  },
+  {
+    "id": 82143,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T05:10:20+00:00",
+    "text": "https://github.com/DannyMac180/sol-advisor",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на GitHub-репозиторий без дополнительных комментариев.",
+      "keywords": [
+        "GitHub",
+        "репозиторий",
+        "код"
+      ]
+    }
+  },
+  {
+    "id": 82141,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T04:59:16+00:00",
+    "text": "Посмотрел источник — https://ria.ru/20260802/ii-2108460828.html. Там суд высказался о небольшой переработке существующих произведений (Мона Лиза и статуя Свободы)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "other",
+      "summary": "Суд высказался о переработке известных произведений искусства.",
+      "keywords": [
+        "суд",
+        "переработка",
+        "произведения",
+        "искусство",
+        "Мона Лиза"
+      ]
+    }
+  },
+  {
+    "id": 82140,
+    "channel_id": "docsllm",
+    "date": "2026-08-03T04:57:32+00:00",
+    "text": "**Суд в Москве отказался признать сгенерированные ИИ изображения объектами авторского права**\n\nАрбитражный суд Москвы отклонил иск автора двух изображений, созданных с помощью нейросети. Истец [требовал](https://news.ru/society/sud-postavil-tochku-v-voprose-prav-sgenerirovannoj-ii-mony-lizy) взыскать компенсацию с предпринимателя, использовавшего эти изображения на футболках, худи и термостаканах, за нарушение исключительных прав.\n\nСуд указал, что дача команд для искусственного интеллекта представляет собой «простые механические действия, носит исключительно технический характер» и не может расцениваться как творческий вклад. Идеи, использованные в изображениях (взъерошенные волосы, бокал вина вместо факела), не новы и часто встречаются в искусстве и медиа.\n\nСогласно ст. 1228 ГК РФ, [автором признаётся](https://nevskylaw.ru/knowledge/avtorskie-prava-na-kontent-sozdannyj-s-pomoshchyu-ii/) только физическое лицо, чьим творческим трудом создан результат интеллектуальной деятельности. Поскольку нейросеть не обладает сознанием и не прилагает творческих усилий, сгенерированные с её помощью изображения не подлежат защите авторским правом.",
+    "views": 33594,
+    "forwards": 555,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Суд в Москве решил, что изображения, созданные ИИ, не подлежат авторскому праву.",
+      "keywords": [
+        "авторское право",
+        "Искусственный интеллект",
+        "суд",
+        "московский арбитраж",
+        "изображения"
+      ]
+    }
+  }
+]
