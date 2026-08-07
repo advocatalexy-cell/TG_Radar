@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2332,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-05T20:05:53+00:00",
+    "text": "https://console.deepgram.com/signup дают 200$ при регистрации на speech2text и text2speech",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Deepgram предлагает 200$ при регистрации на сервисы преобразования речи в текст и обратно.",
+      "keywords": [
+        "Deepgram",
+        "регистрция",
+        "speech2text",
+        "text2speech",
+        "бонус"
+      ]
+    }
+  },
+  {
+    "id": 2330,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-05T01:59:31+00:00",
+    "text": "Сторонние сервисы. Можно купить подписку на месяц. Стоимость от 1200 р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама подписки на сервис.",
+      "keywords": [
+        "подписка",
+        "сервис",
+        "стоимость"
+      ]
+    }
+  }
+]

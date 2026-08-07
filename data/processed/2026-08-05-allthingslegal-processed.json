@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1485,
+    "channel_id": "allthingslegal",
+    "date": "2026-08-05T08:40:50+00:00",
+    "text": "Новый день, новое опенсорс LegalTech-решение. Eigenwelt Labs выпустил [Legalmemory](https://eigenweltlabs.com/legalmemory), систему управления знаниями и данными, которые распределены по разным системам. У большинства организаций данные и знания находятся в целом букете legacy systems (DMS, папки, файловые помойки), и все боятся трогать эту систему, дергать за нить торчащую. В итоге инициативы по управлению знаниями умирают на этом этапе. Или превращаются в сверхдорогое упражнение. Legalmemory готов решать часть этих проблем. На первый взгляд это вполне стабильная и продуманная система, и она бесплатная. \n\nDemo: https://legalmemory.eigenweltlabs.com/\nRepo: https://github.com/eigenweltlabs/LegalMemory\n\n#ai",
+    "views": 334,
+    "forwards": 25,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Eigenwelt Labs представили бесплатное опенсорс решение Legalmemory для управления юридическими данными и знаниями.",
+      "keywords": [
+        "LegalTech",
+        "Eigenwelt Labs",
+        "Legalmemory",
+        "управление данными",
+        "опенсорс"
+      ]
+    }
+  }
+]

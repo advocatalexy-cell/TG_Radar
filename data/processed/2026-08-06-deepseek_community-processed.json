@@ -1,0 +1,23 @@
+[
+  {
+    "id": 21509,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-06T15:52:38+00:00",
+    "text": "DeepSeek API - предупредили о повышении тарифов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "DeepSeek API анонсировала повышение тарифов на свои услуги.",
+      "keywords": [
+        "DeepSeek",
+        "API",
+        "повышение тарифов",
+        "услуги"
+      ]
+    }
+  }
+]

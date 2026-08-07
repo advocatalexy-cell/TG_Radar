@@ -1,0 +1,22 @@
+[
+  {
+    "id": 20774,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-04T15:45:02+00:00",
+    "text": "Коллеги, через 15 минут начинаем)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Анонс мероприятия.",
+      "keywords": [
+        "мероприятие",
+        "анонс",
+        "коллеги"
+      ]
+    }
+  }
+]

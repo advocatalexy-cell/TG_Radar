@@ -1,0 +1,125 @@
+[
+  {
+    "id": 21485,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T11:24:45+00:00",
+    "text": "Похоже это фильтры Билайна срабатывают",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение работы фильтров Билайна.",
+      "keywords": [
+        "Билайн",
+        "фильтры",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 21484,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T11:24:39+00:00",
+    "text": "С и без впн выдаёт ошибки через какое то время, повторяешь запрос и все работает как ни в чем не бывало",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с запросами, которые временно решаются перезапуском.",
+      "keywords": [
+        "ошибки",
+        "запросы",
+        "VPN",
+        "повтор"
+      ]
+    }
+  },
+  {
+    "id": 21483,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T11:21:24+00:00",
+    "text": "Вот и у меня проблемы на билайне",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о проблемах на связи у оператора Билайн.",
+      "keywords": [
+        "Билайн",
+        "проблемы",
+        "связь"
+      ]
+    }
+  },
+  {
+    "id": 21480,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T10:31:01+00:00",
+    "text": "Похожая проблема. На мобильном и домашнем от БИЛАЙН не работает. У другого провайдера работает. Билайн отписывается что будут проверять.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с сетью Билайн на мобильном и домашнем интернетах.",
+      "keywords": [
+        "Билайн",
+        "проблемы",
+        "интернет",
+        "сеть"
+      ]
+    }
+  },
+  {
+    "id": 21479,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T09:21:30+00:00",
+    "text": "У меня работает без впн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о работе без VPN.",
+      "keywords": [
+        "VPN",
+        "работа",
+        "интернет"
+      ]
+    }
+  },
+  {
+    "id": 21477,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-05T09:15:50+00:00",
+    "text": "Кто сталкивался? после какого то количества вопросов Qwen выдаёт ошибки подвисает потом изменяешь запрос и опять все работает",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом работы с сервисом Qwen и его ошибками.",
+      "keywords": [
+        "Qwen",
+        "ошибки",
+        "зависания",
+        "вопросы"
+      ]
+    }
+  }
+]

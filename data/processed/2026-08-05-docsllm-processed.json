@@ -1,0 +1,1346 @@
+[
+  {
+    "id": 82478,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T20:05:27+00:00",
+    "text": "приложение на телефоне суперкривое, с файлами постоянно беда",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблемы с приложением на телефоне.",
+      "keywords": [
+        "приложение",
+        "проблемы",
+        "телефон"
+      ]
+    }
+  },
+  {
+    "id": 82477,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T19:57:56+00:00",
+    "text": "Клодобояре, кто использует коворк на телефоне, у всех он корректно работает? У меня постоянные проблемы с добавлением файлов в проект.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь сталкивается с проблемами в работе коворка на телефоне.",
+      "keywords": [
+        "коворк",
+        "проблемы",
+        "файлы",
+        "проект"
+      ]
+    }
+  },
+  {
+    "id": 82476,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T17:02:07+00:00",
+    "text": "**Что обсуждали участники чата?**\n\n🌍 **Различия в ценах на подписки в зависимости от региона**\n[✉️](https://t.me/c/2431541477/82436)\nУчастники обсуждают, как цена подписки (в частности, на сервисы от OpenAI, судя по сообщениям) может сильно отличаться в зависимости от страны, указанной при оплате. [Timur Umarov](tg://user?id=120796539) и [Ян Стригов](tg://user?id=5451167) приводят примеры, как выбор США (особенно штата Делавер) давал цену в 100$, тогда как другие регионы, вроде Нью-Йорка или Великобритании, стоили дороже (124$ или + налог с продаж). [Ян Стригов](tg://user?id=5451167) отмечает, что изменение налога с продаж не всегда видно сразу, и оно может списаться сверх заявленной цены. [Timur Umarov](tg://user?id=120796539) делится проблемой, когда его карты, привязанные к адресу Великобритании, вызывали удивление ценами, но смена на США (specific state) решила проблему.\n\n⚙️ **Новые инструменты и библиотеки для работы с текстом и данными**\n[✉️](https://t.me/c/2431541477/82442)\n[Oleg Blinov](tg://user?id=280080408) делится информацией о новом плагине для Claude, который использует RAG (Retrieval-Augmented Generation) поверх скриншотов из HTML. Он также ссылается на GitHub-репозиторий PixelRAG. Позже [Максим Шедогубов](tg://user?id=36138755) анонсирует запуск Firecrawl движка anydoc на Rust, который быстро конвертирует различные форматы документов (PDF, Word и др.) в Markdown с высоким качеством и является опенсорсным.\n\n🤖 **Возможности и ограничения Grok (от X/Twitter)**\n[✉️](https://t.me/c/2431541477/82458)\n[John Galt](tg://user?id=413096291) отмечает, что Grok, судя по его наблюдениям, может работать даже без средств на счете, если это не веб-версия. Он приводит пример, как смог быстро обработать большое количество информации: через API dadata получил нужные реквизиты, затем дал задание Grok собрать документы по шаблону и запаковать их в архивы, что сэкономило ему много времени по сравнению с ручной работой.\n\n💡 **Способы оплаты и их особенности**\n[✉️](https://t.me/c/2431541477/82440)\nВ контексте обсуждения цен на подписки, участники затрагивают тему непосредственно самого процесса оплаты. [Ян Стригов](tg://user?id=5451167) упоминает, что иногда увеличение стоимости из-за налога с продаж не отображается сразу при оформлении заказа, а списывается потом. [Timur Umarov](tg://user?id=120796539) возражает, утверждая, что ценник меняется, если указать регион в адресной строке при оплате. [Oleg Blinov](tg://user?id=280080408) хотел бы проверить, но сервис Claude на тот момент был недоступен.\n\n⏳ **Влияние активной подписки на стоимость следующего периода**\n[✉️](https://t.me/c/2431541477/82455)\n[Ян Стригов](tg://user?id=5451167) комментирует ситуацию, когда [Владислав Мартинс](tg://user?id=953543259) заметил снижение цены при переходе к оплате. [Ян Стригов](tg://user?id=5451167) поясняет, что это может быть связано с наличием действующей, но не полностью закончившейся подписки. Он предупреждает, что за следующий полный период будет взята уже стандартная, полная стоимость, в отличие от текущего частично оплаченного периода.\n\n🔗 **Доступность инструментов и региональные ограничения**\n[✉️](https://t.me/c/2431541477/82462)\nУчастники затрагивают вопрос доступности веб-версии Grok и ее возможные блокировки. [Николай Божков](tg://user?id=304704734) предполагает, что веб-версию могут глушить из-за Twitter, однако [John Galt](tg://user?id=413096291) указывает, что недоступность в РФ не связана с РКН. [John Galt](tg://user?id=413096291) также вспоминает, что при попытке использования Grok мог появляться сообщение о том, что сервис не поддерживается в их стране.\n\n#summary\n__В бесплатной версии бота анализируются только 40 последних сообщений.__\n\n`📢 ads: ИИ-бот разработан` @chatnorris_ru",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Участники обсуждают разные аспекты цен на подписки и новые инструменты для работы с текстом и данными.",
+      "keywords": [
+        "подписки",
+        "инструменты",
+        "технологии",
+        "цены",
+        "Grok"
+      ]
+    }
+  },
+  {
+    "id": 82475,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T16:49:13+00:00",
+    "text": "\"Звезды\" на GH однозначно!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нет содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82474,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T16:33:57+00:00",
+    "text": "**Firecrawl запустил anydoc** — их новый движок для парсинга документов на Rust \n\nОн конвертирует PDF, Word-документы, презентации и ещё 10 форматов в Markdown менее чем за 5 мс, сохраняя одно из лучших качеств обработки в индустрии.\n\n[100% опенсорс](https://github.com/firecrawl/anydoc)",
+    "views": 15208,
+    "forwards": 1087,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Firecrawl запустил новый опенсорсный движок для парсинга документов anydoc.",
+      "keywords": [
+        "Firecrawl",
+        "anydoc",
+        "парсинг",
+        "документы",
+        "опенсорс"
+      ]
+    }
+  },
+  {
+    "id": 82473,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:25:59+00:00",
+    "text": "[​​](https://www.instagram.com/p/DblBNKrBdU6/)Рад был помочь! Ваш, @SaveAsBot",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о помощи от бота.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82472,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:25:59+00:00",
+    "text": "Даже не поленился загнать рилз в тг",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82471,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:10:17+00:00",
+    "text": "ну я в порядке шутки, что бьют все)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82470,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:09:58+00:00",
+    "text": "Да как эти боты понимают что я имею ввиду 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост является шуткой о понимании ботами.",
+      "keywords": [
+        "боты",
+        "понимание",
+        "юмор"
+      ]
+    }
+  },
+  {
+    "id": 82468,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:09:19+00:00",
+    "text": "Насколько помню там когда пытаешься зайти прямо пишется что то вроде грок не поддерживается в вашей стране",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблема доступа к сервису Грок в определенных странах.",
+      "keywords": [
+        "грок",
+        "доступ",
+        "страна"
+      ]
+    }
+  },
+  {
+    "id": 82467,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:08:01+00:00",
+    "text": "Так веб-версия же на твиттаке сидит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение веб-версии приложения Твиттак.",
+      "keywords": [
+        "Твиттак",
+        "веб-версия",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 82466,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:07:16+00:00",
+    "text": "уже и не разберешь так-то",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82465,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:06:41+00:00",
+    "text": "Спасибо, дорогие 💖💖💖",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравительное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82464,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:06:32+00:00",
+    "text": "Она в РФ недоступна не из за ркн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о недоступности сервиса в России.",
+      "keywords": [
+        "недоступность",
+        "РФ",
+        "РКН"
+      ]
+    }
+  },
+  {
+    "id": 82463,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:05:41+00:00",
+    "text": "**Как улучшить юридический документ**\n\nИногда читаешь свою позицию и думаешь: «Не верю». А иногда перечитываешь и не понимаешь, что автор имел в виду. Ну было же? Если было, у нас для вас есть решение. \n\nА точнее оно есть у участницы нашего сообщества Софьи Смирновой @forgednotwritten, которая сделала набор скиллов, помогающих проверять юридический текст с разных сторон.\n\n(1) **Скилл логики**, который проверяет форму вашего рассуждения. [О нём мы уже рассказывали](https://t.me/docsllm_channel/264). \n\nТеперь к нему добавились ещё два.\n\n(2) **Скилл риторики**, который проверяет и усиливает убедительность вашего документа. \n\nУ скилла 4 режима:\n\n• Стресс-тест (показывает уязвимости текста, но позиция не переписывается) \n• Статус (помогает определить, на чём строить позицию)\n• Структура (разбирает порядок аргументов)\n• Адаптация (переупаковывает одну и ту же позицию под конкретного адресата) \n\n(3) **Скилл грамматики**, который проверяет, насколько текст выражает то, что вы хотели сказать.\n\nУ него тоже 4 режима:\n\n• Неоднозначность (находит формулировки, которые допускают несколько прочтений)\n• Пунктуация (проверяет знаки, которые влияют на смысл)\n• Нормы (проверяет грамматические конструкции и юридически значимые формулировки)\n• Переписывание (предлагает однозначную формулировку без изменения смысла)\n\nО том, как всем этим пользоваться читайте тут: \n[логика](https://sky-magenta.github.io/pravo-logika/) | [риторика](https://sky-magenta.github.io/pravo-ritorika/) | [грамматика](https://sky-magenta.github.io/pravo-grammatika/)\n\nКоллеги, не откладывайте возможность улучшить свою позицию! Делитесь результатами)\n\n____________________________________\nСообщество юристов, которые покоряют нейросети \n[**Канал**](https://t.me/docsllm_channel) | [**Курс**](https://runetlex-academy.ru/neuralnetworks)",
+    "views": 884,
+    "forwards": 77,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Сообщество юристов представило набор инструментов для улучшения юридических документов.",
+      "keywords": [
+        "юридический текст",
+        "набор скиллов",
+        "проверка",
+        "логика",
+        "риторика"
+      ]
+    }
+  },
+  {
+    "id": 82462,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:05:34+00:00",
+    "text": "веб версию из-за твиттера наши как раз могут глушить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение отключения веб-версии Twitter.",
+      "keywords": [
+        "Twitter",
+        "глушение",
+        "веб-версия"
+      ]
+    }
+  },
+  {
+    "id": 82461,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:04:45+00:00",
+    "text": "Ну веб версия не работает без,  а тут надо же …",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблемы с работой веб-версии.",
+      "keywords": [
+        "веб-версия",
+        "проблемы",
+        "не работает"
+      ]
+    }
+  },
+  {
+    "id": 82460,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:04:07+00:00",
+    "text": "Седня надо было 50+ претензий сделать и отправить, а в** к сожалению отвалился. Хорошо что есть грок. Вытащил нужные реквизиты юриков через api dadata и все засунул в одну таблицу. дал задание гроку он по шаблону собрал доки с приложениями и запаковал в зипки. Мне осталось только подгрузить в ЭП Почты России. Заняло минут 20, ручками ушло бы несколько часов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится опытом использования автоматизации для подготовки документов.",
+      "keywords": [
+        "автоматизация",
+        "документы",
+        "работа",
+        "grok",
+        "dadata"
+      ]
+    }
+  },
+  {
+    "id": 82459,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T15:03:38+00:00",
+    "text": "Пушто Маск не ограничивает со своей стороны доступ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о действиях Маска без конкретной информации.",
+      "keywords": [
+        "Маск",
+        "доступ",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 82458,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T14:55:10+00:00",
+    "text": "У кого грок есть , заметил такую штуку что grok build работает без средств на 3 буквы ….",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится личным наблюдением о работе инструмента grok.",
+      "keywords": [
+        "grok",
+        "build",
+        "инструмент"
+      ]
+    }
+  },
+  {
+    "id": 82457,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T14:01:15+00:00",
+    "text": "Да, будут взяты 85,12 евро, а сейчас только 70,65 евро",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание об изменении валютного курса.",
+      "keywords": [
+        "евро",
+        "курс",
+        "валюта"
+      ]
+    }
+  },
+  {
+    "id": 82456,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T14:00:39+00:00",
+    "text": "Обратите внимание, за следующий период будет взята полная стоимость",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о полной стоимости за следующий период.",
+      "keywords": [
+        "стоимость",
+        "период",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 82455,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T14:00:04+00:00",
+    "text": "Это потому что у Вас есть действующая подписка и она не полностью закончилась",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение связано с подпиской.",
+      "keywords": [
+        "подписка",
+        "сообщение",
+        "действующая"
+      ]
+    }
+  },
+  {
+    "id": 82454,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:59:08+00:00",
+    "text": "Всем спасибо, разобрался\nДействительно, цена зависит от страны биллинга\nПочему-то изначально отображается 114 евро, но при переходе к оплате цена снижается до 85 евро (= 100 долларов)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом изменения цены при оплате в зависимости от страны биллинга.",
+      "keywords": [
+        "цена",
+        "оплата",
+        "страна",
+        "биллинг",
+        "евро"
+      ]
+    }
+  },
+  {
+    "id": 82453,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:40:48+00:00",
+    "text": "86Евро KZ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82452,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:22:23+00:00",
+    "text": "проверил бы, но клод лежит 😢",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблема с доступом к платформе Клод.",
+      "keywords": [
+        "Клод",
+        "проблема",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 82451,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:21:58+00:00",
+    "text": "100$ AppStore USA",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама приложения в AppStore.",
+      "keywords": [
+        "AppStore",
+        "реклама",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 82450,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:17:31+00:00",
+    "text": "в Х писали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82449,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:17:08+00:00",
+    "text": "За это вроде банить начал Антропик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост упоминает о банах в компании Антропик, но не содержит значимой информации.",
+      "keywords": [
+        "Антропик",
+        "бан",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 82448,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:15:54+00:00",
+    "text": "у меня карта Вантупей. И они недавно сменили на Великобританию адрес карт. Я очумел от цен при вводе региона. Потом узнал, что их карты не привязаны к региону. Поставил США Делавер и стало 100",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования карт Вантупей и изменением региона.",
+      "keywords": [
+        "Вантупей",
+        "карты",
+        "регион",
+        "США",
+        "цены"
+      ]
+    }
+  },
+  {
+    "id": 82447,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:14:48+00:00",
+    "text": "ну имеется ввиду и внутри США тоже, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённый контекст без важной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82446,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:14:33+00:00",
+    "text": "Пришлось переезжать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о переезде без дополнительной информации.",
+      "keywords": [
+        "переезд",
+        "жизненные обстоятельства",
+        "изменения"
+      ]
+    }
+  },
+  {
+    "id": 82445,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:14:24+00:00",
+    "text": "Ну ты говоришл, если США, то 100. Я так вначале тоже думао, а потом у меня вместо 20 списали 22 в Нью-Йорке",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с ценами в Нью-Йорке.",
+      "keywords": [
+        "Нью-Йорк",
+        "цены",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 82444,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:14:13+00:00",
+    "text": "когда в адресной строке при оплате указываешь регион , то ценник меняется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Цены при оплате зависят от указанного региона.",
+      "keywords": [
+        "оплата",
+        "регион",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 82443,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:48+00:00",
+    "text": "я вчера покупал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82442,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:43+00:00",
+    "text": "Помните плагин для Клод кода, который контекст закидывал как картинку? \n\nПродолжаем: RAG поверх скриншотов из html https://github.com/StarTrail-org/PixelRAG",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Обсуждается проект PixelRAG для работы с скриншотами из HTML.",
+      "keywords": [
+        "PixelRAG",
+        "скриншоты",
+        "HTML",
+        "RAG",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82441,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:42+00:00",
+    "text": "видно видно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82440,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:34+00:00",
+    "text": "Причём на этапе оплаты его не видно, просто спишется больше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение упоминает о проблемах с дополнительными сборами на этапе оплаты.",
+      "keywords": [
+        "оплата",
+        "сборы",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 82439,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:31+00:00",
+    "text": "Я и говорю, что зависит от региона",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82438,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:13:05+00:00",
+    "text": "Неа, зависит от штата. В славном Делавере будет 100, в большинстве остальных штатов — прибавится налог с продаж",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение налога с продаж в разных штатах США.",
+      "keywords": [
+        "налог",
+        "Делавер",
+        "штаты",
+        "продажи"
+      ]
+    }
+  },
+  {
+    "id": 82437,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:12:34+00:00",
+    "text": "так что зависит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82436,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:12:21+00:00",
+    "text": "если при оплате указать Великобритания, то стоить будет 124 $, если США, то 100$",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Изменение цены в зависимости от страны оплаты.",
+      "keywords": [
+        "оплата",
+        "Великобритания",
+        "США",
+        "цены"
+      ]
+    }
+  },
+  {
+    "id": 82435,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:11:53+00:00",
+    "text": "да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нет содержательного сообщения.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82434,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:11:52+00:00",
+    "text": "Налог с продаж или НДС в большом количестве регионов идёт поверх стоимости подписки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "finance",
+      "summary": "В ряде регионов вводится налог с продаж или НДС на подписные услуги.",
+      "keywords": [
+        "налог",
+        "подписка",
+        "регион",
+        "НДС",
+        "финансы"
+      ]
+    }
+  },
+  {
+    "id": 82433,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:10:55+00:00",
+    "text": "НДС",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82432,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:10:34+00:00",
+    "text": "$100",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82431,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:10:25+00:00",
+    "text": "Разница в налоге страны биллинга. Рискну предположить, что у Вас Испания)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о налогах в Испании.",
+      "keywords": [
+        "налог",
+        "Испания",
+        "биллинг"
+      ]
+    }
+  },
+  {
+    "id": 82430,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:10:16+00:00",
+    "text": "А сколько у вас стоит подписка Pro?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о стоимости подписки Pro.",
+      "keywords": [
+        "подписка",
+        "Pro",
+        "стоимость"
+      ]
+    }
+  },
+  {
+    "id": 82429,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:07:21+00:00",
+    "text": "НДС считается по-разному. Я на UAE обычно беру",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит информацию о различиях в расчете НДС в ОАЭ.",
+      "keywords": [
+        "НДС",
+        "ОАЭ",
+        "налоги"
+      ]
+    }
+  },
+  {
+    "id": 82428,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:07:07+00:00",
+    "text": "плачу без налогов, Киргизия вроде, регион влияет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение налогообложения в Киргизии.",
+      "keywords": [
+        "налоги",
+        "Киргизия",
+        "регион",
+        "платежи"
+      ]
+    }
+  },
+  {
+    "id": 82427,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:04:48+00:00",
+    "text": "Ребята, такой вопрос\nСтоимость подписки GPT как-то зависит от региона? Я хочу оплатить подписку GPT Pro иностранной картой, но у меня ее стоимость указывается как 114 евро. Сколько она у вас стоит? \n\nИмеет кто-то опыт смены региона? Я менял регион VPN и на странице GPT ставил другой регион, но стоимость не меняется. И оплачивал в последний раз подписку Плюс кыргызской картой, но все равно цены какие-то высокие как будто бы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет информацию о стоимости подписки GPT в зависимости от региона и делится опытом смены региона.",
+      "keywords": [
+        "подписка",
+        "GPT",
+        "регион",
+        "стоимость",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 82426,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:03:45+00:00",
+    "text": "Да, UI надо подтянуть, добавлю свитч",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение улучшения интерфейса.",
+      "keywords": [
+        "UI",
+        "интерфейс",
+        "свитч"
+      ]
+    }
+  },
+  {
+    "id": 82425,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:03:31+00:00",
+    "text": "сделайте пожалуйста переключение на светлый фон",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на изменение фона.",
+      "keywords": [
+        "переключение",
+        "светлый фон",
+        "изменение"
+      ]
+    }
+  },
+  {
+    "id": 82424,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:02:02+00:00",
+    "text": "Люто согласна",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не информативный комментарий.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82423,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:01:53+00:00",
+    "text": "пора нам тоже в базе его сделать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный и неинформативный пост.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82422,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:01:52+00:00",
+    "text": "Вообще за MCP будущее",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неопределённое утверждение о будущем MCP.",
+      "keywords": [
+        "MCP",
+        "будущее",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82421,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:01:47+00:00",
+    "text": "Это интересно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82420,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:01:42+00:00",
+    "text": "круто, что сразу еще и MCP подтянула!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82419,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:00:51+00:00",
+    "text": "Ребята, хвалюсь своей поделкой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор делится своей поделкой.",
+      "keywords": [
+        "поделка",
+        "хвастовство",
+        "творчество"
+      ]
+    }
+  },
+  {
+    "id": 82418,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T13:00:38+00:00",
+    "text": "**Сделала открытую базу данных судебных решений по ИИ в РФ**\n\nВсе, полагаю, видели резко нашумевшие за последние 2 недели судебные дела по ИИ... Одно по коммерческой тайне, другое по отсутствию творческого труда в промптинге при создании ИИ изображений. ~~Оба зубодробительно прекрасны.~~ \n\nЯ решила завести открытую базу данных дел по ИИ, она будет пополняться, в том числе экспертными комментариями: https://damascus-ink.ru/ai-cases/\n\nМожно даже подключить к своему ИИ-агенту **мой MCP-сервер**, который будет дёргать эту базу по вопросам наличия в РФ судебной практики по ИИ. Enjoy!\n\nЗа баги строго не ругайте, я простой вайбкодер",
+    "views": 895,
+    "forwards": 39,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Создана открытая база данных судебных решений по искусственному интеллекту в России.",
+      "keywords": [
+        "судебные решения",
+        "искусственный интеллект",
+        "база данных",
+        "Россия",
+        "право"
+      ]
+    }
+  },
+  {
+    "id": 82417,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T10:50:09+00:00",
+    "text": "Ещё один отзыв про Qwen 3.8-Max. Вкратце — дорого и не без косяков\n\nhttps://fixupx.com/morganlinton/status/2084650841152352556?s=20",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Отзыв о Qwen 3.8-Max с негативной оценкой.",
+      "keywords": [
+        "Qwen 3.8-Max",
+        "отзыв",
+        "косяки",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 82413,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T09:08:37+00:00",
+    "text": "У меня 200 баксов подписка, после правильной настройки оркестрации я её выжигаю процентов на 70 ни в чём себе не отказывая",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост описывает личный опыт использования подписки.",
+      "keywords": [
+        "подписка",
+        "оргестрация",
+        "опыт",
+        "деньги"
+      ]
+    }
+  },
+  {
+    "id": 82412,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T09:07:55+00:00",
+    "text": "успей)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Краткое сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82411,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T09:07:45+00:00",
+    "text": "акция до 5 августа)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекламная акция до 5 августа.",
+      "keywords": [
+        "акция",
+        "реклама",
+        "событие"
+      ]
+    }
+  },
+  {
+    "id": 82410,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T09:04:32+00:00",
+    "text": "Там больше лимиты? Не знал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82409,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T06:20:49+00:00",
+    "text": "@R32728 давайте без политики пожалуйста. В пересылке к теме чата косвенно имеет отношение лишь TG и Дуров.)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит просьбу избегать политических тем.",
+      "keywords": [
+        "политика",
+        "TG",
+        "Дуров"
+      ]
+    }
+  },
+  {
+    "id": 82408,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T06:19:23+00:00",
+    "text": "Единственный смысл использовать cowork после code это увеличенные лимиты на нем. В остальном смысла нет никакого.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Краткое мнение о недостатках использования cowork после code.",
+      "keywords": [
+        "cowork",
+        "code",
+        "лимиты"
+      ]
+    }
+  },
+  {
+    "id": 82407,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T05:57:06+00:00",
+    "text": "Раскрыты детали соглашения Anthropic на $10 млрд с новичком на рынке облачных вычислений https://share.google/s7WuDMfrDKz1fqxKA",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Соглашение между Anthropic и новым игроком на рынке облачных вычислений на сумму $10 миллиардов раскрывает новые аспекты партнерства.",
+      "keywords": [
+        "Anthropic",
+        "облачные вычисления",
+        "соглашение",
+        "$10 млрд",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82402,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T05:17:34+00:00",
+    "text": "Suno проиграла иск о нарушении авторских прав https://www.dw.com/ru/sud-germanii-vstal-na-storonu-avtorov-v-spore-s-iiservisom-suno/a-78210129",
+    "views": 381,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Суд Германии поддержал авторов в деле против айсервиса Suno по нарушению авторских прав.",
+      "keywords": [
+        "Suno",
+        "авторские права",
+        "суд",
+        "Германия",
+        "исковые дела"
+      ]
+    }
+  },
+  {
+    "id": 82401,
+    "channel_id": "docsllm",
+    "date": "2026-08-05T03:03:58+00:00",
+    "text": "⚡️Третий кассационный суд общей юрисдикции подтвердил позицию нижестоящих судов о законности увольнения работника, направившего рабочие материалы на свою почту ➡️\n\n**Суть спора: **сотрудник скачал из корпоративной базы данных файлы, содержавшие конфиденциальную информацию (сведения о технологических процессах, спецификациях оборудования и методах производства продукции), и загрузил их в личное облачное хранилище стороннего сервиса, а также переслал на личную электронную почту. Работодатель расценил эти действия как разглашение охраняемой информации, уволил сотрудника и применил дисциплинарное взыскание.** **\nСотрудник оспорил увольнение в суде. Он мотивировал направление материалов на личную почту удобством хранения информации и оперативным доступом к файлам. \n\n**Суды трех инстанций сочли увольнение законным и обоснованным.** Кассационный суд подтвердил, что пересылка и размещение конфиденциальных данных на внешних ресурсах квалифицируется как разглашение. При этом не имеет значения, получили ли третьи лица фактический доступ к информации. Сам факт передачи сведений за пределы контролируемого периметра работодателя создает условия для их распространения — этого достаточно для признания нарушения.\nСуды подчеркнули, что работодателю не нужно доказывать реальный ущерб или фактическую утечку. Достаточно установить, что работник создал риски утечки информации, нарушив режим конфиденциальности. \n\n__Определение 3-го КСОЮ от \n15.06.2026 N ____88-10469/2026__\n\n[**Канал в ВК**](https://vk.ru/elenavasiakina_online) ⌛  [**Канал в MAКС**](https://max.ru/channel_law_and_innovations)__ __ \n\n#практика #персданные",
+    "views": 750,
+    "forwards": 23,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "business",
+      "summary": "Третий кассационный суд подтвердил законность увольнения работника за разглашение конфиденциальной информации путем отправки рабочих материалов на личную почту.",
+      "keywords": [
+        "увольнение",
+        "конфиденциальность",
+        "суд",
+        "практика",
+        "информация"
+      ]
+    }
+  }
+]

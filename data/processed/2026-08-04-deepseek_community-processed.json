@@ -1,0 +1,177 @@
+[
+  {
+    "id": 21470,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T16:44:45+00:00",
+    "text": "Всем ку, информации видимо нет ещё, врятли вернут поиск в эксперт режим в Дип сике?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь выражает сомнения о возвращении функции поиска в экспертном режиме в Дип Сике.",
+      "keywords": [
+        "Дип Сик",
+        "экспертный режим",
+        "поиск",
+        "сомнения"
+      ]
+    }
+  },
+  {
+    "id": 21469,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T15:58:30+00:00",
+    "text": "Приказать отвечать на русском",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "В России обсуждаются изменения в законодательстве, касающиеся выборов.",
+      "keywords": [
+        "Россия",
+        "изменения",
+        "законодательство",
+        "выборы"
+      ]
+    }
+  },
+  {
+    "id": 21468,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T15:56:21+00:00",
+    "text": "Бывает, пару раз потыкай и он вновь русским станет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная фраза.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21467,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T14:12:26+00:00",
+    "text": "Подскажите, почему приложение DeepSeek вдруг стало на запрос на русском языке рассуждать на китайском? Как исправить?. \nЗаранее спасибо!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь ищет помощь по проблеме с приложением DeepSeek.",
+      "keywords": [
+        "DeepSeek",
+        "русский",
+        "китайский",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 21464,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T09:02:09+00:00",
+    "text": "Он не работает в БС )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенная информация о работе в БС.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21459,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T05:46:59+00:00",
+    "text": "а есть тут кто продает апи ключи от ии?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на покупку API ключей от ИИ.",
+      "keywords": [
+        "API",
+        "ключи",
+        "продажа",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 21458,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T05:18:32+00:00",
+    "text": "Ну, что Вы! Ещё же есть Гигачат Германович Греф. 😉😉😉",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Комментарий, не содержащий важной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21457,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T03:59:21+00:00",
+    "text": "У меня вчера такое было с десктопом полчаса только, потом стал открываться. Видимо скоро оставят нам только Алису \"На этот вопрос я не отвечу, потому что не очень разбираюсь\" Яндексовну...😕",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с работой десктопа и упоминает Алису.",
+      "keywords": [
+        "десктоп",
+        "Алиса",
+        "Яндекс",
+        "опыт",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 21455,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-04T00:25:10+00:00",
+    "text": "Кто знает, почему квен (приложение) запускается только через впн. При этом десктоп работает нормально. Уже неделю так",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблема с доступом к приложению Квен без VPN.",
+      "keywords": [
+        "Квен",
+        "впн",
+        "проблема",
+        "доступ"
+      ]
+    }
+  }
+]

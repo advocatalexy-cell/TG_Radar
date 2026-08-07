@@ -1,0 +1,166 @@
+[
+  {
+    "id": 20792,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T10:59:34+00:00",
+    "text": "Спасибо за ответы!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является благодарностью без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 20791,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T10:58:00+00:00",
+    "text": "Здесь собираю готовые решения https://runetlexbase.ru/legal_LLM_knowledgebase/instrumenty/anonimizaciya/gotovye-resheniya",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит ссылку на готовые решения по анонимизации данных.",
+      "keywords": [
+        "анонимизация",
+        "решения",
+        "данные"
+      ]
+    }
+  },
+  {
+    "id": 20790,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T10:57:52+00:00",
+    "text": "Это будет ну очень ненадежно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Высказывание о ненадежности ситуации.",
+      "keywords": [
+        "ненадежно",
+        "высказывание",
+        "ситуация"
+      ]
+    }
+  },
+  {
+    "id": 20789,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T10:55:59+00:00",
+    "text": "Коллеги выше рекомендовали (можно в переписке поискать) DOCXдодыр как готовое решение, но не лично не пользовался.\n\nВ качестве эрзац-решения можно установить на компьютер такого рода \"запускальщик локальных LLM\" anythingllm.com, в нем через чат просить локальную модель обезличить документ и уже затем - кидать обезличенный вариант куда-то в Сеть)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждаются альтернативные решения для анонимизации документов с помощью локальных моделей.",
+      "keywords": [
+        "анонимизация",
+        "документы",
+        "модели",
+        "локальные",
+        "решения"
+      ]
+    }
+  },
+  {
+    "id": 20788,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T09:24:59+00:00",
+    "text": "В принципе инструменты анонимизации есть, ребята их тут освещают, есть даже опубликованные на гите для свободного использования, кто-то их даже готов для корпоративного сектора продвигать - поэтому есть, про них знают, а использовать или нет решает каждый сам",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждение инструментов анонимизации без конкретных новостей или событий.",
+      "keywords": [
+        "анонимизация",
+        "инструменты",
+        "корпоративный сектор"
+      ]
+    }
+  },
+  {
+    "id": 20787,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T09:21:23+00:00",
+    "text": "Спасибо за ответ! \nписал про Claude Code и Qwen",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "ai",
+      "summary": "В посте обсуждаются Claude Code и Qwen с акцентом на их функциональность и возможности.",
+      "keywords": [
+        "Claude Code",
+        "Qwen",
+        "Искусственный интеллект",
+        "функциональность",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 20786,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T09:17:50+00:00",
+    "text": "О каких инструментах речь?\n\nУ ребят тут есть разработанные сервисы анонимизации документов перед передачей в ИИ, да и в принципе есть решения на рынке",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Существует ряд инструментов для анонимизации документов перед использованием в ИИ.",
+      "keywords": [
+        "анонимизация",
+        "документы",
+        "ИИ",
+        "инструменты",
+        "решения"
+      ]
+    }
+  },
+  {
+    "id": 20785,
+    "channel_id": "msklegalhackers",
+    "date": "2026-08-06T09:16:22+00:00",
+    "text": "Добрый день! Подскажите, пожалуйста, как данные инструменты обеспечивают анонимизацию ПД которые присутствуют в договорах и передаются в ИИ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос информации о методах анонимизации персональных данных в договорах.",
+      "keywords": [
+        "анонимизация",
+        "персональные данные",
+        "ИИ",
+        "договоры",
+        "инструменты"
+      ]
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4831,
+    "channel_id": "tips_ai",
+    "date": "2026-08-05T11:14:16+00:00",
+    "text": "meat-proxy — человек [который](https://gruhn.me/blog/2026-08-03/) отправляет ответ ИИ вместо своей точки зрения\n\nне будьте meat-proxy 😏\n\n@tips_ai",
+    "views": 10710,
+    "forwards": 291,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост призывает не быть 'meat-proxy', то есть не полагаться на ИИ вместо собственного мнения.",
+      "keywords": [
+        "meat-proxy",
+        "ИИ",
+        "мнение",
+        "социальные сети"
+      ]
+    }
+  }
+]
