@@ -16,6 +16,7 @@ git_pull_retry --rebase
 
 python scripts/fetch-posts.py
 python scripts/filter-signals.py
+python scripts/filter-signals.py --mode undigested
 python agents/digest-agent.py
 
 # digest-agent.py пишет свой упрощённый дайджест как побочный эффект обновления
