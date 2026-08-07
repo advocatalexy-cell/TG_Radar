@@ -61,7 +61,7 @@ python scripts/filter-signals.py --date 2026-05-20   # backfill конкретн
 
 | Звено | Задача | Почему там |
 |---|---|---|
-| **VPS** (Beget, Литва) | Сбор из Telegram (MTProto/Telethon) и публикация (Bot API) | Оба вида трафика не проходят через egress-прокси облачной песочницы Anthropic: MTProto рвется с ошибкой на уровне TCP, Bot API возвращает 403 Forbidden от прокси |
+| **VPS** (u1host) | Сбор из Telegram (MTProto/Telethon) и публикация (Bot API) | Оба вида трафика не проходят через egress-прокси облачной песочницы Anthropic: MTProto рвется с ошибкой на уровне TCP, Bot API возвращает 403 Forbidden от прокси |
 | **Облачный Routine** (claude.ai) | Мультиагентный ИИ-анализ (`analyst-legal`, `analyst-aitech`, `digest-composer`) | Сети наружу не требуется, кроме GitHub и OpenAI API – оба разрешены |
 
 Связующий слой – публичный GitHub-репозиторий [`advocatalexy-cell/TG_Radar`](https://github.com/advocatalexy-cell/TG_Radar):
