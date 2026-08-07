@@ -1,0 +1,22 @@
+[
+  {
+    "id": 21515,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-07T06:18:01+00:00",
+    "text": "Ну что, кто-то смог завести в режиме агенского кодинга Ling-3.0-flash ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о функционале агенского кодинга Ling-3.0-flash.",
+      "keywords": [
+        "Ling-3.0-flash",
+        "кодинг",
+        "агенты"
+      ]
+    }
+  }
+]

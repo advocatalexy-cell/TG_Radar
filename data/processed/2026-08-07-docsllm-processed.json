@@ -1,0 +1,945 @@
+[
+  {
+    "id": 82730,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T13:36:26+00:00",
+    "text": "**Netflix запер живого человека внутри билборда в центре Голливуда, чтобы... прорекламировать новый хоррор.**\n\nТам организовали полноценную комнату, где мужчина **проведет три дня**. Ему оставили запасы еды и доску, с помощью которой он может **общаться с прохожими**.\n\nАкция задумана, чтобы продвинуть **хоррор «Последний дом»**, где по сюжету семья оказывается **запертой в своём доме** и никак **не может оттуда выбраться**.\n\nФлешбеки ковида.\n\n[👉 Топор +18. Подписаться](https://t.me/+uS877FRTs6gzZWJi)",
+    "views": 310121,
+    "forwards": 5314,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Netflix запер человека внутри билборда в Голливуде для рекламы нового хоррора.",
+      "keywords": [
+        "Netflix",
+        "реклама",
+        "хоррор",
+        "билборд",
+        "акция"
+      ]
+    }
+  },
+  {
+    "id": 82729,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T11:11:38+00:00",
+    "text": "Да, хорошо, я примерно понимаю расклады там)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательная фраза.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82728,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:39:41+00:00",
+    "text": "Почитайте статью, она любопытная. Я не склонен думать, как они, что Гугл прям на краю полного отставания стоит, но мне всё сложнее поверить, что они смогут устроить второй камбек, как в 2025ом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Автор делится своим мнением о статье, касающейся Googles и его будущем.",
+      "keywords": [
+        "Гугл",
+        "камбек",
+        "статья",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 82727,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:33:13+00:00",
+    "text": "ну не вся, Хасабис стал главный ученым и председателем\nно перестановки сильные",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Демис Хасабис назначен главным ученым и председателем в компании.",
+      "keywords": [
+        "Хасабис",
+        "назначение",
+        "главный ученый",
+        "изменения",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82726,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:31:53+00:00",
+    "text": "Посмотрим на действия, которые последуют после того, как вся команда разбежалась",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о действиях после расформирования команды.",
+      "keywords": [
+        "команда",
+        "действия",
+        "расформирование"
+      ]
+    }
+  },
+  {
+    "id": 82725,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:26:59+00:00",
+    "text": "https://x.com/FT/status/2085484254029283575",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на внешний ресурс, не содержит содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82724,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:14:09+00:00",
+    "text": "Не сдается, Брин вернулся к управлению компании\nНа ИИ концентрируется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Сергей Брин вернулся к руководству своей компании и сосредоточен на развитии искусственного интеллекта.",
+      "keywords": [
+        "Брин",
+        "управление",
+        "компания",
+        "искусственный интеллект",
+        "возвращение"
+      ]
+    }
+  },
+  {
+    "id": 82723,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T10:00:40+00:00",
+    "text": "Перевод из рассылки SemiAnalysis, посвящённой ситуации нейронками в Гугле.\n\nВкратце — Гугл отстала и такое ощущение, что сдаётся",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Гугл отстает в разработках нейронных сетей и, похоже, может сдаться.",
+      "keywords": [
+        "Гугл",
+        "нейронные сети",
+        "отставание",
+        "технологии",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 82722,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:29:47+00:00",
+    "text": "Посмотреть бы, как это запускается и используется на практике",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на практическое применение технологии.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82721,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:29:12+00:00",
+    "text": "Ну это он пишет про их экспертиментальный режим мульти агент 2, с форсом Луны в каталоге на все задачи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обсуждение экспериментального режима мульти-агента 2 с использованием форса Луны для выполнения задач.",
+      "keywords": [
+        "мульти-агент",
+        "форс Луны",
+        "эксперимент",
+        "технологии",
+        "задачи"
+      ]
+    }
+  },
+  {
+    "id": 82718,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:19:37+00:00",
+    "text": "https://x.com/pvncher/status/2083300990350954981",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на пост в X.com без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82716,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:07:56+00:00",
+    "text": "Да вроде на терра запускают все",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясная информация о запуске на терра.",
+      "keywords": [
+        "терра",
+        "запуск",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 82715,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:07:30+00:00",
+    "text": "Да вроде норм",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82714,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:07:04+00:00",
+    "text": "О, это что? Сол дали возможность субагентов запускать несолярных?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный вопрос без конкретной информации.",
+      "keywords": [
+        "Сол",
+        "субагенты",
+        "несолярные"
+      ]
+    }
+  },
+  {
+    "id": 82713,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:06:29+00:00",
+    "text": "А так Sol medium и Luna Max основные рабочие лошадки, если на подумать — то выше ризонинг на Сол",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение криптовалют Solana и Luna.",
+      "keywords": [
+        "Solana",
+        "Luna",
+        "криптовалюта",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 82712,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:06:24+00:00",
+    "text": "в ней есть смысл\nсубагенты v2 поддерживает только Terra, Luna как субагент не очень вариант",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение субагентов в контексте их совместимости.",
+      "keywords": [
+        "субагенты",
+        "Terra",
+        "Luna",
+        "поддержка"
+      ]
+    }
+  },
+  {
+    "id": 82711,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T08:05:50+00:00",
+    "text": "Ну, они бы сделали Терру существенно дешевле — в ней был бы какой-то смысл",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о цене террасы без значимой информации.",
+      "keywords": [
+        "Терра",
+        "цена",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 82710,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:55:56+00:00",
+    "text": "как раз все логично\nу фри юзеров луна и сильнее ничего нет\nу плюс и про - сол и ничего не нужно больше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о различиях между бесплатными и платными пользователями.",
+      "keywords": [
+        "фри",
+        "юзеры",
+        "луна",
+        "плюс",
+        "сол"
+      ]
+    }
+  },
+  {
+    "id": 82709,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:48:13+00:00",
+    "text": "Нет, в бесплатке теперь Луна",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение изменений в условиях бесплатного доступа к Луна.",
+      "keywords": [
+        "Луна",
+        "бесплатка",
+        "изменения"
+      ]
+    }
+  },
+  {
+    "id": 82708,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:47:01+00:00",
+    "text": "но раз Luna все таки обещаются добавить, OpenAI собственноручно расписывается в том, что Terra нелюбимый ребенок не только для пользователей, но и для них самих",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "OpenAI признает, что Terra не является приоритетом для их пользователей.",
+      "keywords": [
+        "OpenAI",
+        "Terra",
+        "добавление",
+        "пользователи",
+        "приоритет"
+      ]
+    }
+  },
+  {
+    "id": 82707,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:45:57+00:00",
+    "text": "гениальное решение сделать трехзонный селектор, имея как раз три разноуровневые модели в одном поколении… и не добавлять туда две из них",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Предложение о гениальном решении трехзонного селектора для моделей.",
+      "keywords": [
+        "трехзонный селектор",
+        "модели",
+        "решение"
+      ]
+    }
+  },
+  {
+    "id": 82706,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:44:03+00:00",
+    "text": "да, но тем не менее)) сейчас его вон вообще убрали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное высказывание без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82705,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:43:29+00:00",
+    "text": "но там же и до этого выбора особо не было - 5.5, 5.6 и (внезапно) o3, нет?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение ограниченного выбора в контексте выборов.",
+      "keywords": [
+        "выборы",
+        "ограниченный выбор",
+        "o3"
+      ]
+    }
+  },
+  {
+    "id": 82704,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:41:48+00:00",
+    "text": "да, действительно, только сейчас увидел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82703,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:41:26+00:00",
+    "text": "они вот это всё меняют, но пока ничего лучше, чем выбор модели из шторки в верху экрана, так и не придумали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Ничего нового в выборе модели интерфейса не предложено.",
+      "keywords": [
+        "выбор модели",
+        "интерфейс",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 82702,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:41:17+00:00",
+    "text": "ну да, я это и имел в виду. просто в этом чате доля plus-pro пользователей явно выше бесплатных и околобесплатных)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение состав участников чата.",
+      "keywords": [
+        "пользователи",
+        "чат",
+        "доля"
+      ]
+    }
+  },
+  {
+    "id": 82701,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:40:10+00:00",
+    "text": "сейчас уже нет - только включить \"размышление\" или отключить. И при включённом размышлении появляется как раз переключатель с пунктами от Instant до Pro, но модельку саму выбрать нельзя",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение возможностей настройки размышления в модели.",
+      "keywords": [
+        "размышление",
+        "настройка",
+        "модель"
+      ]
+    }
+  },
+  {
+    "id": 82700,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:39:36+00:00",
+    "text": "для free и go",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82699,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:39:24+00:00",
+    "text": "разве Luna не только для бесплатных и Go юзеров будет?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о том, для кого предназначена платформа Luna.",
+      "keywords": [
+        "Luna",
+        "бесплатные",
+        "Go юзеры",
+        "платформа"
+      ]
+    }
+  },
+  {
+    "id": 82698,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:38:52+00:00",
+    "text": "наоборот более сильную",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное и неполное выражение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82697,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:38:48+00:00",
+    "text": "в ту же копилку - бесполезные изменения названий. ну каков резон был менять «Интеллект» на",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение изменений в названиях, недостаток смысла в этих изменениях.",
+      "keywords": [
+        "изменения",
+        "названия",
+        "бесполезные"
+      ]
+    }
+  },
+  {
+    "id": 82696,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:38:41+00:00",
+    "text": "со следующей недели будет в чате GPT-5.6 Luna вместо 5.6 Instant",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "С  следующей недели в чате будет обновленная версия GPT-5.6 Luna.",
+      "keywords": [
+        "GPT-5.6",
+        "Luna",
+        "обновление",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 82695,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:38:20+00:00",
+    "text": "на фришке это да, но там ниже в новости написано, что Plus и Pro так же затронуло обновление. И, я так понимаю, нам дадут просто более слабую версию Сола",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "В обновлении затронуты версии Plus и Pro, пользователи получат ослабленную версию Сола.",
+      "keywords": [
+        "обновление",
+        "Plus",
+        "Pro",
+        "Сола",
+        "технология"
+      ]
+    }
+  },
+  {
+    "id": 82694,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:37:57+00:00",
+    "text": "однако, почему я могу узнать, кто мне ответил только постфактум - отдельный вопрос",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит вопрос без контекста и содержательной информации.",
+      "keywords": [
+        "вопрос",
+        "ответ",
+        "постфактум"
+      ]
+    }
+  },
+  {
+    "id": 82693,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:37:41+00:00",
+    "text": "убрали в дебри, многие жалоуются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователи выражают недовольство изменениями.",
+      "keywords": [
+        "недовольство",
+        "изменения",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 82692,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:37:36+00:00",
+    "text": "ее можно посмотреть в трех точках снизу сообщения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение содержит инструкцию, но не представляет собой значимую информацию.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82691,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:37:25+00:00",
+    "text": "возможно они делают это, т.к. видят, что 90% платных подписчиков никогда не переключают модель с дефолтной, но это всё равно мрак",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение поведения платных подписчиков.",
+      "keywords": [
+        "платные подписчики",
+        "модель",
+        "дефолтная"
+      ]
+    }
+  },
+  {
+    "id": 82690,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:37:02+00:00",
+    "text": "на фришке стал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82689,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:36:43+00:00",
+    "text": "я не помню месяца где они бы что-нибудь не поменяли в мобильном приложении, каждый раз пряча эту кнопку в разные места. Сейчас вот я могу выбирать уровень ризонинга, но не вижу модель, которой пользуюсь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь недоволен частыми изменениями в мобильном приложении.",
+      "keywords": [
+        "мобильное приложение",
+        "изменения",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 82688,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:35:57+00:00",
+    "text": "вообще у OpenAI абсолютно отвратительная политика в отношении интерфейсов, в частности в отношении переключения моделей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Критика политики OpenAI по переключению моделей.",
+      "keywords": [
+        "OpenAI",
+        "политика",
+        "интерфейсы",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 82687,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:34:35+00:00",
+    "text": "ну, так говорили в X под постом OpenAI",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82686,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:34:17+00:00",
+    "text": "если я правильно понял - то теперь в чате вместо 5.5 Instant используется 5.6 Instant, которая вроде как и должна быть «специальным» Sol",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение обновления версии Instant в чате.",
+      "keywords": [
+        "Instant",
+        "версия",
+        "обновление",
+        "Sol"
+      ]
+    }
+  },
+  {
+    "id": 82685,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:33:08+00:00",
+    "text": "Оставил бы, если бы лимиты были х3 хотя бы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неинформативное высказывание.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82684,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:32:30+00:00",
+    "text": "Кстати, попользовал kimi 3 несколько дней. Хороший, но долго думает. Попросил у них возврат средств. Вернули. Честные ребята. С удовольствием вернусь позже, если нам заблочат Кодекс и Клод. А так, за 19$ не стоит того. По лимитам аналогично, что и Кодекс будет работать. Мало",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится опытом использования Kimi 3 и возвращением средств.",
+      "keywords": [
+        "Kimi 3",
+        "возврат средств",
+        "опыт использования",
+        "Честные ребята",
+        "Кодекс"
+      ]
+    }
+  },
+  {
+    "id": 82683,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:25:07+00:00",
+    "text": "ну если запросы к Pro-модельке сделали безлимитными то это конечно круто",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение безлимитных запросов к Pro-модельке.",
+      "keywords": [
+        "Pro-моделька",
+        "безлимитные запросы",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 82682,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:24:55+00:00",
+    "text": "он же и был безлимитным вроде))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенная информация без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82681,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T07:19:37+00:00",
+    "text": "ЧатГПт стал [безлимитным](https://3dnews.ru/1146417/chatgpt-stal-bezlimitnim-openai-otmenila-ogranicheniya-na-tekstovie-chati-i-perevela-vseh-polzovateley-na-gpt56). Компания OpenAI сегодня анонсировала отмену ограничений на текстовые чаты для всех пользователей ChatGPT. Новой моделью по умолчанию для пользователей ChatGPT Free и Go станет GPT-5.6 Luna, которая заменит модель GPT-5.5. Обновление также касается пользователей подписок Plus и Pro. Они получат доступ к улучшенной модели GPT-5.6 Sol, которая лучше подходит для быстрых задач, поиска информации в интернете, советов, планирования, написания текстов и принятия решений. Компания отметила, что новая модель будет давать «более компактные и надёжные ответы». При этом для ChatGPT будет использоваться отдельная версия GPT-5.6 Sol, а не та, что применяется в сервисах Codex и Work.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "OpenAI анонсировала отмену ограничений на текстовые чаты ChatGPT и переход на новые модели GPT-5.6.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "GPT-5.6",
+        "обновление",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 82678,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T06:17:31+00:00",
+    "text": "Обращайтесь напрямую в ~~Тайную канцеляцию~~ личку автору, коллеги)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 82677,
+    "channel_id": "docsllm",
+    "date": "2026-08-07T02:19:00+00:00",
+    "text": "Мне можно ссылку???",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на ссылку.",
+      "keywords": []
+    }
+  }
+]
