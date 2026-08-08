@@ -1,0 +1,46 @@
+[
+  {
+    "id": 429,
+    "channel_id": "lifelongmooc",
+    "date": "2026-07-28T15:38:26+00:00",
+    "text": "**Новость дня: местная пресса заставляет полицейских быть честнее\n**\nИсследование 159 случаев закрытия местных газет в США [показало](https://www.hypertextual.org/p/9-things-i-learned-this-week), что без журналистского «надзора» полиция чаще переводила заявления об изнасиловании в разряд «необоснованных». Кроме того, некоторые убийства в полицейской статистике превращались в самоубийства.\n\nПокажите это исследование тем, кто будет говорить, что репортеры не нужны и с их работой справятся блогеры или генеративный ИИ.",
+    "views": 895,
+    "forwards": 9,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Исследование показало, что закрытие местных газет приводит к ухудшению работы полиции и неправильной статистике преступлений.",
+      "keywords": [
+        "журналистика",
+        "полиция",
+        "исследование",
+        "США",
+        "статистика"
+      ]
+    }
+  },
+  {
+    "id": 428,
+    "channel_id": "lifelongmooc",
+    "date": "2026-07-26T19:58:29+00:00",
+    "text": "**Чума, графен и климат: о чем я писал для «Медузы»\n**\nБрейкинг-ньюс: впервые за почти пять лет в «Медузе» вышел мой текст __не про науку__! [Рассказал](https://meduza.io/feature/2026/07/26/proyti-sotni-kilometrov-peshkom-po-tropam-piligrimov-takoy-variant-otdyha-vybiraet-vse-bolshe-lyudey-po-vsemu-miru) про наши многокилометровые походы и то, что можно узнать из исследований о популярности паломнических маршрутов. Почти уверен, что это еще и самая объемная моя статья (как минимум, в «Медузе»).\n\nДумаю, это хороший повод о предыдущих наших материалах. Я уже, кажется, писал обо всем на свете: от кордицепсов и мамонтов до лидаров и комаров. Вот ссылки на все публикации, если вы их пропустили:\n\n— [Что на самом деле произошло с мамонтами](https://meduza.io/feature/2021/11/04/odnim-prestupleniem-na-sovesti-chelovechestva-menshe).\n— [Кто и зачем хочет воскресить сумчатого волка](https://meduza.io/feature/2022/08/20/posledniy-sumchatyy-volk-umer-v-zooparke-pochti-100-let-nazad-teper-uchenye-hotyat-ego-voskresit).\n— [Что физики и астрономы открыли в 2022 году](https://meduza.io/feature/2023/01/05/est-nadezhnyy-sposob-zabyt-o-mirovyh-novostyah-prochest-o-tom-chto-fiziki-i-astronomy-uznali-o-mire-v-2022-godu).\n— [Что происходит с озоновым дырами](https://meduza.io/cards/pomnite-byli-takie-ozonovye-dyry-u-nas-horoshie-novosti-oni-zatyagivayutsya).\n— [Стыдные вопросы про Челябинский метеорит и другие астероиды](https://meduza.io/feature/2023/02/15/chelyabinskomu-meteoritu-pomnite-ego-rovno-10-let-otvechaem-na-stydnye-voprosy-pro-nego-drugie-meteority-asteroidy-i-dazhe-bolidy).\n— [Нужно ли бояться кордицепсов](https://meduza.io/cards/korditseps-samaya-bolshaya-ugroza-chelovechestvu).\n— [Что скрывается в подледном океане на спутнике Юпитера](https://meduza.io/feature/2023/04/13/podlednye-okeany-sputnikov-yupitera-samoe-interesnoe-mesto-v-blizhayshem-kosmose-na-poiski-zhizni-v-nih-otpravlyaetsya-evropeyskiy-zond-juice).\n— [Как Эль-Ниньо влияет на климат](https://meduza.io/feature/2023/08/22/2023-god-uzhe-stal-samym-zharkim-za-vsyu-istoriyu-nablyudeniy-a-2024-y-budet-esche-zharche-vinovat-el-nino).\n— [Сложные вопросы о будущем ИИ](https://meduza.io/feature/2024/01/05/ob-iskusstvennom-intellekte-stolko-nadoedlivyh-novostey-a-nasha-zhizn-za-god-printsipialno-tak-i-ne-pomenyalas).\n— [Как лидары помогли найти затерянные города в джунглях](https://meduza.io/feature/2024/01/19/v-verhovyah-amazonki-nashli-dolinu-zateryannyh-gorodov-2000-let-nazad-tam-zhili-desyatki-tysyach-upano-predstaviteley-razvitoy-tsivilizatsii-kotoruyu-sravnivayut-s-mayya).\n— [Как победить переносимые комарами болезни](https://meduza.io/feature/2024/08/07/na-fone-globalnogo-potepleniya-perenosimye-komarami-tropicheskie-zabolevaniya-vse-chasche-pronikayut-v-evropu-i-uzhe-ugrozhayut-posetitelyam-olimpiady-v-parizhe).\n— [Зачем ученые создали прозрачных мышей](https://meduza.io/feature/2024/09/22/uchenye-namazali-zhivot-i-lapku-myshi-krasitelem-kotoryy-primenyaetsya-v-chipsah-i-marmeladkah-i-mysh-stala-prozrachnoy).\n— [Как осьминоги командуют рыбами](https://meduza.io/feature/2024/10/13/osminogi-uzhe-davno-udivlyayut-uchenyh-svoim-intellektom-vot-novoe-otkrytie-dlya-ohoty-oni-skolachivayut-bandy-ryb-i-bolno-nakazyvayut-neeffektivnyh-podelnikov).\n— [Почему графен пока не оправдал ожиданий](https://meduza.io/feature/2024/11/17/20-let-nazad-uchenye-geym-i-novoselov-poluchili-grafen-ih-otkrytie-obeschalo-nastoyaschuyu-tehnologicheskuyu-revolyutsiyu-no-ee-ne-sluchilos).\n— [Как молодой математик опроверг теорию, в которую все верили 40 лет](https://meduza.io/feature/2025/03/01/molodoy-matematik-iz-ssha-oproverg-teoriyu-kotoraya-schitalas-nezyblemoy-40-let-potomu-chto-on-o-ney-ne-znal).\n— [Что происходит с медузами](https://meduza.io/feature/2025/09/14/po-vsemu-miru-proishodit-nashestvie-meduz-oni-meshayut-turistam-rybakam-i-energetikam-no-ot-nih-pohozhe-nikuda-ne-detsya).\n— [Как моря и океаны отбирают у людей землю](https://meduza.io/feature/2026/01/04/v-2025-godu-chelovechestvo-snova-sdelalo-nichtozhno-malo-dlya-borby-s-klimaticheskim-krizisom-v-otvet-okeany-i-morya-prodolzhili-zabirat-u-lyudey-zemlyu).\n— [Как выглядели первые телепередачи](https://meduza.io/feature/2026/01/31/sto-let-nazad-inzhener-dzhon-berd-vpervye-prodemonstriroval-peredachu-dvizhuschegosya-izobrazheniya-na-rasstoyanie-i-otkryl-eru-televideniya).\n— [Россия — родина чумы](https://meduza.io/feature/2026/06/28/rossiya-rodina-chumy).\n— [Чем спутники мешают астрономам](https://meduza.io/feature/2026/07/26/v-kosmose-stanovitsya-tesno-iz-za-sputnikov-spacex-uzhe-vyvela-tuda-tysyachi-starlink-a-v-buduschem-chislo-apparatov-na-orbite-mozhet-perevalit-za-million).\n\nНапоминаю, что у меня еще есть рассылка Hypertextual — [обязательно подпишитесь](https://www.hypertextual.org/)!",
+    "views": 1271,
+    "forwards": 23,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Автор делится ссылками на свои публикации и рассказывает о новом тексте, не связанном с наукой.",
+      "keywords": [
+        "публикации",
+        "Медуза",
+        "наука",
+        "походы",
+        "тексты"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1072 @@
+[
+  {
+    "id": 9988,
+    "channel_id": "legaldaily",
+    "date": "2021-08-19T12:01:59+00:00",
+    "text": "https://legaldaily.ru/?newsid=10772\nСуд продлил арест бизнесмена Бориса Шпигеля #уголовноеправо #коррупция",
+    "views": 814,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "Суд продлил арест бизнесмена Бориса Шпигеля по делу о коррупции.",
+      "keywords": [
+        "Шпигель",
+        "арест",
+        "коррупция",
+        "суд",
+        "бизнесмен"
+      ]
+    }
+  },
+  {
+    "id": 9987,
+    "channel_id": "legaldaily",
+    "date": "2021-08-17T17:32:12+00:00",
+    "text": "https://legaldaily.ru/?newsid=10771\nМинистерство юстиции предлагает внести поправки в АПК и УПК  #законодательство #уголовноеправо",
+    "views": 846,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Министерство юстиции России предлагает изменения в Гражданский и Уголовный процессуальные кодексы.",
+      "keywords": [
+        "Министерство юстиции",
+        "поправки",
+        "АПК",
+        "УПК",
+        "законодательство"
+      ]
+    }
+  },
+  {
+    "id": 9986,
+    "channel_id": "legaldaily",
+    "date": "2021-08-03T13:02:53+00:00",
+    "text": "https://legaldaily.ru/?newsid=10768\nЛюбовь Соболь приговорили к ограничению свободы по делу о нарушении санитарных норм #уголовноеправо",
+    "views": 672,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Любовь Соболь получила приговор за нарушение санитарных норм.",
+      "keywords": [
+        "Любовь Соболь",
+        "приговор",
+        "ограничение свободы",
+        "санитарные нормы",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 9985,
+    "channel_id": "legaldaily",
+    "date": "2021-08-03T13:02:33+00:00",
+    "text": "https://legaldaily.ru/?newsid=10767\nЗадержан бывший глава управления МВД России по Камчатскому краю #уголовноеправо",
+    "views": 479,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Задержан бывший глава управления МВД России по Камчатскому краю.",
+      "keywords": [
+        "МВД",
+        "Камчатский край",
+        "главa",
+        "задержание",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9984,
+    "channel_id": "legaldaily",
+    "date": "2021-07-30T12:38:41+00:00",
+    "text": "https://legaldaily.ru/?newsid=10766\nАрбитражный суд Москвы запретил функционирование Samsung Pay в России из-за нарушения патентного права #судебныеспоры",
+    "views": 414,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "business",
+      "summary": "Суд в Москве запретил работу Samsung Pay в России из-за нарушения патентных прав.",
+      "keywords": [
+        "Samsung Pay",
+        "арбитражный суд",
+        "патентное право",
+        "Россия",
+        "судебные споры"
+      ]
+    }
+  },
+  {
+    "id": 9983,
+    "channel_id": "legaldaily",
+    "date": "2021-07-30T12:38:20+00:00",
+    "text": "https://legaldaily.ru/?newsid=10765\nЗадержан сооснователь финансовой пирамиды Finiko #уголовноеправо",
+    "views": 280,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "finance",
+      "summary": "Задержан сооснователь финансовой пирамиды Finiko.",
+      "keywords": [
+        "Finiko",
+        "финансовая пирамида",
+        "задержание",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9982,
+    "channel_id": "legaldaily",
+    "date": "2021-07-30T12:38:00+00:00",
+    "text": "https://legaldaily.ru/?newsid=10764",
+    "views": 231,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на источник новости.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 9981,
+    "channel_id": "legaldaily",
+    "date": "2021-07-28T09:34:16+00:00",
+    "text": "https://legaldaily.ru/?newsid=10763\nВозбуждено уголовное дело о мошенничестве в Центре подготовки космонавтов #уголовноеправо",
+    "views": 193,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Возбуждено уголовное дело о мошенничестве в Центре подготовки космонавтов.",
+      "keywords": [
+        "мошенничество",
+        "Центр подготовки космонавтов",
+        "уголовное дело"
+      ]
+    }
+  },
+  {
+    "id": 9980,
+    "channel_id": "legaldaily",
+    "date": "2021-07-28T09:30:30+00:00",
+    "text": "https://legaldaily.ru/?newsid=10762\nКС опубликовал обзор практики за второй квартал 2021 года #КСРФ",
+    "views": 165,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "other",
+      "summary": "Конституционный суд России опубликовал обзор своей практики за второй квартал 2021 года.",
+      "keywords": [
+        "КС",
+        "Конституционный суд",
+        "практика",
+        "обзор",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 9979,
+    "channel_id": "legaldaily",
+    "date": "2021-07-28T09:30:10+00:00",
+    "text": "https://legaldaily.ru/?newsid=10761\nЗадержан замначальника следственного управления МВД Бурятии, его подозревают в коррупции #уголовноеправо #коррупция",
+    "views": 151,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "politics",
+      "summary": "Задержан замначальника следственного управления МВД Бурятии по подозрению в коррупции.",
+      "keywords": [
+        "коррупция",
+        "Бурятия",
+        "МВД",
+        "задержание",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9978,
+    "channel_id": "legaldaily",
+    "date": "2021-07-28T09:29:46+00:00",
+    "text": "https://legaldaily.ru/?newsid=10760\nВозбуждено уголовное дело в отношении редактора The Insider #уголовноеправо",
+    "views": 140,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Возбуждение уголовного дела против редактора The Insider привлекло внимание к освещению ситуации в СМИ.",
+      "keywords": [
+        "уголовное дело",
+        "The Insider",
+        "редактор",
+        "сми",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 9977,
+    "channel_id": "legaldaily",
+    "date": "2021-07-22T11:55:12+00:00",
+    "text": "https://legaldaily.ru/?newsid=10757\nГлава ГИБДД Ставропольского края арестован на два месяца #уголовноеправо #коррупция",
+    "views": 157,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Глава ГИБДД Ставропольского края арестован по обвинению в коррупции.",
+      "keywords": [
+        "ГИБДД",
+        "Ставрополь",
+        "арест",
+        "коррупция",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9976,
+    "channel_id": "legaldaily",
+    "date": "2021-07-22T11:54:53+00:00",
+    "text": "https://legaldaily.ru/?newsid=10758\nВ отношении экс-губернатора Хабаровского края возбуждено еще одно дело #уголовноеправо #судебныеспоры",
+    "views": 150,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "В отношении экс-губернатора Хабаровского края возбуждено новое уголовное дело.",
+      "keywords": [
+        "экс-губернатор",
+        "Хабаровский край",
+        "уголовное дело",
+        "новости",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 9975,
+    "channel_id": "legaldaily",
+    "date": "2021-07-22T11:54:29+00:00",
+    "text": "https://legaldaily.ru/?newsid=10759\nВерховный суд Республики Коми подтвердил приговор Гайзеру #уголовноеправо",
+    "views": 135,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Верховный суд Республики Коми подтвердил приговор Гайзеру.",
+      "keywords": [
+        "Верховный суд",
+        "Республика Коми",
+        "приговор",
+        "Гайзер",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9974,
+    "channel_id": "legaldaily",
+    "date": "2021-07-21T08:30:36+00:00",
+    "text": "https://legaldaily.ru/?newsid=10756\nПо делу о торговле детьми задержана московский врач-репродуктолог Алена Дружинина  #аресты #уголовноеправо",
+    "views": 142,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "В Москве задержана врач-репродуктолог по делу о торговле детьми.",
+      "keywords": [
+        "торговля детьми",
+        "арест",
+        "врач",
+        "репродуктолог",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9973,
+    "channel_id": "legaldaily",
+    "date": "2021-07-21T08:30:15+00:00",
+    "text": "https://legaldaily.ru/?newsid=10755\nЗадержан начальник управления ГИБДД Ставропольского края #уголовноеправо #назначенияиотставки",
+    "views": 146,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Начальник управления ГИБДД Ставропольского края задержан.",
+      "keywords": [
+        "ГИБДД",
+        "Ставропольский край",
+        "задержание",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9972,
+    "channel_id": "legaldaily",
+    "date": "2021-07-16T17:34:53+00:00",
+    "text": "https://legaldaily.ru/?newsid=10754\nСовет Госдумы принял заявление об отказе России исполнить требование ЕСПЧ об однополых браках #ЕСПЧ",
+    "views": 168,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Совет Госдумы заявил об отказе России выполнять решение ЕСПЧ по однополым бракам.",
+      "keywords": [
+        "ЕСПЧ",
+        "Россия",
+        "однополые браки",
+        "Госдума",
+        "заявление"
+      ]
+    }
+  },
+  {
+    "id": 9971,
+    "channel_id": "legaldaily",
+    "date": "2021-07-16T17:30:02+00:00",
+    "text": "https://legaldaily.ru/?newsid=10753\nСК предьявил новое обвинение экс-губернатору Кировской области #уголовноеправо",
+    "views": 141,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Следственный комитет предъявил новое обвинение экс-губернатору Кировской области.",
+      "keywords": [
+        "обвинение",
+        "экс-губернатор",
+        "Кировская область",
+        "СК",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9970,
+    "channel_id": "legaldaily",
+    "date": "2021-07-15T17:34:17+00:00",
+    "text": "https://legaldaily.ru/?newsid=10752\nСуд поместил адвоката Тимура Маршани под домашний арест #уголовноеправо",
+    "views": 135,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Адвокат Тимур Маршани помещен под домашний арест по делу, связанному с уголовным правом.",
+      "keywords": [
+        "Тимур Маршани",
+        "домашний арест",
+        "уголовное право",
+        "суд"
+      ]
+    }
+  },
+  {
+    "id": 9969,
+    "channel_id": "legaldaily",
+    "date": "2021-07-15T17:33:52+00:00",
+    "text": "https://legaldaily.ru/?newsid=10751\nПрокуратура просит приговорить основателя Baring Vostok к шести годам условно #судебныеспоры #уголовноеправо",
+    "views": 152,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Прокуратура предложила условный срок для основателя инвестиционного фонда Baring Vostok.",
+      "keywords": [
+        "Baring Vostok",
+        "прокуратура",
+        "условный срок",
+        "судебные споры",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9968,
+    "channel_id": "legaldaily",
+    "date": "2021-07-13T16:35:15+00:00",
+    "text": "https://legaldaily.ru/?newsid=10750\nЕСПЧ призвал Россию разрешить заключать однополые браки #ЕСПЧ #законодательство",
+    "views": 153,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "ЕСПЧ призвал Россию легализовать однополые браки.",
+      "keywords": [
+        "ЕСПЧ",
+        "Россия",
+        "однополые браки",
+        "законодательство"
+      ]
+    }
+  },
+  {
+    "id": 9967,
+    "channel_id": "legaldaily",
+    "date": "2021-07-12T17:05:44+00:00",
+    "text": "https://legaldaily.ru/?newsid=10749\nВозбуждено уголовное дело о фальсификации медотводов от вакцинации против COVID-19 #уголовноеправо",
+    "views": 138,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Возбуждено уголовное дело о фальсификации медотводов от вакцинации против COVID-19.",
+      "keywords": [
+        "уголовное дело",
+        "фальсификация",
+        "медотвод",
+        "вакцинация",
+        "COVID-19"
+      ]
+    }
+  },
+  {
+    "id": 9966,
+    "channel_id": "legaldaily",
+    "date": "2021-07-12T17:05:20+00:00",
+    "text": "https://legaldaily.ru/?newsid=10748\nЗавершено расследование первого в России уголовного дела о договорном матче #уголовноеправо",
+    "views": 128,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "В России завершено расследование первого уголовного дела о договорном матче.",
+      "keywords": [
+        "договорной матч",
+        "уголовное дело",
+        "расследование",
+        "спорт"
+      ]
+    }
+  },
+  {
+    "id": 9965,
+    "channel_id": "legaldaily",
+    "date": "2021-07-12T17:04:59+00:00",
+    "text": "https://legaldaily.ru/?newsid=10747\nВ Москве состоялся Всероссийский съезд арбитражных управляющих #банкротство",
+    "views": 121,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "В Москве прошел Всероссийский съезд арбитражных управляющих, посвященный вопросам банкротства.",
+      "keywords": [
+        "съезд",
+        "арбитражные управляющие",
+        "банкротство",
+        "Москва",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9964,
+    "channel_id": "legaldaily",
+    "date": "2021-06-30T04:05:03+00:00",
+    "text": "https://legaldaily.ru/?newsid=10746\nПрезидент подписал закон о минимальном доходе должников #законодательство",
+    "views": 141,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Президент подписал закон, регулирующий минимальный доход должников.",
+      "keywords": [
+        "закон",
+        "Президент",
+        "минимальный доход",
+        "должники",
+        "экономика"
+      ]
+    }
+  },
+  {
+    "id": 9963,
+    "channel_id": "legaldaily",
+    "date": "2021-06-30T04:04:37+00:00",
+    "text": "https://legaldaily.ru/?newsid=10745\nЗаочно арестован экс-директор ФБК* Иван Жданов #уголовноеправо #аресты",
+    "views": 143,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Заочно арестован экс-директор ФБК Иван Жданов.",
+      "keywords": [
+        "арест",
+        "Жданов",
+        "ФБК",
+        "уголовное право"
+      ]
+    }
+  },
+  {
+    "id": 9962,
+    "channel_id": "legaldaily",
+    "date": "2021-06-30T04:04:13+00:00",
+    "text": "https://legaldaily.ru/?newsid=10744\nПленум ВС: интересное #судебныеспоры #ВСРФ #уголовноеправо",
+    "views": 126,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.75,
+      "category": "other",
+      "summary": "Пленум Верховного Суда России обсуждает судебные споры и уголовное право.",
+      "keywords": [
+        "Пленум",
+        "Верховный Суд",
+        "судебные споры",
+        "уголовное право",
+        "ВСРФ"
+      ]
+    }
+  },
+  {
+    "id": 9961,
+    "channel_id": "legaldaily",
+    "date": "2021-06-29T07:20:50+00:00",
+    "text": "https://legaldaily.ru/?newsid=10743\nПрезидент РФ подписал несколько законопроектов #законодательство",
+    "views": 104,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Президент РФ подписал новые законопроекты.",
+      "keywords": [
+        "законопроекты",
+        "Президент РФ",
+        "подписание",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 9960,
+    "channel_id": "legaldaily",
+    "date": "2021-06-29T07:19:43+00:00",
+    "text": "https://legaldaily.ru/?newsid=10742\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 95,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит ссылку на новости, но не предоставляет существенной информации.",
+      "keywords": [
+        "ВС РФ",
+        "судебные споры",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9959,
+    "channel_id": "legaldaily",
+    "date": "2021-06-29T07:19:15+00:00",
+    "text": "https://legaldaily.ru/?newsid=10741\nЕСПЧ рассмотрел жалобы кандидатов в региональные парламенты #ЕСПЧ #судебныеспоры",
+    "views": 95,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Европейский суд по правам человека рассмотрел жалобы кандидатов в региональные парламенты.",
+      "keywords": [
+        "ЕСПЧ",
+        "жалобы",
+        "региональные парламенты",
+        "судебные споры"
+      ]
+    }
+  },
+  {
+    "id": 9958,
+    "channel_id": "legaldaily",
+    "date": "2021-06-28T03:49:02+00:00",
+    "text": "https://legaldaily.ru/?newsid=10740\nВ Москве арестованы офицеры авиации ФСБ за мошенничество #уголовноеправо #аресты",
+    "views": 88,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "В Москве задержаны офицеры авиации ФСБ по делу о мошенничестве.",
+      "keywords": [
+        "арест",
+        "офицеры",
+        "авиация",
+        "ФСБ",
+        "мошенничество"
+      ]
+    }
+  },
+  {
+    "id": 9957,
+    "channel_id": "legaldaily",
+    "date": "2021-06-26T05:40:21+00:00",
+    "text": "https://legaldaily.ru/?newsid=10739\nФонд кино проиграл «Московскому Комсомольцу» #судебныеспоры #гражданскоеправо",
+    "views": 98,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "other",
+      "summary": "Фонд кино проиграл судебный процесс против 'Московского Комсомольца'.",
+      "keywords": [
+        "Фонд кино",
+        "судебный процесс",
+        "Московский Комсомолец",
+        "гражданское право",
+        "споры"
+      ]
+    }
+  },
+  {
+    "id": 9956,
+    "channel_id": "legaldaily",
+    "date": "2021-06-26T05:39:56+00:00",
+    "text": "https://legaldaily.ru/?newsid=10738\nСуд отклонил иск Навального к СИЗО #судебныеспоры",
+    "views": 97,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Суд отклонил иск Алексея Навального к СИЗО.",
+      "keywords": [
+        "Навальный",
+        "суд",
+        "СИЗО",
+        "иск",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 9955,
+    "channel_id": "legaldaily",
+    "date": "2021-06-26T05:39:27+00:00",
+    "text": "https://legaldaily.ru/?newsid=10737\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 96,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение интересных судебных споров в России.",
+      "keywords": [
+        "суд",
+        "споры",
+        "Россия",
+        "право",
+        "ВС РФ"
+      ]
+    }
+  },
+  {
+    "id": 9954,
+    "channel_id": "legaldaily",
+    "date": "2021-06-26T05:38:43+00:00",
+    "text": "https://legaldaily.ru/?newsid=10736\nДепутаты закрепят право осужденных на свидания с близкими #законодательство #Парламент #гражданскоеправо",
+    "views": 91,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Депутаты планируют закрепить право осужденных на свидания с близкими.",
+      "keywords": [
+        "законодательство",
+        "осужденные",
+        "свидания",
+        "права",
+        "Парламент"
+      ]
+    }
+  },
+  {
+    "id": 9953,
+    "channel_id": "legaldaily",
+    "date": "2021-06-25T10:16:48+00:00",
+    "text": "https://legaldaily.ru/?newsid=10735\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 96,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит ссылку на новость о судебных спорах, но без анализа или важной информации.",
+      "keywords": [
+        "ВС РФ",
+        "судебные споры",
+        "право"
+      ]
+    }
+  },
+  {
+    "id": 9952,
+    "channel_id": "legaldaily",
+    "date": "2021-06-24T07:16:09+00:00",
+    "text": "https://legaldaily.ru/?newsid=10734\nВ Госдуму внесены новые законопроекты #Парламент #законодательство",
+    "views": 105,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "В Госдуму внесены новые законопроекты.",
+      "keywords": [
+        "Госдума",
+        "законопроекты",
+        "политика",
+        "законодательство",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 9951,
+    "channel_id": "legaldaily",
+    "date": "2021-06-24T07:15:41+00:00",
+    "text": "https://legaldaily.ru/?newsid=10733\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 102,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит ссылку на новости о судебных спорах, но не предоставляет конкретной информации.",
+      "keywords": [
+        "ВС РФ",
+        "судебные споры",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9950,
+    "channel_id": "legaldaily",
+    "date": "2021-06-23T05:27:21+00:00",
+    "text": "https://legaldaily.ru/?newsid=10732\nВ ЕСПЧ обратились родственники жертв катастрофы Ту-154 под Сочи #ЕСПЧ #судебныеспоры",
+    "views": 100,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Родственники жертв катастрофы Ту-154 под Сочи подали жалобу в ЕСПЧ.",
+      "keywords": [
+        "ЕСПЧ",
+        "катастрофа",
+        "Ту-154",
+        "Сочи",
+        "жертвы"
+      ]
+    }
+  },
+  {
+    "id": 9949,
+    "channel_id": "legaldaily",
+    "date": "2021-06-23T05:26:44+00:00",
+    "text": "https://legaldaily.ru/?newsid=10731\nВынесен приговор сотруднице «Алросы» за хищение алмазов на 700 млн рублей  #судебныеспоры",
+    "views": 92,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Сотруднице компании «Алроса» вынесли приговор за хищение алмазов на сумму 700 миллионов рублей.",
+      "keywords": [
+        "Алроса",
+        "хищение",
+        "алмазы",
+        "приговор",
+        "суд"
+      ]
+    }
+  },
+  {
+    "id": 9948,
+    "channel_id": "legaldaily",
+    "date": "2021-06-23T05:26:18+00:00",
+    "text": "https://legaldaily.ru/?newsid=10730\nПленум ВС: интересное #ВСРФ #гражданскоеправо",
+    "views": 87,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост с ссылкой на новости из сферы гражданского права.",
+      "keywords": [
+        "Пленум ВС",
+        "гражданское право",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9947,
+    "channel_id": "legaldaily",
+    "date": "2021-06-23T05:25:50+00:00",
+    "text": "https://legaldaily.ru/?newsid=10729\nКС РФ разобрался с порядком истребования имущества #КСРФ #судебныеспоры",
+    "views": 82,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Конституционный суд РФ прояснил вопросы по порядку истребования имущества в судебных спорах.",
+      "keywords": [
+        "КС РФ",
+        "имущество",
+        "судебные споры",
+        "порядок",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 9946,
+    "channel_id": "legaldaily",
+    "date": "2021-06-23T05:25:22+00:00",
+    "text": "https://legaldaily.ru/?newsid=10728\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 78,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост с ссылкой на сайт с новостями о судебных спорах.",
+      "keywords": [
+        "ВС РФ",
+        "судебные споры",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9945,
+    "channel_id": "legaldaily",
+    "date": "2021-06-22T05:13:33+00:00",
+    "text": "https://legaldaily.ru/?newsid=10727\nКС РФ: интересное #КСРФ #судебныеспоры",
+    "views": 90,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост с ссылкой на новость из юридической сферы, но без дополнительных интересных деталей.",
+      "keywords": [
+        "КС РФ",
+        "судебные споры",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 9944,
+    "channel_id": "legaldaily",
+    "date": "2021-06-22T05:13:07+00:00",
+    "text": "https://legaldaily.ru/?newsid=10726\nВС РФ: интересные споры #ВСРФ #судебныеспоры",
+    "views": 91,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост с ссылкой на материал о судебных спорах в Верховном суде РФ.",
+      "keywords": [
+        "ВС РФ",
+        "судебные споры",
+        "право"
+      ]
+    }
+  },
+  {
+    "id": 9943,
+    "channel_id": "legaldaily",
+    "date": "2021-06-22T05:12:41+00:00",
+    "text": "https://legaldaily.ru/?newsid=10725\nЕСПЧ не согласился со штрафам организатору «Марша несогласных» #ЕСПЧ #судебныеспоры",
+    "views": 90,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "ЕСПЧ отклонил аппеляцию по делу организатора 'Марша несогласных'.",
+      "keywords": [
+        "ЕСПЧ",
+        "Марш несогласных",
+        "судебные споры",
+        "права человека",
+        "политика"
+      ]
+    }
+  },
+  {
+    "id": 9942,
+    "channel_id": "legaldaily",
+    "date": "2021-06-19T08:32:16+00:00",
+    "text": "https://legaldaily.ru/?newsid=10724\nПленум ВС: антимонопольные проблемы #ВСРФ #законодательство",
+    "views": 99,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Пленум Верховного Суда России обсудил антимонопольные проблемы в законодательстве.",
+      "keywords": [
+        "Пленум",
+        "Верховный Суд",
+        "антимонопольные проблемы",
+        "законодательство",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 9941,
+    "channel_id": "legaldaily",
+    "date": "2021-06-19T08:31:50+00:00",
+    "text": "https://legaldaily.ru/?newsid=10723\nАрестован экс-зампреда ЦБ Корищенко #уголовноеправо #аресты",
+    "views": 98,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Арестован бывший заместитель председателя Центрального банка России Корищенко.",
+      "keywords": [
+        "арест",
+        "ЦБ",
+        "Корищенко",
+        "уголовное право",
+        "финансы"
+      ]
+    }
+  },
+  {
+    "id": 9940,
+    "channel_id": "legaldaily",
+    "date": "2021-06-19T08:31:24+00:00",
+    "text": "https://legaldaily.ru/?newsid=10722\nЗемфира подала в суд на Гришковца #судебныеспоры #гражданскоеправо",
+    "views": 92,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "other",
+      "summary": "Земфира инициировала судебный процесс против Гришковца.",
+      "keywords": [
+        "Земфира",
+        "Гришковец",
+        "суд",
+        "гражданское право",
+        "споры"
+      ]
+    }
+  },
+  {
+    "id": 9939,
+    "channel_id": "legaldaily",
+    "date": "2021-06-18T06:31:22+00:00",
+    "text": "https://legaldaily.ru/?newsid=10721\nЗавершила свою работу Госдума седьмого созыва #Парламент",
+    "views": 87,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Госдума седьмого созыва завершила свою работу.",
+      "keywords": [
+        "Госдума",
+        "седьмой созыв",
+        "завершение",
+        "работа",
+        "Парламент"
+      ]
+    }
+  }
+]
