@@ -1,0 +1,156 @@
+[
+  {
+    "id": 21603,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-15T19:15:26+00:00",
+    "text": "Я тоже скачал, сейчас гоняю её",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования приложения.",
+      "keywords": [
+        "приложение",
+        "опыт",
+        "скачал"
+      ]
+    }
+  },
+  {
+    "id": 21602,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-15T19:14:15+00:00",
+    "text": "Qwen3.8-27B уже забрала первое место в трендах Hugging Face.\n\nПри этом открытые модели Alibaba за последние шесть месяцев набрали более 3 миллиардов скачиваний по всему миру. 😳\n\nПо данным Bloomberg, Qwen обошёл Meta, Google и китайских конкурентов и стал самым скачиваемым семейством ИИ-моделей в мире.",
+    "views": 14822,
+    "forwards": 155,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Модель Qwen3.8-27B стала самой скачиваемой ИИ-моделью в мире, обойдя крупных конкурентов.",
+      "keywords": [
+        "Qwen",
+        "ИИ-модели",
+        "Hugging Face",
+        "Alibaba",
+        "достижения"
+      ]
+    }
+  },
+  {
+    "id": 21600,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-15T13:55:58+00:00",
+    "text": "Ребята всем привет. Огромное Вам спасибо. Я плотно и давно сиже на qwen",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит благодарность и не несет значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21585,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-14T21:55:00+00:00",
+    "text": "DickPsyho",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21584,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-14T21:54:53+00:00",
+    "text": "DeepPsyho",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не представлено достаточной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21583,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-14T21:19:53+00:00",
+    "text": "Вместо \"DeepSeek\" предлагаю звать его ласково — #дипсикушка",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Предложение о смене названия для 'DeepSeek'.",
+      "keywords": [
+        "DeepSeek",
+        "предложение",
+        "название"
+      ]
+    }
+  },
+  {
+    "id": 21577,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-14T19:22:51+00:00",
+    "text": "Qwen выпустила Qwen3.8-27B.\n\n27 млрд параметров, Apache 2.0, контекст 262K токенов с возможностью расширения до 1 млн. Есть поддержка текста, изображений и видео, thinking mode, tool use и агентных сценариев.\n\nПо опубликованным бенчмаркам модель набрала 61,7 в SWE-bench Pro, 90,3 в LiveCodeBench, 84,3 в OSWorld-Verified и 81,9 в AndroidWorld.\n\nQwen3.8-27B можно запускать через Transformers, vLLM и SGLang. Также доступны варианты для llama.cpp, Ollama и LM Studio.\n\nhttps://huggingface.co/Qwen/Qwen3.8-27B",
+    "views": 20233,
+    "forwards": 332,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Qwen выпустила новую модель Qwen3.8-27B с 27 млрд параметров и расширенными возможностями обработки контента.",
+      "keywords": [
+        "Qwen3.8",
+        "модель",
+        "параметры",
+        "бенчмарки",
+        "AI"
+      ]
+    }
+  },
+  {
+    "id": 21563,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-13T13:13:34+00:00",
+    "text": "🔔**Создайте своё 1 сентября — каким пожелаете** ✨\n                                                                                                                                                                                                                                Хотите вернуть настоящее воспоминание? Или нафантазировать 1 сентября, которого никогда не было? 👀\n                                                                                                                                                                                                                              ✅__Можно оказаться на Марсе, прийти в школу с драконом вместо букета или перенестись в любой год.__\n                                                                                                                                                                                                                                   ⭐️**Заходите на сайт, берите готовый промпт или собирайте свой в конструкторе. Можно написать что угодно от себя — никаких ограничений. На всё уйдёт около двух минут, специальные навыки не нужны**.\n                                                                                                                                                                                                                                                   📸 Себя в кадр можно добавить детским или взрослым фото. А можно вообще не загружать своё — генерация работает и без него.\n                                                                                                                                                                                                                                            ✨ Поделитесь результатом на сайте конкурса и поставьте результат на аватарку к 1 сентября.\n\n🗓 **До 20 августа** — ждём ваши работы\n✅**21–27 августа** — проводим голосование\n🏆 **28 августа** — объявляем троих победителей\n                                                                                                                                                                                                                             🎁**__Призёров ждут: рюкзак, термос, набор для записей, стикерпаки и книги Кирилла Пшинника с автографом__**\n\n👉 [**Участвовать в конкурсе**](https://action.zerocoder.ru/)                                                                                                                                                     \n\n**Создайте своё 1 сентября!**",
+    "views": 2108,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама конкурса на тему 1 сентября с возможностью генерации оригинальных работ.",
+      "keywords": [
+        "конкурс",
+        "1 сентября",
+        "дизайн",
+        "генирация",
+        "творчество"
+      ]
+    }
+  }
+]
