@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "channels": [
     {
       "id": "allthingslegal",
@@ -15,7 +15,7 @@
         "law"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.24,
       "notes": "LegalTech: новости права и технологий"
     },
     {
@@ -32,7 +32,7 @@
         "practice"
       ],
       "active": true,
-      "signal_ratio": 0.65,
+      "signal_ratio": 0.67,
       "notes": "Практическое применение GPT в юридической практике"
     },
     {
@@ -129,7 +129,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -142,7 +142,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.85,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -155,7 +155,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -181,7 +181,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -194,7 +194,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.3,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -207,7 +207,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.55,
+      "signal_ratio": 0.59,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -220,7 +220,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.95,
+      "signal_ratio": 0.88,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -272,7 +272,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.33,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -285,7 +285,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.75,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -324,7 +324,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.22,
+      "signal_ratio": 0.18,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -350,7 +350,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Ai»"
     },
     {
@@ -363,7 +363,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.88,
+      "signal_ratio": 0.9,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -415,7 +415,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.23,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -428,7 +428,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.85,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -480,7 +480,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.81,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -571,7 +571,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -584,7 +584,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.98,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -597,7 +597,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.1,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -623,7 +623,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -649,7 +649,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.25,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -662,7 +662,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.2,
+      "signal_ratio": 0.22,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -675,7 +675,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.03,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -753,7 +753,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -766,7 +766,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -818,7 +818,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.54,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -831,7 +831,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.84,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -844,7 +844,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -857,7 +857,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -870,7 +870,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -935,7 +935,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.79,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -948,7 +948,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.15,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -1039,7 +1039,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.3,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -1052,7 +1052,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
@@ -1065,7 +1065,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.1,
       "notes": "Импортирован из папки «Lawyer»"
     },
     {
