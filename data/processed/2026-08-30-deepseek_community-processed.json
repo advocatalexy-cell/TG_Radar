@@ -1,0 +1,649 @@
+[
+  {
+    "id": 21863,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:21:15+00:00",
+    "text": "У меня же исключительно проблемы были с связкой локального сервера с тоннелем который уже можно прочесть в гпт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с настройкой локального сервера и тоннеля.",
+      "keywords": [
+        "сервер",
+        "тоннель",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 21862,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:20:27+00:00",
+    "text": "Америка особо не к страдает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный пост без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21861,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:15:26+00:00",
+    "text": "А злоключалась она в следующем, в три:\n1) Как создать MCP, чтобы сократить издержки клиента:\n2) Как создать MCP, чтобы не убить все деньги клиента;\n3) Как не создавать MCP, чтобы вообще никого не убить )))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит шутливые рекомендации по созданию MCP.",
+      "keywords": [
+        "MCP",
+        "издержки",
+        "рекомендации",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 21860,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:13:47+00:00",
+    "text": "Заваливают лишь квен под токены. Там даже квен то особо и не особо участвовал )\nРасширили эти токены, так начинают придумывать MCP под них. Давнейшая тема.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение токенов и MCP без конкретной значимой информации.",
+      "keywords": [
+        "токены",
+        "квен",
+        "MCP"
+      ]
+    }
+  },
+  {
+    "id": 21859,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:11:06+00:00",
+    "text": "На квене нет ограничений.\nИ дальше расскажу больше. Их и не будет.\n\nА американским как страдать, так и будут продолжать.\n\nТолько я бы всё равно посмотрел на MCP под квеном. \n\nИдей то много, только никто не решается, и многие не решились )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит размышления о ситуации на квене и MCP, но не предоставляет значимой информации.",
+      "keywords": [
+        "квен",
+        "MCP",
+        "идеи",
+        "ситуация"
+      ]
+    }
+  },
+  {
+    "id": 21858,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:09:25+00:00",
+    "text": "И зачем тогда изначальным в ответ про Квен, а после про то, что у тебя клаудфлар не сработал на двух америкосах под российскими квн?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение вопросов без четкой информационной значимости.",
+      "keywords": [
+        "Квен",
+        "клаудфлар",
+        "Америка"
+      ]
+    }
+  },
+  {
+    "id": 21857,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T18:00:08+00:00",
+    "text": "С claudflared не вышло",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неудача с использованием claudflared.",
+      "keywords": [
+        "claudflared",
+        "неудача",
+        "технический вопрос"
+      ]
+    }
+  },
+  {
+    "id": 21856,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:59:05+00:00",
+    "text": "ngrok есть буду смотреть ещё аналоги",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор рассматривает аналог ngrok.",
+      "keywords": [
+        "ngrok",
+        "аналоги",
+        "инструменты"
+      ]
+    }
+  },
+  {
+    "id": 21855,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:56:59+00:00",
+    "text": "Ща вечер сяду разбираться сам сервер поднял а вот на этапе тоннеля были проблемы с соеденением",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с настройкой сервера.",
+      "keywords": [
+        "сервер",
+        "тоннель",
+        "проблемы",
+        "соединение"
+      ]
+    }
+  },
+  {
+    "id": 21854,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:55:59+00:00",
+    "text": "У меня проблема s выводом локального в тоннель была",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь столкнулся с проблемой в работе локального туннеля.",
+      "keywords": [
+        "проблема",
+        "туннель",
+        "локальный"
+      ]
+    }
+  },
+  {
+    "id": 21853,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:55:24+00:00",
+    "text": "Квен",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неизвестный текст.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21852,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:55:17+00:00",
+    "text": "Квен, ГПТ, Грок. Кто лишний?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о различиях между тремя моделями ИИ.",
+      "keywords": [
+        "Квен",
+        "ГПТ",
+        "Грок",
+        "модели ИИ"
+      ]
+    }
+  },
+  {
+    "id": 21851,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:54:59+00:00",
+    "text": "Два",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21850,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:54:50+00:00",
+    "text": "Ты уже три ИИ назвал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21849,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:54:25+00:00",
+    "text": "Тоннель нужен",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21848,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:54:20+00:00",
+    "text": "Гпт грок.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21847,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:54:12+00:00",
+    "text": "Под гопника",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21846,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:53:17+00:00",
+    "text": "MCP под квен?\nЭто кто ж тебя так угараздил? )))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит шутку без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21845,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:50:05+00:00",
+    "text": "Вчера кстати когда делал mcp столкнулся с VPN проблемами. Клаудфлер",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с проблемами VPN и Cloudflare.",
+      "keywords": [
+        "VPN",
+        "Cloudflare",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 21844,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T17:49:25+00:00",
+    "text": "Тут HF без впн не работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21841,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T13:57:49+00:00",
+    "text": "Спасибо, видимо у меня какая-то локальная проблема, буду разбираться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь сообщает о локальной проблеме.",
+      "keywords": [
+        "проблема",
+        "помощь",
+        "локально"
+      ]
+    }
+  },
+  {
+    "id": 21840,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T13:05:52+00:00",
+    "text": "привет, всё работает, попробуй по этому домену зайти - https://chat.qwen.ai/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь представил ссылку на сайт.",
+      "keywords": [
+        "ссылка",
+        "сайт",
+        "chat"
+      ]
+    }
+  },
+  {
+    "id": 21837,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-27T12:51:54+00:00",
+    "text": "Добрый день, а qwen уже не работает без vpn?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о доступности сервиса Qwen без VPN.",
+      "keywords": [
+        "Qwen",
+        "доступность",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 21824,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T15:17:49+00:00",
+    "text": "Может таки выжмет десяток токенов из моей видюхи, а не 3, как 3.8",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится экспериментом с токенами и видеокартой.",
+      "keywords": [
+        "токены",
+        "видеокарта",
+        "эксперимент"
+      ]
+    }
+  },
+  {
+    "id": 21821,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T15:16:02+00:00",
+    "text": "**Вышел Qwen-3.8 Flash-Next** \n\nЭто MoE 125B + 51B N-gram таблица (но активных всего 6B), которая бьет Opus 4.6 Max на 8 из 9 бенчмарков! \n\nТакже превосходит Qwen3.8-27B и DeepSeek-V4-Flash. При этом обучение стоило в 9 раз дешевле, чем Qwen3.7-Plus. \n\nНемного про архитектуру. Ключевых новшества всего четыре: \n\n1. Те самые N-gram эмбеддинги aka дешевая память. Это таблица, которая индексируется не по одному токену, а по коротким последовательностям. Модель как бы запоминает типичные локальные комбинации токенов напрямую в виде векторов, а не выучивает их заново на каждом шаге. Потом происходит обычный lookup вместо матричного умножения, поэтому такие эмбеддинги почти не добавляют вычислений на токен, зато сильно увеличивают общую емкость модели. \n\n2. Gated DeltaNet + Qwen Sparse Attention для скорости на длинных контекстах. Модель не запоминает весь контекст целиком, а выбирает небольшие релевантные блоки и работает только с ними. Gated DeltaNet – линейный механизм внимания с гейтами, которые как раз управляют тем, что модель запоминает, а что забывает. **Результат: на 1М контекста prefill стал в 7.6 раз быстрее, а decode –  в 4.9 раз. **\n\n3. Gated Residual connections. Обычные residual-связи просто прокидывают информацию между слоями, а здесь добавлены гейты, которые решают, сколько именно информации пропустить дальше.\n\n4. Оптимизатор Muon вместо классического Adam. Как раз один из факторов, давших 9-кратную экономию на обучении.\n\nВ итоге обучение дешевле, параметров больше, а вычислений на токен меньше. Очередное достижение китайского опенсорса. \n\n[Модель](https://www.modelscope.ai/collections/Qwen/Qwen38-Flash-Next) | [Репорт](https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf) | [Блог](https://qwen.ai/blog?id=qwen3.8-flash-next)",
+    "views": 17513,
+    "forwards": 330,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Выход модели Qwen-3.8 Flash-Next с новыми архитектурными решениями и значительными улучшениями по сравнению с предшественниками.",
+      "keywords": [
+        "Qwen-3.8",
+        "модель",
+        "N-gram",
+        "архитектура",
+        "AI"
+      ]
+    }
+  },
+  {
+    "id": 21820,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T14:54:58+00:00",
+    "text": "⚡ Qwen показала Qwen3.8-Flash - мультимодальную MoE-модель и ранний превью архитектуры Qwen4.\n\n- 125B параметров + 51B N-gram embeddings\n- активируется всего 6B параметров на токен\n- нативный контекст 262K, расширение до 1M через YaRN\n- новая архитектура: GDN + QSA hybrid attention, Gated Residual, N-gram Embedding и Muon optimizer\n- обучение обошлось примерно в 9 раз дешевле Qwen3.7-Plus\n\nБенчмарки:\n- DeepSWE 1.1 - 58.7\n- SWE-bench Pro - 62.5\n- CoWorkBench - 73.9\n- AndroidWorld - 84.5\n- MathVision - 95.7\n\nПродакшен-версия появится в QwenCloud:\n$0.16 / 1M входных токенов\n$0.47 / 1M выходных токенов\n\nТакже Qwen открывает веса Qwen3.8-Flash-Next - ранней версии архитектуры, которую команда исследует для Qwen4. \n\nhttps://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf\n\nhttps://huggingface.co/Qwen/Qwen3.8-Flash-Next?spm=a2ty_o06.30285417.0.0.1d73c921FsyOPe&file=Qwen3.8-Flash-Next",
+    "views": 22968,
+    "forwards": 278,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "ai",
+      "summary": "Компания Qwen представила мультимодальную модель Qwen3.8-Flash и ранний превью Qwen4.",
+      "keywords": [
+        "Qwen",
+        "модель",
+        "AI",
+        "архитектура",
+        "бенчмарки"
+      ]
+    }
+  },
+  {
+    "id": 21819,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T14:01:35+00:00",
+    "text": "здорово получилось !",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Без содержания",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21818,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T13:45:07+00:00",
+    "text": "Зацените навайбкодил в дипсике дочкам сайтик учить слоги https://staro43.github.io/s/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Реклама нового сайта для обучения детей.",
+      "keywords": [
+        "сайт",
+        "обучение",
+        "дети",
+        "слоги"
+      ]
+    }
+  },
+  {
+    "id": 21817,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-26T09:51:06+00:00",
+    "text": "**Архитектура Qwen-4 уже почти здесь **\n\nModel Scope запустили отсчет до выхода Qwen3.8-Flash-Next. Ее релизнут ровно через сутки, и это будет первая модель, построенная на архитектуре следующего поколения, на которой будет также основан Qwen-4.\n\nПока деталей нет, пишут только, что изменения затронут внимание, residual-связи, эмбеддинг-слои и оптимизацию.\n\nhttps://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next/summary",
+    "views": 18404,
+    "forwards": 198,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Запуск модели Qwen3.8-Flash-Next ознаменует приближение нового поколения архитектуры, на которой будет основан Qwen-4.",
+      "keywords": [
+        "Qwen-4",
+        "модель",
+        "архитектура",
+        "технология",
+        "оптимизация"
+      ]
+    }
+  },
+  {
+    "id": 21810,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-25T09:50:13+00:00",
+    "text": "**Приглашаем разработчиков принять амбициозный вызов: создай популярный B2C AI-продукт за три месяца и получи до 15 млн рублей ** **🚀**\n\nСтартех.База является партнёром программы **Sber500 × DISRUPT** — первой в России программы по созданию массовых B2C-продуктов на основе ИИ.\n\n🔝 Участвовать могут разработчики, продуктовые менеджеры, вайб-кодеры, студии и небольшие команды, готовые создать продукт с нуля и проверить его на реальных пользователях.\n\nПодать заявку можно самостоятельно или командой. \n\n**Юридическое лицо и ИП не требуются.** \nМожно выбрать одну из 30+ продуктовых гипотез или предложить собственную.\n\n✅ **Что ждёт участников программы?**\n• Три месяца на создание и тестирование продукта.\n• Облачная инфраструктура, вычислительные мощности и токены для работы с AI-моделями.\n• Поддержка продуктовых и маркетинговых экспертов Sber500.\n• Бюджет на продвижение и привлечение реальных пользователей.\n• Возможность войти в число четырёх лучших команд и разделить призовой фонд - 30 млн. рублей для четырех команды.\n\n⚠️ **Успейте подать заявку до 31 августа!**\n\n→[ Подать заявку](https://partners.sbermarketing.ru/s/tgAeMaNs96?statid=626_startech&sub=startech&sub2=rk2298878gr55561&sub4=post&erid=123)\n\n🔥 Если давно хотели проверить AI-гипотезу и превратить её в реальный продукт — это возможность сделать это с ресурсами и поддержкой Сбера.",
+    "views": 2822,
+    "forwards": 129,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Объявление о программе создания B2C AI-продукта с призовым фондом от Сбера.",
+      "keywords": [
+        "Sber",
+        "AI-продукт",
+        "конкурс",
+        "разработка",
+        "стартап"
+      ]
+    }
+  },
+  {
+    "id": 21800,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-24T10:46:24+00:00",
+    "text": "Пару дней мало,хотя бы пару недель",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное высказывание без конкретики.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21799,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-24T10:29:22+00:00",
+    "text": "Ребята всем привет, создал свою нейросеть, кто нибудь хочет затестить ее? Могу дать пару дней подписки, отпишите в ЛС мне",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор предлагает протестировать свою нейросеть.",
+      "keywords": [
+        "нейросеть",
+        "тестирование",
+        "подписка"
+      ]
+    }
+  },
+  {
+    "id": 21766,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-22T04:09:58+00:00",
+    "text": "​**DeepSeek научили собирать ИИ-агентов из чего угодно** — компания выкатили агентскую среду Harness, которая за первые трое суток собрала больше **130 000 звёзд на GitHub**.\n\nГлавная фишка — плагином здесь может быть буквально всё: **модели, сессии, скиллы, песочницы и даже интерфейс**. Собираете нужные компоненты — получаете готового агента.\n\n🔤У среды своя **архитектура на Cordis, **которая позволяет менять компоненты;\n🔤Схема простая: **любая модель + любой компонент = готовый агент;**\n🔤Сработает вообще с ЛЮБЫМИ компонентами.\n\nПлюсом сообщество сделало 6️⃣0️⃣0️⃣0️⃣ готовых скиллов для DeepSeek Harness. Скачать их можно [тут](https://github.com/topics/dsh-plugin).\n\n**Установка тулзы:** кидаем в терминал команды по порядку так —\n`git clone `\n`https://github.com/deepseek-ai/deepseek-harness `\n`cd `\n`deepseek-harness `\n`pnpm install`\n`pnpm run build`\n`pnpm dsh web`\n\nБЕСПЛАТНЫЕ ИИ-агенты из чего угодно — [тут](https://deepseek.com/harness/en/).\n\n@PushEnter",
+    "views": 6601,
+    "forwards": 267,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Компания DeepSeek представила агентскую среду Harness, позволяющую создавать ИИ-агентов из различных компонентов.",
+      "keywords": [
+        "DeepSeek",
+        "ИИ-агенты",
+        "Harness",
+        "GitHub",
+        "плагины"
+      ]
+    }
+  },
+  {
+    "id": 21765,
+    "channel_id": "deepseek_community",
+    "date": "2026-08-22T04:09:58+00:00",
+    "text": "😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит содержательной информации.",
+      "keywords": []
+    }
+  }
+]
