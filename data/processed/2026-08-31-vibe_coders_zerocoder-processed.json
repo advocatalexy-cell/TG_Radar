@@ -1,0 +1,201 @@
+[
+  {
+    "id": 2517,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T15:09:56+00:00",
+    "text": "Спасибо всё доходчиво!))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является благодарностью и не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2516,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T09:44:15+00:00",
+    "text": "а из за VPN не может быть проблем, там же страна меняется день ко дню",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение потенциальных проблем с использованием VPN.",
+      "keywords": [
+        "VPN",
+        "проблемы",
+        "страна"
+      ]
+    }
+  },
+  {
+    "id": 2515,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T09:42:48+00:00",
+    "text": "спасибо большое, прочитаю. Оформлял на свой обычный аккаунт Google которому уже больше 10 лет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь благодарит за информацию и сообщает о своем аккаунте Google.",
+      "keywords": [
+        "аккаунт",
+        "Google",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 2512,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T08:35:08+00:00",
+    "text": "Обычно основная проблема это аккаунт, Claude очень придирчив к ним.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с аккаунтами в Claude.",
+      "keywords": [
+        "Claude",
+        "аккаунт",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 2510,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T08:33:13+00:00",
+    "text": "https://www.youtube.com/watch?v=sTLOogQddKA\nВот нормальный гайд. Ну также рекомендую покупать карту для подписок. Она лучше работает. Также Гайд по оплате Claude есть в плати по миру.\nhttps://platipomiru.com/?code=FR88D853 \nВот ещё реферальная ссылка дает 5 баксов после оформление карты.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама гида и карты для подписок.",
+      "keywords": [
+        "гайд",
+        "подписки",
+        "карта",
+        "реклама",
+        "реферальная ссылка"
+      ]
+    }
+  },
+  {
+    "id": 2509,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T08:31:09+00:00",
+    "text": "А в чем именно проблема? На сайте не прогружает в оплату?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о проблемах с оплатой на сайте.",
+      "keywords": [
+        "проблема",
+        "оплата",
+        "сайт"
+      ]
+    }
+  },
+  {
+    "id": 2508,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T08:30:25+00:00",
+    "text": "планирую использовать сервис плати по миру но пока до оплаты не доходит дело",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь планирует использовать сервис, но не осуществил оплату.",
+      "keywords": [
+        "сервис",
+        "платежи",
+        "план"
+      ]
+    }
+  },
+  {
+    "id": 2507,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T08:29:47+00:00",
+    "text": "Добрый день, а какой картой пользуетесь?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о выборе платежной карты.",
+      "keywords": [
+        "карта",
+        "платеж",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 2506,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-28T07:19:08+00:00",
+    "text": "Коллеги, добрый день. Только делаю первые шаги на ниве вайбкодинга. Может кто то поможет и скинет рабочую схему подключения к приложению Claude. Само приложение встало но когда дохожу до оплаты на тарифный план Pro ничего не получается, система меня блокирует.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет помощь с подключением к приложению Claude и сталкивается с проблемами при оплате.",
+      "keywords": [
+        "Claude",
+        "платеж",
+        "проблема",
+        "вайбкодинг"
+      ]
+    }
+  },
+  {
+    "id": 2503,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-08-27T14:19:45+00:00",
+    "text": "Собираю команду разработчиков для совместного проекта по типу anylvl.com \nЗаинтересованные в лс",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Объявление о поиске команды для разработки проекта.",
+      "keywords": [
+        "команда",
+        "разработчики",
+        "проект"
+      ]
+    }
+  }
+]
