@@ -15,7 +15,8 @@
 import argparse
 import json
 import os
-from datetime import date, datetime, timezone
+import sys
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from openai import OpenAI
@@ -28,7 +29,16 @@ RAW_DIR = ROOT / "data" / "raw"
 PROCESSED_DIR = ROOT / "data" / "processed"
 CHANNELS_FILE = ROOT / "sources" / "channels.json"
 
-openai_client = OpenAI()
+# Сколько дней назад просматривать в --mode undigested. Без ограничения этот
+# режим пересканирует весь накопленный архив data/raw и data/processed, и с
+# каждым днём работы проекта прогон становится медленнее.
+UNDIGESTED_LOOKBACK_DAYS = 30
+
+# Таймаут и число повторных попыток на один запрос к LLM. Без таймаута
+# зависание провайдера (например, замедление ответа) может растянуть весь
+# прогон на часы без единой строки в логе — с таймаутом худший случай
+# ограничен и ошибки становятся видны.
+openai_client = OpenAI(timeout=30.0, max_retries=2)
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 
 SYSTEM_PROMPT = """Ты — аналитический фильтр для новостного радара.
@@ -49,22 +59,26 @@ def classify_post(text: str) -> dict:
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": text[:2000]},
     ]
-    response = openai_client.chat.completions.create(
-        model=OPENAI_MODEL,
-        max_tokens=256,
-        messages=messages,
-        response_format={"type": "json_object"},
-    )
     try:
+        response = openai_client.chat.completions.create(
+            model=OPENAI_MODEL,
+            max_tokens=256,
+            messages=messages,
+            response_format={"type": "json_object"},
+        )
         return json.loads(response.choices[0].message.content)
-    except json.JSONDecodeError:
+    except Exception as e:
+        print(f"  classify_post: запрос к LLM не удался ({e}) — пост помечен как non-signal",
+              file=sys.stderr)
         return {"signal": False, "score": 0.0, "category": "other", "summary": "", "keywords": []}
 
 
-def build_processed_max_ids() -> dict[str, int]:
-    """Возвращает {channel_id: max_message_id} по всем существующим processed-файлам."""
+def build_processed_max_ids(cutoff: str) -> dict[str, int]:
+    """Возвращает {channel_id: max_message_id} по processed-файлам не старше cutoff (YYYY-MM-DD)."""
     max_ids: dict[str, int] = {}
     for f in PROCESSED_DIR.glob("*-processed.json"):
+        if f.name[:10] < cutoff:
+            continue
         try:
             with open(f, encoding="utf-8") as fp:
                 posts = json.load(fp)
@@ -153,9 +167,10 @@ def main() -> None:
     date_str = args.date.isoformat()
 
     if args.mode == "undigested":
-        processed_max_ids = build_processed_max_ids()
-        raw_files = list(RAW_DIR.glob("*-raw.json"))
-        print(f"Mode: undigested — scanning {len(raw_files)} raw files, "
+        cutoff = (date.today() - timedelta(days=UNDIGESTED_LOOKBACK_DAYS)).isoformat()
+        processed_max_ids = build_processed_max_ids(cutoff)
+        raw_files = [f for f in RAW_DIR.glob("*-raw.json") if f.name[:10] >= cutoff]
+        print(f"Mode: undigested — scanning {len(raw_files)} raw files since {cutoff}, "
               f"tracking {len(processed_max_ids)} channels...")
     else:
         processed_max_ids = {}
