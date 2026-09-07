@@ -1,0 +1,158 @@
+[
+  {
+    "id": 2559,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-05T22:44:10+00:00",
+    "text": "Кто хорошо шарит?\nНужно Чучуть заредачить скрипт веб сайта, добавить пару функций и запустить, подробнее в лс, по оплате договоримся",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на редактирование скрипта веб-сайта с предложением обсудить оплату.",
+      "keywords": [
+        "скрипт",
+        "веб-сайт",
+        "редактирование",
+        "оплата",
+        "функции"
+      ]
+    }
+  },
+  {
+    "id": 2551,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-04T06:56:27+00:00",
+    "text": "Без лимитный codex \nТокены для Codex / Chat GPT / Claude и другие в лс",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о продаже токенов для различных AI-моделей.",
+      "keywords": [
+        "Codex",
+        "токены",
+        "AI",
+        "Chat GPT",
+        "Claude"
+      ]
+    }
+  },
+  {
+    "id": 2547,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-03T06:32:00+00:00",
+    "text": "Нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2544,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-02T23:28:55+00:00",
+    "text": "А чего его тестить? Норм он",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Мнение о тестировании некого объекта.",
+      "keywords": [
+        "тестирование",
+        "мнение",
+        "объект"
+      ]
+    }
+  },
+  {
+    "id": 2541,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-02T12:28:32+00:00",
+    "text": "Всем привет, кто хочет по тестировать без лимитный ChatGPT codex напишите в лс",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама услуг по тестированию ChatGPT codex.",
+      "keywords": [
+        "реклама",
+        "ChatGPT",
+        "тестирование"
+      ]
+    }
+  },
+  {
+    "id": 2540,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-02T11:52:18+00:00",
+    "text": "А есть кто пользуется codex ChatGPT?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о пользователях codex ChatGPT.",
+      "keywords": [
+        "codex",
+        "ChatGPT",
+        "пользование"
+      ]
+    }
+  },
+  {
+    "id": 2539,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-02T11:48:12+00:00",
+    "text": "Есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2538,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-02T11:43:25+00:00",
+    "text": "Люди есть тут?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о наличии людей в чате.",
+      "keywords": [
+        "люди",
+        "чат",
+        "запрос"
+      ]
+    }
+  }
+]
