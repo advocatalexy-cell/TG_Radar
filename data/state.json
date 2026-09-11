@@ -3,7 +3,7 @@
   "allthingslegal": 1505,
   "docsllm-channel": 228,
   "docsllm": 82730,
-  "gpt-for-lawyers": 241,
+  "gpt-for-lawyers": 261,
   "legalmindai": 162,
   "advokatgrikevich": 1711,
   "alexeynikiforov_legalmanagement": 2365,
@@ -38,7 +38,7 @@
   "privlawlib": 6734,
   "privlaw_journal": 3933,
   "sber_university": 5956,
-  "serge_ai": 1519,
+  "serge_ai": 1536,
   "spb_civilist": 1699,
   "sudpraktik": 3694,
   "supreme_civil": 625,
@@ -73,5 +73,6 @@
   "legaldaily": 9988,
   "sibtaxforum": 951,
   "alekseyorfeev": 687,
-  "legalops_okur": 264
+  "legalops_okur": 264,
+  "pro_servitude": 60
 }
