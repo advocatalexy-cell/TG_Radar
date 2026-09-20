@@ -1,6 +1,6 @@
 #!/bin/bash
-# Еженедельная синхронизация sources/channels.json с папками Telegram
-# "Lawyer" и "Ai" — добавляет новые каналы, деактивирует пропавшие из папок.
+# Синхронизация sources/channels.json с папками Telegram "Lawyer", "Ai" и
+# "Здор+Финансы" — добавляет новые каналы, деактивирует пропавшие из папок.
 set -e
 
 cd /opt/radar
@@ -12,7 +12,7 @@ trap alert_on_error ERR
 
 git_pull_retry --rebase
 
-python scripts/sync-tg-folders.py --folders "Lawyer,Ai"
+python scripts/sync-tg-folders.py --folders "Lawyer,Ai,Здор+Финансы"
 
 git add sources/channels.json
 if ! git diff --cached --quiet; then
