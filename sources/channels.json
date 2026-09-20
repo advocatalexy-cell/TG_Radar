@@ -33,14 +33,9 @@
         "practice"
       ],
       "active": true,
-<<<<<<< HEAD
-      "signal_ratio": null,
+      "signal_ratio": 0.64,
       "notes": "Практическое применение GPT в юридической практике",
       "source_folder": "Lawyer"
-=======
-      "signal_ratio": 0.64,
-      "notes": "Практическое применение GPT в юридической практике"
->>>>>>> f7f49ee (Daily data collection 2026-09-20)
     },
     {
       "id": "ai-skrepka",
