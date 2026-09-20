@@ -34,7 +34,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Практическое применение GPT в юридической практике"
+      "notes": "Практическое применение GPT в юридической практике",
+      "source_folder": "Lawyer"
     },
     {
       "id": "ai-skrepka",
@@ -50,7 +51,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "ИИ и юридические документы, российский рынок"
+      "notes": "ИИ и юридические документы, российский рынок",
+      "source_folder": "Ai"
     },
     {
       "id": "legalmindai",
