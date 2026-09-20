@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "channels": [
     {
       "id": "allthingslegal",
@@ -16,7 +16,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "LegalTech: новости права и технологий"
+      "notes": "LegalTech: новости права и технологий",
+      "source_folder": "Lawyer"
     },
     {
       "id": "gpt-for-lawyers",
@@ -65,7 +66,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Аналитика на пересечении права и искусственного интеллекта"
+      "notes": "Аналитика на пересечении права и искусственного интеллекта",
+      "source_folder": "Lawyer"
     },
     {
       "id": "yandex",
@@ -78,7 +80,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "sber_university",
@@ -91,7 +94,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "oqode",
@@ -104,7 +108,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "exploitex",
@@ -117,7 +122,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "lifelongmooc",
@@ -130,7 +136,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "nikolay_khl",
@@ -143,7 +150,8 @@
       ],
       "active": true,
       "signal_ratio": 0.21,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "edutech_club",
@@ -156,7 +164,8 @@
       ],
       "active": true,
       "signal_ratio": 0.1,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "neural_houses",
@@ -169,7 +178,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "k_pshinnik",
@@ -182,7 +192,8 @@
       ],
       "active": true,
       "signal_ratio": 0.44,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "serge_ai",
@@ -195,7 +206,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "tips_ai",
@@ -208,7 +220,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "alekseyorfeev",
@@ -221,7 +234,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "pro_servitude",
@@ -234,7 +248,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "ai_skrepka",
@@ -247,7 +262,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "gpt_for_lawyers",
@@ -260,7 +276,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "docsllm_channel",
@@ -273,7 +290,8 @@
       ],
       "active": true,
       "signal_ratio": 0.83,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "ivan_ai_practice",
@@ -286,7 +304,8 @@
       ],
       "active": true,
       "signal_ratio": 0.69,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "wowai2025",
@@ -299,7 +318,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "katerinaeav_ai_edtech",
@@ -312,7 +332,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "deepseek_community",
@@ -325,7 +346,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "docsllm",
@@ -338,7 +360,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "vibe_coders_zerocoder",
@@ -351,7 +374,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»"
+      "notes": "Импортирован из папки «Ai»",
+      "source_folder": "Ai"
     },
     {
       "id": "ofd24",
@@ -364,7 +388,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "orpau",
@@ -377,7 +402,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "advocate_davidoff",
@@ -390,7 +416,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "legaldaily",
@@ -403,7 +430,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "loaderfromsvo",
@@ -416,7 +444,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "corpconflicts",
@@ -429,7 +458,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lawread",
@@ -442,7 +472,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "prostokadry",
@@ -455,7 +486,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "privlawlib",
@@ -468,7 +500,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lawfirms",
@@ -481,7 +514,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "povorotnapravo",
@@ -494,7 +528,8 @@
       ],
       "active": true,
       "signal_ratio": 0.97,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "cryptopraktika",
@@ -507,7 +542,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "cryptolaw1",
@@ -520,7 +556,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "pgemployment",
@@ -533,7 +570,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "advokatgrikevich",
@@ -546,7 +584,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "club_lawyers",
@@ -559,7 +598,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "vs_court",
@@ -572,7 +612,8 @@
       ],
       "active": true,
       "signal_ratio": 0.89,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lgltech",
@@ -585,7 +626,8 @@
       ],
       "active": true,
       "signal_ratio": 0.76,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "spb_civilist",
@@ -598,7 +640,8 @@
       ],
       "active": true,
       "signal_ratio": 0.2,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lektorium20",
@@ -611,7 +654,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "library_lawyer",
@@ -624,7 +668,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "trudprava",
@@ -637,7 +682,8 @@
       ],
       "active": true,
       "signal_ratio": 1.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "pravotech",
@@ -650,7 +696,8 @@
       ],
       "active": true,
       "signal_ratio": 0.24,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "privlaw_journal",
@@ -663,7 +710,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "ilovedocs",
@@ -676,7 +724,8 @@
       ],
       "active": true,
       "signal_ratio": 0.22,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "sibtaxforum",
@@ -689,7 +738,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "m5lawfirm",
@@ -702,7 +752,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "dd_tax",
@@ -715,7 +766,8 @@
       ],
       "active": true,
       "signal_ratio": 0.27,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "pishemvsud",
@@ -728,7 +780,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "futurelawschool",
@@ -741,7 +794,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lch_legal",
@@ -754,7 +808,8 @@
       ],
       "active": true,
       "signal_ratio": 0.79,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "civilcourt",
@@ -767,7 +822,8 @@
       ],
       "active": true,
       "signal_ratio": 0.92,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "buhgalteriall",
@@ -780,7 +836,8 @@
       ],
       "active": true,
       "signal_ratio": 0.56,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "uslegalnews",
@@ -793,7 +850,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "sudpraktik",
@@ -806,7 +864,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "webjustice_ru",
@@ -819,7 +878,8 @@
       ],
       "active": true,
       "signal_ratio": 0.5,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "lawsanctions",
@@ -832,7 +892,8 @@
       ],
       "active": true,
       "signal_ratio": 0.87,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "supreme_civil",
@@ -845,7 +906,8 @@
       ],
       "active": true,
       "signal_ratio": 1.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "hamburgscore",
@@ -858,7 +920,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "m_logos",
@@ -871,7 +934,8 @@
       ],
       "active": true,
       "signal_ratio": 0.03,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "damagesanatomy",
@@ -884,7 +948,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "alexeynikiforov_legalmanagement",
@@ -897,7 +962,8 @@
       ],
       "active": true,
       "signal_ratio": 0.32,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "proverkabuh",
@@ -910,7 +976,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "gooddocsdesign",
@@ -923,7 +990,8 @@
       ],
       "active": true,
       "signal_ratio": 0.34,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "minjust_russia",
@@ -936,7 +1004,8 @@
       ],
       "active": true,
       "signal_ratio": 0.48,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "novikovalaw",
@@ -949,7 +1018,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "journaldtl",
@@ -962,7 +1032,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "defacto_tax",
@@ -975,7 +1046,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "constructionconf",
@@ -988,7 +1060,8 @@
       ],
       "active": true,
       "signal_ratio": 0.0,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "pbd_nikradio",
@@ -1001,7 +1074,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "legalnews_events",
@@ -1014,7 +1088,8 @@
       ],
       "active": true,
       "signal_ratio": 0.45,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "legalops_okur",
@@ -1027,7 +1102,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "legalprocesses",
@@ -1040,7 +1116,8 @@
       ],
       "active": true,
       "signal_ratio": 0.64,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "svsarbash",
@@ -1053,7 +1130,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "veta_academy",
@@ -1066,7 +1144,8 @@
       ],
       "active": true,
       "signal_ratio": 0.67,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "amicus_curiae_brief",
@@ -1079,7 +1158,8 @@
       ],
       "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
     },
     {
       "id": "msklegalhackers",
@@ -1092,7 +1172,92 @@
       ],
       "active": true,
       "signal_ratio": 0.16,
-      "notes": "Импортирован из папки «Lawyer»"
+      "notes": "Импортирован из папки «Lawyer»",
+      "source_folder": "Lawyer"
+    },
+    {
+      "id": "arbitr_pravo",
+      "name": "Анна Степанищева | Право/Стройка/Нейросети",
+      "url": "https://t.me/arbitr_pravo",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "simplawyer",
+      "name": "Simplawyer",
+      "url": "https://t.me/simplawyer",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "theresidentsblunder",
+      "name": "Ошибка резидента (The Resident’s Blunder)",
+      "url": "https://t.me/theresidentsblunder",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "delay_rag",
+      "name": "Делай RAG",
+      "url": "https://t.me/delay_RAG",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
+    },
+    {
+      "id": "theworldisnoteasy",
+      "name": "Малоизвестное интересное",
+      "url": "https://t.me/theworldisnoteasy",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
+    },
+    {
+      "id": "aisupernewsfromandrew",
+      "name": "Нейроновости",
+      "url": "https://t.me/AIsupernewsfromandrew",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
     }
   ],
   "schema": {
