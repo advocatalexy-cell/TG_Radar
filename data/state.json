@@ -1,6 +1,6 @@
 {
   "ai-skrepka": 179,
-  "allthingslegal": 1505,
+  "allthingslegal": 1531,
   "docsllm-channel": 228,
   "docsllm": 82730,
   "gpt-for-lawyers": 261,
@@ -40,7 +40,7 @@
   "sber_university": 5956,
   "serge_ai": 1536,
   "spb_civilist": 1704,
-  "sudpraktik": 3694,
+  "sudpraktik": 3735,
   "supreme_civil": 630,
   "svsarbash": 4139,
   "tips_ai": 4895,
@@ -74,5 +74,12 @@
   "sibtaxforum": 951,
   "alekseyorfeev": 687,
   "legalops_okur": 264,
-  "pro_servitude": 60
+  "pro_servitude": 60,
+  "delay_rag": 129,
+  "simplawyer": 433,
+  "aisupernewsfromandrew": 778,
+  "theresidentsblunder": 462,
+  "namochimanturu": 2012,
+  "theworldisnoteasy": 2535,
+  "arbitr_pravo": 361
 }
