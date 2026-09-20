@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1590,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-07-24T19:38:51+00:00",
+    "text": "Со мной вышло большое интервью. Я сам ещё посмотреть не успел. Лучше вы мне расскажите, хорошо ли получилось! \n\nhttps://www.youtube.com/watch?v=iVtWWYDrwxY",
+    "views": 18865,
+    "forwards": 47,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о выходе интервью, автор не делится содержанием.",
+      "keywords": [
+        "интервью",
+        "видео",
+        "обсуждение"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 4003,
+    "channel_id": "profi_kursi_gaidi",
+    "date": "2026-09-09T11:26:17+00:00",
+    "text": "**Нельзя начинать книгу, не зная читателя**\n\nБывает, работа над текстом превращается в бесконечную правку и метание между стилями. Чтобы этого избежать, нужно ещё до старта понять, кто ваш главный читатель. В статье разобрали конкретные шаги: как выбрать его, изучить ситуацию и язык, провести интервью и проверить гипотезу до работы над рукописью. [Читайте пошаговый гайд](https://expert-book.pro/journal/auditoriya-budushchey-knigi?utm_source=telegram&utm_medium=editorial&utm_campaign=auditoriya_budushchey_knigi&utm_content=profi_kursi_gaidi&utm_term=scheduler_pass_3).",
+    "views": 4698,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Статья предлагает советы по выбору главного читателя для книги.",
+      "keywords": [
+        "читатель",
+        "текст",
+        "шаги",
+        "гид",
+        "рукопись"
+      ]
+    }
+  }
+]

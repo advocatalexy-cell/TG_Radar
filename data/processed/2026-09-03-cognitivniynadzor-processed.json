@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1618,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-09-03T16:59:13+00:00",
+    "text": "Начинаем 🔥\n\nhttps://youtube.com/live/RD1mkF3jHw8",
+    "views": 11578,
+    "forwards": 26,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на YouTube трансляцию.",
+      "keywords": [
+        "трансляция",
+        "YouTube",
+        "ссылка"
+      ]
+    }
+  }
+]

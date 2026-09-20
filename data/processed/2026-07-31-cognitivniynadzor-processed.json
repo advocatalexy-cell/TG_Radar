@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1592,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-07-31T07:03:40+00:00",
+    "text": "Вот и последний день июля. Проводим этот месяц старой доброй квновской миниатюрой 👋",
+    "views": 13591,
+    "forwards": 139,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о завершении июля с миниатюрой.",
+      "keywords": [
+        "июль",
+        "миниатюра",
+        "конец месяца"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1607,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-08-28T07:40:18+00:00",
+    "text": "Новый выпуск вашей нелюбимой, судя по недавнему опросу, рубрики! 🔥 Обещанные в нём ролики выложу сюда завтра. \n\nhttps://youtu.be/GWPRaFtT87M",
+    "views": 9138,
+    "forwards": 25,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Анонс нового выпуска рубрики.",
+      "keywords": [
+        "выпуск",
+        "анонс",
+        "рубрика",
+        "ролики",
+        "опрос"
+      ]
+    }
+  }
+]
