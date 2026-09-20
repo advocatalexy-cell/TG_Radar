@@ -240,6 +240,9 @@ def parse_args():
                         help="Опубликовать дайджест в Telegram после генерации")
     parser.add_argument("--send-only", action="store_true",
                         help="Только отправить уже готовый дайджест в Telegram")
+    parser.add_argument("--file", type=Path,
+                        help="Явный путь к файлу дайджеста для --send-only "
+                             "(по умолчанию digests/{date}-digest.md)")
     return parser.parse_args()
 
 
@@ -248,7 +251,7 @@ def main() -> None:
     date_str = args.date.isoformat()
 
     if args.send_only:
-        digest_file = DIGESTS_DIR / f"{date_str}-digest.md"
+        digest_file = args.file if args.file else DIGESTS_DIR / f"{date_str}-digest.md"
         text = digest_file.read_text(encoding="utf-8")
         print(f"Sending existing digest: {digest_file.name}")
         send_telegram(text)
