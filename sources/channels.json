@@ -1258,6 +1258,258 @@
       "signal_ratio": null,
       "source_folder": "Ai",
       "notes": "Импортирован из папки «Ai» (sync)"
+    },
+    {
+      "id": "vintovkina_arina",
+      "name": "Это нормально",
+      "url": "https://t.me/vintovkina_arina",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "cognitivniynadzor",
+      "name": "Вадим Савицкий [Когнитивный надзор]",
+      "url": "https://t.me/cognitivniynadzor",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "kitayblizko",
+      "name": "kitayblizko I Xiaomi I Aliexpress",
+      "url": "https://t.me/kitayblizko",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "medical_secrecy",
+      "name": "ВРАЧЕБНАЯ ТАЙНА",
+      "url": "https://t.me/medical_secrecy",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "profi_kursi_gaidi",
+      "name": "PROFI | Курсы гайды",
+      "url": "https://t.me/profi_kursi_gaidi",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "freakingteens",
+      "name": "#ЧёртовыПодростки",
+      "url": "https://t.me/FreakingTeens",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "hranidengi",
+      "name": "Храни Деньги!",
+      "url": "https://t.me/hranidengi",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "namochimanturu",
+      "name": "Намочи манту",
+      "url": "https://t.me/namochimanturu",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "post_trevoga",
+      "name": "пост_тревога",
+      "url": "https://t.me/post_trevoga",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "fastsalttimes",
+      "name": "FastSaltTimes.com",
+      "url": "https://t.me/fastsalttimes",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "pushenter",
+      "name": "Нажми Enter | Тренды, ІТ и бизнес",
+      "url": "https://t.me/PushEnter",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "trudno_bit_vzrosloi",
+      "name": "Трудно быть взрослой\\психолог Анастасия Смирнова",
+      "url": "https://t.me/trudno_bit_vzrosloi",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "cash_in_tablic",
+      "name": "Кэшбэк в Табличке",
+      "url": "https://t.me/cash_in_tablic",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "academicpavlov",
+      "name": "Дневник Академика Павлова | Саморазвитие",
+      "url": "https://t.me/academicpavlov",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "sweettoyadviser",
+      "name": "Sweet Toy Adviser",
+      "url": "https://t.me/sweettoyadviser",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "masha_davay",
+      "name": "Маша, давай!",
+      "url": "https://t.me/masha_davay",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "no_drama_plz",
+      "name": "Катины секреты",
+      "url": "https://t.me/no_drama_plz",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "chesno_pro_sex",
+      "name": "🌶Маша Чеснокова",
+      "url": "https://t.me/chesno_pro_sex",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
     }
   ],
   "schema": {
