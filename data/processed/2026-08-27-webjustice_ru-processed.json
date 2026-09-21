@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1026,
+    "channel_id": "webjustice_ru",
+    "date": "2026-08-27T07:01:58+00:00",
+    "text": "**3 правила заверения переписки**\n\n📸 осмотрите  свой профиль и профиль собеседника\n📸демонстрируйте вложенные файлы и медиа\n📸 на последующих скриншотах захватывайте часть предыдущего сообщения \n\nВсе остальное за вас сделает ShotApp\n\nУстанавливайте расширение [в 2 клика](https://chromewebstore.google.com/detail/shotapp-desktop-pro/mpjlflflalhkkdifhejdphepjlbfjjdm?hl=ru&utm_source=tg)\n__\nИнструкция доступна без VPN__:\n[ВКонтакте](https://vkvideo.ru/video-197284701_456239281) | [Rutube](https://rutube.ru/video/c132cc902fac2186673f71a8e5ad4a71/) | [TG Flow](https://share.tg-flow.ru/p/c5f58b73-0b61-4d28-9172-7ed87f00740c?src=https%3A%2F%2Fwww.shotapp.ru%2F&w=ca693f64-055f-4ae9-a985-704ae1b3fdb8)",
+    "views": 182,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит рекламу приложения для заверения переписки.",
+      "keywords": [
+        "приложение",
+        "заверение переписки",
+        "ShotApp"
+      ]
+    }
+  }
+]

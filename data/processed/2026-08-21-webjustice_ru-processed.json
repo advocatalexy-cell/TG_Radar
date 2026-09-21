@@ -84,5 +84,25 @@
         "сервис"
       ]
     }
+  },
+  {
+    "id": 1022,
+    "channel_id": "webjustice_ru",
+    "date": "2026-08-21T18:55:52+00:00",
+    "text": "Если завтра у вас нет заседаний — значит завтра [выходной](https://advocat.shotapp.ru/products/lamzak-sudites-udobnee-pojaluiysta-100649?variant=101826) \n🔆🏖⛺️\n\n#юридическиеприметы\n#пятничное",
+    "views": 323,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о выходном без существенной информации.",
+      "keywords": [
+        "выходной",
+        "заседания",
+        "пятница"
+      ]
+    }
   }
 ]
