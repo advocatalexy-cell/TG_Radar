@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "channels": [
     {
       "id": "allthingslegal",
@@ -32,9 +32,9 @@
         "lawyers",
         "practice"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": 0.64,
-      "notes": "Практическое применение GPT в юридической практике",
+      "notes": "Практическое применение GPT в юридической практике [пропал из папки «Lawyer», деактивирован 2026-09-21]",
       "source_folder": "Lawyer"
     },
     {
@@ -49,9 +49,9 @@
         "russia",
         "documents"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": null,
-      "notes": "ИИ и юридические документы, российский рынок",
+      "notes": "ИИ и юридические документы, российский рынок [пропал из папки «Ai», деактивирован 2026-09-21]",
       "source_folder": "Ai"
     },
     {
@@ -1312,10 +1312,10 @@
       "tags": [
         "здорфинансы"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": null,
       "source_folder": "Здор+Финансы",
-      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+      "notes": "Импортирован из папки «Здор+Финансы» (sync) [пропал из папки «Здор+Финансы», деактивирован 2026-09-21]"
     },
     {
       "id": "profi_kursi_gaidi",
@@ -1512,6 +1512,34 @@
       "signal_ratio": null,
       "source_folder": "Здор+Финансы",
       "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "forgednotwritten",
+      "name": "Дамасские чернила | AI и M&A",
+      "url": "https://t.me/forgednotwritten",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
+    },
+    {
+      "id": "lablegaltech",
+      "name": "lablegal.tech",
+      "url": "https://t.me/lablegaltech",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
     }
   ],
   "schema": {
