@@ -101,9 +101,25 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def write_processed(out_file: Path, new_entries: list[dict]) -> None:
+    """Пишет new_entries в out_file, объединяя с уже существующим содержимым
+    (дедуп по id) — не перетирает то, что туда уже записал другой прогон."""
+    existing = []
+    if out_file.exists():
+        with open(out_file, encoding="utf-8") as f:
+            existing = json.load(f)
+    seen_ids = {e.get("id") for e in existing}
+    merged = existing + [e for e in new_entries if e.get("id") not in seen_ids]
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(merged, f, ensure_ascii=False, indent=2)
+
+
 def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: dict) -> tuple[str, int, int]:
     with open(raw_file, encoding="utf-8") as f:
         posts = json.load(f)
+
+    raw_date = raw_file.name.split("-")[0] + "-" + raw_file.name.split("-")[1] + "-" + raw_file.name.split("-")[2]
+    channel_id = raw_file.stem.replace(f"{raw_date}-", "").replace("-raw", "")
 
     results = []
     for post in posts:
@@ -123,15 +139,25 @@ def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: di
         classification = classify_post(post["text"])
         results.append({**post, "classification": classification})
 
-    # Имя выходного файла: для undigested используем дату raw-файла из его имени
-    raw_date = raw_file.name.split("-")[0] + "-" + raw_file.name.split("-")[1] + "-" + raw_file.name.split("-")[2]
-    channel_id = raw_file.stem.replace(f"{raw_date}-", "").replace("-raw", "")
-    out_file = PROCESSED_DIR / f"{date_str}-{channel_id}-processed.json"
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+    if mode == "date":
+        # Один raw-файл на дату — можно писать одним файлом как раньше.
+        out_file = PROCESSED_DIR / f"{date_str}-{channel_id}-processed.json"
+        write_processed(out_file, results)
+    else:
+        # undigested может выловить посты за разные даты из одного raw-файла
+        # (например, весь бэклог только что добавленного канала) — каждый
+        # пост должен попасть в файл СВОЕЙ настоящей даты, а не даты запуска,
+        # иначе в дайджест дня попадут ссылки на посты недельной давности.
+        by_date: dict[str, list[dict]] = {}
+        for entry in results:
+            post_date = entry.get("date", "")[:10] or date_str
+            by_date.setdefault(post_date, []).append(entry)
+        for post_date, entries in by_date.items():
+            out_file = PROCESSED_DIR / f"{post_date}-{channel_id}-processed.json"
+            write_processed(out_file, entries)
 
     signals = sum(1 for r in results if r["classification"].get("signal"))
-    print(f"  {channel_id}: {signals}/{len(results)} signals -> {out_file.name}")
+    print(f"  {channel_id}: {signals}/{len(results)} signals ({mode})")
     return channel_id, signals, len(results)
 
 
