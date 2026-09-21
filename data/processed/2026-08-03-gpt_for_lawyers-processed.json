@@ -1,25 +1,5 @@
 [
   {
-    "id": 238,
-    "channel_id": "gpt_for_lawyers",
-    "date": "2026-08-03T06:09:32+00:00",
-    "text": "Также напоминаю, что сегодня закрываю запись на интенсив",
-    "views": 823,
-    "forwards": 0,
-    "has_media": false,
-    "classification": {
-      "signal": false,
-      "score": 0.0,
-      "category": "other",
-      "summary": "Запись на интенсив закрывается.",
-      "keywords": [
-        "интенсив",
-        "закрытие",
-        "запись"
-      ]
-    }
-  },
-  {
     "id": 235,
     "channel_id": "gpt_for_lawyers",
     "date": "2026-08-03T06:03:01+00:00",
@@ -38,6 +18,26 @@
         "IT",
         "практика",
         "футболка"
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "channel_id": "gpt_for_lawyers",
+    "date": "2026-08-03T06:09:32+00:00",
+    "text": "Также напоминаю, что сегодня закрываю запись на интенсив",
+    "views": 823,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запись на интенсив закрывается.",
+      "keywords": [
+        "интенсив",
+        "закрытие",
+        "запись"
       ]
     }
   }

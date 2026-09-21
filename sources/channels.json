@@ -20,41 +20,6 @@
       "source_folder": "Lawyer"
     },
     {
-      "id": "gpt-for-lawyers",
-      "name": "GPT for Lawyers",
-      "url": "https://t.me/GPT_for_Lawyers",
-      "type": "telegram",
-      "priority": "high",
-      "tags": [
-        "legal",
-        "ai",
-        "gpt",
-        "lawyers",
-        "practice"
-      ],
-      "active": false,
-      "signal_ratio": 0.64,
-      "notes": "Практическое применение GPT в юридической практике [пропал из папки «Lawyer», деактивирован 2026-09-21]",
-      "source_folder": "Lawyer"
-    },
-    {
-      "id": "ai-skrepka",
-      "name": "AI Скрепка",
-      "url": "https://t.me/AI_Skrepka",
-      "type": "telegram",
-      "priority": "medium",
-      "tags": [
-        "legal",
-        "ai",
-        "russia",
-        "documents"
-      ],
-      "active": false,
-      "signal_ratio": null,
-      "notes": "ИИ и юридические документы, российский рынок [пропал из папки «Ai», деактивирован 2026-09-21]",
-      "source_folder": "Ai"
-    },
-    {
       "id": "legalmindai",
       "name": "LegalMind AI",
       "url": "https://t.me/LegalMindAI",
@@ -255,30 +220,37 @@
     },
     {
       "id": "ai_skrepka",
-      "name": "AI Скрепка | Евгений Мирошниченко",
+      "name": "AI Скрепка",
       "url": "https://t.me/AI_Skrepka",
       "type": "telegram",
       "priority": "medium",
       "tags": [
-        "ai"
+        "legal",
+        "ai",
+        "russia",
+        "documents"
       ],
       "active": true,
-      "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»",
+      "signal_ratio": 0.67,
+      "notes": "ИИ и юридические документы, российский рынок. Объединено с дублирующей записью «ai-skrepka», которую создавал sync-tg-folders.py (старый id не совпадал с username канала, из-за чего запись каждый раз считалась «пропавшей»).",
       "source_folder": "Ai"
     },
     {
       "id": "gpt_for_lawyers",
-      "name": "ИИ для юриста🤖",
+      "name": "GPT for Lawyers",
       "url": "https://t.me/GPT_for_Lawyers",
       "type": "telegram",
-      "priority": "medium",
+      "priority": "high",
       "tags": [
-        "ai"
+        "legal",
+        "ai",
+        "gpt",
+        "lawyers",
+        "practice"
       ],
       "active": true,
-      "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»",
+      "signal_ratio": 0.65,
+      "notes": "Практическое применение GPT в юридической практике. Объединено с дублирующей записью «gpt-for-lawyers», которую создавал sync-tg-folders.py (старый id не совпадал с username канала, из-за чего запись каждый раз считалась «пропавшей»).",
       "source_folder": "Ai"
     },
     {
