@@ -1,0 +1,90 @@
+[
+  {
+    "id": 10,
+    "channel_id": "lablegaltech",
+    "date": "2026-09-07T07:15:24+00:00",
+    "text": "**Как выбрать симулятор для обучения юристов**\n\nМы уже давно занимаемся темой юридических симуляторов. Собственно, поэтому запустили цикл материалов про то, как юридический департамент или юридическая компания могут автоматизировать процесс обучения своих юристов, то есть использовать для этого IT-инструменты (симуляторы и других решения). \n\nВ прошлый раз публиковали статью о том, [какие IT-решения для обучения юристов есть за границей и в России](https://lablegal.tech/blog/kakie-it-resheniya-ispolzuyut-dlya-obucheniya-yurdepartamenty-i-yuridicheskie-kompanii?utm_source=telegram&utm_medium=social&utm_campaign=kakie-it-resheniya-ispolzuyut-dlya-obucheniya-yurdepartamenty-i-yuridicheskie-kompanii).\n \nСегодня углубимся в эту тему. Елена Швецова рассказала, что учитывать при выборе симулятора, для каких задач симуляторы подойдут, а для каких - не очень. А на картинке - примеры навыков, которые можно тренировать.\n \nЧитайте статью: [«Как выбрать симулятор для обучения юристов»](https://lablegal.tech/blog/kak-vybrat-simulyator-dlya-obucheniya-yuristov?utm_source=telegram&utm_medium=social&utm_campaign=kak-vybrat-simulyator-dlya-obucheniya-yuristov).\n\n✅ Тг-канал: [lablegal.tech](http://lablegal.tech/)\n\n💻 Сайт: [lablegal.tech](http://lablegal.tech/)",
+    "views": 37,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.4,
+      "category": "other",
+      "summary": "Пост о том, как юридические компании могут использовать симуляторы для обучения юристов.",
+      "keywords": [
+        "юридические симуляторы",
+        "обучение юристов",
+        "IT-инструменты",
+        "автоматизация",
+        "навыки"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "channel_id": "lablegaltech",
+    "date": "2026-08-26T04:19:02+00:00",
+    "text": "**Какие IT-решения используют для обучения юрдепартаменты и юридические компании** \n \nМы очень интересуемся темой обучения сотрудников с помощью ИИ и в целом IT-решений. За границей уже довольно много таких сервисов. В России тоже есть, например, LMS с ИИ. Но вот симуляторов и тренажеров для обучения юридическим навыкам крайне мало.   \n\nНиже статья с подборкой IT-решений для обучения юристов за границей и в России: начиная от классических LMS до интерактивных тренажеров и симуляторов для юристов. \n \nЧитайте [по ссылке](https://lablegal.tech/blog/kakie-it-resheniya-ispolzuyut-dlya-obucheniya-yurdepartamenty-i-yuridicheskie-kompanii?utm_source=telegram&utm_medium=social&utm_campaign=kakie-it-resheniya-ispolzuyut-dlya-obucheniya-yurdepartamenty-i-yuridicheskie-kompanii).\n\n✅ Тг-канал: [lablegal.tech](http://lablegal.tech/)\n\n💻 Сайт: [lablegal.tech](http://lablegal.tech/)",
+    "views": 110,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обзор IT-решений для обучения юристов за границей и в России.",
+      "keywords": [
+        "IT-решения",
+        "обучение",
+        "юридические компании",
+        "симуляторы",
+        "LMS"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "channel_id": "lablegaltech",
+    "date": "2026-08-25T13:36:40+00:00",
+    "text": "**Как выстроить архитектуру сервиса для поиска по документам с помощью онтологии и графов**\n\nПервую публикацию мы посвятили результатам нашего участия в хакатоне ВШЭ по кейсу компании «ПравоТех». Команда подготовила MVP для выявления налоговых рисков по судебным актам и формирования проверяемой базы знаний.\n\nВ [статье](https://lablegal.tech/blog/ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta?utm_source=telegram&utm_medium=social&utm_campaign=ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta) рассказываем:\n\n— почему налоговый риск потребовалось описать через онтологию;\n— как устроены два контура системы: обработка судебных актов и чат по проверенным карточкам дел;\n— где в такой архитектуре возникает агентность и почему мы ограничили свободу модели;\n— как графы знаний и методы оценки GraphRAG могут использоваться для дальнейшего развития подобных решений.\n\n\nЧитать статью [по ссылке](https://lablegal.tech/blog/ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta?utm_source=telegram&utm_medium=social&utm_campaign=ot-sudebnogo-akta-k-proveryaemomu-otvetu-arhitektura-mvp-yuridicheskogo-assistenta). \n\n\n✅ Тг-канал: [lablegal.tech](http://lablegal.tech/)\n\n💻 Сайт: [lablegal.tech](http://lablegal.tech/)",
+    "views": 96,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлены результаты разработки MVP для выявления налоговых рисков по судебным актам с использованием онтологий и графов.",
+      "keywords": [
+        "архитектура",
+        "онтоология",
+        "налоговые риски",
+        "графы знаний",
+        "MVP"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "channel_id": "lablegaltech",
+    "date": "2026-08-25T12:59:55+00:00",
+    "text": "**Лаборатория Legal Tech & Ops. Знакомимся**\n\nМы занимаемся оптимизацией и автоматизацией юридической функции. В нашей команде — юристы с опытом в инхаус и консалтинге, методологи, продакты и разработчики. \n \n⚡️ **Что делаем:** аудит, моделирование, реинжиниринг процессов, стратегия ИИ, конструкторы документов, чат-боты с поиском по практике, ИИ-агенты, обучающие симуляторы, внедрение продуктов и т.д. Подробнее [на сайте](https://lablegal.tech/). \n\n⚡️ **С кем работаем:** юрдепартаментами, юрфирмами и юристами из частной практики.\n \n**Зачем вам ещё один канал про LegalTech?**\n \nЗдесь можно будет читать:\n\n💜**Наши исследования и разборы.** Прежде чем что-то автоматизировать, мы глубоко погружаемся в проблему и способы ее решения. В итоге накапливается много интересного — исследования, выводы и практические наработки.\n \nБудем делиться ими здесь: про LegalTech, Legal Operations, AI, управление проектами и автоматизацию юридических процессов.\n \n💜**Короткие интервью с практиками.** Будем разговаривать с коллегами, которые уже внедряли LegalTech у себя. Не про успешный успех, а про реальный опыт: что внедряли, зачем, что получилось, что не очень и что сделали бы иначе.\n \n💜**Свои эксперименты.** Будем показывать, что пробуем сами: от RAG-систем и ИИ-агентов до автоматизации конкретных юридических процессов.\n\n**Ещё немного полезного** \nРаз в две недели мы отправляем рассылку с материалами и находками из мира LegalTech и управления проектами. Без рекламы и инфошума. Это будет своего рода мини-журнал. [Подписывайтесь на полезную рассылку.](https://lablegal.tech/#:~:text=%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%20Legal%20Tech%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%E2%80%93%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%87%D1%82%D1%83) \n \nА здесь будем встречаться чаще. Будем разбираться вместе: что уже работает, что пока красиво звучит только на презентациях и куда вообще движется LegalTech.\n\n\n✅ Тг-канал: [lablegal.tech](http://lablegal.tech/)\n\n💻 Сайт: [lablegal.tech](http://lablegal.tech/)",
+    "views": 76,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Лаборатория Legal Tech & Ops делится исследованиями и опытом в области оптимизации юридической функции с использованием технологий.",
+      "keywords": [
+        "LegalTech",
+        "автоматизация",
+        "юридические процессы",
+        "исследования",
+        "интервью"
+      ]
+    }
+  }
+]
