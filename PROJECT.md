@@ -35,7 +35,7 @@ Radar – это конвейер из пяти шагов. На каждом ш
 |---|---|---|---|
 | 1. Сбор | Список ~85 каналов (`sources/channels.json`) | Сырые сообщения за день (`data/raw/`) | Telethon (MTProto) |
 | 2. Фильтрация | Сырые сообщения | Отобранные сигналы без шума (`data/processed/`) | OpenAI API |
-| 3. Анализ | Отобранные сигналы | Разборы по направлениям (`data/analysis/`) | Агенты `analyst-legal`, `analyst-aitech` |
+| 3. Анализ | Отобранные сигналы | Разборы по направлениям (`data/analysis/`) | Агенты `analyst-legal`, `analyst-aitech`, `analyst-finance-health` |
 | 4. Композиция | Разборы агентов | Единый дайджест (`digests/`) | Агент `digest-composer` |
 | 5. Публикация | Готовый дайджест | Пост в Telegram-канале | Telegram Bot API |
 

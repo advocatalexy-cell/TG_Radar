@@ -30,7 +30,7 @@ data/processed/           # отфильтрованные сигналы
 data/analysis/            # разборы агентов (aitech / legal) по датам
 digests/                  # готовые дайджесты YYYY-MM-DD-digest.md
 posts/                    # адаптированные посты под площадки (JSON)
-.Codex/agents/           # analyst-legal, analyst-aitech, digest-composer
+.Codex/agents/           # analyst-legal, analyst-aitech, analyst-finance-health, digest-composer
 .Codex/commands/         # run-analysis и др.
 .Codex/skills/           # post-adapter, radar-dev
 ```

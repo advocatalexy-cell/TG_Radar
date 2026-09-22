@@ -30,7 +30,7 @@ data/processed/           # отфильтрованные сигналы
 data/analysis/            # разборы агентов (aitech / legal) по датам
 digests/                  # готовые дайджесты YYYY-MM-DD-digest.md
 posts/                    # адаптированные посты под площадки (JSON)
-.claude/agents/           # analyst-legal, analyst-aitech, digest-composer
+.claude/agents/           # analyst-legal, analyst-aitech, analyst-finance-health, digest-composer
 .claude/commands/         # run-analysis и др.
 .claude/skills/           # post-adapter, radar-dev
 ```

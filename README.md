@@ -26,7 +26,7 @@ Radar собирает сообщения из ~85 Telegram-каналов по 
 
 1. **Сбор** – забирает новые сообщения из ~85 Telegram-каналов по протоколу MTProto.
 2. **Фильтрация** – отсеивает шум через OpenAI, оставляет сигналы по ИИ и legal-tech.
-3. **Анализ** – специализированные агенты (`analyst-legal`, `analyst-aitech`) разбирают сигналы по направлениям.
+3. **Анализ** – специализированные агенты (`analyst-legal`, `analyst-aitech`, `analyst-finance-health`) разбирают сигналы по направлениям.
 4. **Композиция** – `digest-composer` собирает разборы агентов в единый дайджест.
 5. **Публикация** – готовый дайджест публикуется в Telegram-канал через Bot API.
 
@@ -62,7 +62,7 @@ python scripts/filter-signals.py --date 2026-05-20   # backfill конкретн
 | Звено | Задача | Почему там |
 |---|---|---|
 | **VPS** (u1host) | Сбор из Telegram (MTProto/Telethon) и публикация (Bot API) | Оба вида трафика не проходят через egress-прокси облачной песочницы Anthropic: MTProto рвется с ошибкой на уровне TCP, Bot API возвращает 403 Forbidden от прокси |
-| **Облачный Routine** (claude.ai) | Мультиагентный ИИ-анализ (`analyst-legal`, `analyst-aitech`, `digest-composer`) | Сети наружу не требуется, кроме GitHub и OpenAI API – оба разрешены |
+| **Облачный Routine** (claude.ai) | Мультиагентный ИИ-анализ (`analyst-legal`, `analyst-aitech`, `analyst-finance-health`, `digest-composer`) | Сети наружу не требуется, кроме GitHub и OpenAI API – оба разрешены |
 
 Связующий слой – публичный GitHub-репозиторий [`advocatalexy-cell/TG_Radar`](https://github.com/advocatalexy-cell/TG_Radar):
 
@@ -82,7 +82,7 @@ Telegram-каналы (~85)
    GitHub-репозиторий
         │  git pull
         ▼
-Облачный Routine: analyst-legal → analyst-aitech → digest-composer
+Облачный Routine: analyst-legal + analyst-aitech + analyst-finance-health → digest-composer
         │  git push (готовый дайджест)
         ▼
    GitHub-репозиторий

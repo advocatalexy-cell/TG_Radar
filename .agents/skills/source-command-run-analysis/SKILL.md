@@ -19,7 +19,7 @@ Use this skill when the user asks to run the migrated source command `run-analys
 
 ## Шаг 1: Параллельный анализ
 
-Запусти **одновременно** два субагента через Task:
+Запусти **одновременно** три субагента через Task:
 
 **Задание для analyst-legal:**
 > Проанализируй правовые сигналы за ДАТА.
@@ -33,7 +33,13 @@ Use this skill when the user asks to run the migrated source command `run-analys
 > Отбери сигналы с category=ai/tech или ключевыми словами AI-тематики.
 > Сохрани результат в data/analysis/ДАТА-aitech.md согласно своей инструкции.
 
-Дождись завершения обоих агентов.
+**Задание для analyst-finance-health:**
+> Проанализируй сигналы за ДАТА по каналам папки «Здор+Финансы».
+> Прочитай все файлы data/processed/ДАТА-*-processed.json.
+> Отбери посты каналов с source_folder == "Здор+Финансы".
+> Сохрани результат в data/analysis/ДАТА-finance-health.md согласно своей инструкции.
+
+Дождись завершения всех трёх агентов.
 
 ## Шаг 2: Сборка дайджеста
 
@@ -41,7 +47,7 @@ Use this skill when the user asks to run the migrated source command `run-analys
 
 **Задание для digest-composer:**
 > Собери итоговый дайджест за ДАТА.
-> Прочитай data/analysis/ДАТА-legal.md и data/analysis/ДАТА-aitech.md.
+> Прочитай data/analysis/ДАТА-legal.md, data/analysis/ДАТА-aitech.md и data/analysis/ДАТА-finance-health.md.
 > Выдели 3-5 главных событий суммарно.
 > Сохрани результат в digests/ДАТА-digest.md согласно своей инструкции.
 
@@ -61,11 +67,12 @@ python agents/digest-agent.py --send-only --date ДАТА
 - Дату обработки
 - Сколько сигналов нашел analyst-legal
 - Сколько сигналов нашел analyst-aitech
+- Сколько сигналов нашел analyst-finance-health
 - Путь к итоговому дайджесту
 - Статус публикации в Telegram (опубликован / ошибка / переменные не заданы)
 - Время выполнения (если известно)
 
-Пример: "Анализ за 2026-06-20 завершен. Правовых сигналов: 4, AI/Tech сигналов: 7. Дайджест: digests/2026-06-20-digest.md. Опубликован в Telegram."
+Пример: "Анализ за 2026-06-20 завершен. Правовых сигналов: 4, AI/Tech сигналов: 7, Финансы/здоровье сигналов: 3. Дайджест: digests/2026-06-20-digest.md. Опубликован в Telegram."
 
 ## Контракт данных между агентами
 
