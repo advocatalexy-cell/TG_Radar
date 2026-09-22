@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 2625,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-11T10:49:46+00:00",
+    "text": "За то народу собралось))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  }
+]

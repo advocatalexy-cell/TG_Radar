@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1149,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-04T08:00:45+00:00",
+    "text": "А вот и новое поколение ChatGPT! Очень интересно наблюдать за этой гонкой ИИ-вооружений!",
+    "views": 3434,
+    "forwards": 15,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о новом поколении ChatGPT и гонке ИИ.",
+      "keywords": [
+        "ChatGPT",
+        "ИИ",
+        "технологии",
+        "новое поколение"
+      ]
+    }
+  }
+]

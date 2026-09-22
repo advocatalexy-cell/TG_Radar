@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id": 2666,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-16T18:22:26+00:00",
+    "text": "Yess",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2663,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-16T16:38:56+00:00",
+    "text": "Всем привет open code номалевц вариант для первого раза ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит вопрос без содержательной информации.",
+      "keywords": [
+        "вопрос",
+        "open code",
+        "нормалевц",
+        "первый раз"
+      ]
+    }
+  }
+]

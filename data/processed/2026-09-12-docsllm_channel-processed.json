@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 302,
+    "channel_id": "docsllm_channel",
+    "date": "2026-09-12T07:57:14+00:00",
+    "text": "**Работа с агентами: внедрение **\n\nРаньше все обсуждали, как написать хороший промпт. Сейчас в нашем чате всё чаще появляются вопросы про агентов. \n\nКатя @delay_RAG как раз мощно пересобрала в нашей базе знаний всё, что связано с их работой. Отличный повод заглянуть туда в гости)\n\n(1) [**Управление агентами**](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami)**.** \n\nПодраздел о том, как из агентов сделать управляемую команду супер-шпионов. Он пополнился сразу 5 статьями, которые закрывают основные вопросы по теме:\n\n• [Харнесс](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami/harness) — что нужно добавить вокруг модели, чтобы она вообще превратилась в агента.\n\n• [Оркестрация и субагенты](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami/orkestraciya-i-subagenty) — как разбивать большую задачу между несколькими агентами и всегда ли оно надо.\n\n• [Память агента](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami/pamyat-agenta) — как устроить память так, чтобы агент не превращался в рыбку Дори. \n\n• [Рабочее пространство агента](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami/rabocheye-prostranstvo) — как организовать агенту понятную среду, чтобы он работал на ваше благо. \n\n• [Практический опыт участников сообщества](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/agentskiy-ii/upravlenie-agentami/priemy-upravleniya) — секретные приёмы управления агентами от тех, кто уже отправлял их на реальные задания.\n\n**2. Как работать со знаниями **\n\nЛюбому агенту для спецзадания нужна информация. Организовать разведданные — уже ваша часть работы. Но и тут мы собрали инструкции:\n\n• [Хранений знаний](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/upravlenie-dannymi-i-pamyatyu/hranenie-znaniy) — три способа сложить знания так, чтобы ими можно было пользоваться. \n\n• [LLM-вики и Obsidian](https://runetlexbase.ru/legal_LLM_knowledgebase/aktualnoye/upravlenie-dannymi-i-pamyatyu/llm-viki-i-obsidian) — как вести базу знаний. Разбираем сам подход LLM-вики и Obsidian как один из инструментов для него. Плюс кейсы участников сообщества, которые уже собирают такие базы у себя.\n\n• [Обновлённая статья про контекстное окно](https://runetlexbase.ru/legal_LLM_knowledgebase/znakomstvo-s-nejrosetyami/kontekstnoe-okno?highlightFragment=%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BA%D0%BD%D0%BE%2C%20%D1%87%D0%B5&highlightFragmentIndex=0) — как работать с контекстом в агентных задачах. \n\nВ общем, если обычного чата с нейросетью вам уже мало и хочется перейти к чему-то большему — маршрут в базе теперь проложен.\n\nА если на этом пути вам нужна поддержка — приходите к нам на [новый поток курса по агентам и вайбкодингу](https://runetlex-academy.ru/neuralnetworks?utm_source=ilovedocsai&utm_medium=tg). Будем готовить агентов к реальным заданиям вместе ;)",
+    "views": 1766,
+    "forwards": 93,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обновления в базе знаний о работе с агентами в области ИИ и управление ими.",
+      "keywords": [
+        "агенты",
+        "управление",
+        "искусственный интеллект",
+        "знания",
+        "инструменты"
+      ]
+    }
+  }
+]

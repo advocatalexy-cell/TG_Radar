@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3641,
+    "channel_id": "ilovedocs",
+    "date": "2026-09-22T13:02:32+00:00",
+    "text": "Учеба, второй модуль. Архыз.\nНагружаемся и интеллектуально, и физически)",
+    "views": 535,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о процессе учебы в Архызе.",
+      "keywords": [
+        "учеба",
+        "Архыз",
+        "модуль"
+      ]
+    }
+  }
+]

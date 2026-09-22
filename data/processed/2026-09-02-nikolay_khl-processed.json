@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": 1148,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-02T19:45:45+00:00",
+    "text": "Что за день! Пора новую серию батла снимать ☺️",
+    "views": 4209,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 1147,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-02T06:54:12+00:00",
+    "text": "Вот это новости! Кто уже попробовал?",
+    "views": 5154,
+    "forwards": 20,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1150,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-05T12:49:46+00:00",
+    "text": "Если попросить ChatGPT дать случайное число от 1 до 30 – он ответит \"17\". И все остальные самые крутые LLM тоже 🙈",
+    "views": 2691,
+    "forwards": 34,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит случайный факт о ChatGPT, но не представляет значимой информации.",
+      "keywords": [
+        "ChatGPT",
+        "случайное число",
+        "LLM"
+      ]
+    }
+  }
+]

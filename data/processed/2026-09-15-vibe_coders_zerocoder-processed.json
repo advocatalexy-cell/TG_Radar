@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 2650,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-15T07:10:26+00:00",
+    "text": "Там, где обитают люди, проблему которых ты решаешь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2648,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-15T07:05:24+00:00",
+    "text": "Всем привет ребят есть вопрос.Где искать своих первых клиентов?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о поиске первых клиентов.",
+      "keywords": [
+        "клиенты",
+        "поиск",
+        "вопрос"
+      ]
+    }
+  }
+]

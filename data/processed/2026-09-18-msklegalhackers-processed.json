@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "id": 21226,
+    "channel_id": "msklegalhackers",
+    "date": "2026-09-18T16:13:15+00:00",
+    "text": "Дарья, благодарю 🙏❤️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное благодарственное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21223,
+    "channel_id": "msklegalhackers",
+    "date": "2026-09-18T12:32:03+00:00",
+    "text": "Коллеги, кто вчера не попал на вебинар MDS о том, с чего начинать автоматизацию в юрфункции, вот здесь ссылка на запись: https://kinescope.io/0cDCcn399vnkWc4G8GM1sq",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку на запись вебинара о автоматизации в юрфункции.",
+      "keywords": [
+        "вебинар",
+        "автоматизация",
+        "юрфункция",
+        "запись"
+      ]
+    }
+  }
+]

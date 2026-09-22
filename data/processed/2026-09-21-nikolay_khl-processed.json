@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1155,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-21T20:02:09+00:00",
+    "text": "А вы знали, что все картины Моне созданы Клодом?",
+    "views": 2945,
+    "forwards": 44,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сомнительное утверждение о картинах Моне.",
+      "keywords": [
+        "Моне",
+        "искусство",
+        "картины"
+      ]
+    }
+  }
+]

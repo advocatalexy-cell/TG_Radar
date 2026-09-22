@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "id": 2642,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-13T20:25:40+00:00",
+    "text": "Вам проще написать что вам надо и сколько платите, быстрее найдете",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о поиске исполнителей для работы.",
+      "keywords": [
+        "работа",
+        "поиск",
+        "исполнители"
+      ]
+    }
+  },
+  {
+    "id": 2641,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-13T19:11:23+00:00",
+    "text": "Актуально",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2638,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-13T00:39:50+00:00",
+    "text": "Типа не обещания, что может быть мне будет интересно, а реальные продажи, у всех учавчтвующих подключен stripe и никакого подлога",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о возможных продажах с использованием Stripe.",
+      "keywords": [
+        "продажи",
+        "Stripe",
+        "участники"
+      ]
+    }
+  },
+  {
+    "id": 2637,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-13T00:39:02+00:00",
+    "text": "Есть же trustMRR",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неполную информацию о trustMRR.",
+      "keywords": [
+        "trustMRR",
+        "информация",
+        "пост"
+      ]
+    }
+  }
+]

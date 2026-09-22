@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 200,
+    "channel_id": "wowai2025",
+    "date": "2026-09-01T11:10:35+00:00",
+    "text": "Пост #91 **Евросоюз официально признал ChatGPT поисковиком**\n\nЕврокомиссия [**присвоила**](https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act) ChatGPT статус Very Large Online Search Engine — «очень крупной онлайн-поисковой системы». \n\nВсе из-за аудитории. Для такого статуса сервисом должны пользоваться не менее **45 млн человек **в месяц в ЕС. ChatGPT этот порог давно перешагнул. В Германии информацию через классические поисковики искали **79%** пользователей, а через ИИ — уже **39%.** Это [**второй по популярности**](https://yougov.com/de-de/artikel/55144-ki-assistenten-etablieren-sich-als-zweithaufigste-informationsquelle-in-deutschland-suchmaschinen-weiterhin-fuhrend) способ поиска информации.\n\nИнтересно, что статус поисковика ChatGPT получил почти одновременно с большим расширением рекламы.\n\nРеклама в ChatGPT уже работает более чем в [**40 странах**](https://help.openai.com/en/articles/20001245-ads-manager-availability). OpenAI говорит, что меньше чем за 200 дней рекламный бизнес ChatGPT [**вышел**](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/) на темп выручки **$1 млрд** в год.\n\nРеклама показывается пользователям бесплатной версии и тарифа Go. При этом OpenAI обещает, что объявления не влияют на ответы ChatGPT, а рекламодатели не получают доступ к личным перепискам.\n\n**Вы уже видели рекламу? **\n\n@wowai2025",
+    "views": 137,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Евросоюз признал ChatGPT официальным поисковиком из-за большого числа пользователей.",
+      "keywords": [
+        "ChatGPT",
+        "Евросоюз",
+        "поисковик",
+        "реклама",
+        "технологии"
+      ]
+    }
+  }
+]

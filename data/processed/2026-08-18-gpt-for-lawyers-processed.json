@@ -1,0 +1,24 @@
+[
+  {
+    "id": 249,
+    "channel_id": "gpt-for-lawyers",
+    "date": "2026-08-18T13:40:10+00:00",
+    "text": "Коллеги, написал на Закон.ру статью про ChatGPT во всех его нынешних ипостасях: обычный Chat, Work на сайте, Work в приложении и Codex. Что это такое, чем они отличаются и когда какой инструмент использовать.\n\nПисал сам, без ИИ__ (не считая устранения описок и нескольких редакторских огрехов 😁).__\n\n[**❕Читать здесь**](https://zakon.ru/blog/2026/08/16/kak_yuristu_rabotat_s_chatgpt_chat_work_i_codex?utm_source=chatgpt.com)❕\n\n[**Канал**](https://t.me/GPT_for_Lawyers/232) | [**Курс**](https://t.me/GPT_for_Lawyers/247?single)",
+    "views": 2390,
+    "forwards": 53,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Автор делится своим опытом использования ChatGPT и его различными версиями.",
+      "keywords": [
+        "ChatGPT",
+        "инструменты",
+        "статья",
+        "юриспруденция",
+        "анализ"
+      ]
+    }
+  }
+]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1153,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-15T06:19:14+00:00",
+    "text": "Протестировал новую GPT-6 Astra. Я в шоке 😨 \n\nПросто посмотрите на что она способна: https://youtu.be/JUWXno4Awvo",
+    "views": 4299,
+    "forwards": 64,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится впечатлениями от тестирования новой модели GPT-6 Astra.",
+      "keywords": [
+        "GPT-6",
+        "тестирование",
+        "впечатления"
+      ]
+    }
+  }
+]

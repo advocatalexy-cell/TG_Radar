@@ -42,5 +42,27 @@
         "новость"
       ]
     }
+  },
+  {
+    "id": 201,
+    "channel_id": "wowai2025",
+    "date": "2026-09-02T16:55:04+00:00",
+    "text": "Пост #92 **Google запустила свой аналог Canva с ИИ**\n\nВ Google Pics можно [**создавать**](https://blog.google/products-and-platforms/products/workspace/google-pics/) изображения по промпту, а затем отдельно перемещать, удалять и изменять объекты, исправлять и переводить текст, менять формат и повышать разрешение до 4K.\n\nНад картинками можно работать совместно, а сам редактор встроен в Google Docs и Slides.\n\nСервис доступен в большинстве тарифов Workspace. Подписчики Google AI Pro и Ultra тоже могут им пользоваться, но личные аккаунты в Германии пока не поддерживаются.\n\n@wowai2025",
+    "views": 127,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Google запустила новый сервис для создания изображений с ИИ, аналогичный Canva.",
+      "keywords": [
+        "Google",
+        "ИИ",
+        "Canva",
+        "изображения",
+        "Workspace"
+      ]
+    }
   }
 ]

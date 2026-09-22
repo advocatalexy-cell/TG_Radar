@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 265,
+    "channel_id": "gpt_for_lawyers",
+    "date": "2026-09-19T11:55:27+00:00",
+    "text": "**ChatGPT прямо в Word**\n\nOpenAI выпустила [надстройку для Word](https://chatgpt.com/apps/word/), которая доступна даже на бесплатном тарифе.\n\nВот короткая инструкция по установке:\n\n1️⃣ Войдите в аккаунт Microsoft. Если его нет, заведите бесплатную почту (проще всего в [Outlook](https://outlook.com/)). Это и будет ваш аккаунт Microsoft.\n\n2️⃣ Откройте [надстройку в Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/office/WA200010215?utm_source=chatgpt.com) и нажмите **Get it now / Получить**. \n\n3️⃣ Надстройка появится в верхней панели Word автоматически. Если нет, то откройте Главная → Надстройки → ChatGPT. Или загляните в Другие надстройки → Мои надстройки и обновите список.\n\n4️⃣ Войдите в свой аккаунт ChatGPT.\n\nКак работает надстройка, смотрите в видео к посту\n\n[**Канал**](https://t.me/GPT_for_Lawyers/232) | [**База знаний**](https://ai-teka.ru/)",
+    "views": 602,
+    "forwards": 46,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "OpenAI выпустила надстройку ChatGPT для Word, доступную даже на бесплатном тарифе.",
+      "keywords": [
+        "ChatGPT",
+        "Word",
+        "надстройка",
+        "OpenAI",
+        "Microsoft"
+      ]
+    }
+  }
+]
