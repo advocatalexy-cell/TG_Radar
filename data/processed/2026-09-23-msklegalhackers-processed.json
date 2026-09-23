@@ -1,0 +1,42 @@
+[
+  {
+    "id": 21252,
+    "channel_id": "msklegalhackers",
+    "date": "2026-09-23T05:40:46+00:00",
+    "text": "Не совсем, я там только комментировал мировой рынок и его тренды 😀",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится своими комментариями по поводу мирового рынка и трендов.",
+      "keywords": [
+        "мировой рынок",
+        "тренды",
+        "комментарии"
+      ]
+    }
+  },
+  {
+    "id": 21251,
+    "channel_id": "msklegalhackers",
+    "date": "2026-09-23T05:37:29+00:00",
+    "text": "Обзор рынка от доктора Хольгера",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Пост представляет собой обзор, но без конкретных аналитических данных.",
+      "keywords": [
+        "обзор",
+        "рынок",
+        "доктор Хольгер"
+      ]
+    }
+  }
+]

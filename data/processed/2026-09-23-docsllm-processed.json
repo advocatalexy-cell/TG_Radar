@@ -1,0 +1,3049 @@
+[
+  {
+    "id": 88499,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T13:40:46+00:00",
+    "text": "Да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неполное сообщение без содержательного контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88498,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:59:46+00:00",
+    "text": "или Uncle Rabindranat...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Необходима дополнительная информация для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88497,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:57:11+00:00",
+    "text": "Uncle Xi тогда уж",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88496,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:51:28+00:00",
+    "text": "Uncle Sam",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88495,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:26:19+00:00",
+    "text": "Comrade Major, забыли добавить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значительного контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88494,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:23:53+00:00",
+    "text": "**Китай начал проверку DeepSeek и Moonshot из-за возможных утечек данных в США**\n\nУправление по вопросам киберпространства Китая (CAC) [опрашивает](https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic) руководство и инженеров компаний DeepSeek и Moonshot AI. Поводом стал отчёт Anthropic, в котором [утверждается](https://www.anthropic.com/threat-intelligence-report-september-2026), что разработчики проксировали запросы своих пользователей к модели Claude, выдавая её ответы за результаты работы собственных нейросетей Kimi и DeepSeek.\n\nГлавной причиной вмешательства Пекина стали не спорные методы дистилляции моделей, а риск передачи госсекретов за рубеж. По данным расследования Anthropic, перенаправленный трафик содержал файлы китайских госструктур.\n\nВ результате регулятор проверяет компании на предмет нарушения китайского законодательства о безопасности данных и трансграничной передаче информации. На фоне новостей о проверках акции китайских ИИ-компаний на бирже в Гонконге упали в среднем на 5–12%.",
+    "views": 6961,
+    "forwards": 64,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Китай начал проверку компаний DeepSeek и Moonshot из-за возможных утечек данных, связанных с госструктурами.",
+      "keywords": [
+        "Китай",
+        "проверка",
+        "DeepSeek",
+        "Moonshot",
+        "утечка данных"
+      ]
+    }
+  },
+  {
+    "id": 88493,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T12:11:36+00:00",
+    "text": "Ну, поехали 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88491,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:35:17+00:00",
+    "text": "Всем спасибо. Написали в службу поддержки редшилда, они что-то там подшаманили, заработало.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблема с редшилдом решена службой поддержки.",
+      "keywords": [
+        "редшилд",
+        "поддержка",
+        "решение"
+      ]
+    }
+  },
+  {
+    "id": 88490,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:27:53+00:00",
+    "text": "Откройте сайт гугла, если с включенным квн показывает рф, то возможна утечка по ipv6. У меня чето такое было на амнезии",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о возможных проблемах с утечкой данных по IPv6 при использовании КВН.",
+      "keywords": [
+        "IPv6",
+        "утечка",
+        "КВН",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 88489,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:16:09+00:00",
+    "text": "А это причём?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88488,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:09:35+00:00",
+    "text": "и я могу продолжать примеры приводить. Но, думаю, смысла в этом нет )))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение примеров без конкретного содержания.",
+      "keywords": [
+        "примеры",
+        "обсуждение",
+        "содержание"
+      ]
+    }
+  },
+  {
+    "id": 88487,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:08:43+00:00",
+    "text": "Я правильно, понимаю, что у вас с редшилдом все работает?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о работоспособности системы с редшилдом.",
+      "keywords": [
+        "редшилд",
+        "работа",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88486,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:08:36+00:00",
+    "text": "когда начинаешь пользоваться ИИ уже тяжело подсчитать, на сколько сократились по времени твои задачи. Но прирост колоссальный. \nОтносительно недавно готовил жалобу в ВС РФ. Так кодекс накидал мне так быстро и так качественно, что точно полдня копаний мне сократил.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Использование ИИ значительно ускоряет выполнение задач, как показал опыт подготовки жалобы в ВС РФ.",
+      "keywords": [
+        "ИИ",
+        "оптимизация",
+        "время",
+        "жалоба",
+        "ВС РФ"
+      ]
+    }
+  },
+  {
+    "id": 88485,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:05:58+00:00",
+    "text": "пример из этого ряда. Хочу получить инфо из видео. Видео длится 54 минуты. Я могу прощелкивать, но потрачу минимум минут 20 на просмотр. \nЯ кинул ссылку в кодекс, попросил пересказать суть. \nОн сделал это за 9 секунд, я потратил на чтение минуту. \n\nИтого 54 минуты (или 20) против 1",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Искусственный интеллект помогает существенно сократить время на получение информации из видео.",
+      "keywords": [
+        "искусственный интеллект",
+        "видео",
+        "анализ",
+        "время",
+        "эффективность"
+      ]
+    }
+  },
+  {
+    "id": 88484,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T10:01:32+00:00",
+    "text": "А где там ultra?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о местонахождении события или объекта.",
+      "keywords": [
+        "ultra",
+        "местонахождение",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88483,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:55:57+00:00",
+    "text": "проблема на Вашей стороне, квн здесь не причем. Он у меня тот же и всё открывается",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблема с доступом не связана с КВН.",
+      "keywords": [
+        "проблема",
+        "доступ",
+        "КВН"
+      ]
+    }
+  },
+  {
+    "id": 88482,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:53:49+00:00",
+    "text": "По текстам, кстати, довольно прикольно",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Комментарий о текстах.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88481,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:49:33+00:00",
+    "text": "По Opus 5.5: \n\nНе знаю что они там подкрутили, но вот сейчас одновременно работает 4 терминала уже 3,5 часа и расход очень божеский. \n\nПо качеству - Sol/Astra дают мало правок на код, поэтому вроде все достойно. \n\nПо текстам пока сказать сложно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится впечатлениями о работе Opus 5.5, отмечая низкий расход ресурсов и качество кода.",
+      "keywords": [
+        "Opus 5.5",
+        "терминалы",
+        "ресурсы",
+        "качество кода",
+        "Sol/Astra"
+      ]
+    }
+  },
+  {
+    "id": 88480,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:48:45+00:00",
+    "text": "У меня тоже google не пускает никуда. Ни с телефона в приложении, ни с браузера. Хотя IP личный. Даже смена IP вчера не помогла. Невелика потеря, конечно, но тем не менее )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь испытывает проблемы с доступом к сервисам Google.",
+      "keywords": [
+        "Google",
+        "доступ",
+        "проблемы",
+        "IP",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 88479,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:46:08+00:00",
+    "text": "А, понятненько )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88478,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:45:40+00:00",
+    "text": "замена айпи за деньги разумеется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение услуги по замене IP-адресов за деньги.",
+      "keywords": [
+        "замена IP",
+        "платные услуги",
+        "интернет"
+      ]
+    }
+  },
+  {
+    "id": 88477,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:45:17+00:00",
+    "text": "Да, Fornex нафиг послал с заменой )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит фразу о форнексе и замене.",
+      "keywords": [
+        "Fornex",
+        "замена",
+        "пост"
+      ]
+    }
+  },
+  {
+    "id": 88476,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:44:30+00:00",
+    "text": "отличный выбор! у них супер айпишники - заменяют на уже забаненные",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88475,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:43:23+00:00",
+    "text": "Раз уж пошло обсуждение про VPS, баны РКН и прочее: вчера забанили IP от Fornex, поддержка подтвердила, что причина в РКН. Работало все полгода без проблем с Amnezia. Взял пока пробный сервер на Aeza. \n\nПодскажите, плз, каких-нибудь надежных хостеров, где риски бана будут минимальными или может быть какие-нибудь другие надежные способы организации VPN-подключения.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение проблем с VPS-хостингом и блокировками РКН.",
+      "keywords": [
+        "VPS",
+        "РКН",
+        "блокировка",
+        "хостинг",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 88474,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:40:28+00:00",
+    "text": "использую psiphon на выходе из своего впс чисто для гугловских ai сервисов. способ рабочий. но для коммерческих впн естесно не подходит. я это к сведению для тех, кто может тоже с геоблоком сидит даже со своим впн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.4,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования Psiphon для обхода геоблокировки на собственном VPS.",
+      "keywords": [
+        "Psiphon",
+        "VPS",
+        "геоблокировка",
+        "AI",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 88472,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:37:33+00:00",
+    "text": "Значит, Гугл в моменте все точки выхода редшилда проассоциировал с РФ. Надо подождать, пока ребята серваки мигрируют",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Гугл ассоциировал точки выхода редшилда с Россией, ожидаются изменения в миграции серверов.",
+      "keywords": [
+        "Гугл",
+        "редшилд",
+        "сервера",
+        "миграция",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 88471,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:32:34+00:00",
+    "text": "Да, почистил. Выдает: https://notebook.google/?**location=unsupported**",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ошибочное сообщение о недоступности ссылки.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88470,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:26:30+00:00",
+    "text": "Лучше всего вообще найти хостера, где нельзя платить рублями никак. Точно меньше всего связи будет с Россией",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Рекомендация по выбору хостинга без привязки к России.",
+      "keywords": [
+        "хостинг",
+        "Россия",
+        "платежи",
+        "анонимность"
+      ]
+    }
+  },
+  {
+    "id": 88469,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:26:22+00:00",
+    "text": "https://github.com/lfnovo/open-notebook  - фри альтернатива если запускать у себя на хостинге. может подойдет",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Рекомендация по использованию бесплатной альтернативы Open Notebook на своем хостинге.",
+      "keywords": [
+        "Open Notebook",
+        "альтернатива",
+        "хостинг",
+        "бесплатно"
+      ]
+    }
+  },
+  {
+    "id": 88468,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:25:08+00:00",
+    "text": "А в чем проблема сделать карту того же Узбекистана? Цена вопроса 100-200 баксов, как я понимаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение стоимости создания карты Узбекистана.",
+      "keywords": [
+        "Узбекистан",
+        "карта",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 88467,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:24:18+00:00",
+    "text": "Смотря какой. В целом дроп это самый простой вариант, если нет друзей заграницей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение способов получения чего-либо без помощи друзей за границей.",
+      "keywords": [
+        "дроп",
+        "друзья",
+        "за границей",
+        "способы"
+      ]
+    }
+  },
+  {
+    "id": 88465,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:23:17+00:00",
+    "text": "Кэш браузера чистили?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о чистке кэша браузера.",
+      "keywords": [
+        "кэш",
+        "браузер",
+        "чистка"
+      ]
+    }
+  },
+  {
+    "id": 88463,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:22:30+00:00",
+    "text": "Пробовал разные страны, не работает с сегодняшнего дня.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не ясная информация о неработающем сервисе.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88462,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:22:08+00:00",
+    "text": "Я держу два браузера: один для российских сайтов - хром, другой для забугорных - firefox. В firefox настраиваю прокси, не российский, и пока  все ок - работает. Может кому-то еще будет полезен такой подход",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования двух браузеров для разных сайтов.",
+      "keywords": [
+        "браузеры",
+        "прокси",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 88461,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:21:52+00:00",
+    "text": "А потом узбек закинул куда-то что-то не туда - и такие люди приходят ко мне",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неоднозначное высказывание без конкретного содержания.",
+      "keywords": [
+        "узбек",
+        "непонятное",
+        "люди"
+      ]
+    }
+  },
+  {
+    "id": 88460,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:21:37+00:00",
+    "text": "Переключить на другую страну",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на переключение на другую страну.",
+      "keywords": [
+        "переключение",
+        "страна",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 88459,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:20:39+00:00",
+    "text": "ИМХО лучше взять крупного белого западного хостера",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Личное мнение о выборе хостинга.",
+      "keywords": [
+        "хостинг",
+        "мнение",
+        "восток",
+        "запад",
+        "выбор"
+      ]
+    }
+  },
+  {
+    "id": 88458,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:17:52+00:00",
+    "text": "Проще найти узбека-дропа, кидать ему на российскую, чтобы он оплачивал своей + докидывать косарь за беспокойство",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост обсуждает способ перевода денег через узбеков.",
+      "keywords": [
+        "перевод",
+        "деньги",
+        "узбек",
+        "российская"
+      ]
+    }
+  },
+  {
+    "id": 88457,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:16:55+00:00",
+    "text": "Осуждаю☝️ можно и в Грузию съездить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88456,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:15:28+00:00",
+    "text": "Всем привет. С сегодняшнего дня перестал работать notebook llm. Пользовался ранее redshield впс, теперь не помогает. Кто работает с notebook llm, подскажите что используете?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет рекомендации по использованию notebook llm.",
+      "keywords": [
+        "notebook llm",
+        "redshield",
+        "впс",
+        "рекомендации"
+      ]
+    }
+  },
+  {
+    "id": 88455,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:08:50+00:00",
+    "text": "a*za )) я почитал они с ркн еще сотрудничать начали в декабе 2025 и запретили вообще держать на своих серверах в*н. короче переезжать придется.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "В 2025 году вступит в силу запрет на хранение определенных данных на серверах.",
+      "keywords": [
+        "РКН",
+        "сотрудничество",
+        "запрет",
+        "данные",
+        "переезд"
+      ]
+    }
+  },
+  {
+    "id": 88454,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:08:27+00:00",
+    "text": "Думаю, что вам нужно искать дропа в другой стране, который бы платил со своей карты. Самый практичный вариант.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь советует искать дропа в другой стране для удобства.",
+      "keywords": [
+        "дроп",
+        "совет",
+        "оплата",
+        "другой страна"
+      ]
+    }
+  },
+  {
+    "id": 88453,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:06:54+00:00",
+    "text": "**Робот избил человека — в Сан-Франциско впервые прошёл бой человека и машины**\n\nПротив блогера Фрэнки ЛаПенны вышел 80-килограммовый EngineAI T800. На турнире в стиле **«Живой стали»** робот буквально швырял соперника по рингу.\n\n❤[️ ](https://t.me/techno_news)[**PD**](https://t.me/+oKM0IF6m0pIzMjM6)[**A**](https://t.me/techgames)",
+    "views": 5440,
+    "forwards": 118,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "В Сан-Франциско прошёл бой между человеком и роботом, в котором победил робот EngineAI T800.",
+      "keywords": [
+        "робот",
+        "бой",
+        "технологии",
+        "Сан-Франциско",
+        "EngineAI T800"
+      ]
+    }
+  },
+  {
+    "id": 88452,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:06:54+00:00",
+    "text": "Зацените",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Слишком расплывчатая просьба без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88451,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:06:39+00:00",
+    "text": "Да, если какой-нибудь популярный для частных впнов хостер, то его могут тупо по пулам адресов и подсетей банить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможности блокировки хостеров по IP-адресам.",
+      "keywords": [
+        "хостер",
+        "блокировка",
+        "IP-адреса"
+      ]
+    }
+  },
+  {
+    "id": 88450,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:05:09+00:00",
+    "text": "я еще думаю дело в хостинге, хотя соседние адреса пингуются. щас накатил влесс",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с хостингом и пингом адресов.",
+      "keywords": [
+        "хостинг",
+        "пинг",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 88449,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:05:05+00:00",
+    "text": "У меня пока работает без проблем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88448,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:03:21+00:00",
+    "text": "Амнезию по протоколу целенаправленно щемят, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясное утверждение о 'амнезии'.",
+      "keywords": [
+        "амнезия",
+        "протокол",
+        "щемят"
+      ]
+    }
+  },
+  {
+    "id": 88447,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:03:01+00:00",
+    "text": "У меня мой NY впс на Вультре со статическим IP никто не гнобит по такому признаку, хз",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о личном опыте использования VPS на Вультре.",
+      "keywords": [
+        "VPS",
+        "Вультра",
+        "статический IP",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 88446,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:02:52+00:00",
+    "text": "У меня в целом с ним проблем нет, только вот с клодом не сложилось. Оплата из-под него сингапурской картой не проходила.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с оплатой сервиса.",
+      "keywords": [
+        "оплата",
+        "Клод",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 88445,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:02:07+00:00",
+    "text": "Сейчас тоже на своем vps. Первый день поработало и заглохло. Пинг проходил а tsp нет. С клодушкой все поправили, все работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с VPS и восстановление работоспособности.",
+      "keywords": [
+        "VPS",
+        "технические проблемы",
+        "восстановление"
+      ]
+    }
+  },
+  {
+    "id": 88444,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:01:54+00:00",
+    "text": "контора на 3 буквы мне мою амнезию спалила и уже 2 дня айпишники выносит. влесс меньше палится",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "амнезия",
+        "айпишники",
+        "контора"
+      ]
+    }
+  },
+  {
+    "id": 88443,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:01:47+00:00",
+    "text": "Ну, я, конечно, не совсем настоящий сварщик, но сервис того же «Плати по миру», например, ругался на мой обычный нидерландский IP, якобы он в списках каких-то, а палится, потому что IP, передаваемые крупными серверами в аренду, якобы хорошо известны.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает проблемы с использованием сервиса из-за IP-адреса.",
+      "keywords": [
+        "IP-адрес",
+        "сервис",
+        "Плати по миру",
+        "недостатки"
+      ]
+    }
+  },
+  {
+    "id": 88442,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:00:27+00:00",
+    "text": "Чёйта?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88441,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T09:00:12+00:00",
+    "text": "Ну, например, в том, что VPS тоже история палевная. В отличие от прокси.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение различий между VPS и прокси.",
+      "keywords": [
+        "VPS",
+        "прокси",
+        "обсуждение",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 88440,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:59:52+00:00",
+    "text": "Это да, рубли в кз без комиссии, а там уже покупка валюты",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "finance",
+      "summary": "Обсуждение условий обмена рублей в Казахстане.",
+      "keywords": [
+        "рубли",
+        "Казахстан",
+        "валюта",
+        "обмен",
+        "комиссия"
+      ]
+    }
+  },
+  {
+    "id": 88439,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:59:00+00:00",
+    "text": "Ваще агонь, надо брать, конечно. Еще и пополняется через СПБ, просто шик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекламный пост.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88438,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:57:55+00:00",
+    "text": "По цене говорят 120$ за все, включая казахскую есим и иин",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение цены на услуги по предоставлению казахской есим и иин.",
+      "keywords": [
+        "цена",
+        "казахская есим",
+        "иин",
+        "услуги"
+      ]
+    }
+  },
+  {
+    "id": 88437,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:57:55+00:00",
+    "text": "Коллеги, в чем проблема купить впс нужной страны и накатить туда амнезию? Чеж вы судьбу за тестикулы так дергать любите",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблема с покупкой VPS и установкой амнезии.",
+      "keywords": [
+        "VPS",
+        "амнезия",
+        "проблема",
+        "технология"
+      ]
+    }
+  },
+  {
+    "id": 88436,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:56:57+00:00",
+    "text": "Была латвия, сейчас литва, между ними финляндия недолго",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит недостоверные сведения о географических названиях.",
+      "keywords": [
+        "латвия",
+        "литва",
+        "финляндия"
+      ]
+    }
+  },
+  {
+    "id": 88435,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:56:34+00:00",
+    "text": "Ну, скорее всего мак адрес и фингерпринт браузера лучше сменить, язык, часовой пояс привести в соответствие с целевым, не давать разрешений клоду на предоставление данных о местоположении",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Рекомендации по безопасности в интернете.",
+      "keywords": [
+        "мак адрес",
+        "фингерпринт",
+        "безопасность",
+        "интернет",
+        "рекомендации"
+      ]
+    }
+  },
+  {
+    "id": 88434,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:56:32+00:00",
+    "text": "Я, когда меня спрашивают по вопросам, по которым априори у меня нет ответа, всегда юзаю шар. Накатить и помолиться не могу, не пью-c, а шар выручает 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом в ответах на вопросы.",
+      "keywords": [
+        "опыт",
+        "шар",
+        "ответы"
+      ]
+    }
+  },
+  {
+    "id": 88433,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:56:20+00:00",
+    "text": "А IP какой? Казахский?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о казахском IP без контекста.",
+      "keywords": [
+        "IP",
+        "казахский",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88432,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:55:51+00:00",
+    "text": "У меня карта кз, тоже пока все ок, пользуюсь с февраля этого года. Говорят что можно открыть дистанционно. Нужен загран с биометрией. Рефералку одному товарищу отправлял, но он пока не пробовал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение процесса открытия карты в Казахстане.",
+      "keywords": [
+        "карта",
+        "Казахстан",
+        "дистанционное открытие",
+        "биометрия"
+      ]
+    }
+  },
+  {
+    "id": 88431,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:55:46+00:00",
+    "text": "Магия календарика 🤷🏻‍♂️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88430,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:55:23+00:00",
+    "text": "Хрустальный. Так я не сотрудник, это календарик друзья подарили",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о календарике, подарок от друзей.",
+      "keywords": [
+        "календарик",
+        "подарок",
+        "друзья"
+      ]
+    }
+  },
+  {
+    "id": 88429,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:54:57+00:00",
+    "text": "А я вообще ничего не вижу, надпись только какая-то - \"изображение под грифом \"ДСП\" доступно только сотрудникам\"\nЧто за шар?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает недовольство из-за недоступности информации.",
+      "keywords": [
+        "недоступность",
+        "информация",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 88428,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:53:58+00:00",
+    "text": "Только кредо банк сразу не оформляйте, они страшно жадные для тех, кто юзает за границей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "finance",
+      "summary": "Пользователи предупреждают о высоких комиссиях Кредо банка при использовании за границей.",
+      "keywords": [
+        "Кредо банк",
+        "жадность",
+        "комиссии",
+        "за границей"
+      ]
+    }
+  },
+  {
+    "id": 88427,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:53:18+00:00",
+    "text": "Посмотрите сами, может что ещё увидите, я малость подслеповат :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенный запрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88426,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:53:17+00:00",
+    "text": "трансграничная передача?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное и неинформативное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88425,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:53:12+00:00",
+    "text": "Можно находясь тут все оформить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88424,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:52:50+00:00",
+    "text": "Я вижу в своем шаре, что можно. Только осторожно 😎",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88423,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:52:29+00:00",
+    "text": "в Грузию смотаться?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост с вопросом о поездке в Грузию.",
+      "keywords": [
+        "Грузия",
+        "поездка",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88422,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:52:03+00:00",
+    "text": "Кстати, я правильно понимаю, что на том же ПК, где был однажды клод заблочен, уже бесполезно пытаться новый регистрировать?) Без смены пользователя / переустановки ОС по крайней мере",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение блокировки аккаунта на ПК без возможности регистрации нового.",
+      "keywords": [
+        "блокировка",
+        "аккаунт",
+        "регистрация"
+      ]
+    }
+  },
+  {
+    "id": 88421,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:52:02+00:00",
+    "text": "Не проще выпустить именной мастеркард? В сервисах wanttopay/плати по миру и др. курс обмена заоблачный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение выпуска именной мастеркард и высоких курсов обмена в сервисах.",
+      "keywords": [
+        "мастеркард",
+        "обмен",
+        "курс"
+      ]
+    }
+  },
+  {
+    "id": 88420,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:52:02+00:00",
+    "text": "если потребуется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неполное или неясное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88419,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:51:59+00:00",
+    "text": "доработайте самостоятельно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88418,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:51:50+00:00",
+    "text": "ловите парсер карточек судов",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Поделиться парсером для карточек судов.",
+      "keywords": [
+        "парсер",
+        "карточки",
+        "суды",
+        "дата",
+        "инструмент"
+      ]
+    }
+  },
+  {
+    "id": 88417,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:50:48+00:00",
+    "text": "Тут не угадаешь, но 9 из 10 заблокированных платили именно финтехом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "finance",
+      "summary": "Большинство заблокированных пользователей финансировали свои действия через финтех-сервисы.",
+      "keywords": [
+        "финтех",
+        "заблокированные",
+        "платежи",
+        "новость",
+        "анализ"
+      ]
+    }
+  },
+  {
+    "id": 88416,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:50:18+00:00",
+    "text": "Видимо, да. Но коллега один уже больше года пользуется. И скачет по впн) Про блокировки не слышал даже.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение использования VPN коллегой.",
+      "keywords": [
+        "VPN",
+        "блокировки",
+        "коллега"
+      ]
+    }
+  },
+  {
+    "id": 88415,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:50:08+00:00",
+    "text": "Коллега, не поленитесь, сделайте карту банка другой страны. Иначе все пляски с бубном пойдут по боку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос на создание карты банка другой страны.",
+      "keywords": [
+        "карта",
+        "банк",
+        "другая страна",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 88414,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:49:33+00:00",
+    "text": "Любой финтех палево",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88413,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:49:26+00:00",
+    "text": "самый оригинальный сайт у црс сочи. угадайте модель",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "сайт",
+        "ЦРС",
+        "Сочи",
+        "оригинальность"
+      ]
+    }
+  },
+  {
+    "id": 88411,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:47:04+00:00",
+    "text": "платипомиру, Сингапур\nи сингапурский чистый прокси\nпри оплате еще и танец с бубном в виде смены региона системы и времени выполнял",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с оплатой и настройками в Сингапуре.",
+      "keywords": [
+        "Сингапур",
+        "оплата",
+        "прокси",
+        "регион",
+        "время"
+      ]
+    }
+  },
+  {
+    "id": 88410,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:45:43+00:00",
+    "text": "самая блатная капча в мировушках спб — гугловская. хотя ее не видно на странице",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение капчи от Google в Санкт-Петербурге.",
+      "keywords": [
+        "капча",
+        "Google",
+        "Санкт-Петербург",
+        "интернет",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 88409,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:44:37+00:00",
+    "text": "хз не вникал в карточки. парсил все дела с ответчиками и актами",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится несодержательной информацией о процессе работы.",
+      "keywords": [
+        "карточки",
+        "ответчики",
+        "акты"
+      ]
+    }
+  },
+  {
+    "id": 88408,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:43:29+00:00",
+    "text": "УИД дал парсеру и вперде",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный контент без выраженной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88407,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:43:10+00:00",
+    "text": "Так это для поиска. А для карточек-то нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение отсутствия карточек для поиска.",
+      "keywords": [
+        "поиск",
+        "карточки",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 88406,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:42:29+00:00",
+    "text": "волшебные циферки",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88405,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:41:24+00:00",
+    "text": "Неа",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88404,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:41:06+00:00",
+    "text": "Карта финтех?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неопределенный пост, возможно, с рекламным содержанием.",
+      "keywords": [
+        "финтех",
+        "карта",
+        "неопределенность"
+      ]
+    }
+  },
+  {
+    "id": 88403,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:39:43+00:00",
+    "text": "в сою капча на каждый запрос насколько помню. как и в фссп",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминание о капче в контексте запросов.",
+      "keywords": [
+        "капча",
+        "запрос",
+        "фссп"
+      ]
+    }
+  },
+  {
+    "id": 88402,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:32:11+00:00",
+    "text": "Если там не стомильярдов дел в мониторинге, не будет там такой интенсивности запросов, чтобы на капчу нарваться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации и является неформальным комментарием.",
+      "keywords": [
+        "мониторинг",
+        "запросы",
+        "капча"
+      ]
+    }
+  },
+  {
+    "id": 88399,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:31:28+00:00",
+    "text": "А нафига капчу?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит вопрос о капче.",
+      "keywords": [
+        "капча",
+        "вопрос",
+        "пользователь"
+      ]
+    }
+  },
+  {
+    "id": 88398,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:30:25+00:00",
+    "text": "у коллеги вчера заблочили аккаунт, у нее пару дней не заходил клод в браузер, крутил капчу постоянно. она ставит галочку, а капча заново появляется. На след день приходит письмо счастья. \nПри этом она верификацию с паспортом приходила и оплатила подписку. И все равно потеряла аккаунт, деньги не вернули",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь столкнулся с проблемой блокировки аккаунта и не возврата средств.",
+      "keywords": [
+        "блокировка",
+        "аккаунт",
+        "капча",
+        "верификация",
+        "подписка"
+      ]
+    }
+  },
+  {
+    "id": 88397,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:28:09+00:00",
+    "text": "Упс. Первый агент нашёл важное: на части судов новая вёрстка карточки (v4) с другими параметрами URL (_uid, _deloId), а на некоторых поиск может быть закрыт капчей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обновление вёрстки карточки судов и проблемы с капчей на некоторых из них.",
+      "keywords": [
+        "вёрстка",
+        "суды",
+        "URL",
+        "капча",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 88396,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:19:01+00:00",
+    "text": "У меня wanttopay карта.  США",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Информация о карте без значимого контекста.",
+      "keywords": [
+        "карта",
+        "США",
+        "финансовые услуги"
+      ]
+    }
+  },
+  {
+    "id": 88395,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:18:10+00:00",
+    "text": "Поиск по ФИО/номеру на сайтах судов блокируется капчей, но поиск по УИД и дневные списки заседаний доступны свободно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Доступ к поиску по ФИО и номеру на сайтах судов ограничен капчей.",
+      "keywords": [
+        "суды",
+        "поиск",
+        "капча",
+        "УИД",
+        "заседания"
+      ]
+    }
+  },
+  {
+    "id": 88394,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:17:49+00:00",
+    "text": "В личке, оказывается, платно)) Да просто поинтересоваться хотел, с какого айпи заходили и каким платежным средством пользовались. А то я себе специально под Сингапур всё сформировал... Но не помогло.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь задает вопрос о платных услугам и оплате.",
+      "keywords": [
+        "платно",
+        "айпи",
+        "платежное средство",
+        "Сингапур"
+      ]
+    }
+  },
+  {
+    "id": 88393,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:17:23+00:00",
+    "text": "а как он капчу обходить собрался 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит шутливый комментарий о методах обхода капчи.",
+      "keywords": [
+        "капча",
+        "обход",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 88392,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:14:58+00:00",
+    "text": "можно в личке, можно тут)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нет значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88391,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:14:48+00:00",
+    "text": "Можно у вас в личке пару вопросов уточнить?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на личную переписку.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88390,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:11:37+00:00",
+    "text": "ну вроде что-то придумал",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённое утверждение без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88389,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:11:14+00:00",
+    "text": "да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Отсутствует содержание.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88388,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:09:53+00:00",
+    "text": "Это в смысле вот здесь написали - использую только Клод Код?))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88387,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:06:51+00:00",
+    "text": "новая волна?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный контекст поста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88386,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:06:19+00:00",
+    "text": "Ну что, приехали) 2 недели продержался",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неинформативный пост о сроках пребывания.",
+      "keywords": [
+        "приезд",
+        "сроки",
+        "неинформативный"
+      ]
+    }
+  },
+  {
+    "id": 88385,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:05:38+00:00",
+    "text": "Мне токены некуда девать. Сейчас гляну. Если подскажет, то отпишусь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь ищет возможность использования токенов.",
+      "keywords": [
+        "токены",
+        "использование",
+        "поиск"
+      ]
+    }
+  },
+  {
+    "id": 88384,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T08:02:11+00:00",
+    "text": "Нейрогастарбайтеры: OpenAI уволила сотрудников за использование ИИ при обучении ИИ https://share.google/xTM72FXjbiESvJEed",
+    "views": 192,
+    "forwards": 2,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "OpenAI уволила сотрудников за применение ИИ для обучения других ИИ.",
+      "keywords": [
+        "OpenAI",
+        "увольнение",
+        "ИИ",
+        "обучение"
+      ]
+    }
+  },
+  {
+    "id": 88383,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:55:28+00:00",
+    "text": "Величайший будет после мидтёрмов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное заявление без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88382,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:54:58+00:00",
+    "text": "величайший",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88381,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:44:00+00:00",
+    "text": "Трамп переименовал искусственный интеллект в «суперинтеллект»\n\nНа Генассамблее ООН президент США заявил, что слово «искусственный» делает интеллект «фальшивым». В официальных документах США будут использовать новое название.\n\nЭксперты отмечают, что SI вряд ли приживётся, так как термин ASI уже существует и используется для более мощных систем, которые пока невозможны.\n\nrozetked.me/news/48479",
+    "views": 61077,
+    "forwards": 477,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "Трамп переименовал искусственный интеллект в 'суперинтеллект' и заявил, что это изменение отражает его мнение о фальшивости термина 'искусственный'.",
+      "keywords": [
+        "Трамп",
+        "искусственный интеллект",
+        "суперинтеллект",
+        "Генассамблея ООН",
+        "ASI"
+      ]
+    }
+  },
+  {
+    "id": 88380,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:44:00+00:00",
+    "text": "Такие дела",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88379,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:42:26+00:00",
+    "text": "ну тут все зависит от ваших конкретных задач. Я это вижу так:\n1. У вас должна быть какая-то база данных со ссылками на карточки дел (гугл-таблица хотя бы);\n2. Далее описываете методологию поиска, как бы человек проверял сайты судов, даете примеры с разными доменами (московские суды, региональные суды);\n3. Формируете и согласовываете с нейросетью ТЗ на разработку;\n4. Реализуете.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Предложение по разработке системы для поиска карточек дел в судах.",
+      "keywords": [
+        "поиск",
+        "суды",
+        "разработка",
+        "методология",
+        "ТЗ"
+      ]
+    }
+  },
+  {
+    "id": 88378,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:33:10+00:00",
+    "text": "есть такое",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88377,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:28:51+00:00",
+    "text": "А можете поделиться хотя бы идеями в каком направлении копать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на идею о направлениях для исследований.",
+      "keywords": [
+        "идеи",
+        "исследования",
+        "направления"
+      ]
+    }
+  },
+  {
+    "id": 88375,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:18:24+00:00",
+    "text": "как раз занимаюсь разработкой такого приложения для внутреннего корпоративного пользования. Парсится достаточно успешно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение разработки приложения для корпоративного использования.",
+      "keywords": [
+        "разработка",
+        "приложение",
+        "корпоративное",
+        "парсинг"
+      ]
+    }
+  },
+  {
+    "id": 88374,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:12:23+00:00",
+    "text": "Ага, сейчас еще раз попробую и если опять также - напишу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь планирует повторить попытку и сообщить о результате.",
+      "keywords": [
+        "попытка",
+        "результат"
+      ]
+    }
+  },
+  {
+    "id": 88373,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:11:49+00:00",
+    "text": "[https://t.me/+YYxI47gC_1VmMjli](https://t.me/+YYxI47gC_1VmMjli)\nНапишите пожалуйста  обратную связь",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос обратной связи.",
+      "keywords": [
+        "обратная связь",
+        "опрос",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 88372,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:10:20+00:00",
+    "text": "Я кстати вчера пробовал оплатить, чтобы плагин допилить, а дважды увы касса сказала \"не приму\" обычный советский т-банк",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с оплатой плагина через советский банк.",
+      "keywords": [
+        "оплата",
+        "плагин",
+        "банк",
+        "проблемы",
+        "касса"
+      ]
+    }
+  },
+  {
+    "id": 88371,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:09:18+00:00",
+    "text": "А я один не могу авторизоваться?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сообщает о проблемах с авторизацией.",
+      "keywords": [
+        "авторизация",
+        "проблемы",
+        "пользователь"
+      ]
+    }
+  },
+  {
+    "id": 88369,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:02:37+00:00",
+    "text": "Коллеги с урала и восточной сибири, у нас для вас подарок) завтра дальний восток",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама подарка для коллег.",
+      "keywords": [
+        "подарок",
+        "коллеги",
+        "дальний восток"
+      ]
+    }
+  },
+  {
+    "id": 88368,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T07:00:49+00:00",
+    "text": "Коллеги, а кто-нибудь научился парсить СОЮ на предмет изменений в карточках?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о парсинге изменений в карточках СОЮ.",
+      "keywords": [
+        "парсинг",
+        "СОЮ",
+        "изменения",
+        "карточки",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88366,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:27:38+00:00",
+    "text": "Считала собственный тайминг: вручную . ИИ сократило время выполнения задач ( которые молно сократить ) на треть. Причём это бесплатный дип сик,  в чпт  еще быстрее ( пока поминутно не считала)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "ИИ значительно сократил время выполнения задач.",
+      "keywords": [
+        "ИИ",
+        "время",
+        "задачи",
+        "сокращение",
+        "доступность"
+      ]
+    }
+  },
+  {
+    "id": 88365,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:25:27+00:00",
+    "text": "Обратите внимание, похоже GPT-6 Sol дешевле и эффективнее 5.6 Sol, но послабее неё, по крайней мере по метрикам бенчмарка DeepSWE 1.1\n\nhttps://fixupx.com/ns123abc/status/2102474380332654608?s=20",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Новый GPT-6 Sol дешевле и эффективнее, но уступает по метрикам старой версии.",
+      "keywords": [
+        "GPT-6",
+        "DeepSWE",
+        "бенчмарки",
+        "эффективность",
+        "AI"
+      ]
+    }
+  },
+  {
+    "id": 88364,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:20:34+00:00",
+    "text": "Да. Сам антропик пишет, что избавили опуса от велеречивости",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Антропик сообщает об улучшениях в своем продукте.",
+      "keywords": [
+        "антропик",
+        "улучшения",
+        "продукт"
+      ]
+    }
+  },
+  {
+    "id": 88363,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:19:59+00:00",
+    "text": "У меня такое же точно ощущение. До 5.5 бил себя по рукам и останавливал разработку, чтобы не сжечь лимиты. Сейчас нет. Плюс мне кажется что 5.5 льет меньше воды и бьет точнее в цель.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится своими впечатлениями от версии 5.5.",
+      "keywords": [
+        "разработка",
+        "5.5",
+        "впечатления",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 88362,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:18:12+00:00",
+    "text": "Я не знаю во сколько раз меньше жрёт опус, но реально стало хоть можно работать. Я даже сумел выделить время и токены на продолжение разработки, а то весь лимит стал уходить на юридическую работу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом работы с опусом.",
+      "keywords": [
+        "опус",
+        "работа",
+        "разработка",
+        "юридическая работа",
+        "токены"
+      ]
+    }
+  },
+  {
+    "id": 88360,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:15:33+00:00",
+    "text": "Это были очень муторные ручные процессы, которые с помощью Клода постепенно автоматизируются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Процессы автоматизации с помощью Клода упрощают трудоемкие задачи.",
+      "keywords": [
+        "автоматизация",
+        "Клод",
+        "технологии",
+        "процессы",
+        "упрощение"
+      ]
+    }
+  },
+  {
+    "id": 88359,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:14:28+00:00",
+    "text": "В общем получается у меня робот, который управляет процессами билинга. Сегодня ему поставлю апи телеграмма, чтобы сливать ему документацию по командировочным расходам в виде фоток, чтобы он её обрабатывал и включал в счет клиенту и в зарплатные листки юристов, которые ездили в компандииоки и тратили свои деньги",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится планами по интеграции робота с API Telegram для обработки документов.",
+      "keywords": [
+        "робот",
+        "билинг",
+        "API",
+        "Telegram",
+        "документация"
+      ]
+    }
+  },
+  {
+    "id": 88357,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:09:58+00:00",
+    "text": "Поэтому немного медленнее процесс идет, так как он сначала изучает работу срм, а потом делает спек и надстройку кода.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждается скорость работы над проектом и изучение технологии.",
+      "keywords": [
+        "работа",
+        "срм",
+        "код",
+        "процесс",
+        "спек"
+      ]
+    }
+  },
+  {
+    "id": 88356,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:04:05+00:00",
+    "text": "Ну да, примерно так и работает, только, чтобы не выдумывать процесс скрипты двигают движок срм и так мне спокойней, что получу на выходе результат который хочу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост обсуждает использование скриптов для работы с CRM.",
+      "keywords": [
+        "скрипты",
+        "CRM",
+        "процесс",
+        "результат",
+        "движок"
+      ]
+    }
+  },
+  {
+    "id": 88354,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T06:01:08+00:00",
+    "text": "Да скажите ему сделать скрипты, которые будут генерировать счет-фактуру и КП по форме, чтобы агент только заполнял поля необходимые",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос на создание скриптов для автоматизации генерации счетов.",
+      "keywords": [
+        "скрипты",
+        "счет-фактура",
+        "автоматизация"
+      ]
+    }
+  },
+  {
+    "id": 88353,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:59:54+00:00",
+    "text": "Ну и кончено самый прикол, что вся эта рутина - стандартная и я её сразу в код закатываю. Так что над срм делается надстройка, которая в принципе оптимизирует рабочие потоки срм.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о рутинной работе с кодом и оптимизации рабочих потоков в СРМ.",
+      "keywords": [
+        "оптимизация",
+        "СРМ",
+        "код",
+        "рабочие потоки",
+        "рутина"
+      ]
+    }
+  },
+  {
+    "id": 88352,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:55:55+00:00",
+    "text": "Сегодня его дообучу формировать счет фактуру, мейл со счетом фактурой и к подписанным коммерческим предложением и отправлять клиенту",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обучение системы формирования счетов и отправки клиентам.",
+      "keywords": [
+        "обучение",
+        "счет фактура",
+        "клиенты",
+        "коммерческое предложение"
+      ]
+    }
+  },
+  {
+    "id": 88351,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:52:35+00:00",
+    "text": "С срм он говорит через апи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение интеграции с CRM через API.",
+      "keywords": [
+        "CRM",
+        "API",
+        "интеграция"
+      ]
+    }
+  },
+  {
+    "id": 88350,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:52:23+00:00",
+    "text": "Раньше я ему такой прямой задачи не ставил. Ну и в этот раз просто по приколу его погнал разгребать - не думал что он так в одну каску и без дополнительного контекста вывезет. Конечно у него уже много опыта в работе с срм но я не ожидал такого быстрого результата",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение опыта коллеги с задачей в CRM.",
+      "keywords": [
+        "опыт",
+        "CRM",
+        "результат"
+      ]
+    }
+  },
+  {
+    "id": 88349,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:49:05+00:00",
+    "text": "Раньше он не мог с таким вопросом разобраться? \n\nА данные из срм он как вытащил?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный вопрос без конкретной информации.",
+      "keywords": [
+        "вопрос",
+        "данные",
+        "СРМ"
+      ]
+    }
+  },
+  {
+    "id": 88348,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:47:06+00:00",
+    "text": "Тут кстати Опус очень сильно и приятно удивил.  Я его натравил на мой СРМ и попросил провести аудит выполненных и незабиленных действий. Буквально промт из 4-5 слов. Он мне отчет в HTML гиперссылками на сами действия и на подписанные коммерческие предложения на эти действия предоставил.  По деньгам наловили не много, но поразила точность понимание контекста нашей работы. Я его конечно по срм гоняю уже с мая, но такого прорыва я не наблюдал. Теперь сопоставил этот опыт с вашими коментами и вижу что, действительно сильный прорыв",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Опус продемонстрировал высокий уровень точности в аудите СРМ с помощью простого запроса.",
+      "keywords": [
+        "Опус",
+        "аудит",
+        "СРМ",
+        "технологии",
+        "прорыв"
+      ]
+    }
+  },
+  {
+    "id": 88347,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:30:35+00:00",
+    "text": "Смотря как обновят. Если до уровня Луны, то потянет. А пока можно использовать Луну",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о возможных обновлениях до уровня Луны.",
+      "keywords": [
+        "обновления",
+        "Луна",
+        "уровень"
+      ]
+    }
+  },
+  {
+    "id": 88346,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:28:54+00:00",
+    "text": "Коллеги, а есть измеримая разница между max и exhight? На фейбле я её не увидел.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о различиях между max и exhight на платформе фейбла.",
+      "keywords": [
+        "max",
+        "exhight",
+        "фейбл",
+        "разница",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 88345,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:22:14+00:00",
+    "text": "У меня extra hight стоит. Соннет для всей технической работы: поиски, ocr, создание файлов и так далее. Сейчас хайку обновят, думаю, может им попробовать совсем техническую работу? Думаю, уже потянет.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение возможностей использования хайку для технической работы.",
+      "keywords": [
+        "hiako",
+        "техническая работа",
+        "OCR",
+        "поиски",
+        "файлы"
+      ]
+    }
+  },
+  {
+    "id": 88344,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:18:41+00:00",
+    "text": "Пока вписываюсь в лимиты. Стараюсь, конечно больше 3-4 параллельных сессий не открывать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личный опыт пользователя о лимитах сессий.",
+      "keywords": [
+        "лимиты",
+        "сессии",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 88343,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T05:17:46+00:00",
+    "text": "Я на Максе по умолчанию сижу. На соннет перехожу для рутины",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь сообщает о смене сервиса.",
+      "keywords": [
+        "Макс",
+        "соннет",
+        "смена",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 88342,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T04:39:50+00:00",
+    "text": "Он, вроде как, на максе есть в 1,5 раз больше, чем предыдущий, пишут.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный пост без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88341,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T03:16:16+00:00",
+    "text": "@kirill_trubitsyn1975",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88339,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T01:18:48+00:00",
+    "text": "@PureLSD там Firecrawl новый проект начали с понтом на морде сдать Александрийскую библиотеку для агентов \n\nhttps://fixupx.com/firecrawl/status/2102426246235775068?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминание о новом проекте Firecrawl без конкретной информации.",
+      "keywords": [
+        "Firecrawl",
+        "проект",
+        "Александрийская библиотека"
+      ]
+    }
+  },
+  {
+    "id": 88338,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:40:27+00:00",
+    "text": "ладно завтра (седня) проверю еще на доках",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88337,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:37:28+00:00",
+    "text": "Ну если честно такая девопсная работа по токенам не сильно нагружена",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о низкой нагрузке на девопсную работу с токенами.",
+      "keywords": [
+        "девопс",
+        "токены",
+        "нагрузка"
+      ]
+    }
+  },
+  {
+    "id": 88336,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:32:34+00:00",
+    "text": "все четко мне настроил,  уже замучился айпишники покупать новые. ркн сегодня снова не ваш вечер.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь выражает недовольство работой РКН и проблемами с покупкой новых IP-адресов.",
+      "keywords": [
+        "РКН",
+        "айпишники",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 88335,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:31:01+00:00",
+    "text": "ну у меня х5 не х20. мне кажется раньше она бы больше поела",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь высказывает мнение о недостаточной эффективности чего-то.",
+      "keywords": [
+        "мнение",
+        "эффективность",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 88334,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:30:51+00:00",
+    "text": "Обмануть хотел, каналья",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный и неинформативный пост.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88333,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:30:36+00:00",
+    "text": "Ну вот, а ты говоришь не ест",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неподтвержденное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88332,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:29:58+00:00",
+    "text": "я уже 3 часа сижу в 1 окно без компакта делаю обход блокировок и связь всех устройств. потратилось 2 %",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом обхода блокировок.",
+      "keywords": [
+        "обход блокировок",
+        "связь",
+        "устройства"
+      ]
+    }
+  },
+  {
+    "id": 88331,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:28:51+00:00",
+    "text": "Кажется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88330,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:28:03+00:00",
+    "text": "опус что то вообще не ест лимиты или мне кажется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит несущественный разговор.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 88329,
+    "channel_id": "docsllm",
+    "date": "2026-09-23T00:04:31+00:00",
+    "text": "У меня показал 3.5х вроде. Или это фейбле макс было",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]

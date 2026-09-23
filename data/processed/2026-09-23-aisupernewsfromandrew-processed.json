@@ -1,0 +1,46 @@
+[
+  {
+    "id": 781,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-09-23T11:24:54+00:00",
+    "text": "Инженер рассказал о 13-часовых сменах ради нажатия \"Enter\" в Claude Code - Shazoo https://share.google/OUu7ZOhudcrhO4Apz",
+    "views": 30,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Инженер поделился опытом работы 13-часовых смен на проекте Claude Code.",
+      "keywords": [
+        "инженер",
+        "Claude Code",
+        "работа",
+        "смены",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 780,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-09-23T08:02:02+00:00",
+    "text": "Нейрогастарбайтеры: OpenAI уволила сотрудников за использование ИИ при обучении ИИ https://share.google/xTM72FXjbiESvJEed",
+    "views": 192,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "OpenAI уволила сотрудников за несанкционированное использование ИИ в процессе обучения.",
+      "keywords": [
+        "OpenAI",
+        "увольнение",
+        "ИИ",
+        "обучение",
+        "анализ"
+      ]
+    }
+  }
+]
