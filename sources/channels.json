@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "channels": [
     {
       "id": "allthingslegal",
@@ -1512,6 +1512,20 @@
       "signal_ratio": null,
       "source_folder": "Ai",
       "notes": "Импортирован из папки «Ai» (sync)"
+    },
+    {
+      "id": "medical_secrecy_tg",
+      "name": "ВРАЧЕБНАЯ ТАЙНА",
+      "url": "https://t.me/medical_secrecy_tg",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "здорфинансы"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Здор+Финансы",
+      "notes": "Импортирован из папки «Здор+Финансы» (sync)"
     }
   ],
   "schema": {
