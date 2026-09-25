@@ -1,0 +1,24 @@
+[
+  {
+    "id": 10195,
+    "channel_id": "uslegalnews",
+    "date": "2026-09-25T00:38:53+00:00",
+    "text": "Опять двадцать пять: журналистам CNN и MSNOW [не разрешили](https://www.forbes.com/sites/antoniopequenoiv/2026/09/24/cnn-and-ms-now-barred-from-white-house-state-dinner-despite-judge-lifting-ban/) освещать прибытие гостей на ужин в честь Си. Наверное завтра случится продолжение суда 👀\n\nКстати, среди гостей (вот полный [список](https://x.com/kaitlancollins/status/2103268120127299963?s=20) для любопытных) председатель Верховного суда Робертс и судьи Барретт и Кавано с супругами.",
+    "views": 2770,
+    "forwards": 14,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "politics",
+      "summary": "CNN и MSNOW не получили разрешение на освещение ужина в честь Си, что может повлиять на дальнейшие судебные разбирательства.",
+      "keywords": [
+        "CNN",
+        "MSNOW",
+        "ужин",
+        "суд",
+        "гости"
+      ]
+    }
+  }
+]

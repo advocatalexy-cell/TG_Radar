@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1018,
+    "channel_id": "masha_davay",
+    "date": "2026-09-24T15:20:01+00:00",
+    "text": "В магазине-партнере IntimShop [стартовал флэшсейл](https://www.intimshop.ru/items/collections/view/646/?partner=17733&erid=2W5zFGszQZX&utm_source=telegram&utm_medium=mashadavay&utm_campaign=missbi) на лучший кролик всех времен и народов – Miss Bi от Fun Factory. Флэшсейл – это очень большая скидка и ограниченное число товара. Пока вы делаете [заказ](https://www.intimshop.ru/items/collections/view/646/?partner=17733&erid=2W5zFGszQZX&utm_source=telegram&utm_medium=mashadavay&utm_campaign=missbi), расскажу нюансы. Это не совсем тот самый легендарный Мисс Би. Бренд Fun Factory выкупила фирма Satisfyer. Производство из Германии перенесли в Китай. Игрушка стала дешевле, но и немного другой. Я провела для вас сравнительный анализ прошлой и нынешней модели. Смотрите обзор в видео.\nНапомню, что на флэшсейле дополнительные скидки не действуют. На все остальное скидка 10% по промокоду masha_davay\n\nРеклама, ИП Железняк Д.И., ИНН 773101439763, erid:  2W5zFGszQZX",
+    "views": 3972,
+    "forwards": 9,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В магазине IntimShop стартовал флэшсейл на игрушку Miss Bi от Fun Factory.",
+      "keywords": [
+        "флэшсейл",
+        "партнер",
+        "распродажа",
+        "игрушка",
+        "скидка"
+      ]
+    }
+  }
+]
