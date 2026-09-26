@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1157,
+    "channel_id": "nikolay_khl",
+    "date": "2026-09-26T07:41:41+00:00",
+    "text": "Протестировал только что вышедший Claude Opus 5.5\n\nВывод такой: кажется, GPT-6 Astra больше не нужна 😱\n\nПосмотрите сами, на что способна эта штука: https://www.youtube.com/watch?v=nTejIUf_BCk\n\nP.S.: ссылка на игрушку в первом комментарии к этому посту, пробуйте!",
+    "views": 1937,
+    "forwards": 26,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Автор делится впечатлениями от тестирования Claude Opus 5.5.",
+      "keywords": [
+        "Claude Opus 5.5",
+        "тестирование",
+        "технологии",
+        "GPT-6"
+      ]
+    }
+  }
+]

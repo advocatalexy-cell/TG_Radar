@@ -20,5 +20,25 @@
         "размышления"
       ]
     }
+  },
+  {
+    "id": 2423,
+    "channel_id": "alexeynikiforov_legalmanagement",
+    "date": "2026-09-25T15:08:24+00:00",
+    "text": "Ровно сутки до старта. И продано 99 билетов. Есть еще немного. Будем супер рады вам завтра!",
+    "views": 471,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс мероприятия с продажей билетов.",
+      "keywords": [
+        "билеты",
+        "мероприятие",
+        "анонс"
+      ]
+    }
   }
 ]

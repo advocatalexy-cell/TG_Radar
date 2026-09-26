@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2794,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-26T10:22:57+00:00",
+    "text": "🔔 Новые участники, пройдите проверку в личке 👇\n\nОжидают проверки: 1",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о проверке новых участников в чате.",
+      "keywords": [
+        "проверка",
+        "участники",
+        "чат"
+      ]
+    }
+  }
+]

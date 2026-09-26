@@ -14,5 +14,49 @@
       "summary": "Не содержит значимого содержания.",
       "keywords": []
     }
+  },
+  {
+    "id": 4924,
+    "channel_id": "tips_ai",
+    "date": "2026-09-25T17:24:02+00:00",
+    "text": "Кстати в последней обнове Claude Code добавили настройку чтобы вырубить соавторство клода в git-коммитах и PR\n\nВыключается в .claude/settings.json:\n{\n  \"attribution\": false\n}\n\nЭто можно было сделать и раньше, но на сколько знаю не всегда срабатывало и вотермарка всё равно проскакивала\n\nДля меня здесь только сомнительна этическая часть, правильно ли скрывать что твой код пишет агент, а не ты? 🍿\n\n@tips_ai",
+    "views": 2882,
+    "forwards": 97,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "В обновлении Claude Code добавили возможность отключать соавторство при коммитах и PR.",
+      "keywords": [
+        "Claude Code",
+        "соавторство",
+        "git",
+        "обновление",
+        "этика"
+      ]
+    }
+  },
+  {
+    "id": 4923,
+    "channel_id": "tips_ai",
+    "date": "2026-09-25T14:18:39+00:00",
+    "text": "Недавно [Cloud.ru](https://cloud.ru/agents-space?utm_source=tg&utm_medium=im&utm_campaign=tipsai_prd_agsp_std_txt_smm_pmm) запустил Agents Space — пространство, где вы легко можете развернуть ИИ-агента. \n\nВся работа идёт в удобном чате, и к агенту подключаются сервисы для разработки, электронная почта, календарь и облачное хранилище.\n\nВнутри сервиса уже есть готовые агенты — среди них OpenClaw и NemoClaw. А ещё можно создать собственного под конкретные задачи.\n\nСерверы, модели и фреймворки при этом настраивать не нужно.\n\nСоздаём [личного ИИ-агента тут](https://cloud.ru/agents-space?utm_source=tg&utm_medium=im&utm_campaign=tipsai_prd_agsp_std_txt_smm_pmm)",
+    "views": 3265,
+    "forwards": 52,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Cloud.ru запустил новое пространство для развертывания ИИ-агентов.",
+      "keywords": [
+        "Cloud.ru",
+        "ИП-агенты",
+        "Agents Space",
+        "разработка",
+        "технологии"
+      ]
+    }
   }
 ]
