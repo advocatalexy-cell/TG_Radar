@@ -1,0 +1,83 @@
+[
+  {
+    "id": 22364,
+    "channel_id": "deepseek_community",
+    "date": "2026-09-27T13:53:50+00:00",
+    "text": "Сайт для родителей и детей https://gramotinho.kick.sh/index.html\n\n1. Единственное место, где можно бесплатно детям учить слоги https://gramotinho.kick.sh/reading.html\n\n2. Сайт с глубокой педагогической теорией https://gramotinho.kick.sh/articles.html\n\n3. Отобранными мультфильмами https://gramotinho.kick.sh/cinema.html \n4. Шедеврами живописи https://gramotinho.kick.sh/art.html\n\n5. Гениальной читкой поэзии https://gramotinho.kick.sh/poetry.html\n\n6. И знакомство с великими личностями отечества https://gramotinho.kick.sh/heroes.html\n\n7. Плюс ироническая игра для мамаш Лисичка-истеричка. \n\nВсе сделано с любовью, без коммерческой составляющей.\n\nНа 100% вайбкодинг дипсика человека, для которого слово код - это код от подъезда",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама сайта для родителей и детей с образовательными ресурсами.",
+      "keywords": [
+        "образование",
+        "дети",
+        "родители",
+        "ресурсы",
+        "реферальный"
+      ]
+    }
+  },
+  {
+    "id": 22357,
+    "channel_id": "deepseek_community",
+    "date": "2026-09-27T05:04:54+00:00",
+    "text": "Трамп и Си, договорились о новом названии, Super Intelligence (SI), вместо AI.\nВидимо в честь Си.... 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Трамп и Си придумали новое название для искусственного интеллекта.",
+      "keywords": [
+        "Трамп",
+        "Си",
+        "название",
+        "искусственный интеллект"
+      ]
+    }
+  },
+  {
+    "id": 22356,
+    "channel_id": "deepseek_community",
+    "date": "2026-09-27T04:04:16+00:00",
+    "text": "о, SEV Moroz в red team это сильно. двуязычный вывод на базе hermes реально удобно. sentx ai тоже умеет держать контекст между языками, если надо будет сравнить подходы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "SEV Moroz в red team и двуязычные возможности Hermes обеспечивают удобство в работе с контекстом.",
+      "keywords": [
+        "SEV Moroz",
+        "red team",
+        "Hermes",
+        "двуязычный вывод",
+        "Sentx AI"
+      ]
+    }
+  },
+  {
+    "id": 22354,
+    "channel_id": "deepseek_community",
+    "date": "2026-09-27T03:18:26+00:00",
+    "text": "Это сейчас так, а были и другие времена... 🙂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]

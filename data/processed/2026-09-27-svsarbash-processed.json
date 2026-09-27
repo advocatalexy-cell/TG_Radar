@@ -1,0 +1,77 @@
+[
+  {
+    "id": 4250,
+    "channel_id": "svsarbash",
+    "date": "2026-09-27T13:46:27+00:00",
+    "text": "❓❓❓❓❓Предлагайте ваши вопросы, СВ выберет из них только пять и предложит свои ответы в Римке.                                                                                      `2 октября (пт) в 19:00 (мск)`.                                                                                                 Есть вопросы про вопросы? [Пишите.](https://t.me/sarbashsv)",
+    "views": 33,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос о вопросах с возможностью задать свои.",
+      "keywords": [
+        "опрос",
+        "вопросы",
+        "СВ",
+        "Римка",
+        "2 октября"
+      ]
+    }
+  },
+  {
+    "id": 4247,
+    "channel_id": "svsarbash",
+    "date": "2026-09-27T13:13:14+00:00",
+    "text": "Три клика и вы у нас в Римке! ⬇️ [Поехали!](https://disk.yandex.ru/d/7eN5O3EcyJls-w)",
+    "views": 59,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекламный пост без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 4246,
+    "channel_id": "svsarbash",
+    "date": "2026-09-27T13:13:03+00:00",
+    "text": "Три клика и вы у нас в Римке! ⬇️ [Поехали!](https://disk.yandex.ru/d/tZ_jS8GNwUC5KQ)",
+    "views": 56,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама или ссылка на ресурс.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 4245,
+    "channel_id": "svsarbash",
+    "date": "2026-09-27T05:38:18+00:00",
+    "text": "#КнК 🔥 Сегодня до полуночи **для всех** римкоспособных!                                                                                                       Видеозапись этого обсуждения доступна для просмотра в Библиотеке Римки (2 этаж). **Бесплатно.** 🆓 Просто заходите и посмотрите 🎥                                                                                                                                              ⚠️ Кому нужно содействие, чтобы попасть в Римку - [обращайтесь](https://t.me/sarbashsv) без колебаний ко мне.",
+    "views": 136,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Видеозапись обсуждения доступна для просмотра бесплатно.",
+      "keywords": [
+        "Римка",
+        "видеозапись",
+        "бесплатно",
+        "обсуждение"
+      ]
+    }
+  }
+]

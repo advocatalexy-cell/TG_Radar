@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "channels": [
     {
       "id": "allthingslegal",
@@ -60,7 +60,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»",
       "source_folder": "Ai"
     },
@@ -186,7 +186,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»",
       "source_folder": "Ai"
     },
@@ -263,7 +263,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.5,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»",
       "source_folder": "Ai"
     },
@@ -543,7 +543,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -669,7 +669,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -823,7 +823,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.5,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -935,7 +935,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -1215,7 +1215,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "source_folder": "Ai",
       "notes": "Импортирован из папки «Ai» (sync)"
     },
