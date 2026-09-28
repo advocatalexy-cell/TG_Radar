@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2066,
+    "channel_id": "neural_houses",
+    "date": "2026-09-28T11:04:09+00:00",
+    "text": "🎨 **Челлендж: превращаем эмодзи в картинку**\n**                                                                                                                                                                                                                           Друзья, привет! Запускаем новый челлендж** 📣\n                                                                                                                                                                                                                              Берём одинаковый набор эмодзи и смотрим, как разные ИИ интерпретируют их и собирают в одну сцену.\n__                                                                                                                                                                                                                                   Ваша задача — протестировать этот промпт__ 👇\n```Turn these emojis into a single coherent image:\n\n🤖📱🧠💻🌐\n\nUse all five emojis as visual inspiration and connect them into one scene. Interpret their meaning creatively — do not simply place the emoji symbols in the image.\n\nDo not add any text, captions, or explanations.\n\nPhotorealistic, cinematic, highly detailed, natural lighting, visual storytelling.```\n\n**Делитесь результатами в комментариях и пишите, через какую ИИ прогоняли промпт** 👇",
+    "views": 439,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запуск нового челленджа по интерпретации эмодзи в картины с помощью ИИ.",
+      "keywords": [
+        "челлендж",
+        "эмодзи",
+        "ИИ",
+        "картинка",
+        "творчество"
+      ]
+    }
+  },
+  {
+    "id": 2065,
+    "channel_id": "neural_houses",
+    "date": "2026-09-28T06:01:32+00:00",
+    "text": "**Завтра будем увольнять отдел** 🙂\n\nЭто Кирилл. **Завтра, 29 сентября, в 13:00 МСК** соберу в прямом эфире **ИИ-команду из четырёх сотрудников**: аналитик изучит рынок, копирайтер напишет оффер и скрипт продаж, дизайнер сделает сайт с пустого экрана, а менеджер на **новинке ChatGPT Voice** голосом примет звонок клиента — и мы все вместе попробуем сорвать ему продажу.\n\nЭто и есть работа промпт-инженера, **за которую компании платят и зовут на удалёнку**. Наши студенты уже работают в профессии, а через Карьерный центр прошло заказов на 300+ млн рублей.\n\n🎁 Тем, кто досидит до конца, расскажу, как забрать **каталог 30+ ИИ-решений** и **закрытую базу по ИИ на 500 000+ рублей**.\n\n**Завтра в 13:00 МСК, бесплатно** \n👉 [**ссылка**](https://web.zerocoder.ru/prompt-inzhener-udalenka/?utm_source=telegram&utm_medium=pokoi&utm_campaign=prompt-engineer-web-19&utm_content=announce&utm_term=28.09.26&erid=2W5zFHvtGtH)\n\nРеклама ООО \"Зерокодер\"\nИНН 9715401631",
+    "views": 715,
+    "forwards": 5,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс онлайн-события о промпт-инженерии и ИИ-решениях.",
+      "keywords": [
+        "промпт-инженер",
+        "ИИ",
+        "онлайн-событие",
+        "реклама"
+      ]
+    }
+  }
+]
