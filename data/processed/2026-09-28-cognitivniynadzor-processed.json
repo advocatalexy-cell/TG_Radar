@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1632,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-09-28T22:49:58+00:00",
+    "text": "уффф... какой контент нас с вами ждёт 🤤",
+    "views": 5489,
+    "forwards": 114,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]

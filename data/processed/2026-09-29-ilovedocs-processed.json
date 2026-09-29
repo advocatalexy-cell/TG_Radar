@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3665,
+    "channel_id": "ilovedocs",
+    "date": "2026-09-29T13:36:58+00:00",
+    "text": "Как-то мы на этой неделе зачастили с полезными материалами, даже для нас аномально) Ну да ладно) Кто хотел разобраться с Клод Дизайн – наглядная инструкция от Екатерины Николаевны  https://t.me/ot_do_suda/639",
+    "views": 328,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит ссылку на инструкцию по Клод Дизайн.",
+      "keywords": [
+        "Клод Дизайн",
+        "инструкция",
+        "полезные материалы"
+      ]
+    }
+  },
+  {
+    "id": 3664,
+    "channel_id": "ilovedocs",
+    "date": "2026-09-29T12:37:35+00:00",
+    "text": "Ну, в целом это вариант))) https://t.me/i_sklyarov/837",
+    "views": 770,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]
