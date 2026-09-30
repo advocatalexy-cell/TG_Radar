@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 4011,
+    "channel_id": "profi_kursi_gaidi",
+    "date": "2026-09-29T14:46:53+00:00",
+    "text": "**Пять ролей для вашей будущей книги**\n\nКак понять, нужен вам просто гострайтер, соавтор или целая студия, если вы хотите издать собственную книгу? В статье сравнили все варианты по ролям, правам, результату и цене ошибки, а также собрали порядок действий для проверки исполнителя. [Разберитесь в различиях ролей](https://expert-book.pro/journal/gostrayter-soavtor-ili-redaktor?utm_source=telegram&utm_medium=editorial&utm_campaign=gostrayter_soavtor_ili_redaktor&utm_content=profi_kursi_gaidi&utm_term=scheduler_pass_8).",
+    "views": 3110,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Статья сравнивает роли гострайтера, соавтора и студии для издания книги.",
+      "keywords": [
+        "гострайтер",
+        "соавтор",
+        "издание книги",
+        "ролі",
+        "порядок действий"
+      ]
+    }
+  }
+]
