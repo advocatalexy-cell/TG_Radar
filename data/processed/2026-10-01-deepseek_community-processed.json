@@ -1,0 +1,23 @@
+[
+  {
+    "id": 22400,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-01T06:03:44+00:00",
+    "text": "Подскажите где сейчас покупают api доступ для qwen и какие нормальные реальные цены. Жгу около 100м токенов в неделю. На авито просто странно ,500р за 1мм токенов , подозрительно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь ищет информацию о ценах на API доступ для qwen.",
+      "keywords": [
+        "API",
+        "qwen",
+        "цены",
+        "токены"
+      ]
+    }
+  }
+]

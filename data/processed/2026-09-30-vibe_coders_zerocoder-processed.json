@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": 2811,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-30T15:11:08+00:00",
+    "text": "Of course, you can communicate freely here in any language. Tell us a little about your project so other participants can understand what you're talking about.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Участников просят рассказать о своих проектах.",
+      "keywords": [
+        "коммуникация",
+        "проект",
+        "участники"
+      ]
+    }
+  },
+  {
+    "id": 2810,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-09-30T14:36:28+00:00",
+    "text": "Can i ask questions here in English too or its only Russian i am sorry i am new here and i am interested in getting to know if i can Connect with some vibe coders on a project i think that  i can connect with we work together and how we can improve the project, of course under free time, i am not marketing anything only creating and connecting",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь интересуется сотрудничеством с программистами.",
+      "keywords": [
+        "взаимодействие",
+        "кодеры",
+        "проект",
+        "сотрудничество",
+        "обсуждение"
+      ]
+    }
+  }
+]

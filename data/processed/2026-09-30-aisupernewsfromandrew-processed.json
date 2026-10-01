@@ -14,5 +14,71 @@
       "summary": "Неясный комментарий без сути.",
       "keywords": []
     }
+  },
+  {
+    "id": 790,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-09-30T19:03:03+00:00",
+    "text": "ChatGPT заразил людей своим языком — ИИ-клише незаметно проникли в повседневную речь https://share.google/RMHgdzqsSDPuf086t",
+    "views": 57,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "ai",
+      "summary": "Язык ИИ, в частности ChatGPT, постепенно проникает в повседневную речь людей.",
+      "keywords": [
+        "ChatGPT",
+        "язык",
+        "ИИ",
+        "повседневная речь",
+        "клише"
+      ]
+    }
+  },
+  {
+    "id": 789,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-09-30T18:01:42+00:00",
+    "text": "CMF: решения за миллисекунды без генерации токенов (аналог Jev) с открытыми весами / Хабр https://share.google/hcgKwBZ40VVGsuF4R",
+    "views": 256,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Представлены решения нового поколения для обработки данных без генерации токенов.",
+      "keywords": [
+        "CMF",
+        "технологии",
+        "обработка данных",
+        "открытые веса",
+        "Jev"
+      ]
+    }
+  },
+  {
+    "id": 788,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-09-30T15:45:22+00:00",
+    "text": "Anthropic обеспокоены возможностями GLM-5.3 / Habr https://share.google/TXqxpVrYA1e87I4Zx",
+    "views": 266,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Anthropic выражает беспокойство по поводу возможностей модели GLM-5.3.",
+      "keywords": [
+        "Anthropic",
+        "GLM-5.3",
+        "машинное обучение",
+        "опасения",
+        "искусственный интеллект"
+      ]
+    }
   }
 ]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1738,
+    "channel_id": "spb_civilist",
+    "date": "2026-10-01T11:30:55+00:00",
+    "text": "Лёше Акужинову официально присвоили звание кандидата юридических наук за [**диссертацию**](https://www.hse.ru/sci/diss/794126499) по истребованию неправомерных доходов (disgorgement of profits)\n\nЯ безмерно рад, мой дорогой друг\nПоздравляю!",
+    "views": 281,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление другу с получением звания кандидата юридических наук.",
+      "keywords": [
+        "поздравление",
+        "кандидат наук",
+        "диссертация",
+        "юриспруденция"
+      ]
+    }
+  },
+  {
+    "id": 1737,
+    "channel_id": "spb_civilist",
+    "date": "2026-10-01T11:30:55+00:00",
+    "text": "Присоединяемся к поздравлениям👏!",
+    "views": 403,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравления без содержания.",
+      "keywords": []
+    }
+  }
+]
