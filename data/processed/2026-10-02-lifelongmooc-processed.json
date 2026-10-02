@@ -1,0 +1,24 @@
+[
+  {
+    "id": 454,
+    "channel_id": "lifelongmooc",
+    "date": "2026-10-02T13:02:42+00:00",
+    "text": "**О нас пишут: ****Deptford.org**** в Londonist\n**\nСтарик Державин нас заметил: главный лондонский блог [написал](https://londonist.com/london/history/this-deptford-website-is-both-informative-and-beautiful) про мой [гиперлокальный проект](https://deptford.org/), упомянув как исторические материалы, так и визулизации данных и даже [мою рассылку](https://www.hypertextual.org/) (обязательно подпишитесь!).\n\nВ посте есть небольшое интервью со мной, где я рассказываю, как работаю над сайтом.",
+    "views": 193,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Лондонский блог написал о гиперлокальном проекте Deptford и содержании интервью с автором.",
+      "keywords": [
+        "Deptford",
+        "блог",
+        "проект",
+        "интервью",
+        "Лондон"
+      ]
+    }
+  }
+]

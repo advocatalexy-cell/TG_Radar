@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1159,
+    "channel_id": "nikolay_khl",
+    "date": "2026-10-01T14:30:09+00:00",
+    "text": "Ну что, кого еще задела вчерашняя волна банов Anthropic?",
+    "views": 3167,
+    "forwards": 54,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Вчера произошла волна банов от Anthropic, затронувшая множество пользователей.",
+      "keywords": [
+        "Anthropic",
+        "баны",
+        "технологии",
+        "искусственный интеллект"
+      ]
+    }
+  }
+]
