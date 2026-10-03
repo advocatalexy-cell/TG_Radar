@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 21294,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-02T20:56:31+00:00",
+    "text": "Привет, Юлия Волкова, МГЮА \nLegal Director, ОАЭ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит приветствие без значимого содержания.",
+      "keywords": []
+    }
+  }
+]
