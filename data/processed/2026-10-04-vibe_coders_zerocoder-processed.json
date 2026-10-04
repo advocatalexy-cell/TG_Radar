@@ -1,0 +1,182 @@
+[
+  {
+    "id": 2875,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:39:32+00:00",
+    "text": "Привет, ищу Срочно МУЖА НА ЧАС\nЗа срочность 5800р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Объявление о поиске мужа на час.",
+      "keywords": [
+        "объявление",
+        "сервисы",
+        "услуги"
+      ]
+    }
+  },
+  {
+    "id": 2874,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:36:04+00:00",
+    "text": "Привет, ищу Срочно МУЖА НА ЧАС\nЗа срочность 5800р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама услуги поиска мужа на час.",
+      "keywords": [
+        "срочно",
+        "муж",
+        "услуга",
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 2873,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:32:01+00:00",
+    "text": "Здравствуйте чат, а это что всем снесли Claude и нужен KYC?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение необходимости KYC для доступа к Claude.",
+      "keywords": [
+        "Claude",
+        "KYC",
+        "доступ",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 2870,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:27:19+00:00",
+    "text": "Привет, ищу Срочно МУЖА НА ЧАС\nЗа срочность 5800р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама услуги по поиску мужа на короткий срок.",
+      "keywords": [
+        "услуга",
+        "поиск",
+        "муж",
+        "реклама",
+        "срочно"
+      ]
+    }
+  },
+  {
+    "id": 2869,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:21:44+00:00",
+    "text": "Привет, ищу Срочно МУЖА НА ЧАС\nЗа срочность 5800р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Объявление о поиске мужских услуг на час.",
+      "keywords": [
+        "услуги",
+        "объявление",
+        "муж"
+      ]
+    }
+  },
+  {
+    "id": 2868,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:21:12+00:00",
+    "text": "Мало, минимум 20к",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неизвестное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2867,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:11:27+00:00",
+    "text": "Привет, ищу Срочно МУЖА НА ЧАС\nЗа срочность 5800р",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Объявление о поиске мужских услуг за деньги.",
+      "keywords": [
+        "услуги",
+        "объявление",
+        "поиск"
+      ]
+    }
+  },
+  {
+    "id": 2866,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:08:11+00:00",
+    "text": "yeah check @isell_store_bot for cursor, they got it there",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама и упоминание бота без значимого контента.",
+      "keywords": [
+        "реклама",
+        "бот",
+        "кursor"
+      ]
+    }
+  },
+  {
+    "id": 2865,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-04T13:05:10+00:00",
+    "text": "yo anyone got a hookup for cursor? been trying to figure out how to get it without jumping through hoops",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет способ получить доступ к продукту Cursor.",
+      "keywords": [
+        "Cursor",
+        "доступ",
+        "поиск"
+      ]
+    }
+  }
+]

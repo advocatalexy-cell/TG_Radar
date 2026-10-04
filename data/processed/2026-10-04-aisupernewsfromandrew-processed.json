@@ -1,0 +1,24 @@
+[
+  {
+    "id": 799,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-04T11:10:17+00:00",
+    "text": "Вайбкодеры, для вас: Anthropic выкатили полезнейший плагин You Should Know — он ловит коварные баги во время кодинга.\n\nОтдельный агент-проверяльщик следит сразу за двумя сторонами: замечает ошибки самого Claude и подсвечивает моменты, где накосячили уже вы.\n\nПробуем через команду:\n/plugin enable cc-plugin-you-should-know@builtin",
+    "views": 154,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Anthropic представили новый плагин для устранения ошибок в коде.",
+      "keywords": [
+        "плагин",
+        "Anthropic",
+        "ошибки",
+        "кодинг",
+        "инструмент"
+      ]
+    }
+  }
+]

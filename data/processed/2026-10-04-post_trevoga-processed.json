@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2574,
+    "channel_id": "post_trevoga",
+    "date": "2026-10-04T05:56:06+00:00",
+    "text": "Неолиберальный субъект в колесе ~~сансары~~ баланса\n\nпока я в отпуске, вышла моя статья для Правил о том, почему мы такие уставшие.\n\nhttps://www.pravilamag.ru/articles/779473-v-kolese-balansa-kak-pogonya-za-blagopoluchiem-razrushaet-nashu-jizn/",
+    "views": 1106,
+    "forwards": 43,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится своей статьей о том, почему люди устают в погоне за благополучием.",
+      "keywords": [
+        "неолиберализм",
+        "баланс",
+        "благополучие",
+        "усталость",
+        "статья"
+      ]
+    }
+  }
+]

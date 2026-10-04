@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5619,
+    "channel_id": "fastsalttimes",
+    "date": "2026-10-04T11:38:52+00:00",
+    "text": "**Давненько не было этой рубрики! **\n\n__А что у нас тут на фоне играет сегодня из приятного и относительно недавнего? А вот что:__\n\n👉 Alenia Indiesari - Nyanyian Puisi Nanoq da Kansas (2026)\n\n👉 Fiammetta Ricci - Mi tingo di blues and more... (2026)\n\n👉 Khorn theara - Blue Smoke (2026)\n\n👉 La Maruca - DRINKS AT SUNSET LOUNGE (2026)\n\n👉 Phantom Alley Swing - Pineapple Parade (2025)\n\n👉 Sungle - After The War (2025)\n\n👉 Vermos - Lomography (2026)",
+    "views": 218,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит музыкальные рекомендации.",
+      "keywords": [
+        "музыка",
+        "рекомендации",
+        "новинки"
+      ]
+    }
+  },
+  {
+    "id": 5618,
+    "channel_id": "fastsalttimes",
+    "date": "2026-10-04T00:47:16+00:00",
+    "text": "Кризис вокруг Ормузского пролива в 2026 году отличается от других крупных перебоев в энергоснабжении. На пике кризиса закрытие пролива нарушило поставки 14% мирового объема нефти и газа — более чем вдвое больше относительно масштабов нефтяных потрясений 1970-х годов и более чем в шесть раз превышает пиковый эффект войны в Украине на энергетические рынки в 2022 году. Тем не менее энергетическая система оказалась устойчивее, чем ожидалось. Удар смягчили запасы, обходные трубопроводы и другие механизмы защиты от шоков, накопленные после предыдущих кризисов.\n\n🛢**Как экономика уходит целехонькой от каждого кризиса\n**[**https://fastsalttimes.com/economy-emerges-unscathed-from-every-crisis/**](https://fastsalttimes.com/economy-emerges-unscathed-from-every-crisis/)**\n\n🛢Дэниел Ергин: кошмар не сбылся\n**[**https://fastsalttimes.com/yergin-ideas/**](https://fastsalttimes.com/yergin-ideas/)**\n\n🛢Сырьевой самообман?\n**[**https://fastsalttimes.com/africa-pipe-dreams/**](https://fastsalttimes.com/africa-pipe-dreams/)",
+    "views": 499,
+    "forwards": 6,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Кризис вокруг Ормузского пролива в 2026 году существенно повлиял на мировые поставки нефти и газа, но система оказалась более устойчивой, чем ожидалось.",
+      "keywords": [
+        "Ормузский пролив",
+        "нефть",
+        "газ",
+        "экономика",
+        "кризис"
+      ]
+    }
+  }
+]

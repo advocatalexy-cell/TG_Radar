@@ -1,0 +1,24 @@
+[
+  {
+    "id": 3675,
+    "channel_id": "ilovedocs",
+    "date": "2026-10-04T12:10:59+00:00",
+    "text": "Ласт колл. Последний день, когда можно присоединиться к [курсу по агентам](https://runetlex-academy.ru/neuralnetworksagents?utm_source=lastcallilovedocs&utm_medium=tg). Придется посмотреть 2 занятия, но это по силам.\nP.S. Выпускники, у вас скидка 15%, ищите в чате)",
+    "views": 596,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама курса по агентам с предложением о скидке для выпускников.",
+      "keywords": [
+        "курс",
+        "агенты",
+        "реклама",
+        "скидка",
+        "учеба"
+      ]
+    }
+  }
+]
