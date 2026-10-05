@@ -1,0 +1,169 @@
+[
+  {
+    "id": 2904,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T13:56:06+00:00",
+    "text": "Kirill, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 6 + 2?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос для доступа к чату.",
+      "keywords": [
+        "опрос",
+        "доступ",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 2903,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T13:56:06+00:00",
+    "text": "Дмитрий Веселов, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 2 + 6?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос для доступа к чату.",
+      "keywords": [
+        "чат",
+        "пример",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 2902,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T13:56:06+00:00",
+    "text": "Серж Я, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 4 + 9?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на решение математической задачи для доступа к чату.",
+      "keywords": [
+        "доступ",
+        "чат",
+        "математика",
+        "пример",
+        "задача"
+      ]
+    }
+  },
+  {
+    "id": 2901,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T13:56:06+00:00",
+    "text": "Freida Epperson, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 9 + 6?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит простую математическую задачу.",
+      "keywords": [
+        "математика",
+        "задача",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 2900,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T13:56:06+00:00",
+    "text": "Pavel, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 3 + 8?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Текст содержит задачу для доступа к чату.",
+      "keywords": [
+        "чат",
+        "упражнение",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 2894,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T12:05:25+00:00",
+    "text": "Всем привет я вайбкодер и делаю сайты боты через коды могу обучить но стоит деньги у меня есть свои сайт могу обучить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь предлагает свои услуги по созданию сайтов и ботов за деньги.",
+      "keywords": [
+        "услуги",
+        "сайты",
+        "боты",
+        "обучение",
+        "веб-разработка"
+      ]
+    }
+  },
+  {
+    "id": 2892,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T08:52:46+00:00",
+    "text": "да, VPS даёт стабильный IP и изоляцию , меньше риск попасть под спам-фильтры. на regcloud есть VDS с почасовкой, российские IP без проблем с оплатой зарубежных сервисов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о преимуществах VPS и VDS для работы с почасовой оплатой.",
+      "keywords": [
+        "VPS",
+        "VDS",
+        "IP",
+        "региональные сервисы",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 2887,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-05T02:06:18+00:00",
+    "text": "С VPS можно сидеть без банов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Использование VPS для обхода банов.",
+      "keywords": [
+        "VPS",
+        "баны",
+        "обход",
+        "интернет"
+      ]
+    }
+  }
+]

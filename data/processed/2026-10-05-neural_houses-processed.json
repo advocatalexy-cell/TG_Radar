@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2087,
+    "channel_id": "neural_houses",
+    "date": "2026-10-05T06:01:53+00:00",
+    "text": "👀 **Как получить промпт из любой понравившейся картинки**\n\nИногда нужный визуал уже есть перед глазами — остаётся только понять, **как его воссоздать**.\n\nДля этого есть расширения, которые помогают разобрать изображение или интерфейс прямо в браузере 👇\n\n🪄 [**Prompt from Image**](https://chromewebstore.google.com/detail/prompt-from-image/dkbakmcgmophcjgemgmpiipeknkchlmm)\nЗагружаете понравившуюся картинку и получаете промпт с описанием композиции, цветов, стиля и освещения. Его можно сразу скопировать и использовать для генерации.\n\n🔍 [**Image to Prompt**](https://chromewebstore.google.com/detail/image-to-prompt/iiaahpcjihmkdfkcndlhogegbblbookp)\nНашли интересный визуал прямо на сайте? Расширение позволяет выбрать изображение и получить промпт под **Midjourney, Flux, Stable Diffusion или Nano Banana**.\n\n💻 [**Pixel — Screenshot to Code**](https://chromewebstore.google.com/detail/pixel-%E2%80%94-screenshot-to-cod/oepikooholokcodoncbcildcmjmdkfkk)\nА если понравился уже не визуал, а **сам интерфейс сайта** — делаете скриншот и получаете код. Расширение умеет генерировать HTML/CSS, React, Vue и Bootstrap.\n\n💬**А вы обычно пишете промпт с нуля или берёте за основу готовый визуал?**   \n\n__Подписывайтесь на нас в__ [__MAX__](https://max.ru/neural_houses)",
+    "views": 641,
+    "forwards": 32,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит информацию о расширениях для браузера, которые помогают создавать промпты на основе изображений.",
+      "keywords": [
+        "промпт",
+        "изображение",
+        "расширения",
+        "браузер",
+        "визуал"
+      ]
+    }
+  }
+]
