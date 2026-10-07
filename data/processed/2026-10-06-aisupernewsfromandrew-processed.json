@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 802,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-06T21:47:57+00:00",
+    "text": "СМИ: в Microsoft и Meta* стремительно сокращают использование ИИ-инструментов от Claude - Rozetked.me https://share.google/W8LlL0bUfKhlsmm3q",
+    "views": 258,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Microsoft и Meta сокращают использование ИИ-инструментов от Claude.",
+      "keywords": [
+        "Microsoft",
+        "Meta",
+        "ИИ",
+        "Claude",
+        "сокращение"
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 863,
+    "channel_id": "advocate_davidoff",
+    "date": "2024-05-24T17:07:45+00:00",
+    "text": "Пятничная история сегодня может будет не самой обычной. Там не только ни слова об Урюпинске, но есть специальный гость. Приятного просмотра!\nhttps://www.youtube.com/watch?v=ItFnJV9hgDQ&t",
+    "views": 125,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о видеоролике с неординарным содержанием.",
+      "keywords": [
+        "видео",
+        "история",
+        "гость"
+      ]
+    }
+  },
+  {
+    "id": 862,
+    "channel_id": "advocate_davidoff",
+    "date": "2024-05-24T17:07:45+00:00",
+    "text": "Криминальный подкаст с моим участием",
+    "views": 105,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама криминального подкаста.",
+      "keywords": [
+        "подкаст",
+        "криминал",
+        "участие"
+      ]
+    }
+  }
+]

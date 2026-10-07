@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2937,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-07T09:27:35+00:00",
+    "text": "Гайс. Кто как сейчас сидит в клод коде? Через впны, прокси? Какие меры применить чтобы не забанили к херам",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение способов обхода блокировок в облачных сервисах.",
+      "keywords": [
+        "обход блокировок",
+        "впн",
+        "прокси",
+        "облачные сервисы"
+      ]
+    }
+  },
+  {
+    "id": 2934,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-07T09:22:41+00:00",
+    "text": "Ребят, есть бот где купить клод код подписку по дешвке?\nДля гпт нашел, а вот по клоду пусто)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос о покупке подписки на клод код.",
+      "keywords": [
+        "подписка",
+        "бот",
+        "клод код",
+        "покупка"
+      ]
+    }
+  }
+]

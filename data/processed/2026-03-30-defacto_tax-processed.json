@@ -1,0 +1,24 @@
+[
+  {
+    "id": 152,
+    "channel_id": "defacto_tax",
+    "date": "2026-03-30T11:28:04+00:00",
+    "text": "Коллеги, в связи с замедлением работы Telegram, два альтернативных канала:\n\nв VK - https://vk.com/vk_defacto\nв MAX - https://max.ru/join/pJoqcRzF04DGdhGKoN9yh_EHPK1yofRFqRiGbPBdyQk",
+    "views": 30,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама альтернативных каналов для получения информации.",
+      "keywords": [
+        "Telegram",
+        "каналы",
+        "VK",
+        "MAX",
+        "альтернатива"
+      ]
+    }
+  }
+]

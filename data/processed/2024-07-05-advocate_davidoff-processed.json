@@ -1,0 +1,34 @@
+[
+  {
+    "id": 879,
+    "channel_id": "advocate_davidoff",
+    "date": "2024-07-05T17:48:13+00:00",
+    "text": "А это вариант специально для тех, кто не выходит из телеграм.",
+    "views": 282,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 878,
+    "channel_id": "advocate_davidoff",
+    "date": "2024-07-05T14:49:16+00:00",
+    "text": "⚡️ОТРЕЗАННЫЕ НОГИ НА ЖЕЛЕЗНОЙ ДОРОГЕ⚡️\nНовый выпуск CrimeCast с комментариями адвоката Михаила Давыдова https://music.yandex.ru/album/15506158/track/128238585?utm_medium=copy_link\n\n☎️ Адвокат Михаил Давыдов  https://tapy.me/advocate\n\n🔪 CrimeCast https://taplink.cc/crimecast",
+    "views": 260,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылки на выпуск CrimeCast, не предоставляя значимой информации.",
+      "keywords": []
+    }
+  }
+]

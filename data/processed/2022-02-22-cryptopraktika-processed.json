@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1268,
+    "channel_id": "cryptopraktika",
+    "date": "2022-02-22T14:26:39+00:00",
+    "text": "Из ранее не опубликованного на канале: [доклад](https://www.europol.europa.eu/cms/sites/default/files/documents/Europol%20Spotlight%20-%20Cryptocurrencies%20-%20Tracing%20the%20evolution%20of%20criminal%20finances.pdf) от 26.01.2022 полицейской службы Европейского союза (Европол) об использовании криптовалют в незаконных целях.",
+    "views": 1375,
+    "forwards": 10,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "finance",
+      "summary": "Европол опубликовал доклад об использовании криптовалют в преступной деятельности.",
+      "keywords": [
+        "Европол",
+        "криптовалюты",
+        "незаконные цели",
+        "доклад",
+        "преступность"
+      ]
+    }
+  }
+]

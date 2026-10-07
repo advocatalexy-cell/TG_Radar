@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1288,
+    "channel_id": "cryptopraktika",
+    "date": "2022-05-12T14:41:28+00:00",
+    "text": "Федеральное министерство финансов Германии (BMF) выпустило [руководство](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2022-05-09-einzelfragen-zur-ertragsteuerrechtlichen-behandlung-von-virtuellen-waehrungen-und-von-sonstigen-token.html) по уплате подоходного налога с виртуальных валют и других токенов.",
+    "views": 1635,
+    "forwards": 15,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "finance",
+      "summary": "Минфин Германии выпустил руководство по налогообложению виртуальных валют.",
+      "keywords": [
+        "налог",
+        "виртуальные валюты",
+        "Германия",
+        "финансы",
+        "руководство"
+      ]
+    }
+  }
+]

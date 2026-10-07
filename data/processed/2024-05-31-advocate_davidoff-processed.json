@@ -1,0 +1,22 @@
+[
+  {
+    "id": 865,
+    "channel_id": "advocate_davidoff",
+    "date": "2024-05-31T13:54:34+00:00",
+    "text": "Новый подкаст с моим участием на всех стримингах\n\nhttps://music.yandex.ru/album/15506158/track/126654467",
+    "views": 105,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама нового подкаста.",
+      "keywords": [
+        "подкаст",
+        "реклама",
+        "музыка"
+      ]
+    }
+  }
+]

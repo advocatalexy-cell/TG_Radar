@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1287,
+    "channel_id": "cryptopraktika",
+    "date": "2022-05-11T16:37:23+00:00",
+    "text": "Небольшая [подборка](https://pravo.ru/story/239374/?utm_source=telegram&utm_medium=smm&utm_campaign=tg_channel) судебной практики по спорам с цифровыми валютами от право.ru",
+    "views": 1576,
+    "forwards": 20,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "finance",
+      "summary": "Подборка судебной практики по спорам с цифровыми валютами.",
+      "keywords": [
+        "судебная практика",
+        "цифровые валюты",
+        "споры",
+        "право",
+        "анализ"
+      ]
+    }
+  }
+]
