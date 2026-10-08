@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "channels": [
     {
       "id": "allthingslegal",
@@ -1540,6 +1540,20 @@
       "signal_ratio": null,
       "source_folder": "Здор+Финансы",
       "notes": "Импортирован из папки «Здор+Финансы» (sync)"
+    },
+    {
+      "id": "lawyer_troubleshooter",
+      "name": "Безжалостный IT-юрист",
+      "url": "https://t.me/lawyer_troubleshooter",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
     }
   ],
   "schema": {
