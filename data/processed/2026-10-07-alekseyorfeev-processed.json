@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 690,
+    "channel_id": "alekseyorfeev",
+    "date": "2026-10-07T15:36:49+00:00",
+    "text": "Жиза!",
+    "views": 2020,
+    "forwards": 16,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]

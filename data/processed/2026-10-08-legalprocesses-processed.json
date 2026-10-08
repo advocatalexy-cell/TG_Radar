@@ -1,0 +1,24 @@
+[
+  {
+    "id": 534,
+    "channel_id": "legalprocesses",
+    "date": "2026-10-08T13:06:50+00:00",
+    "text": "**«Мы - последнее поколение CEO, которые управляют только людьми»**\n\nМарк Бениофф, CEO Salesforce, 2025 г. \n\n#ИИ",
+    "views": 154,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Цитата Марка Бениоффа о будущем руководства.",
+      "keywords": [
+        "Бениофф",
+        "CEO",
+        "управление",
+        "будущее",
+        "цитата"
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 805,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-08T07:22:07+00:00",
+    "text": "https://www.rbc.ru/technology_and_media/08/10/2026/6ac523999a7947776f6003e4",
+    "views": 252,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "tech",
+      "summary": "В статье обсуждаются новые технологии и их влияние на медиа-отрасль.",
+      "keywords": [
+        "технологии",
+        "медиа",
+        "инновации"
+      ]
+    }
+  }
+]

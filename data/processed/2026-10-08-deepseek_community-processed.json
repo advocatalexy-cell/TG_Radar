@@ -1,0 +1,55 @@
+[
+  {
+    "id": 22644,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-08T13:25:44+00:00",
+    "text": "**✉️ Пополнение товара**\n\n**ChatGPT K12 до 2028г (NW)**\n• Доступно: **4 шт.**\n• Цена: **350.00 ₽**",
+    "views": 205,
+    "forwards": 4,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Информация о наличии товара ChatGPT K12.",
+      "keywords": [
+        "ChatGPT K12",
+        "товар",
+        "доступность",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 22642,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-08T12:21:31+00:00",
+    "text": "#layers",
+    "views": 78,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит информативного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 22641,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-08T12:21:31+00:00",
+    "text": "Апскейл",
+    "views": 70,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]
