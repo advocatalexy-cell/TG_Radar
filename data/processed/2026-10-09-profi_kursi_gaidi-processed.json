@@ -1,0 +1,24 @@
+[
+  {
+    "id": 4016,
+    "channel_id": "profi_kursi_gaidi",
+    "date": "2026-10-09T13:00:47+00:00",
+    "text": "**ISBN и выходные данные книги без мифов**\n\nВы хотите издать книгу как эксперт, но технические тонкости вроде ISBN и оформления выходных сведений кажутся запутанными. В статье разобрали, для чего на самом деле нужен этот номер, где его получить и как правильно оформить титул, оборот и штрихкод, чтобы избежать проблем с распространением. Также собрали порядок действий с обязательными экземплярами. [Разберитесь с формальностями](https://expert-book.pro/journal/isbn-i-vyhodnye-dannye-knigi?utm_source=telegram&utm_medium=editorial&utm_campaign=isbn_i_vyhodnye_dannye_knigi&utm_content=profi_kursi_gaidi&utm_term=scheduler_pass_10).",
+    "views": 589,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Статья о технических тонкостях издания книг и получения ISBN.",
+      "keywords": [
+        "ISBN",
+        "издание книги",
+        "выходные данные",
+        "формальности",
+        "эксперт"
+      ]
+    }
+  }
+]

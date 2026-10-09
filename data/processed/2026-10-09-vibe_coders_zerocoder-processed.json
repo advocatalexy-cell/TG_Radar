@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2962,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-09T10:05:03+00:00",
+    "text": "RUS1975, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 1 + 7?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Опрос без содержания.",
+      "keywords": [
+        "опрос",
+        "пример",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 2960,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-09T05:30:20+00:00",
+    "text": "Тогда и группу надо переименовать 😉",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2959,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-09T05:25:19+00:00",
+    "text": "более 70% программистов вайбкодят, поэтому точнее было бы написать, что тут не программисты (с соответствующим профильным образованием) 😆",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение уровня профессионализма среди программистов.",
+      "keywords": [
+        "программисты",
+        "вайбкод",
+        "образование"
+      ]
+    }
+  }
+]

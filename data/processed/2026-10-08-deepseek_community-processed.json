@@ -51,5 +51,43 @@
       "summary": "Пост не содержит значимой информации.",
       "keywords": []
     }
+  },
+  {
+    "id": 22646,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-08T15:55:07+00:00",
+    "text": "Чисто для себя",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 22645,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-08T15:54:57+00:00",
+    "text": "Думаю то что большинство слышало о таком поставщике как Groq они хотят опенсорсные модели и раздают к ним доступ но с лимитами чтоб было реально пользоваться для себя, есть ли такое же но для рф? Мне просто API от Kimi надо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет аналоги платформы Groq для России.",
+      "keywords": [
+        "Groq",
+        "опенсорс",
+        "API",
+        "Кими",
+        "Россия"
+      ]
+    }
   }
 ]

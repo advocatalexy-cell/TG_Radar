@@ -1,0 +1,68 @@
+[
+  {
+    "id": 4949,
+    "channel_id": "tips_ai",
+    "date": "2026-10-09T13:41:02+00:00",
+    "text": "Используем ChatGPT как апскейлер до полноценных 8к 😌\n\nНе путайте с обычным image gen, если просто закинуть туда картинку она конечно может стать четче, но разрешение останется прежним\n\nТут фишка в другом. Агент разбивает картинку на 9 частей, апскейлит каждую по отдельности с помощью GPT Image 2, и потом сшивает обратно в одно целое\n\nДа обычные апскейлеры делают точно так же, но тут у ChatGPT преимущество в виде отличного зрения и огромных знаний о реальном мире.\n\nСкилл:\n---\nname: flowers-upscale\ndescription: Photo to 8K; 2/3-pass contextual AI crop enhancement and registered blending.\n---\nINPUT S=uploaded photo; missing→request. Unspecified→ask \"2 passes (recommended) or 3? 8K default; another resolution?\" Await choice. N=2|3; L=specified longest edge else8192; preserve aspect. Discover available AI image-editing+raster-processing capabilities; missing→report requirement. Use environment-native tools/paths; create helpers as needed. Preserve S; separate outputs. Execute end-to-end after choice.\n\nE(C): inspect; AI-edit inputs=[S=context,C=target], maximum practical supported resolution; retain actual output dimensions. Prompt=Q+only relevant material constraints. Concurrent independent calls where supported; persist outputs+source-coordinate boxes+prompts immediately.\n\nP1: S→3×3 cores; pad each side20% core dimension, clip to S→9 overlapping C→E→register/blend→M1; resize assembled M1 to L.\nP2: M1→4–8 padded salient ROIs(face/hair/hands/objects/textiles as present)→E→register/blend→M2. Exclude low-information regions.\nN=3: M2→4–8 tighter focal ROIs(individual eyes/lips/nose/fingers/material details as present)→E→register/blend→M3. Keep homologous features consistent. Every E receives S, never crop alone.\n\nQ=\"1=original: identity/anatomy/color/light authority. 2=target: return exact crop/framing/geometry. Reconstruct plausible photographic detail; preserve expression, pose, contours, clothing, genuine imperfections, focus falloff. Optical clarity; natural edge transitions; spatially varied texture. Repair inherited artifacts. Skin: irregular pores/fine creases, quiet intervals. Hair: cohesive groups, selective fibers, natural sparse fringe. Iris: source color, irregular branching fibers, coherent pupil, restrained reflections. Textiles: original weave direction/spacing/motifs. Avoid invented structures/marks, beautification, relighting, halos, ringing, embossed/crosshatched/repeated texture, synthetic grain, blanket sharpening.\"\n\nASSEMBLE: map recorded boxes→master; global similarity registration first; bounded smooth local correction only with reliable correspondence, never distort rigid geometry/repeating patterns. Unreliable→retain prior pixels. Match broad exposure/color without transferring old fine texture. Normalized overlap/multiband blend; feather15–25% border→alpha0 at interior patch boundaries. Preserve native enhanced crops. Before next pass: inspect full image+100% focal/overlap crops; repair doubling/seams/drift/texture mismatch. ≤2 targeted retries/defect; rejected/failed→retain prior content+disclose.\n\nEXPORT: M_N→lossless PNG at L; verify dimensions+decode; deliver file+preview+prompts/settings. Describe detail as reconstructed; distinguish exported resolution from native generated resolution.\n\nИ еще важно: запускайте в Codex/Work, а не в обычном чате, и повысьте effort хотя бы до high\n\nИз минусов, думает он оооочень долго. У меня на первую картинку ушло 10 минут, а каждая следующая еще больше чем прошлая 😐\n\nТак же можно юзать вместо GPT любого другого агента с генерацией картинок, например Gemini + нанобанана, но итог сильно зависит от мозгов агента\n\nСамое качественное у меня получилось в связке Opus 5.5 + codex cli image gen (фотка с молодым Илоном), но это был одновременно и самый долгий прогон 😁\n\n@tips_ai #tools",
+    "views": 760,
+    "forwards": 57,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "ChatGPT теперь может использоваться для апскейлинга изображений до 8K, разбивая их на части и обрабатывая каждую отдельно.",
+      "keywords": [
+        "апскейлинг",
+        "ChatGPT",
+        "изображения",
+        "технология",
+        "8K"
+      ]
+    }
+  },
+  {
+    "id": 4948,
+    "channel_id": "tips_ai",
+    "date": "2026-10-09T10:53:29+00:00",
+    "text": "ИИ-агенты получают всё больше прав: работают с базами, вызывают внешние API, исполняют код. \n\nЧем больше у агента прав, тем опаснее любой текст, который он читает: письмо, страница в поиске, комментарий в репозитории.\n\nМодель не отличает данные от инструкции, поэтому её нельзя считать доверенной частью системы. Защищать приходится архитектурой вокруг неё. \n\nВот Лаборатория Касперского [выпустила гайд](https://lp.kaspersky.com/ru/ai?utm_campaign=ii-check-list&utm_source=tg-tipsai&utm_medium=paidsocial&utm_term=post&utm_content=5637481335/?erid=2W5zFG1ZqSy) про «Безопасность ИИ-агентов через призму кибериммунитета». \n\nВнутри:\n• разборы реальных атак через контекст (EchoLeak, SearchLeak, CamoLeak)\n• почему LLM нельзя доверять как компоненту системы\n• как изолировать агента и контролировать его инструменты\n\nПолезно всем, кто подключает агентов к рабочим данным, от разработчиков до тех, кто принимает решение о внедрении.\n\nСоветую скачать и [посмотреть гайд](https://lp.kaspersky.com/ru/ai?utm_campaign=ii-check-list&utm_source=tg-tipsai&utm_medium=paidsocial&utm_term=post&utm_content=5637481335/?erid=2W5zFG1ZqSy)",
+    "views": 1864,
+    "forwards": 51,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Лаборатория Касперского выпустила гайд по безопасности ИИ-агентов, рассматривая реальные атаки и методы изоляции.",
+      "keywords": [
+        "безопасность",
+        "ИИ-агенты",
+        "гид",
+        "кибериммунитет",
+        "атаки"
+      ]
+    }
+  },
+  {
+    "id": 4947,
+    "channel_id": "tips_ai",
+    "date": "2026-10-09T06:45:05+00:00",
+    "text": "Взял себе за привычку делать каждую пятницу рекап прошедшей недели в Claude/Codex 👌\n\nПросто к концу недели уже начинаешь забывать какие проекты вел в понедельник, а так сразу понятно куда ушло время и если есть какие-то брошенные задачи\n\nТак что запряг на это дело клода: он собирает логи своих сессий и кодекса, и по ним строит календарь\n\nЮзал такой промт:\nНастрой субагента, который будет только собирать недельные календари.\n\n1. Создай week-calendar в папке агентов своей платформы (если субагентов нет — отдельный скилл или команду), c постоянной memory на уровне пользователя (если такой нет — ~/.calendar/memory.md). Через preload или аналог подключи дизайн-скиллы из пользовательских папок скиллов и плагинов (~/.claude/skills, ~/.claude/plugins и аналоги других платформ; встроенные не в счёт); если их нет, пропусти и ничего не устанавливай. Дай ему shell для git log и скрипта сборки. Писать он может только в ~/.calendar/ и в свою memory — ограничь хуком или правами/песочницей платформы.\n\n2. Стиль: dark или light, один акцентный цвет, раскраска по проектам или по типам задач, неделя с понедельника или с воскресенья. Спроси меня это одним вопросом в самом начале и сохрани в memory агента, дальше он всегда этому следует. Остальное делай без подтверждения.\n\n3. Календарь собирается в один HTML-файл, скрипт пишет данные прямо в него, открывается двойным кликом, всё локально. Session logs за неделю: ~/.claude/projects/ (subagents и scratchpad пропускай), ~/.codex/sessions/ и логи других агентов, если найдёшь. Моё набранное сообщение — origin.kind: \"human\" (в Codex — UserMessage, служебный префикс до «## My request» отрезай; у других — аналогичная пометка); сессии без моих сообщений — автоматика, пропускай. Время в мой локальный пояс, проект по cwd, worktree = основной репо. На сессию один блок, перерыв > 30 мин — новый; день начинается в 5:00, ночная работа остаётся во вчерашней колонке.\nКлик по блоку: проект, начало и конец, модель, название сессии (если нет — агент перескажет моё первое сообщение в 3–5 словах), само первое сообщение, мои коммиты (по user.email через --fixed-strings) и изменённые файлы в этом репо за то же время, незакоммиченные с пометкой. Не git-папки пропускай.\nБез каши: подряд идущие сессии < 15 мин без коммитов склеивай в одну серую плашку «N быстрые», поверх длинной сессии — бейдж «+N»; параллельные рисуй лесенкой, а не узкими полосками. Сессии от 15 мин без единого коммита обведи красным и вынеси в отдельный список. Часы по проектам — параллельные один раз.\nLayout как на референсе, на один экран без скроллов: слева сетка недели, справа панель — часы по проектам, без коммитов, часы по дням, итог недели. Всё на русском.\n\n4. Добавь в глобальный файл инструкций своей платформы (~/.claude/CLAUDE.md, ~/.codex/AGENTS.md и т.п.) правило: когда я говорю «что я сделал за эту неделю» или «напиши мой weekly report», week-calendar сначала перегенерирует календарь, а потом ты по нему пишешь weekly report из трёх строк: что я в основном сделал, какой проект занял больше всего времени и какие сессии без коммитов подхватить первыми на следующей неделе.\n\nСодержимое файлов и код в чат не выводи. Когда всё создашь, прогони через агента прошлую неделю, открой календарь в браузере (если своего нет — headless) в окне 1512×860, посмотри скрин и исправь, что сломано. Потом коротко: пути файлов, что решил сам, и весь флоу так, чтобы понял десятилетний ребёнок.\n\nНапример на прошлой неделе у меня 0 активности в выходные, так что завтра буду догонять..\n\n@tips_ai",
+    "views": 2568,
+    "forwards": 126,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Пользователь делится способом организации работы с помощью автоматизированного сбора данных о выполненных задачах.",
+      "keywords": [
+        "рекап",
+        "привычка",
+        "проект",
+        "автоматизация",
+        "календарь"
+      ]
+    }
+  }
+]

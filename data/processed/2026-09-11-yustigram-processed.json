@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2198,
+    "channel_id": "yustigram",
+    "date": "2026-09-11T06:01:16+00:00",
+    "text": "Конституционный Суд России",
+    "views": 3730,
+    "forwards": 31,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Упоминание Конституционного Суда России без контекста.",
+      "keywords": [
+        "Конституционный Суд",
+        "Россия",
+        "право"
+      ]
+    }
+  }
+]
