@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "channels": [
     {
       "id": "allthingslegal",
@@ -1552,6 +1552,20 @@
       ],
       "active": true,
       "signal_ratio": 0.94,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "yustigram",
+      "name": "Юстиграм",
+      "url": "https://t.me/yustigram",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     }
