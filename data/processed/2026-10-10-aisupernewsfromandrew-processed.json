@@ -1,0 +1,46 @@
+[
+  {
+    "id": 809,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-10T13:57:18+00:00",
+    "text": "Девять петель от Claude — почему это очень важно для кода будущего / Хабр https://share.google/3Ufvp08UZRx9wDOj9",
+    "views": 22,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Статья о концепции девяти петель от Claude и их значимости для будущего программирования.",
+      "keywords": [
+        "девять петель",
+        "Claude",
+        "программирование",
+        "технологии",
+        "будущее"
+      ]
+    }
+  },
+  {
+    "id": 808,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-10T07:17:26+00:00",
+    "text": "Программист в одиночку бросил вызов закрытому контуру. Он вносит в реестр ПО долговременную память для ИИ-агентов, которые будут работать без интернета - CNews https://share.google/htu7fwDhgNPzJ4V8R",
+    "views": 201,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Программист разрабатывает долговременную память для ИИ-агентов, работающих оффлайн.",
+      "keywords": [
+        "ИИ",
+        "долговременная память",
+        "без интернета",
+        "разработка",
+        "программирование"
+      ]
+    }
+  }
+]

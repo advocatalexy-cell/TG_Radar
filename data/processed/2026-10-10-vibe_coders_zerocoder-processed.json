@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2990,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-10T09:58:03+00:00",
+    "text": "Об чем речь вообще?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Нет содержательной информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2989,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-10T08:30:58+00:00",
+    "text": "подскажите пжлст\n\nесли есть Харнесс,Кодекс и другие computer use - и эти все ИИ могут почти всё что угодно\n\nможно получается просто на фрилансе зарабатывать ничего почти не делая?\nИИ же сам делает всё,\nастра так вообще без матных слов описанию не поддается",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждается возможность зарабатывания на фрилансе с помощью ИИ.",
+      "keywords": [
+        "фриланс",
+        "ИИ",
+        "заработок",
+        "автоматизация"
+      ]
+    }
+  }
+]

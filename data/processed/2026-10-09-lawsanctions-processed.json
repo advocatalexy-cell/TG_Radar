@@ -108,5 +108,43 @@
         "Белявцева"
       ]
     }
+  },
+  {
+    "id": 3234,
+    "channel_id": "lawsanctions",
+    "date": "2026-10-09T18:00:18+00:00",
+    "text": "#пятничное",
+    "views": 1220,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3233,
+    "channel_id": "lawsanctions",
+    "date": "2026-10-09T14:02:44+00:00",
+    "text": "А вы говорите – нет хороших новостей!? \n\nС Акуны Мататы и Пиноккио [сняты](https://ofac.treasury.gov/recent-actions/20261008) санкции 🇺🇸 США.\n\n#снятиесанкций",
+    "views": 1611,
+    "forwards": 35,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "politics",
+      "summary": "Санкции США сняты с Акуны Мататы и Пиноккио.",
+      "keywords": [
+        "санкции",
+        "США",
+        "Акуна Матата",
+        "Пиноккио",
+        "снятие"
+      ]
+    }
   }
 ]

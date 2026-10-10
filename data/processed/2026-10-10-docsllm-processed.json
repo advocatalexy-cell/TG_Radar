@@ -1,0 +1,290 @@
+[
+  {
+    "id": 91785,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T13:57:22+00:00",
+    "text": "Девять петель от Claude — почему это очень важно для кода будущего / Хабр https://share.google/3Ufvp08UZRx9wDOj9",
+    "views": 18,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Статья обсуждает важность концепции девяти петель в программировании для будущего кода.",
+      "keywords": [
+        "девять петель",
+        "программирование",
+        "будущее",
+        "код",
+        "концепция"
+      ]
+    }
+  },
+  {
+    "id": 91784,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T11:22:30+00:00",
+    "text": "У меня такая проблема с этим провайдером - заблочил амнезию. Меняй провайдера.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь выражает недовольство работой провайдера.",
+      "keywords": [
+        "провайдер",
+        "амнезия",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 91783,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T11:19:31+00:00",
+    "text": "HeroSMS",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенный пост без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91782,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T09:57:54+00:00",
+    "text": "Можно купить симку кз на озоне",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Информация о покупке сим-карт на озоне.",
+      "keywords": [
+        "симка",
+        "озон",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 91781,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T09:53:08+00:00",
+    "text": "это нормально, бывает надо сменить 2-3 номера - они деньги возвращают, если смс не приходит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом смены телефонных номеров.",
+      "keywords": [
+        "смена номеров",
+        "деньги",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 91780,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T09:41:44+00:00",
+    "text": "Тоже там пытался. Мексика не приходит смс почему то🤷‍♂️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с SMS в Мексике.",
+      "keywords": [
+        "Мексика",
+        "SMS",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 91779,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T09:36:27+00:00",
+    "text": "я брал на https://smsfast.vip/service/chatgpt?ysclid=mugoomgdet48314938\n\n3 аккаунта верифицировал - проблем не было, брал Мексику и ЮАР",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Опыт использования сервиса SMS для верификации аккаунтов.",
+      "keywords": [
+        "SMS",
+        "верификация",
+        "аккаунты",
+        "Мексика",
+        "ЮАР"
+      ]
+    }
+  },
+  {
+    "id": 91778,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T09:26:46+00:00",
+    "text": "Друзья, добрый день. Кто какой номер телефона указывал для входа в GPT и где его лучше взять?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о номерах телефонов для входа в GPT.",
+      "keywords": [
+        "номер телефона",
+        "вход",
+        "GPT"
+      ]
+    }
+  },
+  {
+    "id": 91777,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T08:46:27+00:00",
+    "text": "Если смыть со статьи весь пафос, то получится реклама Cloud.ru :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит критику на рекламу Cloud.ru.",
+      "keywords": [
+        "реклама",
+        "Cloud.ru",
+        "критика"
+      ]
+    }
+  },
+  {
+    "id": 91775,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T08:33:40+00:00",
+    "text": "Да, но ты почитай статью)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91773,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T07:44:27+00:00",
+    "text": "Из заголовка не скажешь🙃",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное содержание поста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91770,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T07:17:33+00:00",
+    "text": "Программист в одиночку бросил вызов закрытому контуру. Он вносит в реестр ПО долговременную память для ИИ-агентов, которые будут работать без интернета - CNews https://share.google/htu7fwDhgNPzJ4V8R",
+    "views": 201,
+    "forwards": 4,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Программист разработал долговременную память для ИИ-агентов, работающих без интернета.",
+      "keywords": [
+        "ИИ",
+        "долговременная память",
+        "программист",
+        "закрытый контур",
+        "реестр ПО"
+      ]
+    }
+  },
+  {
+    "id": 91769,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T07:17:33+00:00",
+    "text": "Крайне интересно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91768,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T06:40:00+00:00",
+    "text": "@PureLSD гля\n\nhttps://fixupx.com/googlegemma/status/2108652628590944540?s=46&t=pNbORbVlRM58YEsrJ5GKEw",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку без дополнительной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91764,
+    "channel_id": "docsllm",
+    "date": "2026-10-10T05:09:38+00:00",
+    "text": "А нет ли здесь кого, имевшего доступ в инет от Seven Sky? Недавно у них тоже была авария и с тех пор под этим соусом невозможно попасть куда надо через красный щит и амнезию. Техподдержка кормит завтраками, может надо протокол менять или провайдера?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает проблемы с доступом в интернет от провайдера Seven Sky.",
+      "keywords": [
+        "Seven Sky",
+        "интернет",
+        "проблемы",
+        "техподдержка",
+        "авария"
+      ]
+    }
+  }
+]
