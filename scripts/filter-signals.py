@@ -114,7 +114,8 @@ def write_processed(out_file: Path, new_entries: list[dict]) -> None:
         json.dump(merged, f, ensure_ascii=False, indent=2)
 
 
-def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: dict) -> tuple[str, int, int]:
+def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: dict,
+                 cutoff: str = "", seen: set | None = None) -> tuple[str, int, int]:
     with open(raw_file, encoding="utf-8") as f:
         posts = json.load(f)
 
@@ -135,6 +136,20 @@ def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: di
             msg_id = post.get("id", 0)
             if msg_id <= processed_max_ids.get(ch_id, 0):
                 continue
+            # Посты старше окна lookback не берём: их processed-файлы лежат за
+            # пределами окна, max_id по ним не виден, и без этой проверки
+            # каналы без записи в state.json (fetch-posts.py каждый день
+            # заново тянет их последние 50 постов) переразмечаются целиком
+            # каждый прогон — тысячи лишних запросов к LLM в день.
+            if post.get("date", "")[:10] < cutoff:
+                continue
+            # Один и тот же пост может лежать в нескольких raw-файлах окна —
+            # классифицируем его только один раз за прогон.
+            key = (ch_id, msg_id)
+            if seen is not None:
+                if key in seen:
+                    continue
+                seen.add(key)
 
         classification = classify_post(post["text"])
         results.append({**post, "classification": classification})
@@ -192,8 +207,9 @@ def main() -> None:
     args = parse_args()
     date_str = args.date.isoformat()
 
+    cutoff = ""
     if args.mode == "undigested":
-        cutoff = (date.today() - timedelta(days=UNDIGESTED_LOOKBACK_DAYS)).isoformat()
+        cutoff =(date.today() - timedelta(days=UNDIGESTED_LOOKBACK_DAYS)).isoformat()
         processed_max_ids = build_processed_max_ids(cutoff)
         raw_files = [f for f in RAW_DIR.glob("*-raw.json") if f.name[:10] >= cutoff]
         print(f"Mode: undigested — scanning {len(raw_files)} raw files since {cutoff}, "
@@ -204,8 +220,10 @@ def main() -> None:
         print(f"Mode: date={date_str} — processing {len(raw_files)} raw files...")
 
     channel_stats: dict[str, tuple[int, int]] = {}
+    seen: set[tuple[str, int]] = set()
     for f in raw_files:
-        channel_id, signals, total = process_file(f, date_str, args.mode, processed_max_ids)
+        channel_id, signals, total = process_file(f, date_str, args.mode, processed_max_ids,
+                                                  cutoff, seen)
         prev_signals, prev_total = channel_stats.get(channel_id, (0, 0))
         channel_stats[channel_id] = (prev_signals + signals, prev_total + total)
 
