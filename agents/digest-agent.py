@@ -21,6 +21,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ROOT = Path(__file__).parent.parent
+RAW_DIR = ROOT / "data" / "raw"
 PROCESSED_DIR = ROOT / "data" / "processed"
 DIGESTS_DIR = ROOT / "digests"
 STATE_FILE = ROOT / "data" / "state.json"
@@ -136,7 +137,13 @@ def update_state(date_str: str) -> None:
             state = json.load(f)
 
     updated: dict[str, int] = {}
-    for f in PROCESSED_DIR.glob(f"{date_str}-*-processed.json"):
+    # Кроме processed за date_str учитываем и сегодняшние raw-файлы: у канала,
+    # который давно не постил, свежих постов нет, его посты уходят в processed
+    # под старыми датами, и без raw он никогда не получит запись в state —
+    # fetch-posts.py будет каждый день заново качать его последние 50 постов.
+    files = list(PROCESSED_DIR.glob(f"{date_str}-*-processed.json"))
+    files += list(RAW_DIR.glob(f"{date_str}-*-raw.json"))
+    for f in files:
         with open(f, encoding="utf-8") as fp:
             posts = json.load(fp)
         for post in posts:
