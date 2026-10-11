@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "channels": [
     {
       "id": "allthingslegal",
@@ -388,9 +388,9 @@
       "tags": [
         "lawyer"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": 0.69,
-      "notes": "Импортирован из папки «Lawyer»",
+      "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
     {
@@ -514,9 +514,9 @@
       "tags": [
         "lawyer"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": 0.96,
-      "notes": "Импортирован из папки «Lawyer»",
+      "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
     {
@@ -766,9 +766,9 @@
       "tags": [
         "lawyer"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": 0.92,
-      "notes": "Импортирован из папки «Lawyer»",
+      "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
     {
@@ -1018,9 +1018,9 @@
       "tags": [
         "lawyer"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": 0.96,
-      "notes": "Импортирован из папки «Lawyer»",
+      "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
     {
@@ -1559,6 +1559,20 @@
       "id": "yustigram",
       "name": "Юстиграм",
       "url": "https://t.me/yustigram",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "sudpraktik_ipit_demo",
+      "name": "СУДЕБНАЯ ПРАКТИКА IP и IT",
+      "url": "https://t.me/sudpraktik_IPIT_demo",
       "type": "telegram",
       "priority": "medium",
       "tags": [
