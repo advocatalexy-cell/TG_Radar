@@ -249,7 +249,7 @@
         "practice"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Практическое применение GPT в юридической практике. Объединено с дублирующей записью «gpt-for-lawyers», которую создавал sync-tg-folders.py (старый id не совпадал с username канала, из-за чего запись каждый раз считалась «пропавшей»).",
       "source_folder": "Ai"
     },
@@ -263,7 +263,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Ai»",
       "source_folder": "Ai"
     },
@@ -291,7 +291,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Ai»",
       "source_folder": "Ai"
     },
@@ -389,7 +389,7 @@
         "lawyer"
       ],
       "active": false,
-      "signal_ratio": 0.69,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
@@ -515,7 +515,7 @@
         "lawyer"
       ],
       "active": false,
-      "signal_ratio": 0.96,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
@@ -683,7 +683,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -739,7 +739,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -767,7 +767,7 @@
         "lawyer"
       ],
       "active": false,
-      "signal_ratio": 0.92,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
@@ -809,7 +809,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -823,7 +823,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.8,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -865,7 +865,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.5,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -921,7 +921,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -935,7 +935,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -1019,7 +1019,7 @@
         "lawyer"
       ],
       "active": false,
-      "signal_ratio": 0.96,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer» [пропал из папки «Lawyer», деактивирован 2026-10-11]",
       "source_folder": "Lawyer"
     },
@@ -1131,7 +1131,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 0.98,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -1187,7 +1187,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     },
@@ -1481,7 +1481,7 @@
         "здорфинансы"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "source_folder": "Здор+Финансы",
       "notes": "Импортирован из папки «Здор+Финансы» (sync)"
     },
@@ -1495,7 +1495,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "source_folder": "Ai",
       "notes": "Импортирован из папки «Ai» (sync)"
     },
@@ -1551,7 +1551,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     },
@@ -1579,7 +1579,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.63,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     }

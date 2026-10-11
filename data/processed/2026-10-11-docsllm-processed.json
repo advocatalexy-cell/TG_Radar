@@ -1,0 +1,772 @@
+[
+  {
+    "id": 91855,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:52:03+00:00",
+    "text": "кому- то  может быть лень включить чайник, а мне лень считать часовые пояса",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает личное чувство лени.",
+      "keywords": [
+        "лень",
+        "чайник",
+        "пояса"
+      ]
+    }
+  },
+  {
+    "id": 91854,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:50:34+00:00",
+    "text": "так москва это UTC+3, просто 3 часа прибавлять в уме",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о часовом поясе Москвы.",
+      "keywords": [
+        "Москва",
+        "UTC",
+        "часы"
+      ]
+    }
+  },
+  {
+    "id": 91852,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:40:39+00:00",
+    "text": "да в целом можно десяток способов придумать, мне просто надо было чем то запрячь грокбота учитывая его прямой и простой доступ внутрь Х",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение способов использования грокбота.",
+      "keywords": [
+        "грокбот",
+        "способы",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 91851,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:37:22+00:00",
+    "text": "у меня на каждый час проверка сайта стоит, он и время переводит на мск, и уведомляет, если что то новое есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится информацией о своем мониторинге сайта.",
+      "keywords": [
+        "мониторинг",
+        "уведомления",
+        "время",
+        "сайт"
+      ]
+    }
+  },
+  {
+    "id": 91850,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:36:48+00:00",
+    "text": "автоматизация в codex в помощь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание автоматизации в Codex без конкретного контекста.",
+      "keywords": [
+        "автоматизация",
+        "Codex",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 91849,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:35:15+00:00",
+    "text": "сидеть переводить на мск не очень удобно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает неудобство без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91848,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:34:40+00:00",
+    "text": "Напомню, https://t.me/codex_resets",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост представляет собой просто ссылку на канал.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91847,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:24:15+00:00",
+    "text": "ну вот сценарий для грокбота придумал себе",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится идеей сценария для бота.",
+      "keywords": [
+        "сценарий",
+        "грокбот",
+        "идеи"
+      ]
+    }
+  },
+  {
+    "id": 91846,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:12:12+00:00",
+    "text": "Но не банят меня, тоже думаю, не из-за карты, а потому что гпт вместо клода)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации и представляет собой личное мнение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91845,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T11:07:01+00:00",
+    "text": "Плати-по-миру? \nЯ использую несколько месяцев для гпт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом использования GPT.",
+      "keywords": [
+        "GPT",
+        "опыт",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 91844,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:33:11+00:00",
+    "text": "Просто если подумать, то с ии возможности по кастомизации умного дома безграничны. \n\nМожно например поставить распознавание всех лиц на видеопоток с умной камеры по дефолту.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение возможностей кастомизации умного дома с использованием ИИ.",
+      "keywords": [
+        "умный дом",
+        "ИИ",
+        "кастомизация",
+        "распознавание лиц"
+      ]
+    }
+  },
+  {
+    "id": 91843,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:31:23+00:00",
+    "text": "Я не готовлюс ни к чему, просто воскресенье не располагает к серьезности. \n\nНо уведомление для сек семьи на «Дверь открыта» «Дверь закрыта» сделал.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о непринужденном воскресенье и уведомлении для семьи.",
+      "keywords": [
+        "воскресенье",
+        "семья",
+        "уведомление"
+      ]
+    }
+  },
+  {
+    "id": 91842,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:30:10+00:00",
+    "text": "Мой ecpflow делает бр-р-р.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91841,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:26:41+00:00",
+    "text": "Первое действие при правильном маски-шоу - это выключение электричества.\nИспользуйте шифрование на лету, а не медленное форматирование.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Советы по проведению маски-шоу.",
+      "keywords": [
+        "маски-шоу",
+        "шифрование",
+        "электричество"
+      ]
+    }
+  },
+  {
+    "id": 91840,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:24:47+00:00",
+    "text": "Парсерам одной конторы это сообщение может показаться очень интересным",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясное сообщение без конкретной информации.",
+      "keywords": [
+        "парсеры",
+        "интерес",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 91839,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:19:12+00:00",
+    "text": "Главное не забыть дверь закрыть)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Без содержательного контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91838,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:07:47+00:00",
+    "text": "Не зря заводили! Просто мои трое сегодня гостят у их бабушки. Пришлось самому.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личный пост о детях и бабушке.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91837,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:06:43+00:00",
+    "text": "К чему готовитесь, стесняюсь спросить?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённый вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91836,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:04:42+00:00",
+    "text": "Меня дети выручили: чайник включили, стакан воды принесли",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное сообщение о помощи от детей.",
+      "keywords": [
+        "дети",
+        "чайник",
+        "вода"
+      ]
+    }
+  },
+  {
+    "id": 91835,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T10:04:05+00:00",
+    "text": "Надо подумать как ловушки организовать, как в Томб Райдере. Если вдруг окно открыли снаружи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Идеи по организации ловушек в стиле игры.",
+      "keywords": [
+        "ловушки",
+        "Томб Райдер",
+        "идеи"
+      ]
+    }
+  },
+  {
+    "id": 91834,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:57:08+00:00",
+    "text": "Я сейчас разворачиваю дома сеть из зигби устройств. С помощью нейронок можно очень крутые сценарии делать. Типа например если дверь открыта дольше чем на 2 минуты - форматировать все диски на всех компах или писать в домашний канал.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает настройки домашней сети зигби устройств и сценарии автоматизации.",
+      "keywords": [
+        "зигби",
+        "нейронные сети",
+        "автоматизация",
+        "домашняя сеть",
+        "сценарии"
+      ]
+    }
+  },
+  {
+    "id": 91833,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:52:41+00:00",
+    "text": "Кстати, не подумал. Вот я дурак! Надо было в приложении чайник запустить.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное размышление без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91832,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:45:06+00:00",
+    "text": "Никто не знает, за что банят. Баны с Плати по миру были.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминается о банах сервиса Плати по всему миру, но отсутствует конкретная информация.",
+      "keywords": [
+        "бан",
+        "Плати",
+        "мир",
+        "информация",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 91831,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:44:05+00:00",
+    "text": "Сам - с приложения, надеюсь?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91830,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:39:38+00:00",
+    "text": "самое главное это то, что бесконечная лента с рекламой на ya.ru никуда не делась. ее исчезновение сложно пережить будет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение бесконечной рекламы на ya.ru.",
+      "keywords": [
+        "реклама",
+        "ya.ru",
+        "бесконечная лента",
+        "событие"
+      ]
+    }
+  },
+  {
+    "id": 91828,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:28:28+00:00",
+    "text": "Не говорите. Я был вынужден САМ включать чайник, а не через Алису. Это жесть.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с включением чайника.",
+      "keywords": [
+        "чайник",
+        "Алиса",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 91827,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:26:58+00:00",
+    "text": "Агония?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91825,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:14:48+00:00",
+    "text": "Добрый день. Кто-нибудь пользовался картой «Плати по всему миру» для оплаты нейросетей? Оплата проходит нормально? Не банят за использование карты?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователи обсуждают работу карты 'Плати по всему миру' для оплат нейросетей.",
+      "keywords": [
+        "карта",
+        "Плати по всему миру",
+        "оплата",
+        "нейросети",
+        "пользовательский опыт"
+      ]
+    }
+  },
+  {
+    "id": 91824,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T09:06:00+00:00",
+    "text": "Мессенджер не работает их. И колонки дома отупели резко",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Проблемы с работой мессенджера и колонок.",
+      "keywords": [
+        "мессенджер",
+        "неработает",
+        "колонки",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 91815,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T07:12:15+00:00",
+    "text": "Я посидел на китайских прокси и судя по всему они перенаправляют инференс именно от kiro.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования китайских прокси.",
+      "keywords": [
+        "китайские прокси",
+        "инференс",
+        "kiro"
+      ]
+    }
+  },
+  {
+    "id": 91813,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T07:08:53+00:00",
+    "text": "Кто-то пробовал покупать подписку kiro (кодинговый агент от амазон) для доступа к опус 5.5? При при покупке первого месяца у них скидка что-то около 30%.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение покупки подписки на кодинговый агент от Amazon с упоминанием скидки.",
+      "keywords": [
+        "подписка",
+        "киро",
+        "амазон",
+        "скидка"
+      ]
+    }
+  },
+  {
+    "id": 91812,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T07:06:44+00:00",
+    "text": "С днем бэкапа",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление с днем бэкапа.",
+      "keywords": [
+        "бэкап",
+        "поздравление",
+        "день"
+      ]
+    }
+  },
+  {
+    "id": 91811,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T05:31:04+00:00",
+    "text": "В Калуге не вырубили полностью. \nВо Владимире пока неизвестно. Хотя, судя по масштабу проблемы, похоже, что там хуже, чем в Калуге",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.6,
+      "category": "other",
+      "summary": "В Калуге не завершена вырубка, во Владимире ситуация неопределенная, возможны проблемы.",
+      "keywords": [
+        "Калуга",
+        "Владимир",
+        "вырубка",
+        "ситуация",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 91810,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T05:30:11+00:00",
+    "text": "Гитхаб разрывает утилита для кодинговых агентов — REA (Revers Engineer Anything). Там чёт mcp и комплекто тулов для ревёрс инжиниринга софта. \n\nНарод уже реверсит старые прошивки давно неподдерживаемых принтеров, портирует консольные игры на ПК, а автор сейчас разбирает Эксель\n\nhttps://github.com/morluto/rea",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Гитхаб представил утилиту REA для реверс инжиниринга, используемую для анализа устаревших прошивок и портирования игр.",
+      "keywords": [
+        "GitHub",
+        "реверс инжиниринг",
+        "REA",
+        "утилита",
+        "программное обеспечение"
+      ]
+    }
+  },
+  {
+    "id": 91809,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T05:23:35+00:00",
+    "text": "Тревожные опросы в Твиттере ОпенАИ",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение опросов в Твиттере о тревожных темах, связанных с OpenAI.",
+      "keywords": [
+        "Опросы",
+        "Твиттер",
+        "OpenAI",
+        "тревога",
+        "темы"
+      ]
+    }
+  },
+  {
+    "id": 91808,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T05:11:10+00:00",
+    "text": "У нас Такси заработало. А Яндекс Пэй всё ещё лежит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Сообщение о работе Такси и проблемах с Яндекс Пэй.",
+      "keywords": [
+        "Такси",
+        "Яндекс Пэй",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 91807,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T04:47:35+00:00",
+    "text": "Я так и понял, когда обнаружил час назад, что Яндекс Такси не пашет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с работой Яндекс Такси.",
+      "keywords": [
+        "Яндекс Такси",
+        "проблемы",
+        "не работает"
+      ]
+    }
+  },
+  {
+    "id": 91806,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T04:47:27+00:00",
+    "text": "Третий ДС Яндекса вырубили. И последний их суперкомп.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Яндекс закрыл третий дата-центр, что подчеркивает проблемы компании.",
+      "keywords": [
+        "Яндекс",
+        "дата-центр",
+        "технологии",
+        "закрытие"
+      ]
+    }
+  },
+  {
+    "id": 91805,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T02:34:11+00:00",
+    "text": "Я тут вроде описывал, или в выпускниках",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный смысл поста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91804,
+    "channel_id": "docsllm",
+    "date": "2026-10-11T02:33:56+00:00",
+    "text": "Мне раза три присылал на двух аккаунтах",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  }
+]
