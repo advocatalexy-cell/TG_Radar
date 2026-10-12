@@ -1,0 +1,24 @@
+[
+  {
+    "id": 13838,
+    "channel_id": "pushenter",
+    "date": "2026-10-12T06:36:08+00:00",
+    "text": "🛒 **Для взломанных PS5 появился альтернативный магазин приложений** — Overdrive визуально напоминает обычный PS Store и работает прямо на консоли.\n\nЧерез него можно устанавливать совместимый homebrew-контент и другие приложения на прошитую PS5.\n\nПроект лежит [тут](https://github.com/half144/overdrive-releases).\n\nPS Store дома, только без Sony у руля.\n\n@PushEnter",
+    "views": 2515,
+    "forwards": 39,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Для взломанных PS5 запущен альтернативный магазин приложений Overdrive.",
+      "keywords": [
+        "PS5",
+        "взлом",
+        "магазин приложений",
+        "homebrew",
+        "Overdrive"
+      ]
+    }
+  }
+]

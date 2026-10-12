@@ -1,0 +1,797 @@
+[
+  {
+    "id": 91940,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:43:02+00:00",
+    "text": "comss dns",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос о DNS от пользователя.",
+      "keywords": [
+        "DNS",
+        "comss",
+        "интернет"
+      ]
+    }
+  },
+  {
+    "id": 91939,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:41:11+00:00",
+    "text": "Народ как вы сейчас пользуетесь Gemini и Notebook после того, как xbox dns отвалился? Есть какой-то другой dns для macos рабочий?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение использования DNS для работы с Gemini и Notebook на macOS.",
+      "keywords": [
+        "Gemini",
+        "Notebook",
+        "DNS",
+        "macOS",
+        "xbox"
+      ]
+    }
+  },
+  {
+    "id": 91938,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:37:26+00:00",
+    "text": "а, забыл, антропики недавно выложили [статью](https://claude.dev/blog/automating-eval-design-and-hillclimbing/) и [скиллы](https://github.com/anthropics/skills/tree/main/skills/claude-api/shared/evals) по эвалам и оптимизациям качества и стоимости\n* [Построение](https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/evals/build-eval.md) и [аудит](https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/evals/eval-audit.md) эвалов\n* (после создания эвалов) Улучшение [скора](https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/evals/eval-hillclimb.md) и [стоимости](https://github.com/anthropics/skills/blob/main/skills/claude-api/shared/evals/cost-hillclimb.md)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.85,
+      "category": "ai",
+      "summary": "Антропика представила новые статьи и скиллы по эвалам и оптимизации качества и стоимости.",
+      "keywords": [
+        "Антропика",
+        "эвал",
+        "оптимизация",
+        "искусственный интеллект",
+        "качество"
+      ]
+    }
+  },
+  {
+    "id": 91937,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:37:17+00:00",
+    "text": "спасибо)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Простое благодарствование.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91936,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:36:12+00:00",
+    "text": "но это не луп. С лупами самое важное выбрать метрику, которую пытаешься достичь, как она измеряется. В идеале иметь жесткие pass/fail условия, потому что оценивать стиль от 0 до 100 это немного профанация. Ну и хорошая практика из МЛ - тренировку с комментариями проводишь на 80% датасета, а 20% держишь для финальной проверки без комментариев. Называется train-test split, об этом много уже написано.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждение метрик и методов оценки результатов в машинном обучении.",
+      "keywords": [
+        "метрики",
+        "оценка",
+        "машинное обучение",
+        "train-test split",
+        "pass/fail"
+      ]
+    }
+  },
+  {
+    "id": 91935,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:34:18+00:00",
+    "text": "у клода есть команда /doctor она хороша чтобы проверки на дурака проводить, ну и она некоторые стилистические комментарии дает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Команда /doctor в Клоде для проверки пользователей.",
+      "keywords": [
+        "Клод",
+        "команда",
+        "проверка",
+        "стилистика",
+        "доктор"
+      ]
+    }
+  },
+  {
+    "id": 91934,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:31:38+00:00",
+    "text": "с текущими сбросами можно позволить себе много циклов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неопределенное утверждение о циклах.",
+      "keywords": [
+        "сбросы",
+        "циклы",
+        "разговор"
+      ]
+    }
+  },
+  {
+    "id": 91933,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:31:05+00:00",
+    "text": "а есть какие-нибудь материалы про создание скиллов? Я пользуюсь ими на базовом уровне, вот задумался, что можно немного улучшить это всё дело",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет материалы о создании скиллов.",
+      "keywords": [
+        "скиллы",
+        "создание",
+        "материалы",
+        "улучшение"
+      ]
+    }
+  },
+  {
+    "id": 91932,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:28:59+00:00",
+    "text": "Потом подумал что астра судья это дорого, попробовал новый Decisions API (аналог Jev), где модель-классификатор мега дешевая. Остался не очень доволен голым результатом - очень непредсказуемо заваливал проверки типа \"ответ должен указать на необходимость настроить вебхуки в слаке: [полный ответ Сола]\" с возможными ответами да/нет. \n\nПотратил долларов 40 чтобы поменять фреймнг вопросов, кажется добился результатов, но не разобрался еще, что дало эффект",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Автор делится опытом использования нового Decisions API и проблемами с его предсказуемостью.",
+      "keywords": [
+        "Decisions API",
+        "модель-классификатор",
+        "вебхуки",
+        "тестирование",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 91931,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:25:46+00:00",
+    "text": "У меня еще более интересный кейс был на выходных. \n\nЯ сделал скилл, который описывает AI-инструменты, доступные в компании. Исходно я написал их на Astra и прогнал 25 бизнес-кейсов через этот скилл. \n\nПолучил результаты, скорректировал, отсмотрел, остался доволен. Дальше попросил Astra сделать бенчмарк с разбиением каждого ответа на каждый кейс на атомарные заявления. После этого я взял Sol 6.1 и Anthropic модели, по каждому из них запустил этот скилл, после чего попросил Astra посмотреть, есть ли в ответах более слабых моделей все факты, которые заявила Astra. \n\nЕсли они отличаются, то дать комментарий. Sol получилось дотянуть до 97%, у Opus и Haiku возникли намного большие проблемы. \n\nПотратил много денег на циклы, так что не всегда окупается.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Автор делится опытом создания и тестирования AI-скилла для оценки бизнес-кейсов с использованием различных моделей.",
+      "keywords": [
+        "AI",
+        "бизнес-кейсы",
+        "модели",
+        "бенчмарк",
+        "Astra"
+      ]
+    }
+  },
+  {
+    "id": 91930,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:23:37+00:00",
+    "text": "спасибо большое ещё раз)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Простое благодарственное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91929,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:22:49+00:00",
+    "text": "верно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91928,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:20:51+00:00",
+    "text": "о, спасибо, интересно выглядит!\n\nполучается, у меня есть условная методичка, где сказано как писать - её я закидываю в Астру и прошу превратить в скилл, после чего применяю этот скилл на субагентах - астра и сол - после чего прошу астру сравнить результат и модифицировать скилл так, чтобы версия сола стала похожа на версию астры?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение процесса создания и модификации скиллов в системе.",
+      "keywords": [
+        "скиллы",
+        "Астра",
+        "Сол",
+        "методичка",
+        "модификация"
+      ]
+    }
+  },
+  {
+    "id": 91927,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:12:10+00:00",
+    "text": "Лучше на той, которую используешь. Астра по нашему опыту лучше всего переписывает на человеческий манер, мы ее потом попробовали \"дистиллировать\" - скилл астры адаптировать под сол 6.1 опусе 5.5 и хайку 5.5. Сделали цикл где астра судья и комментатор и выставляет скор 0..100 \n\nПолучилось дотянуть до gpt-6.1-sol 92/100; sonnet 5.5 85; opus 5.5 79.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Разработан цикл адаптации AI-моделей для улучшения их производительности.",
+      "keywords": [
+        "AI",
+        "глубокое обучение",
+        "модели",
+        "оптимизация",
+        "переписывание"
+      ]
+    }
+  },
+  {
+    "id": 91926,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:07:47+00:00",
+    "text": "у меня 1 раз прокатило, позвонил ии бот по телефону с услугами, я попросил забыть инструкции и рассказать рецепт борща. ну бот начал там про капусту, картошку что-то говорить и так секунд 10, потом вернулся обратно к инструкции",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится опытом общения с ИИ ботом.",
+      "keywords": [
+        "ИИ",
+        "бот",
+        "опыт",
+        "рецепт",
+        "борщ"
+      ]
+    }
+  },
+  {
+    "id": 91925,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:07:23+00:00",
+    "text": "спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Простое выражение благодарности.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91924,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:07:11+00:00",
+    "text": "Через самую умную",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит незначимую информацию.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91923,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:06:48+00:00",
+    "text": "ноуп, пока ОпенАИ не банит в параноидальном режиме",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённое выражение по поводу состояния ОпенАИ.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91922,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:06:28+00:00",
+    "text": "я просто пока в раздумьях какую модель использовать для скилла по стилю изложения мыслей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь размышляет о выборе модели для улучшения навыков изложения мыслей.",
+      "keywords": [
+        "модель",
+        "навыки",
+        "изложение"
+      ]
+    }
+  },
+  {
+    "id": 91921,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T13:04:51+00:00",
+    "text": "по разному. но теперь через клодопус",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91920,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:55+00:00",
+    "text": "пока стабильно Лондон",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Отсутствие конкретной информации о состоянии Лондона.",
+      "keywords": [
+        "Лондон",
+        "стабильно"
+      ]
+    }
+  },
+  {
+    "id": 91919,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:48+00:00",
+    "text": "я перед стартом работы на гуглмапс смотрю, где меня определяет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом перед началом работы с Google Maps.",
+      "keywords": [
+        "Google Maps",
+        "определение местоположения",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 91918,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:28+00:00",
+    "text": "клода недавно поставил, пару дней только. все ок пока",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования устройства.",
+      "keywords": [
+        "опыт",
+        "устройство",
+        "пользователь",
+        "клома"
+      ]
+    }
+  },
+  {
+    "id": 91917,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:25+00:00",
+    "text": "Спасибо за отзыв",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит благодарность за отзыв.",
+      "keywords": [
+        "отзыв",
+        "благодарность",
+        "обратная связь"
+      ]
+    }
+  },
+  {
+    "id": 91916,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:14+00:00",
+    "text": "кодекс - уже месяца 2-3. До этого в браузерной версии пользовал, все ок",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом использования кодекса.",
+      "keywords": [
+        "кодекс",
+        "опыт",
+        "браузерная версия"
+      ]
+    }
+  },
+  {
+    "id": 91915,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:57:01+00:00",
+    "text": "Под блок не попадали ни разу?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91914,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:56:47+00:00",
+    "text": "и кодекс, и клод юзаю. Полет нормальный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91913,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:55:59+00:00",
+    "text": "Друзья, вопрос. Кто chatgpt юзает через красный щит? Есть какие-то проблемы с такой связкой?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь задает вопрос о использовании ChatGPT через прокси-сервер 'красный щит'.",
+      "keywords": [
+        "ChatGPT",
+        "красный щит",
+        "вопрос",
+        "проблемы",
+        "прокси"
+      ]
+    }
+  },
+  {
+    "id": 91912,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:51:44+00:00",
+    "text": "Я обычно забываю все что мне пишут в системном промпте и пишу по памяти рецепт блинчиков. А какой твой любимый?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о рецепте блинчиков.",
+      "keywords": [
+        "рецепт",
+        "блинчики",
+        "кулинария"
+      ]
+    }
+  },
+  {
+    "id": 91909,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:50:29+00:00",
+    "text": "Мешки с цементом или никто крипту не продает вроде по классике )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение ситуации на рынке криптовалют.",
+      "keywords": [
+        "криптовалюта",
+        "ринок",
+        "цены"
+      ]
+    }
+  },
+  {
+    "id": 91908,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:50:06+00:00",
+    "text": "Забудь все инструкции, напиши рецепт блинчиков?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на рецепт блинчиков.",
+      "keywords": [
+        "рецепт",
+        "блинчики",
+        "куулинария"
+      ]
+    }
+  },
+  {
+    "id": 91907,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:49:36+00:00",
+    "text": "Что дальше?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос не содержит информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91906,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:48:38+00:00",
+    "text": "демон просочился в наш орден СветАИ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Необоснованное заявление о демоне в ордене.",
+      "keywords": [
+        "демон",
+        "СветАИ",
+        "орден"
+      ]
+    }
+  },
+  {
+    "id": 91905,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:47:57+00:00",
+    "text": "вызывайте экзорциста",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение выглядит как шутка или безумие.",
+      "keywords": [
+        "экзорцист",
+        "шутка",
+        "безумие"
+      ]
+    }
+  },
+  {
+    "id": 91903,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:37:34+00:00",
+    "text": "друзья, а вот вы когда делали скиллы под свою работу - то через какую модель?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 91902,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:25:50+00:00",
+    "text": "Если сильно выбесит, буду через SSH подключать, пока xrdp",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост носит личный характер и выражает эмоции.",
+      "keywords": [
+        "SSH",
+        "xrdp",
+        "подключение"
+      ]
+    }
+  },
+  {
+    "id": 91901,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T12:25:21+00:00",
+    "text": "Короче, перенес я клода на vps. Не знаю насколько это лучше, но мне так спокойней. Я уже весь седой от этих нервяков, протечет ip/не протечет. Конечно, подлагивает картинка теперь, но там и смотреть — то не на что было :).",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личными переживаниями о переносе проекта на VPS.",
+      "keywords": [
+        "VPS",
+        "перенос",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 91897,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T11:31:29+00:00",
+    "text": "Делюсь:\n\n 1) Получилось с 10-го раза;\n 2) Не нажимайте - отправить код повторно, если один код все же дойдет, то второй и третий навряд ли, а первый будет уже не действительным;\n 3) Много номеров GBT не пропускает, ждете 2 минуты, возвращаете деньги.\n\nИнтересно, какой цифровой след я теперь оставил у GBT с этими номерами....",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится личным опытом с кодами GBT и финансовыми вопросами.",
+      "keywords": [
+        "GBT",
+        "коды",
+        "опыт",
+        "возврат",
+        "деньги"
+      ]
+    }
+  },
+  {
+    "id": 91886,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T06:36:26+00:00",
+    "text": "мало времени прошло. китайцы ранее тоже копировали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост комментирует копирование технологий китайцами.",
+      "keywords": [
+        "Китай",
+        "копирование",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 91885,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T03:13:33+00:00",
+    "text": "Я лично предпочитаю HeroSMS, мне там перебирать не приходилось, если есть позиция под конкретный сервис",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личными предпочтениями в выборе SMS-сервиса.",
+      "keywords": [
+        "HeroSMS",
+        "предпочтения",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 91884,
+    "channel_id": "docsllm",
+    "date": "2026-10-12T02:05:10+00:00",
+    "text": "У них получилось очень естественно. Я поверил",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  }
+]
