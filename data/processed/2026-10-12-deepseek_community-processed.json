@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 22708,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-12T14:42:28+00:00",
+    "text": "Навайбкодил для двухлетки https://gramotinho.kick.sh/vaibinho\n\nУже есть некоторый опыт и точно говорю, что вот с подобным html js и тд дипсик работает намного лучше, чем квен",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь делится личным опытом в разработке с использованием html и js.",
+      "keywords": [
+        "html",
+        "js",
+        "опыт",
+        "разработка",
+        "дипсик"
+      ]
+    }
+  }
+]
