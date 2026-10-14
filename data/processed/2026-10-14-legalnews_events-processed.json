@@ -1,0 +1,24 @@
+[
+  {
+    "id": 245,
+    "channel_id": "legalnews_events",
+    "date": "2026-10-14T07:00:53+00:00",
+    "text": "16 октября пройдет [Global Tech Forum](https://globaltechforum.ru/)\n\nЕсть промокод на бесплатный билет\n\nПромокод **TIMEPAD100**, который дает** бесплатный билет** **STANDART** \n__*количество мест ограничено, необходимо подтверждение организатора.__\n\n**Для регистрации:**\n• Перейдите по ссылке [https://b-forums.timepad.ru/event/4251913/](https://b-forums.timepad.ru/event/4251913/)\n• Выберите билет категории **STANDART** и примените промокод **TIME100**\n• Зарегистрируйтесь и ожидайте подтверждения заявки от организатора",
+    "views": 126,
+    "forwards": 6,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит информацию о промокоде на бесплатный билет на Global Tech Forum.",
+      "keywords": [
+        "Global Tech Forum",
+        "промокод",
+        "бесплатный билет",
+        "TIMEPAD100",
+        "регистрация"
+      ]
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 22762,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-14T08:07:23+00:00",
+    "text": "И как это делается? Зачем ломать этот контекст? Какой именно?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясный текст без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 22761,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-14T06:12:24+00:00",
+    "text": "Уау! Спасибо за опыт! Очень информативно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит благодарность за опыт, но не предоставляет информации.",
+      "keywords": []
+    }
+  }
+]

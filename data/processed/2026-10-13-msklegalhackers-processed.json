@@ -59,5 +59,43 @@
         "оценка эффективности"
       ]
     }
+  },
+  {
+    "id": 21382,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-13T18:58:08+00:00",
+    "text": "Все равно круто)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 21381,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-13T18:18:09+00:00",
+    "text": "«Пять дней в офисе, два — удалённо»\n\nРаботодатели придумали, пожалуй, самый хитрый график работы, чтобы создать иллюзию удалёнки.",
+    "views": 14724,
+    "forwards": 78,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Работодатели внедряют новый график работы с пятью днями в офисе и двумя удалёнными.",
+      "keywords": [
+        "график работы",
+        "удалёнка",
+        "работа",
+        "офис",
+        "нововведение"
+      ]
+    }
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3076,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-14T09:47:55+00:00",
+    "text": "В группу присоединяются, а чат мертвый)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Чат непривлекателен для участников.",
+      "keywords": [
+        "чат",
+        "группа",
+        "мертвый"
+      ]
+    }
+  }
+]
