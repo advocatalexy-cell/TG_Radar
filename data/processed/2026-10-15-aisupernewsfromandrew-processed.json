@@ -1,0 +1,24 @@
+[
+  {
+    "id": 816,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-15T12:44:30+00:00",
+    "text": "Anthropic завершила третий квартал с выручкой в $16,8 млрд и осталась условно прибыльной https://share.google/X1a25faXlfyiHPddu",
+    "views": 162,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Компания Anthropic завершила третий квартал с выручкой в $16,8 млрд и осталась условно прибыльной.",
+      "keywords": [
+        "Anthropic",
+        "выручка",
+        "прибыли",
+        "третьий квартал",
+        "бизнес"
+      ]
+    }
+  }
+]
