@@ -1,0 +1,46 @@
+[
+  {
+    "id": 821,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-16T11:31:04+00:00",
+    "text": "ИИ-модель Nvidia Nemotron 3.5 Super VL с пост-обучением превзошла Claude Opus 5 и GPT-6.1 Sol в специализированных задачах https://share.google/USP5jNS4CaiuAX7jb",
+    "views": 196,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Новая ИИ-модель Nvidia Nemotron 3.5 Super VL успешно превзошла конкурентные модели в специализированных задачах.",
+      "keywords": [
+        "Nvidia",
+        "Nemotron",
+        "ИИ-модель",
+        "сравнение",
+        "специализированные задачи"
+      ]
+    }
+  },
+  {
+    "id": 820,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-16T10:07:36+00:00",
+    "text": "**Библиотека промптов для создания красивых сайтов**\n\nНа SceneAI собрали готовые запросы для генерации лендингов, сайтов и анимаций.\n\nВместо того чтобы с нуля объяснять нейросети желаемый дизайн, можно выбрать подходящий пример, скопировать промпт и адаптировать его под свой проект.\n\n**Полезно для вайбкодеров:** меньше экспериментов с формулировками — быстрее готовый результат. Забрать промпты — [здесь](https://sceneai.art/landing-pages).\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 36,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "SceneAI предлагает библиотеку промптов для создания сайтов.",
+      "keywords": [
+        "библиотека",
+        "промпты",
+        "сайты",
+        "нейросети",
+        "дизайн"
+      ]
+    }
+  }
+]

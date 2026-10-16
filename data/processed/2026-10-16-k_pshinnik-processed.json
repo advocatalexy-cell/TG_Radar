@@ -1,0 +1,24 @@
+[
+  {
+    "id": 207,
+    "channel_id": "k_pshinnik",
+    "date": "2026-10-16T08:08:06+00:00",
+    "text": "А вот и детали исследования. Форбс написали хорошую статью: https://www.forbes.ru/tekhnologii/570361-neceloveceskim-azykom-pocti-20-statej-v-rossijskih-smi-imeut-priznaki-ii-generacii",
+    "views": 798,
+    "forwards": 6,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Форбс опубликовал статью о признаках использования ИИ в российских СМИ.",
+      "keywords": [
+        "исследование",
+        "ИИ",
+        "российские СМИ",
+        "признаки",
+        "статья"
+      ]
+    }
+  }
+]
