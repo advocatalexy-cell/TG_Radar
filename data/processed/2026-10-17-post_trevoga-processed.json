@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2594,
+    "channel_id": "post_trevoga",
+    "date": "2026-10-17T13:55:47+00:00",
+    "text": "добавочка",
+    "views": 69,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 2585,
+    "channel_id": "post_trevoga",
+    "date": "2026-10-17T13:50:29+00:00",
+    "text": "ребят, мемы ну, налетайте\nсегодня отборные",
+    "views": 112,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о мемах.",
+      "keywords": [
+        "мемы",
+        "развлечение",
+        "юмор"
+      ]
+    }
+  }
+]

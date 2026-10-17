@@ -1,0 +1,40 @@
+[
+  {
+    "id": 22818,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-17T02:56:04+00:00",
+    "text": "Звук у Кибердеда плохой, особенно первые 16 минут, но моя нейронка быстро адаптировалась. Есть текст видео.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Критика качества звука у видео от Кибердеда.",
+      "keywords": [
+        "Кибердед",
+        "звук",
+        "нейронка",
+        "видео",
+        "критика"
+      ]
+    }
+  },
+  {
+    "id": 22817,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-17T02:53:46+00:00",
+    "text": "https://youtu.be/GCmuO9mcHZw?is=HqFaEWEV-d33Qp3J",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на видео, не содержащая содержания.",
+      "keywords": []
+    }
+  }
+]
