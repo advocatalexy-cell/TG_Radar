@@ -1,0 +1,46 @@
+[
+  {
+    "id": 823,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-18T10:07:32+00:00",
+    "text": "**Апскейлим любые картинки до 8К с помощью ChatGPT** — нашли промт, который превратит ИИ-агента от OpenAI в самый мощный апскейлер\n\nChatGPT в режиме Work разберет вашу фотку на 9 частей, улучшит каждую из них, а потом **соберет обратно**. Закидываем свои фотки вместе с промтом:\n\nname: flowers-upscale\ndescription: Photo to 8K; 2/3-pass contextual AI crop enhancement and registered blending.\n---\nINPUT S=uploaded photo; missing→request. Unspecified→ask \"2 passes (recommended) or 3? 8K default; another resolution?\" Await choice. N=2|3; L=specified longest edge else8192; preserve aspect. Discover available AI image-editing+raster-processing capabilities; missing→report requirement. Use environment-native tools/paths; create helpers as needed. Preserve S; separate outputs. Execute end-to-end after choice.\n\nE(C): inspect; AI-edit inputs=[S=context,C=target], maximum practical supported resolution; retain actual output dimensions. Prompt=Q+only relevant material constraints. Concurrent independent calls where supported; persist outputs+source-coordinate boxes+prompts immediately.\n\nP1: S→3×3 cores; pad each side20% core dimension, clip to S→9 overlapping C→E→register/blend→M1; resize assembled M1 to L.\nP2: M1→4–8 padded salient ROIs(face/hair/hands/objects/textiles as present)→E→register/blend→M2. Exclude low-information regions.\nN=3: M2→4–8 tighter focal ROIs(individual eyes/lips/nose/fingers/material details as present)→E→register/blend→M3. Keep homologous features consistent. Every E receives S, never crop alone.\n\nQ=\"1=original: identity/anatomy/color/light authority. 2=target: return exact crop/framing/geometry. Reconstruct plausible photographic detail; preserve expression, pose, contours, clothing, genuine imperfections, focus falloff. Optical clarity; natural edge transitions; spatially varied texture. Repair inherited artifacts. Skin: irregular pores/fine creases, quiet intervals. Hair: cohesive groups, selective fibers, natural sparse fringe. Iris: source color, irregular branching fibers, coherent pupil, restrained reflections. Textiles: original weave direction/spacing/motifs. Avoid invented structures/marks, beautification, relighting, halos, ringing, embossed/crosshatched/repeated texture, synthetic grain, blanket sharpening.\"\n\nASSEMBLE: map recorded boxes→master; global similarity registration first; bounded smooth local correction only with reliable correspondence, never distort rigid geometry/repeating patterns. Unreliable→retain prior pixels. Match broad exposure/color without transferring old fine texture. Normalized overlap/multiband blend; feather15–25% border→alpha0 at interior patch boundaries. Preserve native enhanced crops. Before next pass: inspect full image+100% focal/overlap crops; repair doubling/seams/drift/texture mismatch. ≤2 targeted retries/defect; rejected/failed→retain prior content+disclose.\n\nEXPORT: M_N→lossless PNG at L; verify dimensions+decode; deliver file+preview+prompts/settings. Describe detail as reconstructed; distinguish exported resolution from native generated resolution.\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 27,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждение нового промта для апскейлинга изображений до 8K с помощью ChatGPT.",
+      "keywords": [
+        "апскейлинг",
+        "ChatGPT",
+        "изображения",
+        "технологии",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 822,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-18T10:07:26+00:00",
+    "text": "**Нашли огромную библиотеку анимаций для Claude Code — мастхев для моушен-дизайна**\n\nВ коллекции больше **200 видео**, созданных с помощью Claude Opus 5.5: интерфейсы, графики, кинетическая типографика, частицы, персонажи и программный код.\n\nК каждой работе приложен промпт или готовый скилл.\nМожно посмотреть исходный код анимации. Промпты легко адаптировать под свои задачи и создавать собственные ролики. **Берём готовые примеры и превращаем их в свои проекты.**\n\nЮзаем — [тут](https://prompt-motion.com/).\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 27,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Анонс библиотеки анимаций для Claude Code, которая включает готовые примеры для моушен-дизайна.",
+      "keywords": [
+        "анимации",
+        "Claude Code",
+        "моушен-дизайн",
+        "примеры",
+        "библиотека"
+      ]
+    }
+  }
+]
