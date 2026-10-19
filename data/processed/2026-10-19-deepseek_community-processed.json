@@ -1,0 +1,38 @@
+[
+  {
+    "id": 22862,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-19T11:05:43+00:00",
+    "text": "Зацените галерею https://gramotinho.kick.sh/galery.html (мобильной версии нет, только декстоп и планшет)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку на галерею без значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 22859,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-19T01:06:15+00:00",
+    "text": "Привет, [阿墨...](tg://user?id=8858965699) \nРады приветствовать тебя в нашем чате!\n\nЧтобы иметь возможность писать в нашем чате пройди верификацию, нажав кнопку ниже👇👇👇",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие и приглашение пройти верификацию в чате.",
+      "keywords": [
+        "приветствие",
+        "верификация",
+        "чат"
+      ]
+    }
+  }
+]
