@@ -1,0 +1,24 @@
+[
+  {
+    "id": 828,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-20T11:14:29+00:00",
+    "text": "Тайна разогретого супа раскрыта? Модели OpenAI, Google и Anthropic помогли найти новую закономерность в физике еды https://share.google/fctCiclp4OxaLlZnu",
+    "views": 208,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Ученые используют модели ИИ для вскрытия новых закономерностей в приготовлении пищи.",
+      "keywords": [
+        "ИИ",
+        "физика еды",
+        "OpenAI",
+        "Google",
+        "Anthropic"
+      ]
+    }
+  }
+]

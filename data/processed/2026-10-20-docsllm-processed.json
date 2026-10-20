@@ -1,0 +1,885 @@
+[
+  {
+    "id": 93001,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T13:24:32+00:00",
+    "text": "Встречайте — [Сиолошная Каждый День](https://t.me/seeallochnaya_kazhdi_den)\n\nНовости про ИИ я читаю каждый день, но не каждый день я могу ими делиться тут в канале. Каждый пост требует вдумчивого чтения, проверки, в идеале объяснение и/или предоставления контекста, а времени на это не всегда хватает. Какие-то новости (чаще скрины твитов) я скидываю к нам в чат, но в потоке обсуждений и комментариев что-то теряется. Скидывать ссылки/картинки и писать «ну э смотрите» или «прикольное» — не формат этого канала.\n\nПоэтому решил сделать простой канал, куда буду спамить что-то, чем можно было бы поделиться или что можно обсудить, но без детального объяснения и мыслей. Посмотрим как пойдет, может надоест и перестану делиться там, вернусь в чат🤷‍♂️\n\n@seeallochnaya_kazhdi_den — внутри вас уже ждёт три (ТРИ!) поста про DeepSeek",
+    "views": 7954,
+    "forwards": 26,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор канала делится своими мыслями о формате нового канала для новостей про ИИ.",
+      "keywords": [
+        "канал",
+        "новости",
+        "ИИ",
+        "обсуждение",
+        "формат"
+      ]
+    }
+  },
+  {
+    "id": 93000,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T13:18:35+00:00",
+    "text": "Так может всё-таки проще md- зеркала?)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92999,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T12:51:58+00:00",
+    "text": "Ну а нам всё нет покоя...",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92998,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T11:14:43+00:00",
+    "text": "Тайна разогретого супа раскрыта? Модели OpenAI, Google и Anthropic помогли найти новую закономерность в физике еды https://share.google/fctCiclp4OxaLlZnu",
+    "views": 208,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Исследования моделей OpenAI, Google и Anthropic помогли раскрыть новую закономерность в области физики еды.",
+      "keywords": [
+        "OpenAI",
+        "Google",
+        "физика",
+        "еда",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 92997,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T11:14:43+00:00",
+    "text": "Оперативка не зря подорожала",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Повышение цен на оперативную память.",
+      "keywords": [
+        "оперативка",
+        "подорожание",
+        "цены"
+      ]
+    }
+  },
+  {
+    "id": 92996,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:52:13+00:00",
+    "text": "Ну ранее 125$ прошло через аппстор норм, затем прошел идентификацию в Клод и подписка оформилась, теперь на 250 вот такая ерунда..\n\nСначала подумал, может и аппстор теперь ругается на впн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь сообщает о проблемах с оплатой в App Store и возможных причинах.",
+      "keywords": [
+        "App Store",
+        "оплата",
+        "VPN",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 92995,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:49:41+00:00",
+    "text": "Нет, 250 спокойно одной покупкой оплачивается",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92994,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:48:58+00:00",
+    "text": "Лимит, может какой. У меня такое при покупке с карты, приходится за несколько раз пополнять",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает лимиты на покупки с карты.",
+      "keywords": [
+        "лимит",
+        "покупка",
+        "карта",
+        "финансы"
+      ]
+    }
+  },
+  {
+    "id": 92992,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:45:40+00:00",
+    "text": "нет, гифткарты покупал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится личной покупкой.",
+      "keywords": [
+        "гифткарты",
+        "покупка",
+        "личные дела"
+      ]
+    }
+  },
+  {
+    "id": 92991,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:45:21+00:00",
+    "text": "Вы картой платите?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о предпочтениях в оплате.",
+      "keywords": [
+        "оплата",
+        "карта",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 92990,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T10:44:57+00:00",
+    "text": "версия с нативными диспатчерами под линукс в репо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение новой версии с нативными диспатчерами под Linux в репозитории.",
+      "keywords": [
+        "диспетчеры",
+        "Linux",
+        "репозиторий",
+        "версия",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 92989,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:41:19+00:00",
+    "text": "понял, спасибо большое!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает благодарность.",
+      "keywords": [
+        "благодарность",
+        "общение",
+        "переписка"
+      ]
+    }
+  },
+  {
+    "id": 92988,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:40:55+00:00",
+    "text": "В App Store там пошаговый запрос в поддержку. Причину не сообщили. Через несколько часов пришел ответ, что можно оплатить. Я повторила операцию и платеж прошел. Ситуация была первый раз при смене карты и оплаты через appstore",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с оплатой в App Store.",
+      "keywords": [
+        "App Store",
+        "оплата",
+        "смена карты",
+        "поддержка",
+        "пользовательский опыт"
+      ]
+    }
+  },
+  {
+    "id": 92987,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:39:18+00:00",
+    "text": "написали причину задержки платежа?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации о задержке платежа.",
+      "keywords": [
+        "платеж",
+        "задержка",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 92986,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:38:27+00:00",
+    "text": "Добрый день! Да, я писала в поддержку, ответ пришел в течение суток. Повторно после этого платеж прошел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом общения с поддержкой.",
+      "keywords": [
+        "поддержка",
+        "платеж",
+        "ответ"
+      ]
+    }
+  },
+  {
+    "id": 92985,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:32:47+00:00",
+    "text": "Коллеги, кто нибудь сталкивался с тем, что аппстор отказывается оплатить подписку Клод? (Меняю с 5х на 20х)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о проблемах с оплатой подписки Клод в App Store.",
+      "keywords": [
+        "аппстор",
+        "подписка",
+        "Клод",
+        "оплата",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 92984,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T09:04:20+00:00",
+    "text": "О, спасибо, на гитхабе нету, а на сайте не проверял",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь благодарит за помощь, обсуждая информацию о GitHub.",
+      "keywords": [
+        "GitHub",
+        "сайт",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 92983,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T08:01:31+00:00",
+    "text": "в бете, но есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неясную информацию.",
+      "keywords": [
+        "бета",
+        "информация",
+        "неясность"
+      ]
+    }
+  },
+  {
+    "id": 92982,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T08:00:54+00:00",
+    "text": "Интересно, чего это готового ZCode на Линуксе у Z ai нет то?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Спрашивается о различиях между ZCode на Линуксе и Z ai.",
+      "keywords": [
+        "ZCode",
+        "Linux",
+        "Z ai",
+        "различия"
+      ]
+    }
+  },
+  {
+    "id": 92981,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:57:11+00:00",
+    "text": "нашел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92980,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:51:36+00:00",
+    "text": "а можно ссылку на суперпаверс? чтобы звезду поставить, если я могу такое вообще ставить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о возможности поставить звезду на платформе Суперпаверс.",
+      "keywords": [
+        "суперпаверс",
+        "звезда",
+        "ссылка",
+        "возможности"
+      ]
+    }
+  },
+  {
+    "id": 92979,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:50:16+00:00",
+    "text": "Сделяль. Теперь у тебя 5 звезд 🫡",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит поздравление.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92977,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:45:00+00:00",
+    "text": "Вечером выкачу в репо,  но на линуксе надо будет отправить агента собрать zcode CLI из исходников",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение задачи по сборке zcode CLI из исходников на линуксе.",
+      "keywords": [
+        "zcode",
+        "CLI",
+        "сборка",
+        "Linux",
+        "исходники"
+      ]
+    }
+  },
+  {
+    "id": 92974,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:39:44+00:00",
+    "text": "Принимаю респекты в звёздах на гитхабе)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92973,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:36:38+00:00",
+    "text": "Надо подкрутить под линух будет, чтобы зайка стартовала и там, подскажешь — я сделаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос помощи по настройке приложения на Linux.",
+      "keywords": [
+        "Linux",
+        "настройка",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 92972,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:35:51+00:00",
+    "text": "аналогично, классная штука",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92971,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:35:37+00:00",
+    "text": "Ян, тебе публичный респект и уважуха за суперпаверс. У меня наконец-то токеножор в норму вошел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь выражает благодарность за помощь в улучшении токеножора.",
+      "keywords": [
+        "респект",
+        "токеножор",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 92970,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:34:30+00:00",
+    "text": "У меня тоже сброс внезапно прилетел. Приятненько",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о личном опыте со сбросом.",
+      "keywords": [
+        "сброс",
+        "личный опыт",
+        "Telegram"
+      ]
+    }
+  },
+  {
+    "id": 92968,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:34:13+00:00",
+    "text": "Вот и я о чём)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92967,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:33:44+00:00",
+    "text": "а че срок заново не течет после сброса?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный вопрос без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92966,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:32:57+00:00",
+    "text": "ну так на большее 20$ подписок не хватает))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о недостающей сумме для подписок, не содержит значимой информации.",
+      "keywords": [
+        "подписки",
+        "деньги",
+        "недостаток"
+      ]
+    }
+  },
+  {
+    "id": 92965,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:32:14+00:00",
+    "text": "Уже писали, что так и есть. Большая часть ресетов там в день окончания лимитов )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о ресетах лимитов, без новых данных или значимого анализа.",
+      "keywords": [
+        "ресеты",
+        "лимиты",
+        "данные"
+      ]
+    }
+  },
+  {
+    "id": 92964,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:31:45+00:00",
+    "text": "Шо ты лечишь, математик, 2 ресета за последние три дня)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясная шутка о медицинской помощи и резетах.",
+      "keywords": [
+        "шутка",
+        "математик",
+        "ресет",
+        "дни",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 92963,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:31:19+00:00",
+    "text": "может они под это подстраиваются, хз",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределённый комментарий без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92962,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:31:06+00:00",
+    "text": "но кодекс ресетается ровно в тот момент, когда 7-дн лимиты кончаются у 20$ подписок",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о ресете кодекса и 7-дневных лимитах для подписок.",
+      "keywords": [
+        "кодекс",
+        "ресет",
+        "лимиты",
+        "подписки",
+        "20$"
+      ]
+    }
+  },
+  {
+    "id": 92961,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:30:37+00:00",
+    "text": "из-за этих приколов сейчас все модели в капасити",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Модели находятся в состоянии перегрузки из-за определённых действий.",
+      "keywords": [
+        "модели",
+        "капасити",
+        "перегрузка"
+      ]
+    }
+  },
+  {
+    "id": 92959,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:29:20+00:00",
+    "text": "**✅ Codex reset confirmed**\n\nDay 15/ Nevermind, we're still cooking... and reset. Enjoy. - Tibo\n\n[View on X](https://x.com/i/status/2112432190877323443) · Tracked by [codex-resets.com](https://codex-resets.com/)",
+    "views": 13113,
+    "forwards": 259,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Подтверждение сброса Codex.",
+      "keywords": [
+        "Codex",
+        "сброс",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 92957,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:10:55+00:00",
+    "text": "да, вот буквально часа полтора назад)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92954,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T07:07:11+00:00",
+    "text": "В чем заключается обновление помимо сброса лимитов?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о деталях обновления без конкретной информации.",
+      "keywords": [
+        "обновление",
+        "лимиты",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 92953,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:54:12+00:00",
+    "text": "Обновился, специально резервные 20% держал, но новая сотка всегда лучше)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "обновление",
+        "резерв",
+        "сотка"
+      ]
+    }
+  },
+  {
+    "id": 92952,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:38:25+00:00",
+    "text": "Обновился",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92951,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:33:41+00:00",
+    "text": "Кодекс у всех обновился?\nБез уведомления от Тибо, хотя 4 дня рисовало еще",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост упоминает об изменении кодекса без официального уведомления.",
+      "keywords": [
+        "кодекс",
+        "обновление",
+        "Тибо",
+        "неуведомление"
+      ]
+    }
+  },
+  {
+    "id": 92950,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:32:00+00:00",
+    "text": "У меня тоже с сервера в США все работает)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92949,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:31:10+00:00",
+    "text": "🤓️️😁️️️️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 92946,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T06:20:18+00:00",
+    "text": "Так интересно конечно это все с доступом... И те кто спрашивает и те кто отвечает. Кто спрашивает ему как бы не хватает интереса что ли до конца разобраться, к телеграмму же доступ есть, значит как бы при должном желании можно и к чему угодно доступ организовать... Кто отвечает, он как бы такой да, вот тебе краткий ответ... Но по факту там ещё нюансов куева туча, которые методом тыка, проб и ошибок, приводят к нужному результату... От настроек своего сервера с КВН до настройки клиента подключения к этому серверу, настроек браузера, настроек аккаунтов, протечек днс и прочего прочего...\n\nКороче, мне в свое время помогло то (помимо всех прочих танцев с бубном), что я страну аккаунта Гугл как бы сменил на США оплатив один доллар виртуальной картой, известного сервисы в телеграм, которой пользуюсь до сих пор для оплаты клода, как говорится полет нормальный :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом в настройках доступа и оплаты в Telegram.",
+      "keywords": [
+        "Telegram",
+        "доступ",
+        "настройки",
+        "оплата",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 92941,
+    "channel_id": "docsllm",
+    "date": "2026-10-20T04:32:35+00:00",
+    "text": "Ну значит второй вариант)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный контекст без значимой информации.",
+      "keywords": []
+    }
+  }
+]

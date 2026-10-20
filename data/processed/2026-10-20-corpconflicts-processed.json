@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2446,
+    "channel_id": "corpconflicts",
+    "date": "2026-10-20T05:33:23+00:00",
+    "text": "https://x.com/ruzke_politota/status/2112105421221896260",
+    "views": 13,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на пост в Twitter.",
+      "keywords": []
+    }
+  }
+]
