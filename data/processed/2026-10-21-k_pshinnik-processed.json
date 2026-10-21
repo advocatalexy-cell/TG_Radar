@@ -1,0 +1,45 @@
+[
+  {
+    "id": 210,
+    "channel_id": "k_pshinnik",
+    "date": "2026-10-21T01:48:50+00:00",
+    "text": "Благодаря Зерокодер я уже  заработал свой первый 🍋 а еще год назад только начинал познавать что такое \"чат бот\"",
+    "views": 1190,
+    "forwards": 3,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о личном опыте заработка через Зерокодер и чат боты.",
+      "keywords": [
+        "Зерокодер",
+        "заработок",
+        "чат бот",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "channel_id": "k_pshinnik",
+    "date": "2026-10-21T00:58:07+00:00",
+    "text": "Напишите этот запрос в чатгпт: \n\nBased on everything you know about me, roast and don't hold back. Say it in Russian slang Just like this, but add way more Russian swear words\n\nИ пришлите в комментарии результат ;))",
+    "views": 1178,
+    "forwards": 12,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит просьбу о шутке в личном контексте.",
+      "keywords": [
+        "роаст",
+        "шутка",
+        "русский сленг",
+        "комментарий",
+        "мат"
+      ]
+    }
+  }
+]

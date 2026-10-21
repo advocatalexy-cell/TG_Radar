@@ -1,0 +1,624 @@
+[
+  {
+    "id": 93138,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T12:59:20+00:00",
+    "text": "Напоминаю, что завтра истекает ручной ресет Клода, который всем выдавался",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Напоминание о завершении срока действия ручного ресета Клода.",
+      "keywords": [
+        "ресет",
+        "Клод",
+        "напоминание",
+        "срок",
+        "истечение"
+      ]
+    }
+  },
+  {
+    "id": 93136,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T11:37:01+00:00",
+    "text": "с текстом как правило проблем не бывает, вот все проблемы в шапке с реквизитами , так как их вписывают от руки часто",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Проблемы с реквизитами, вписываемыми от руки.",
+      "keywords": [
+        "реквизиты",
+        "проблемы",
+        "от руки"
+      ]
+    }
+  },
+  {
+    "id": 93135,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T11:36:15+00:00",
+    "text": "ответы на запросы в органы. apple vision и indra",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Обсуждение ответов на запросы в органы, касающиеся технологий Apple Vision и Indra.",
+      "keywords": [
+        "Apple Vision",
+        "Indra",
+        "технологии",
+        "запросы",
+        "органы"
+      ]
+    }
+  },
+  {
+    "id": 93133,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T10:33:07+00:00",
+    "text": "Наверное имелось в виду приложение Perplexity для ПК, которое в MS Store. У меня стоит, но в веб-версии как будто бы лучше. Какие-то косяки есть в его работе и интерфейс не совпадает с веб-версией. Например, нельзя переименовать чат и проект. А в веб-версии можно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Пользователь говорит о недостатках приложения Perplexity для ПК в сравнении с веб-версией.",
+      "keywords": [
+        "Perplexity",
+        "приложение",
+        "ПК",
+        "веб-версия",
+        "недостатки"
+      ]
+    }
+  },
+  {
+    "id": 93131,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T10:13:31+00:00",
+    "text": "Хотелось бы анализа Manus и Vibe. А то все проторёнными дорожками ходите",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос на анализ Manus и Vibe.",
+      "keywords": [
+        "анализ",
+        "Manus",
+        "Vibe"
+      ]
+    }
+  },
+  {
+    "id": 93129,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T09:28:20+00:00",
+    "text": "В кодексе теперь кэш ваших чатов живет... вечно. Но не ясно, влияет ли это на стоимость записи в кэш с точки зрения потребления квоты, надо проверить — так-то 12-часовой кэш в апи стоит в 2.5 раза дороже.\n\nИнтересно что я прямо позавчера заметил, что у меня после ночи кэш живой (ответ очень быстро начал генерироваться, за 5 секунд), при этом по логам это был cache miss, и я оплатил полную стоимость.",
+    "views": 2341,
+    "forwards": 13,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "В кодексе теперь кэш чатов хранится вечно, но неясно, как это влияет на стоимость записи в кэш.",
+      "keywords": [
+        "кэш",
+        "API",
+        "стоимость",
+        "чат",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 93128,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T08:59:37+00:00",
+    "text": "Пояснительную бы бригаду: что сравнивалось,хотя бы)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос на разъяснение информации.",
+      "keywords": [
+        "объяснение",
+        "сравнение",
+        "опрос"
+      ]
+    }
+  },
+  {
+    "id": 93127,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T08:58:20+00:00",
+    "text": "спасибо!! А vision - это падл или другая какая-то моделька?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о модели Vision.",
+      "keywords": [
+        "vision",
+        "модель",
+        "падл"
+      ]
+    }
+  },
+  {
+    "id": 93124,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T08:13:09+00:00",
+    "text": "Потом немецкие юрфирмы, которые покупают, меня просто съедят с потрохами)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост с личными размышлениями о юрфирмах.",
+      "keywords": [
+        "юридические фирмы",
+        "размышления",
+        "личное мнение"
+      ]
+    }
+  },
+  {
+    "id": 93122,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T08:03:09+00:00",
+    "text": "спасибо, но хотелось чтоб кто-то прям в бою проверил))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Краткое благодарственное сообщение.",
+      "keywords": [
+        "спасибо",
+        "благодарность",
+        "опрос"
+      ]
+    }
+  },
+  {
+    "id": 93120,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:36:24+00:00",
+    "text": "Это был ответ на мой вопрос про удаление ответа чатгпт, где он матом прокомментировал мои недостатки в работе с ним.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о неуместном ответе чатгпт.",
+      "keywords": [
+        "чатгпт",
+        "ответ",
+        "недостатки",
+        "неуместно"
+      ]
+    }
+  },
+  {
+    "id": 93119,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:35:28+00:00",
+    "text": "Это я?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93118,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:32:55+00:00",
+    "text": "В соседнем чате подсмотрел интересный промпт. Он в очень смешной форме сообщает свои наблюдения о пользователе. Во всяком случае мне очень понравилось то, что получилось:\n\nBased on everything you know about me, roast and don't hold back. Say it in Russian slang Just like this, but add way more Russian swear words",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит просьбу о создании шутливого и грубого текста.",
+      "keywords": [
+        "шутка",
+        "промпт",
+        "сленг",
+        "грубо",
+        "своеобразный"
+      ]
+    }
+  },
+  {
+    "id": 93116,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:28:34+00:00",
+    "text": "Плохие слова в сообществе не приветствуются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщество не поддерживает использование плохих слов.",
+      "keywords": [
+        "сообщество",
+        "плохие слова",
+        "правила"
+      ]
+    }
+  },
+  {
+    "id": 93112,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:21:27+00:00",
+    "text": "Перплексити неправильно написали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ошибка в написании слова.",
+      "keywords": [
+        "перплексити",
+        "ошибка",
+        "написание"
+      ]
+    }
+  },
+  {
+    "id": 93110,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:19:29+00:00",
+    "text": "Тогда что именно сделать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный запрос без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93109,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:18:37+00:00",
+    "text": "На нем и сижу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93108,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:18:16+00:00",
+    "text": "Comet браузер",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение браузера Comet.",
+      "keywords": [
+        "Comet",
+        "браузер",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 93107,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:18:06+00:00",
+    "text": "Комет есть вариант",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93106,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:17:52+00:00",
+    "text": "На  компьютере не понимаю как сделать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о помощи в использовании компьютера.",
+      "keywords": [
+        "помощь",
+        "компьютер",
+        "непонимание"
+      ]
+    }
+  },
+  {
+    "id": 93105,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:14:54+00:00",
+    "text": "В Айос есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Необоснованное или несущественное заявление.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93102,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:13:46+00:00",
+    "text": "Самого приложение нет в магазине",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблема с отсутствием приложения в магазине.",
+      "keywords": [
+        "приложение",
+        "магазин",
+        "отсутствие"
+      ]
+    }
+  },
+  {
+    "id": 93100,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T07:11:58+00:00",
+    "text": "Сейчас никак не работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93095,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T06:30:50+00:00",
+    "text": "Тут у меня в подписке Тим на Клоде дали кредиты для того чтобы их обменять на 180 евро на подписку на АПИ. Внедрение АПИ началось… я конечно же менять их не буду",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с подпиской на API и кредита на обмен.",
+      "keywords": [
+        "подписка",
+        "API",
+        "кредиты",
+        "личный опыт"
+      ]
+    }
+  },
+  {
+    "id": 93090,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T05:23:46+00:00",
+    "text": "Тож прогнал, топ, беру вторым пилотом к тесеракту))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о личном опыте с пилотированием.",
+      "keywords": [
+        "пилот",
+        "Тесеракт",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 93089,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:21:35+00:00",
+    "text": "У меня там easyocr встроен, ниче достойно, медленновато по сравнению с индрой, но терпимо и качество нормальное и весит всего 100мб",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования easyocr.",
+      "keywords": [
+        "easyocr",
+        "OCR",
+        "технологии",
+        "качество",
+        "разработка"
+      ]
+    }
+  },
+  {
+    "id": 93088,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:19:33+00:00",
+    "text": "типа хотите покупайте или снижайте годовой доход",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Сообщение о покупке без конкретного содержания.",
+      "keywords": [
+        "покупка",
+        "доход",
+        "предложение"
+      ]
+    }
+  },
+  {
+    "id": 93087,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:19:09+00:00",
+    "text": "Ну давай им падлу и пробничек некоммерческий с индрой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательный пост без значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93086,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:17:45+00:00",
+    "text": "Там сильно хитро - даже типа если ваши клиенты пользуются продуктом в котором интегрирована индра, и они зарабатывают больше 20 млн евро, то нужна коммерческая лицензия. Ограничения передаются по наследству так сказать \n«You shall require all of Your users who use the Model… to comply with the terms of this paragraph 5».\nЛадно мне, но клиентов подставлять не могу так :(",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "Обсуждаются условия лицензирования для клиентов, использующих продукцию с интеграцией Indra.",
+      "keywords": [
+        "лицензия",
+        "клиенты",
+        "интеграция",
+        "Indra",
+        "заработок"
+      ]
+    }
+  },
+  {
+    "id": 93085,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:14:18+00:00",
+    "text": "так стырь)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93084,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T04:13:31+00:00",
+    "text": "На видива бенчи)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93083,
+    "channel_id": "docsllm",
+    "date": "2026-10-21T03:46:55+00:00",
+    "text": "Падл весит 900, индра - 100, для интеграции в продукт прямо критично. Но увы у индры, хоть она и хороша лицензия на веса не подходит мне :(",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Информация о весах продукта и несовпадении лицензии.",
+      "keywords": [
+        "интеграция",
+        "вес",
+        "лицензия",
+        "продукт",
+        "индра"
+      ]
+    }
+  }
+]

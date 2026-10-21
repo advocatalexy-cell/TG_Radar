@@ -40,5 +40,46 @@
         "AI-инструменты"
       ]
     }
+  },
+  {
+    "id": 3152,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-20T18:57:08+00:00",
+    "text": "всем привет, сделал форк, две бесплатные утилиты, пользуйтесь!\n\nhttp://github.com/kozliq/kachalka\n\nhttps://github.com/kozliq/Tolkovo",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь поделился ссылками на свои бесплатные утилиты.",
+      "keywords": [
+        "форк",
+        "бесплатные утилиты",
+        "GitHub"
+      ]
+    }
+  },
+  {
+    "id": 3151,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-20T18:05:08+00:00",
+    "text": "Всем здарова! Навайбкодил первую онлайн игру. Кто-нибудь может глянуть, оценить или сыграть с нами? Буду рад обратной связи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Разработка онлайн игры без содержательной информации.",
+      "keywords": [
+        "игра",
+        "обратная связь",
+        "вайбкодил",
+        "онлайн"
+      ]
+    }
   }
 ]

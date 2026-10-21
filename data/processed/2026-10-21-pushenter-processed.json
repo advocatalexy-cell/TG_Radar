@@ -1,0 +1,45 @@
+[
+  {
+    "id": 13879,
+    "channel_id": "pushenter",
+    "date": "2026-10-21T12:53:56+00:00",
+    "text": "👉 **Легендарную Need for Speed: Most Wanted запустили прямо в браузере** — умельцы портировали культовую гонку в веб.\n\nНикакой регистрации и установки — **запускаем и играем.**\n\nВозвращаем свою «бэху» [тут](https://dezm0n.itch.io/nfs-most-wanted-web-port).\n\n@PushEnter",
+    "views": 1089,
+    "forwards": 45,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "В браузере запустили легендарную игру Need for Speed: Most Wanted.",
+      "keywords": [
+        "Need for Speed",
+        "браузерная игра",
+        "переделка",
+        "гонки"
+      ]
+    }
+  },
+  {
+    "id": 13878,
+    "channel_id": "pushenter",
+    "date": "2026-10-21T06:35:10+00:00",
+    "text": "🔓 **В Blender теперь можно моделировать буквально через чат** — вайбкодеры встроили ChatGPT прямо в 3D-редактор.\n\nGPT сам может настраивать освещение, редактировать объекты, работать с материалами и писать Python-код.\n\nХватаем [тут](https://github.com/Samffprice/loopcut).\n\nТеперь «сделай красиво» официально работает и в 3D.\n\n@PushEnter",
+    "views": 2518,
+    "forwards": 127,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Blender интегрировала ChatGPT, позволяя пользователям моделировать через чат.",
+      "keywords": [
+        "Blender",
+        "ChatGPT",
+        "моделирование",
+        "3D",
+        "интеграция"
+      ]
+    }
+  }
+]
