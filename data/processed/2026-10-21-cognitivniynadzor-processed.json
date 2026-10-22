@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1643,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-10-21T17:06:30+00:00",
+    "text": "Сходил на Живой Гвоздь. Обсудили с Лизой Аникиной Трампа, риторику вокруг мирных переговоров, использование ИИ в пропаганде и другие темы 👇🏻\n\n[https://www.youtube.com/live/mSKLw931w8I](https://www.youtube.com/live/mSKLw931w8I?si=H-Ee5PRj8Q2rvQz0)",
+    "views": 4184,
+    "forwards": 14,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение на Живом Гвозде различных тем, включая Трампа и использование ИИ в пропаганде.",
+      "keywords": [
+        "Трамп",
+        "переговоры",
+        "ИИ",
+        "пропаганда",
+        "Живой Гвоздь"
+      ]
+    }
+  }
+]

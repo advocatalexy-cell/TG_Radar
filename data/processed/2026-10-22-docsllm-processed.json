@@ -1,0 +1,692 @@
+[
+  {
+    "id": 93189,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T13:57:14+00:00",
+    "text": "Вот бы с DeepSeek-OCR 2 сравнить. Локально его гоняю, долговато думает.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится впечатлениями о работе с DeepSeek-OCR 2.",
+      "keywords": [
+        "DeepSeek-OCR 2",
+        "локально",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 93188,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T13:54:18+00:00",
+    "text": "Сделал на этом движке прогу для пакетной обработки в папке по аналогии со своей прошлой \n\nhttps://github.com/mourmouration/pdf-to-md-indra",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Автор поделился ссылкой на свой новый проект для пакетной обработки документов.",
+      "keywords": [
+        "программирование",
+        "проект",
+        "обработка",
+        "движок",
+        "GitHub"
+      ]
+    }
+  },
+  {
+    "id": 93187,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T13:36:10+00:00",
+    "text": "Что-то типа этого?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на уточнение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93186,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T13:23:18+00:00",
+    "text": "А там может враппер бы для неё со скиллом небольшим сделали",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный комментарий о возможном разработке враппера.",
+      "keywords": [
+        "враппер",
+        "разработка",
+        "навыки"
+      ]
+    }
+  },
+  {
+    "id": 93185,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T13:22:54+00:00",
+    "text": "Тимур, было бы суперполезно, если бы ты в мдшку какую-нибудь собрал советы по использованию",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запрос о советах по использованию мдшки.",
+      "keywords": [
+        "советы",
+        "использование",
+        "мдшка"
+      ]
+    }
+  },
+  {
+    "id": 93184,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T12:55:35+00:00",
+    "text": "Тут",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93183,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T12:55:13+00:00",
+    "text": "Где взять?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации о том, где взять что-то.",
+      "keywords": [
+        "где",
+        "взять",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 93182,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T11:24:51+00:00",
+    "text": "Индра это модель OCR, которая распознает текст",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Индра — модель оптического распознавания текста.",
+      "keywords": [
+        "Индра",
+        "OCR",
+        "текст",
+        "распознавание"
+      ]
+    }
+  },
+  {
+    "id": 93181,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T11:09:13+00:00",
+    "text": "А Индра как вытаскивается?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о вытаскивании Индры не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93179,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:31:31+00:00",
+    "text": "У тебя нет вариантов, кроме как основной проход приложением OCR делать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Пост обсуждает применение технологии OCR.",
+      "keywords": [
+        "OCR",
+        "технология",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 93178,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:26:38+00:00",
+    "text": "«сам искин» — это пипец дорого будет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит эмоциональную реакцию без значимого содержания.",
+      "keywords": [
+        "иски",
+        "дорого",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 93177,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:26:23+00:00",
+    "text": "Ничо не понимаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит сути или информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93176,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:25:58+00:00",
+    "text": "Или вообще локально поставить модельку, а на vps грузить уже распознанное.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Обсуждение вариантов развертывания модели.",
+      "keywords": [
+        "модель",
+        "локально",
+        "VPS",
+        "распознавание"
+      ]
+    }
+  },
+  {
+    "id": 93175,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:25:17+00:00",
+    "text": "Я понимаю, но сжимать то чем? Есть 2 варианта: сам искин и стороннее приложение. Я к чему спрашиваю, у меня ж на vps места немного, мне удобнее бы чем-то локально обрабатывать, а потом уже туда закидывать на распознавание. Можно, конечно, написать что-то искином, чтобы он Маковский встроенный функционал юзал, просмотр нормально сжимает, но от «написать” у меня уже глаз дергается, когда остаток лимита токенов вижу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждается вопрос по компрессии контента и обработке на локальном уровне.",
+      "keywords": [
+        "compression",
+        "VPS",
+        "local processing",
+        "application"
+      ]
+    }
+  },
+  {
+    "id": 93174,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:23:22+00:00",
+    "text": "Уменьшил в настройках качество изображений с 300 до 200 точек и прогнал еще раз этими двумя моделями. Качество извлечения не изменилось, скорость прибавилась",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится опытом изменения настроек качества изображений.",
+      "keywords": [
+        "качество",
+        "изображения",
+        "настройки",
+        "скорость",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 93173,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:22:36+00:00",
+    "text": "Вот на этом этапе задаётся качество, в котором извлекается изображение",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о качестве извлекаемого изображения.",
+      "keywords": [
+        "качество",
+        "изображение",
+        "извлечение"
+      ]
+    }
+  },
+  {
+    "id": 93172,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:22:21+00:00",
+    "text": "Ну в пайплайне OCR вначале страницы извлекаются из пдфки как изображения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Описание этапа обработки PDF-документов.",
+      "keywords": [
+        "OCR",
+        "PDF",
+        "извлечение",
+        "изображения"
+      ]
+    }
+  },
+  {
+    "id": 93171,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:20:34+00:00",
+    "text": "А чем в 200 точек перегоняли? Самим искином?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о способах перегонки.",
+      "keywords": [
+        "перегонка",
+        "искину",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 93170,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T09:11:43+00:00",
+    "text": "По плану у меня в очереди на распознавание стоит более 15000 нормативно правовых актов. Я рассчитывал их прочитать за неделю. Теперь сделаю за 1 день",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Автор делится личным планом по распознаванию нормативных актов.",
+      "keywords": [
+        "нормативно правовые акты",
+        "распознавание",
+        "план"
+      ]
+    }
+  },
+  {
+    "id": 93168,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T08:58:40+00:00",
+    "text": "Последний замер уже с 200 точками",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Недостаточно информации для анализа.",
+      "keywords": [
+        "замер",
+        "точки"
+      ]
+    }
+  },
+  {
+    "id": 93166,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T08:07:45+00:00",
+    "text": "В итоге качество не изменилось. Перевожу на 200 точек. Скорость станет выше на 26%",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Качество услуги осталось прежним, но скорость улучшилась.",
+      "keywords": [
+        "качество",
+        "скорость",
+        "перевод"
+      ]
+    }
+  },
+  {
+    "id": 93165,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T08:00:58+00:00",
+    "text": "Вот как раз сейчас попробую уменьшить количество точек",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93163,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:58:40+00:00",
+    "text": "Клод говорит, что на фото хуже тесерракт, но по скорости просто пушка. На остальном — лучше тесерракта",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение характеристик нового устройства по сравнению с тесеррактом.",
+      "keywords": [
+        "Клод",
+        "тесерракт",
+        "характеристики",
+        "прибор",
+        "скорость"
+      ]
+    }
+  },
+  {
+    "id": 93161,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:33:49+00:00",
+    "text": "В кои-то веки путнюю OCR модель релизнули, получается",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Выпуск новой OCR модели.",
+      "keywords": [
+        "OCR",
+        "модель",
+        "релиз",
+        "технология",
+        "инновации"
+      ]
+    }
+  },
+  {
+    "id": 93159,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:29:23+00:00",
+    "text": "Проверил на боевом сервере. Решил заменить свой tesseract)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь сообщает о принятом решении заменить Tesseract.",
+      "keywords": [
+        "tesseract",
+        "замена",
+        "сервер"
+      ]
+    }
+  },
+  {
+    "id": 93158,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:18:37+00:00",
+    "text": "Это да. Но надо быть аккуратнее тем, у кого слабенький сервак",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост выражает осторожность в отношении слабых серверов.",
+      "keywords": [
+        "сервак",
+        "осторожность",
+        "слабенький"
+      ]
+    }
+  },
+  {
+    "id": 93157,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:17:49+00:00",
+    "text": "Зато смотри скорость, это же вообще другое пальто. 600 мб памяти в целом подьемно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о скорости и объёме памяти.",
+      "keywords": [
+        "скорость",
+        "память",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 93156,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T07:01:36+00:00",
+    "text": "Ошибок у Indra меньше на моих тестах по разспознаванию нормативки, но оперативы потребляет кратно больше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждение тестов по распознаванию нормативки на Indra.",
+      "keywords": [
+        "Indra",
+        "распознавание",
+        "нормативка",
+        "тесты",
+        "оперативы"
+      ]
+    }
+  },
+  {
+    "id": 93154,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:20:16+00:00",
+    "text": "Когда уже китайцы закончат прогрев и выкатят в прод",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о сроках завершения разработки в Китае.",
+      "keywords": [
+        "Китай",
+        "прогрев",
+        "разработка",
+        "сроки"
+      ]
+    }
+  },
+  {
+    "id": 93153,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:19:55+00:00",
+    "text": "И да, что-то я GLM-Legal на борде не нашёл",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь не нашел компанию GLM-Legal на борде.",
+      "keywords": [
+        "GLM-Legal",
+        "борд",
+        "поиск"
+      ]
+    }
+  },
+  {
+    "id": 93152,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:18:50+00:00",
+    "text": "Можете потыкать конкретные сценарии бенчей Харви, промпты и критерии оценки вот тут https://benchmarks.nickberkconsulting.com/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос информации о бенчей Харви и критериях оценки.",
+      "keywords": [
+        "бенчей Харви",
+        "промпты",
+        "критерии оценки",
+        "анализ",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 93149,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:18:45+00:00",
+    "text": "Добавлю контекста с лидерборда бенчмарка",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "В посте упоминается добавление контекста к бенчмарку.",
+      "keywords": [
+        "лидерборд",
+        "бенчмарк",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 93147,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:06:24+00:00",
+    "text": "Очевидно, никак)) Вы не рефлексируйте тут, нашли с кем сравнивать))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93146,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T06:05:30+00:00",
+    "text": "А большая тройка как справилась?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Нет конкретной информации для анализа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93145,
+    "channel_id": "docsllm",
+    "date": "2026-10-22T05:54:21+00:00",
+    "text": "Anthropic решила бросить вызов OpenAI Dots и Grok Bot, выпустив Claude Duet на базе невероятно мощной Opus 5.5.\n\n• Доступен на тарифе Claude Pro (для Dots нужна подписка ChatGPT Pro за $100 в месяц).\n• Работает на Opus 5.5, которую называют лучшей моделью в мире.\n• Имеет собственную виртуальную машину и браузер.\n• Поддерживает более 6000 коннекторов (у Dots их 4000).\n• Продолжает работать, даже когда ваш ноутбук выключен.\n• Каждое утро присылает сводку задач, требующих вашего внимания.\n• Все задачи ведутся в одном непрерывном чате. Поручения можно давать текстом или голосом.\n• Уже использует вашу память Claude, скиллы и подключённые приложения.\n• Отслеживает неоплаченные счета, начисляет зарплату и отправляет договоры на подпись.\n• Совершает покупки с помощью виртуальных карт, скрывающих номер вашей настоящей банковской карты.\n• Запрашивает подтверждение перед отправкой сообщений, проведением платежей, подписанием документов или удалением данных.\n• Никогда не получает доступ к вашим паролям.\n• Доступен на iOS, Android и в веб-версии.\n\nПока Claude Duet доступен в качестве превью с записью в [список](https://claude.com/product/claude-duet) ожидания исключительно для подписчиков Pro и Max из США.\n\nДоплачивать за приложение не нужно, однако его работа расходует лимиты действующего тарифа. 🤔",
+    "views": 15955,
+    "forwards": 264,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Anthropic анонсировала выпуск Claude Duet, мощного инструмента на базе Opus 5.5, для поддержки пользователей.",
+      "keywords": [
+        "Claude Duet",
+        "Anthropic",
+        "Opus 5.5",
+        "искусственный интеллект",
+        "новинка"
+      ]
+    }
+  }
+]
