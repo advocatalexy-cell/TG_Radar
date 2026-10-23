@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1644,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-10-23T07:21:32+00:00",
+    "text": "Новый разбор конспиролого-эзотерической дичи подоспел! Приятного просмотра 😌\n\nhttps://youtu.be/kFKGVz_w44c",
+    "views": 3076,
+    "forwards": 15,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Анонс нового видео о конспирологиях и эзотерике.",
+      "keywords": [
+        "конспирология",
+        "эзотерика",
+        "видео"
+      ]
+    }
+  }
+]

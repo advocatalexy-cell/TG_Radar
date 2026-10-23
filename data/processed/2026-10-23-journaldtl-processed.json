@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3192,
+    "channel_id": "journaldtl",
+    "date": "2026-10-23T07:00:23+00:00",
+    "text": "🔳 **Официальное приложение Journal of Digital Technologies and Law**\n\n▫️Приложение журнала доступно через бот Max\n\n🔲 Подпишитесь по ссылке\nhttps://max.ru/id5404314555_bot",
+    "views": 84,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама приложения журнала.",
+      "keywords": [
+        "приложение",
+        "журнал",
+        "реклама"
+      ]
+    }
+  }
+]

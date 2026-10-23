@@ -1,0 +1,24 @@
+[
+  {
+    "id": 4020,
+    "channel_id": "profi_kursi_gaidi",
+    "date": "2026-10-23T09:52:33+00:00",
+    "text": "**Бухгалтеры тоже пишут книги, но осторожно**\n\nКак превратить рабочие кейсы в книгу, не нарушив конфиденциальность клиентов? Разобрали на примере бухгалтерской фирмы: от сбора и обезличивания исходников до проверки фактов, построения структуры и безопасного запуска. [Изучите этапы работы с экспертным текстом](https://expert-book.pro/journal/kak-buhgalterskoy-kompanii-napisat-knigu?utm_source=telegram&utm_medium=editorial&utm_campaign=kak_buhgalterskoy_kompanii_napisat_knigu&utm_content=profi_kursi_gaidi&utm_term=scheduler_pass_14).",
+    "views": 1542,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает процесс написания книг бухгалтерскими фирмами с учётом конфиденциальности.",
+      "keywords": [
+        "бухгалтерия",
+        "книги",
+        "конфиденциальность",
+        "экспертный текст",
+        "кейсы"
+      ]
+    }
+  }
+]
