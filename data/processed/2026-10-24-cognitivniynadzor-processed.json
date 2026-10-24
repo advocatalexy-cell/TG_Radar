@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1645,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-10-24T07:01:01+00:00",
+    "text": "Все видео из последнего выпуска целиком, как и обещал 🫡",
+    "views": 2559,
+    "forwards": 18,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Публикация видео без содержания и анализа.",
+      "keywords": [
+        "видео",
+        "выпуск",
+        "публикация"
+      ]
+    }
+  }
+]

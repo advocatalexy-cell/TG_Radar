@@ -1,0 +1,844 @@
+[
+  {
+    "id": 93368,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:39:33+00:00",
+    "text": "Ну всяких коннекторов у гпт побольше наверное? \n+ голосовой ассистент на русском",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможностей GPT в контексте коннекторов и голосового ассистента.",
+      "keywords": [
+        "коннекторы",
+        "GPT",
+        "голосовой ассистент",
+        "русский"
+      ]
+    }
+  },
+  {
+    "id": 93367,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:11:57+00:00",
+    "text": "Я Claude ни разу не покупал. Только через агрегаторы или через Perplexity. Напрямую ни разу. А Perplexity по зарубежной карте покупаю, как и OpenCode Go.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом покупки Claude через агрегаторы.",
+      "keywords": [
+        "Claude",
+        "покупка",
+        "агрегаторы",
+        "Perplexity",
+        "OpenCode Go"
+      ]
+    }
+  },
+  {
+    "id": 93366,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:10:45+00:00",
+    "text": "Как показывает практика, баны прилетают в основном за левые способы оплаты. На втором месте – платные дешёвые квн с мусорным ip",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждаются причины блокировок аккаунтов при использовании сомнительных методов оплаты.",
+      "keywords": [
+        "баны",
+        "оплата",
+        "квн",
+        "блокировки",
+        "интернет"
+      ]
+    }
+  },
+  {
+    "id": 93365,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:05:02+00:00",
+    "text": "Нам в принципе все равно, с чем они борются - главное, чтобы нас не заблокировали. С точки зрения потребителя мне причины блокировки не важны.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Потребителям не важны причины блокировки, главное, чтобы этого не произошло.",
+      "keywords": [
+        "блокировка",
+        "потребители",
+        "недовольство"
+      ]
+    }
+  },
+  {
+    "id": 93364,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:01:21+00:00",
+    "text": "Антропики не с русскими, а с дистилляцией борются. Мы побочный ущерб",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост упоминает проблему дистилляции и антропиков, но не содержит значимой информации.",
+      "keywords": [
+        "антропики",
+        "дистилляция",
+        "побочный ущерб"
+      ]
+    }
+  },
+  {
+    "id": 93363,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T13:00:23+00:00",
+    "text": "Ну да, без искинов не останемся. Да не будет блокировок, думаю. Чтобы заблочить всех, нужно сразу же банить по серверным ip. И таким образом перебанят огромное количество европейских и американских разрабов, которые вообще ни при чем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение блокировок в интернете и их последствия.",
+      "keywords": [
+        "блокировки",
+        "интернет",
+        "сервера",
+        "разработчики",
+        "бан"
+      ]
+    }
+  },
+  {
+    "id": 93362,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:59:27+00:00",
+    "text": "У меня в OpenCode и API от TimeWeb подключён на всякий случай.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор делится информацией о подключении OpenCode и API от TimeWeb.",
+      "keywords": [
+        "OpenCode",
+        "TimeWeb",
+        "API"
+      ]
+    }
+  },
+  {
+    "id": 93361,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:58:36+00:00",
+    "text": "Ну то есть в целом мы себя обезопасили на случай блокировки Антропиков и Опенаи.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение мер по защите от возможной блокировки сервисов.",
+      "keywords": [
+        "блокировка",
+        "Антропики",
+        "Опенаи",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 93360,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:58:14+00:00",
+    "text": "Опенай что-то совсем сдали, их уже китайцы вовсю нахлобучивают 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит эмоциональное выражение по поводу ситуации с OpenAI.",
+      "keywords": [
+        "OpenAI",
+        "Китай",
+        "конкуренция",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 93359,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:57:38+00:00",
+    "text": "Если получится, это будет уже замах на опус 5.5",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный контекст публикации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93358,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:56:59+00:00",
+    "text": "Скоро должна glm 5.4 выйти. Предыдущая модель кимошу уделывала. Интересно, сейчас у них получится вперед вырваться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Упоминание о предстоящем релизе модели glm 5.4 без конкретной информации.",
+      "keywords": [
+        "glm 5.4",
+        "релиз",
+        "модель",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 93357,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:52:26+00:00",
+    "text": "Да, я слышал, что можно картами мира оплатить. Надо будет попробовать.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение возможности оплаты картами мира.",
+      "keywords": [
+        "оплата",
+        "карты мира",
+        "попробовать"
+      ]
+    }
+  },
+  {
+    "id": 93356,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:52:07+00:00",
+    "text": "Она очень дорого стоит за 1 млн токенов и разработка выйдет в копеечку. Тот же DeepSeek дешевле в разы и не хуже.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Сравнение стоимости разработки токенов и технологий.",
+      "keywords": [
+        "токены",
+        "разработка",
+        "DeepSeek"
+      ]
+    }
+  },
+  {
+    "id": 93355,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:51:38+00:00",
+    "text": "Не, для разработки хайку слабовата, как по мне. Там отлично себя ведет соннет. Хотя, может это и оверскилл уже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение литературных форм хайку и сонета.",
+      "keywords": [
+        "хайку",
+        "сонет",
+        "литература",
+        "разработка",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 93354,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:51:08+00:00",
+    "text": "Я напрямую у кимоши покупал, там с первой же платной подписки кими код появляется, а его уже куда хочешь пихай",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение покупки подписки на сервисе Кимоши.",
+      "keywords": [
+        "Кимоши",
+        "подписка",
+        "код"
+      ]
+    }
+  },
+  {
+    "id": 93353,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:50:45+00:00",
+    "text": "Я Хайку пробовал только в разработке. Не понравилось. Но попробую в простых юр задачах. Она мало стоит за 1 млн токенов.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования Хайку в разработке.",
+      "keywords": [
+        "Хайку",
+        "разработка",
+        "юр задачи",
+        "токены"
+      ]
+    }
+  },
+  {
+    "id": 93352,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:50:23+00:00",
+    "text": "В Орка точно будет работать, это же просто запуск терминала",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Комментарий о запуске в Орке.",
+      "keywords": [
+        "Орка",
+        "запуск",
+        "терминал"
+      ]
+    }
+  },
+  {
+    "id": 93351,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:49:56+00:00",
+    "text": "По тому же казус лигал у меня почти везде хайку путешествует",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93350,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:49:56+00:00",
+    "text": "Да-да, я вот хочу повысить уровень подписки Go, и тогда можно будет Kimi 3.1 Pro использовать для каждодневных юридических задач. Только надо иметь в виду, что подписка go работает только с фирменным приложением и с рядом одобренных.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится намерением повысить уровень подписки Go для использования Kimi 3.1 Pro.",
+      "keywords": [
+        "подписка",
+        "Kimi 3.1 Pro",
+        "юридические задачи"
+      ]
+    }
+  },
+  {
+    "id": 93349,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:49:32+00:00",
+    "text": "Я вообще хайку часто для технической работы использую. За глаза хватает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования хайку в технической работе.",
+      "keywords": [
+        "хайку",
+        "техническая работа",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 93348,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:48:52+00:00",
+    "text": "Я в основном им и пользуюсь практически везде.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное высказывание без значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93347,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:48:28+00:00",
+    "text": "Учитывая все больше слухов, что нас отлучат от фронтирных американских моделей окончательно, это обнадеживает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Публикация обсуждает слухи об отключении от американских моделей.",
+      "keywords": [
+        "слухи",
+        "фронтирные",
+        "американские модели"
+      ]
+    }
+  },
+  {
+    "id": 93346,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:47:32+00:00",
+    "text": "Соннет — хороший уровень на самом деле уже.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о качестве уровня Соннета.",
+      "keywords": [
+        "Соннет",
+        "уровень",
+        "качество"
+      ]
+    }
+  },
+  {
+    "id": 93345,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:40:00+00:00",
+    "text": "В OpenCode Go она появилась на днях.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о появлении OpenCode Go.",
+      "keywords": [
+        "OpenCode",
+        "новости",
+        "появление"
+      ]
+    }
+  },
+  {
+    "id": 93344,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:39:44+00:00",
+    "text": "Я вчера пробовал его в OpenCode Go. Хавает лимиты подписки Go весьма бодро, но работает по ощущениям на уровне Claude Sonnet 5.5. Мне понравилось. Видимо буду подписку Go Plus брать, там лимитов больше.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования OpenCode Go.",
+      "keywords": [
+        "OpenCode Go",
+        "подписка",
+        "Claude Sonnet",
+        "опыт",
+        "лимиты"
+      ]
+    }
+  },
+  {
+    "id": 93343,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:38:18+00:00",
+    "text": "Кимошу 3.1 бы протестить. Очень многообещающе выглядит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь выражает интерес к тестированию Kimoсhu 3.1.",
+      "keywords": [
+        "Kimoshu 3.1",
+        "тестирование",
+        "обещания"
+      ]
+    }
+  },
+  {
+    "id": 93342,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T12:14:14+00:00",
+    "text": "https://youtu.be/dneuk_qnt00?si=AxcdBXIOdiWYhrib",
+    "views": 103,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на видеоролик без описания содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93341,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T08:24:59+00:00",
+    "text": "У меня пока нейросетевой детокс. В понедельник опробую по полной.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личной мыслью о перерыве в использовании нейросетей.",
+      "keywords": [
+        "нейросети",
+        "детокс",
+        "перерыв"
+      ]
+    }
+  },
+  {
+    "id": 93338,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T08:09:53+00:00",
+    "text": "Как Вам новый кимоша?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о мнении, без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93337,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T07:59:01+00:00",
+    "text": "Да, я только что подключил.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержательное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93336,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:32:33+00:00",
+    "text": "Большое спасибо! Будем смотреть!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост является благодарностью без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93335,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:30:27+00:00",
+    "text": "Не пробовал, но не вижу причин ему не работать. Посмотрите на сайте казуса, они там делали для китайцев подключения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неопределенные комментарии о работоспособности подключения.",
+      "keywords": [
+        "подключение",
+        "китайцы",
+        "сайт",
+        "казус"
+      ]
+    }
+  },
+  {
+    "id": 93334,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:26:59+00:00",
+    "text": "казус лигал тоже будет работать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о работе казуса лигал.",
+      "keywords": [
+        "казус",
+        "лигал",
+        "вопрос",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 93333,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:20:00+00:00",
+    "text": "В терминале можно подключать любые",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неполную информацию о терминалах.",
+      "keywords": [
+        "терминал",
+        "подключение",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 93332,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:19:42+00:00",
+    "text": "1. Kimi Code CLI (терминальный инструмент)\n• Как работает: выступает в роли MCP-клиента и может подключать локальные stdio-серверы, а также удаленные HTTP и SSE-серверы.\n• Управление: через команды kimi mcp add (—transport http/stdio), kimi mcp list, kimi mcp remove.\n• Конфигурация: хранится в файле ~/.kimi/mcp.json (можно загружать через —mcp-config или —mcp-config-file). [1, 2, 3]\n\n2. Веб-интерфейс Kimi.com (через плагины / расширения)\n• Для веб-версии сторонние инструменты подключаются через магазин плагинов Kimi (например, плагин OpenArt AI для генерации графики) или через сторонние расширения (вроде MCP SuperAssistant). [1, 2]\n• Нельзя просто вставлять универсальные URL-коннекторы от Claude или ChatGPT в веб-интерфейс Kimi — используйте встроенный каталог плагинов. [1]",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлены новые возможности Kimi Code CLI и веб-интерфейса Kimi.com для подключения сторонних инструментов и управления ими.",
+      "keywords": [
+        "Kimi Code CLI",
+        "веб-интерфейс",
+        "плагины",
+        "инструменты",
+        "управление"
+      ]
+    }
+  },
+  {
+    "id": 93331,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T06:16:38+00:00",
+    "text": "Разве к Kimi нельзя подключать mcp?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о подключении Kimi и MCP.",
+      "keywords": [
+        "Kimi",
+        "MCP",
+        "подключение"
+      ]
+    }
+  },
+  {
+    "id": 93330,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T05:51:55+00:00",
+    "text": "как для меня у Kimi следующие минусы - нет возможности использовать подписку в hermes agent и нет возможности подключать mcp коннекторы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "У Kimi имеются ограничения, связанные с подпиской и подключением MCP-коннекторов.",
+      "keywords": [
+        "Kimi",
+        "минусы",
+        "подписка",
+        "MCP",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 93329,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T02:47:13+00:00",
+    "text": "ничего не чистил, отключил интернет заново подключил и стало отображаться, даже с впн - показывает карту мир. Это конечно круто, что есть альтернатива западным вариантам!",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь отмечает доступность альтернативы западным картам после перезагрузки интернета.",
+      "keywords": [
+        "альтернатива",
+        "карты",
+        "интернет",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 93328,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T02:40:12+00:00",
+    "text": "Кэш почистите и куки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93327,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T02:38:26+00:00",
+    "text": "вот так отображается из РФ",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93326,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T02:31:46+00:00",
+    "text": "Попробуйте из РФ зайти",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит просьбу или намерение зайти из России.",
+      "keywords": [
+        "РФ",
+        "вход",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 93324,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T00:36:48+00:00",
+    "text": "если захожу с впн то выглядит так",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 93323,
+    "channel_id": "docsllm",
+    "date": "2026-10-24T00:36:11+00:00",
+    "text": "у меня карты мир нет :(",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает недовольство отсутствием карт 'Мир'.",
+      "keywords": [
+        "карты",
+        "Мир",
+        "недовольство"
+      ]
+    }
+  }
+]

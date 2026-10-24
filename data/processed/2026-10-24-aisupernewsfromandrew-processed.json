@@ -1,0 +1,18 @@
+[
+  {
+    "id": 831,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-24T12:14:11+00:00",
+    "text": "https://youtu.be/dneuk_qnt00?si=AxcdBXIOdiWYhrib",
+    "views": 103,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на видео без описания содержимого.",
+      "keywords": []
+    }
+  }
+]

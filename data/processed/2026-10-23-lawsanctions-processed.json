@@ -64,5 +64,21 @@
         "законодательство"
       ]
     }
+  },
+  {
+    "id": 3273,
+    "channel_id": "lawsanctions",
+    "date": "2026-10-23T19:27:03+00:00",
+    "text": "#пятничное",
+    "views": 1185,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
   }
 ]

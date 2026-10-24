@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": 21480,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-23T18:53:56+00:00",
+    "text": "Друзья, ловите запись презентации книги Романа Янковского «Составила машина, подпишет человек» и экспертной дискуссии:\n\n▶️ [YouTube](https://youtu.be/Z1GQNanfvuY)   •   [VK Video](https://vkvideo.ru/video-228141184_456239128)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Презентация книги Романа Янковского.",
+      "keywords": [
+        "презентация",
+        "книга",
+        "экспертная дискуссия",
+        "Янковский"
+      ]
+    }
+  },
+  {
+    "id": 21475,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-23T14:38:15+00:00",
+    "text": "Друзья,\n\nделимся с вами фото с презентации книги Романа Янковского…\n\nспасибо, что провели с нами этот вечер… \n\nhttps://shilova.wfolio.pro/disk/20-10-2026-sostavila-mashina-podpishet-chelovek-n6ztd9\n\nБлагодарим Викторию Бережную за фотографа и фотографии …\n\nВсем хороших выходных!\n\nЗапись презентации будет скоро…",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о презентации книги Романа Янковского.",
+      "keywords": [
+        "презентация",
+        "книга",
+        "Роман Янковский",
+        "фотографии",
+        "вечер"
+      ]
+    }
+  }
+]

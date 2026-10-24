@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1579,
+    "channel_id": "allthingslegal",
+    "date": "2026-10-24T01:34:11+00:00",
+    "text": "В августе уже писал здесь, что во время Международной летней юридической школы БФУ им. И. Канта записывал интервью для программы «Наука без границ» с Валентином Балановским на Радио Балтик Плюс. Сейчас этот [эпизод выпустили](https://podster.fm/podcasts/nauka-bez-granits/e/513772/nauka-bez-granits-92-holger-tsshayge). А [тут](https://podster.fm/podcasts/nauka-bez-granits) можете послушать все выпуски программы.",
+    "views": 156,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост о выходе эпизода подкаста \"Наука без границ\" с интервью с Валентином Балановским.",
+      "keywords": [
+        "подкаст",
+        "интервью",
+        "Наука без границ",
+        "Балановский",
+        "радио"
+      ]
+    }
+  },
+  {
+    "id": 1578,
+    "channel_id": "allthingslegal",
+    "date": "2026-10-24T01:19:40+00:00",
+    "text": "Теперь можете сами посмотреть запись презентации и экспертной дискуссии, о которых писал выше:\n\n▶️ [YouTube](https://youtu.be/Z1GQNanfvuY)   •   [VK Video](https://vkvideo.ru/video-228141184_456239128)",
+    "views": 157,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Публикация ссылки на запись презентации и экспертов.",
+      "keywords": [
+        "презентация",
+        "экспертная дискуссия",
+        "ссылка"
+      ]
+    }
+  }
+]
