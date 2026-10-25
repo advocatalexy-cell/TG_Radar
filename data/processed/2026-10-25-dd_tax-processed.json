@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2583,
+    "channel_id": "dd_tax",
+    "date": "2026-10-25T07:02:24+00:00",
+    "text": "D’OR LEGAL поздравляет вас с Днем таможенника!\n\n@DD_tax",
+    "views": 361,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Поздравление с Днем таможенника.",
+      "keywords": [
+        "День таможенника",
+        "поздравление",
+        "D’OR LEGAL"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 833,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-10-25T11:57:37+00:00",
+    "text": "ИИ не тот, чем кажется. Новая теория вызвала восторг и споры учёных | dev.by https://share.google/Z5lAEtyeh29LbpVMg",
+    "views": 138,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Новая теория о ИИ вызывает споры и восторг среди учёных.",
+      "keywords": [
+        "ИИ",
+        "теория",
+        "учёные",
+        "восторг",
+        "споры"
+      ]
+    }
+  }
+]

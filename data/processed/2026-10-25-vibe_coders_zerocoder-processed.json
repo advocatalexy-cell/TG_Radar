@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3204,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-25T10:45:07+00:00",
+    "text": "Михаил, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 8 + 8?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Простой математический вопрос для доступа к чату.",
+      "keywords": [
+        "математика",
+        "доступ",
+        "чат"
+      ]
+    }
+  },
+  {
+    "id": 3200,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-25T05:37:43+00:00",
+    "text": "https://chisto.flownote.cc",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку, но не содержит информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3199,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-25T05:05:15+00:00",
+    "text": "Универсальный агент",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное или отсутствующее содержание поста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3198,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-25T05:04:55+00:00",
+    "text": "@dobi_aiagent_bot",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на Telegram-бота без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3196,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-25T00:28:10+00:00",
+    "text": "**New working method for Claude Max X20 or a virtual card with $300**\n\n1. Register a PAYCAP account (This is a crypto bank)\n2. Complete KYC verification\n3. Mint a virtual card\n4. Get an instant **$300** bonus on your virtual card and use it to pay for Claude or withdraw the funds\n\n**My Ref Link:** paycap.org/r/ISABELLA\nCheck the screenshot above — the method is fully working right now!\n\nIf you have any questions, feel free to DM @Kento01",
+    "views": 973,
+    "forwards": 35,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама метода получения виртуальной карты с бонусом в $300.",
+      "keywords": [
+        "PAYCAP",
+        "виртуальная карта",
+        "бонус",
+        "KYC",
+        "криптобанк"
+      ]
+    }
+  }
+]
