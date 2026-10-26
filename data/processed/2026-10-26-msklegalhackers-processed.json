@@ -1,0 +1,22 @@
+[
+  {
+    "id": 21493,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-26T12:48:13+00:00",
+    "text": "Добрый день, коллеги! Делюсь бесплатным анонимайзером документов (docx, pdf) в [своем тг](https://t.me/sovetlawyers/1531)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Реклама анонимайзера документов.",
+      "keywords": [
+        "анонимайзер",
+        "документы",
+        "бесплатно"
+      ]
+    }
+  }
+]
