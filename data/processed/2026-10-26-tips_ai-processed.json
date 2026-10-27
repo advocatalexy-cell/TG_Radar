@@ -42,5 +42,27 @@
         "изменение поведения"
       ]
     }
+  },
+  {
+    "id": 4970,
+    "channel_id": "tips_ai",
+    "date": "2026-10-26T14:51:22+00:00",
+    "text": "Там кстати антропики [подали](https://www.anthropic.com/news/s1-sec) в SEC заявку чтобы их зарегали перед выходом на IPO:\n\nhttps://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\n\nкоментарии излишни 😌\n\n@tips_ai",
+    "views": 3156,
+    "forwards": 64,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "business",
+      "summary": "Компания Anthropic подала заявку в SEC для выхода на IPO.",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "SEC",
+        "заявка",
+        "бизнес"
+      ]
+    }
   }
 ]
