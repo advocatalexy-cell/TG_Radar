@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 21507,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-27T15:45:15+00:00",
+    "text": "Начинаем через 15 минут)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Запланировано мероприятие через 15 минут.",
+      "keywords": [
+        "мероприятие",
+        "начало",
+        "время"
+      ]
+    }
+  }
+]

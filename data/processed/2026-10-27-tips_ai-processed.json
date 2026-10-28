@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 4971,
+    "channel_id": "tips_ai",
+    "date": "2026-10-27T16:12:30+00:00",
+    "text": "Кстати про опенсурс, пора бы сохранить топ открытых моделей без цензуры\n\nОсобенно на фоне новостей что в клоде теперь [срабатывает](https://x.com/ravikiran_dev7/status/2114330006029783148) safeguard если вы пытаетесь что-либо реверсить, даже телевизор как мы когда-то [делали](https://t.me/tips_ai/4870) 😣\n\nПрямо сейчас из интересных:\n**1.** [GLM-5.3 Uncensored](https://huggingface.co/dealignai/GLM-5.3-UNCENSORED-FP8) и [Flash Abliterated](https://huggingface.co/huihui-ai/Huihui-GLM-5.3-Flash-abliterated-GGUF)\n**2. **[DeepSeek V4.1 Flash 1017 Uncensored](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)\n**3. **[Qwen3.8-27B Abliterated](https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF) или [Flash-Next](https://huggingface.co/huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated-GGUF)\n**4. **[Gemma 4 Uncensored (Venice)](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2)\n**5. **[Mistral-24B (Venice)](https://huggingface.co/dphn/Dolphin-Mistral-24B-Venice-Edition)\n\nИз этих всех реально запустить у себя только Qwen3.8-27B, для остальных придется арендовать железо или искать API тут: [Experiential](https://platform.experientiallabs.ai/models), [Venice](https://venice.ai/), [OpenRouter](https://openrouter.ai/), [OpenCode](https://opencode.ai/)\n\n@tips_ai",
+    "views": 4056,
+    "forwards": 344,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Обсуждение актуальных открытых моделей ИИ без цензуры на фоне ограничений в других системах.",
+      "keywords": [
+        "опенсурс",
+        "модели",
+        "без цензуры",
+        "Искусственный интеллект",
+        "технологии"
+      ]
+    }
+  }
+]

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 22975,
+    "channel_id": "deepseek_community",
+    "date": "2026-10-27T19:26:37+00:00",
+    "text": "Зацените сайт о Пушкине, который я написал для дочки https://pushkin.30x.ru/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о создании веб-сайта о Пушкине.",
+      "keywords": [
+        "сайт",
+        "Пушкин",
+        "дочка",
+        "проект"
+      ]
+    }
+  }
+]

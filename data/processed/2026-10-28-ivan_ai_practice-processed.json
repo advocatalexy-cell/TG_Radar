@@ -1,0 +1,46 @@
+[
+  {
+    "id": 308,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-10-28T09:22:19+00:00",
+    "text": "📄 Вот PDF-шпаргалка и навык ambition, как обещали в ролике.\n\n🧩 Читайте сами или скиньте оба файла в Claude/ChatGPT и попросите объяснить, как это применить к вашим задачам.\n\n💬 Вопросы пишите в комментарии, отвечу.",
+    "views": 288,
+    "forwards": 16,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Публикация файлов для обсуждения, без значимого контента.",
+      "keywords": [
+        "шпаргалка",
+        "навык",
+        "вопросы",
+        "ChatGPT",
+        "Claude"
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-10-28T09:01:26+00:00",
+    "text": "🎞️ Выпустил ролик про четыре оси амбиции. Как просить у Claude и Codex больше на тех же задачах, а не меньше.\n\nТри оси, один промпт от инженера Anthropic и пример с ежемесячным отчётом. Навык и шпаргалка ниже.\n\nСмотреть 👉 https://youtu.be/ZXvARlDrYaU",
+    "views": 320,
+    "forwards": 10,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор выпустил видеоролик о том, как лучше использовать инструменты Claude и Codex.",
+      "keywords": [
+        "Claude",
+        "Codex",
+        "амбииция",
+        "промпт",
+        "видеоролик"
+      ]
+    }
+  }
+]
