@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "channels": [
     {
       "id": "allthingslegal",
@@ -1582,6 +1582,20 @@
       "signal_ratio": null,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "seeallochnaya_kazhdi_den",
+      "name": "Сиолошная Каждый День",
+      "url": "https://t.me/seeallochnaya_kazhdi_den",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "ai"
+      ],
+      "active": true,
+      "signal_ratio": null,
+      "source_folder": "Ai",
+      "notes": "Импортирован из папки «Ai» (sync)"
     }
   ],
   "schema": {
