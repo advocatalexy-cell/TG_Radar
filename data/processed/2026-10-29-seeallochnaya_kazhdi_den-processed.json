@@ -1,0 +1,18 @@
+[
+  {
+    "id": 37,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-10-29T10:46:43+00:00",
+    "text": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj&smid=nytcore-ios-share",
+    "views": 2014,
+    "forwards": 28,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит ссылку на статью в NYT без содержания.",
+      "keywords": []
+    }
+  }
+]

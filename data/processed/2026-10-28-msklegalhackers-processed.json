@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": 21523,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-28T20:35:36+00:00",
+    "text": "По итогам мастер-класса по ИИ-агентам для договорной работы выкладываем материалы:\n\n- запись встречи https://drive.google.com/file/d/1wQIHJkoIRE4b74tylk8TbarD8iXmB5Qr/view?usp=sharing\n\n- презентация Софьи Смирновой\n\nСледующие анонсы Лаборатории в [Telegram](https://t.me/routinelab) и [MAX](https://max.ru/channel_ailabmsal)",
+    "views": 494,
+    "forwards": 24,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Выставлены материалы мастер-класса по ИИ-агентам.",
+      "keywords": [
+        "ИИ-агенты",
+        "мастер-класс",
+        "материалы",
+        "презентация",
+        "запись"
+      ]
+    }
+  },
+  {
+    "id": 21522,
+    "channel_id": "msklegalhackers",
+    "date": "2026-10-28T20:35:35+00:00",
+    "text": "Материалы по мастер-классу)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о материалах мастер-класса.",
+      "keywords": [
+        "мастер-класс",
+        "материалы",
+        "образование"
+      ]
+    }
+  }
+]
