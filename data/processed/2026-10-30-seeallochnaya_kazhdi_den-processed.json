@@ -1,0 +1,24 @@
+[
+  {
+    "id": 41,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-10-30T10:01:32+00:00",
+    "text": "когда нужно увеличивать DAU/MAU AI-фичей гугла на регулярной основе:",
+    "views": 2490,
+    "forwards": 104,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "other",
+      "summary": "Обсуждается вопрос увеличения DAU/MAU AI-фичей Google.",
+      "keywords": [
+        "DAU",
+        "MAU",
+        "AI-фичи",
+        "Google",
+        "увеличение"
+      ]
+    }
+  }
+]

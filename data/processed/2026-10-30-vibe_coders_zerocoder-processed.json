@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3251,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-10-30T09:23:06+00:00",
+    "text": "Igor Kramarenko, чтобы получить доступ к чату, решите пример:\n\n**Сколько будет 5 + 7?**",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост представляет собой задачу для доступа к чату.",
+      "keywords": [
+        "чат",
+        "пример",
+        "доступ"
+      ]
+    }
+  }
+]

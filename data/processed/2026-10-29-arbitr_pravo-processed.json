@@ -20,5 +20,21 @@
         "строительство"
       ]
     }
+  },
+  {
+    "id": 415,
+    "channel_id": "arbitr_pravo",
+    "date": "2026-10-29T18:45:25+00:00",
+    "text": "Взяли призовое место🔥",
+    "views": 65,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит информацию о получении призового места.",
+      "keywords": []
+    }
   }
 ]
