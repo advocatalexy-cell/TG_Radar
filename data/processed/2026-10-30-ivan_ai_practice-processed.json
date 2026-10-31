@@ -20,5 +20,49 @@
         "технологии"
       ]
     }
+  },
+  {
+    "id": 313,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-10-30T14:16:01+00:00",
+    "text": "Обещал в ролике гайд, вот он 👆\n\n🔗 Источники к гайду\n\nОригинальный пост https://x.com/make_claude/status/2115501814090969583\nСписок стран Anthropic https://www.anthropic.com/supported-countries\nУсловия использования Claude https://www.anthropic.com/legal/consumer-terms\nВыгрузка данных https://support.claude.com/en/articles/9450526-how-can-i-export-my-claude-data\nБаны и апелляции https://support.claude.com/en/articles/8241253-safeguards-warnings-and-appeals\n\nДанные на 29 октября 2026. Это мой опыт и наблюдения, а не позиция Anthropic",
+    "views": 625,
+    "forwards": 13,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится ссылками на гайд и информацию о Claude от Anthropic.",
+      "keywords": [
+        "гайд",
+        "Claude",
+        "Anthropic",
+        "ссылки",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 312,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-10-30T14:15:29+00:00",
+    "text": "**Китайцы выложили разбор того, как Claude банит аккаунты. **Я сверил его с живыми случаями из нашей группы\n\nКоротко. Инструкция страхует, но не защищает. Нынешняя волна идёт после проверки личности, а не за поведение\n\n🎬 Ролик https://youtu.be/srYef-5XXkU\n💬 Обсудить в группе с подписками, ветка «Обсудить» https://t.me/+xjvTdZn4a0c4NGYy",
+    "views": 575,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Китайцы разобрали механизм блокировки аккаунтов системами ИИ, связанным с Claude.",
+      "keywords": [
+        "Claude",
+        "блокировка аккаунтов",
+        "инструкция",
+        "проверка личности",
+        "технологии"
+      ]
+    }
   }
 ]
