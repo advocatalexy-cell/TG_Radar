@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 42,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-10-31T20:57:30+00:00",
+    "text": "Dario will be eating well",
+    "views": 2554,
+    "forwards": 11,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого контента.",
+      "keywords": []
+    }
+  }
+]

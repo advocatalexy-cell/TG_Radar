@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1591,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-01T09:31:27+00:00",
+    "text": "Новая запись в списке кавер-версий «Thunderstruck» - в исполнении марширующего оркестра. Не на уровне [Steve'n'Seagulls](https://www.youtube.com/watch?v=e4Ao-iNPPUc), но все равно интересно. Хорошего всем воскресенья.",
+    "views": 113,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение кавер-версии песни 'Thunderstruck' марширующим оркестром.",
+      "keywords": [
+        "кавер-версия",
+        "марширующий оркестр",
+        "Thunderstruck"
+      ]
+    }
+  }
+]

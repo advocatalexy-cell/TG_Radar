@@ -1,0 +1,43 @@
+[
+  {
+    "id": 21560,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-01T13:22:29+00:00",
+    "text": "Добрый день, пишите мне в личку вопрос.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит просьбу писать в личные сообщения.",
+      "keywords": [
+        "личка",
+        "вопрос",
+        "общение"
+      ]
+    }
+  },
+  {
+    "id": 21559,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-01T12:55:12+00:00",
+    "text": "Здравствуйте, не подскажите, кто модератор по удалению участников из чата?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о модераторе чата.",
+      "keywords": [
+        "модератор",
+        "удаление",
+        "участники",
+        "чат"
+      ]
+    }
+  }
+]
