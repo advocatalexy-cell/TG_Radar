@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 4287,
+    "channel_id": "svsarbash",
+    "date": "2026-11-01T14:23:20+00:00",
+    "text": "Три клика и вы у нас в Римке! ⬇️ [Поехали!](https://disk.yandex.ru/d/SiUfcmFoO2EPWw)",
+    "views": 667,
+    "forwards": 11,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Рекламное сообщение без значимой информации.",
+      "keywords": []
+    }
+  }
+]

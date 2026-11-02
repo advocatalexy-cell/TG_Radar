@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2231,
+    "channel_id": "yustigram",
+    "date": "2026-11-02T11:01:27+00:00",
+    "text": "[Библиотека юриста](https://t.me/library_lawyer)📚",
+    "views": 661,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост представляет собой ссылку на канал без содержания.",
+      "keywords": []
+    }
+  }
+]
