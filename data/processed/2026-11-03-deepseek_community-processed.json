@@ -1,0 +1,85 @@
+[
+  {
+    "id": 23075,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-03T13:36:32+00:00",
+    "text": "Спасибо большое!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Благодарность.",
+      "keywords": [
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 23074,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-03T13:30:51+00:00",
+    "text": "Другие через открытие вирт карты в Altyn, Pionex или Bybit",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение открытия виртуальных карт в различных сервисах.",
+      "keywords": [
+        "вирт карты",
+        "Altyn",
+        "Pionex",
+        "Bybit"
+      ]
+    }
+  },
+  {
+    "id": 23073,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-03T13:29:58+00:00",
+    "text": "1) Kimi.ai \n2)карта МИР любого банка РФ\n3)....\n4) Profit!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит рекламу карты МИР.",
+      "keywords": [
+        "реклама",
+        "карта",
+        "МИР",
+        "банки",
+        "финансы"
+      ]
+    }
+  },
+  {
+    "id": 23071,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-03T12:32:23+00:00",
+    "text": "Добрый день! Подскажите, пожалуйста, как можно оплачивать в России китайские нейросети с минимальными наценками? Какие карточки / платежные системы лучше использовать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "business",
+      "summary": "Запрос информации о способах оплаты китайских нейросетей в России.",
+      "keywords": [
+        "оплата",
+        "нейросети",
+        "карточки",
+        "платежные системы",
+        "Россия"
+      ]
+    }
+  }
+]
