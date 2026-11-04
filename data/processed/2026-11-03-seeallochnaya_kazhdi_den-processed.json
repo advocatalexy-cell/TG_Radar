@@ -20,5 +20,21 @@
         "Sol"
       ]
     }
+  },
+  {
+    "id": 47,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-03T15:26:21+00:00",
+    "text": "https://x.com/TilmanRa/status/2117614840034250864?a=XfwiToGJ-qunj_mxz-s&s=20",
+    "views": 3019,
+    "forwards": 33,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на пост в Twitter без содержательной информации.",
+      "keywords": []
+    }
   }
 ]

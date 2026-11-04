@@ -1,0 +1,104 @@
+[
+  {
+    "id": 23096,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-04T07:06:50+00:00",
+    "text": "@ZerocoderCommunications",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только имя канала.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 23094,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-04T07:04:57+00:00",
+    "text": "Нет, через магазин, где играми торгуют. Рекламить площадку не буду, если надо в личку могу скинуть продавца, у которого покупал\nP.s. платил по СБП",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение покупки игр через магазин.",
+      "keywords": [
+        "игры",
+        "покупка",
+        "магазин",
+        "продавец",
+        "СБП"
+      ]
+    }
+  },
+  {
+    "id": 23092,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-04T06:51:07+00:00",
+    "text": "Гугл пишет, что в вашей стране  сервис не работает, даже при включенном впн?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Проблемы с доступом к сервису Google в определенных странах.",
+      "keywords": [
+        "Google",
+        "сервис",
+        "доступ",
+        "VPN",
+        "проблемы"
+      ]
+    }
+  },
+  {
+    "id": 23091,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-04T06:30:22+00:00",
+    "text": "У многих сейчас так, надо искать что-то типа зайти в гугл флоу аи из России с впн как? И будет много вариантов, рабочие не все, платные и бесплатные, выбирать, какой подойдёт. Бесплатно лотерея, но может и сработать. Короче, методом тыка.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост обсуждает сложности доступа к Google Flow AI из России с использованием VPN.",
+      "keywords": [
+        "Google Flow AI",
+        "VPN",
+        "Россия",
+        "доступ",
+        "бесплатно"
+      ]
+    }
+  },
+  {
+    "id": 23090,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-04T06:23:31+00:00",
+    "text": "через алипей или юнионпей?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о предпочтении платёжных систем.",
+      "keywords": [
+        "Алипей",
+        "Юнионпей",
+        "платежи"
+      ]
+    }
+  }
+]
