@@ -1,0 +1,2320 @@
+[
+  {
+    "id": 96015,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:35:31+00:00",
+    "text": "И если агенты чего попросят подтвердить — сразу в ухо блямкнет, не пропустишь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясное утверждение без конкретного содержания.",
+      "keywords": [
+        "агенты",
+        "подтверждение",
+        "неясность"
+      ]
+    }
+  },
+  {
+    "id": 96014,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:34:58+00:00",
+    "text": "Можно раскрытый ноутбук на голову надеть как шапочку. И резиночкой под подбородком зафиксировать. Сейчас зима, как раз греть будет 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Шутливое предложение о ношении ноутбука на голове как шапки.",
+      "keywords": [
+        "шутка",
+        "ноутбук",
+        "зима",
+        "забавное"
+      ]
+    }
+  },
+  {
+    "id": 96013,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:31:05+00:00",
+    "text": "Не сидит в нашем чате",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 96012,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:30:53+00:00",
+    "text": "Ну этот не такой прошаренный товарищ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Комментарий о человеке без содержания",
+      "keywords": []
+    }
+  },
+  {
+    "id": 96011,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:30:23+00:00",
+    "text": "ну например amphetamine на маке, который не дает ему уходить в сон при закрытой крышке, и ремоут контроль на телефоне... я так делаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования приложения для предотвращения сна Mac.",
+      "keywords": [
+        "Mac",
+        "сон",
+        "приложение",
+        "опыт",
+        "ремоут контроль"
+      ]
+    }
+  },
+  {
+    "id": 96010,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:27:14+00:00",
+    "text": "у меня Asus Zephyrus с 3080 и 32 гб оперативки, вроде норм тянет всё такое, на более новых там вообще летать всё должно. Но то что тяжёлый это да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь обсуждает производительность своего ноутбука Asus Zephyrus.",
+      "keywords": [
+        "Asus Zephyrus",
+        "3080",
+        "производительность",
+        "ноутбук"
+      ]
+    }
+  },
+  {
+    "id": 96009,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:23:59+00:00",
+    "text": "Скажи, что у тебя шуршат агенты, не говоря этого",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "В воздухе витает ощущение острого внимания к важным событиям.",
+      "keywords": [
+        "агенты",
+        "внимание",
+        "события"
+      ]
+    }
+  },
+  {
+    "id": 96008,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:23:42+00:00",
+    "text": "В метро сейчас видела юношу, у которого каким то оригинальным способом привязан к телу/рюкзаку открытый ноутбук",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Наблюдение за юношей с открытым ноутбуком в метро.",
+      "keywords": [
+        "метро",
+        "ноутбук",
+        "наблюдение"
+      ]
+    }
+  },
+  {
+    "id": 96007,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:23:27+00:00",
+    "text": "а кто-нибудь в итоге опробовал анлок мощностей на видеокартах нвидиа от Zagitta?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Вопрос о тестировании анлок мощностей видеокарт от Zagitta.",
+      "keywords": [
+        "анлок",
+        "видеокарты",
+        "Zagitta",
+        "опыт",
+        "тестирование"
+      ]
+    }
+  },
+  {
+    "id": 96003,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:08:56+00:00",
+    "text": "Сейчас Nvidia выпустила интересную разработку на arm.  Но ценник под пол ляма, спасибо, но нет. Я за эти деньги выделенный сервер с характеристиками самолета лет на 5 арендую в благословенной клодом стране",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.4,
+      "category": "tech",
+      "summary": "Nvidia представила новую разработку на архитектуре ARM, но высокая цена вызывает недовольство.",
+      "keywords": [
+        "Nvidia",
+        "ARM",
+        "разработка",
+        "цена",
+        "сервер"
+      ]
+    }
+  },
+  {
+    "id": 96002,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:07:27+00:00",
+    "text": "Там один блок весит как мой МакБук. Громко, горячо, дорого, бесполезно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост описывает тяжелый и бесполезный блок, но не содержит значимой информации.",
+      "keywords": [
+        "блок",
+        "вес",
+        "бесполезно",
+        "горячо",
+        "дорого"
+      ]
+    }
+  },
+  {
+    "id": 96001,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:07:03+00:00",
+    "text": "Вы про всякие игровые ноутбуки? Так это ж та еще хрень: и не ноут, и не игровой. Плюс весит как смертный грех. Есть гораздо более приятные способы подкачаться :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Критика игровых ноутбуков и их характеристик.",
+      "keywords": [
+        "игровые ноутбуки",
+        "критика",
+        "вес",
+        "недостатки"
+      ]
+    }
+  },
+  {
+    "id": 96000,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:06:10+00:00",
+    "text": "Как раз поездки меня и останавливают от того, чтобы монстра брать.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95999,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:05:02+00:00",
+    "text": "Мне нравится vps тем, что работа продолжается, даже если я с ноутом куда-то уехал. И шансов утечки из-за моргнувшего  VPN — ноль. Окружение собирать бесполезно, он же физически находится в правильной стране. Если бы не санкции или не черепомерка клода, я бы под разработку локальную машину взял. Но пока, увы, так",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится личным мнением о преимуществах VPS для работы.",
+      "keywords": [
+        "VPS",
+        "работа",
+        "безопасность",
+        "локальная машина",
+        "санкции"
+      ]
+    }
+  },
+  {
+    "id": 95998,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:02:48+00:00",
+    "text": "Только страшно будет его в рюкзаке носить😂😂😂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95997,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T13:02:17+00:00",
+    "text": "У меня просто возникает проблема с ресурсами моего портативного компа . На нем может одновременно работать тессеракт, прога для распознавания голоса, плюс батареи тестов моего собственного питон-проекта. Думаю покупать  мощнее комп или сразу пробовать впс, ну а комп как печатную машинку использовать. За 200 евро в месяц можно в кредит нормального монстра портативного взять на пару лет.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь рассматривает варианты улучшения ресурсов своего портативного компьютера для работы с несколькими приложениями.",
+      "keywords": [
+        "портативный компьютер",
+        "ресурсы",
+        "ВПС",
+        "апгрейд"
+      ]
+    }
+  },
+  {
+    "id": 95995,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:38:45+00:00",
+    "text": "Если чисто под юридическую работу — действительно, за глаза. Модели ж на ней не крутятся. Даже для OCR хватит, не быстро будет, но справится",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможностей использования технологий для юридической работы.",
+      "keywords": [
+        "юридическая работа",
+        "технологии",
+        "OCR"
+      ]
+    }
+  },
+  {
+    "id": 95994,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:37:32+00:00",
+    "text": "У меня, например, Клод + кодекс.\n4цпу 8гб без ГПУ и 60гб ссд, за глаза вообще.\n20$ цена вопроса",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение цены и характеристик оборудования.",
+      "keywords": [
+        "Клод",
+        "кодекс",
+        "оборудование",
+        "цена",
+        "характеристики"
+      ]
+    }
+  },
+  {
+    "id": 95993,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:35:51+00:00",
+    "text": "Я сейчас думаю над арендой выделенного сервера. Но у этого хостера нет Турции, а других я пока смотрю. Просто за чуть побольше денежек можно получить гораздо серьёзнее машину и без дележки ресурсов с соседями",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пользователь рассматривает аренду выделенного сервера, но не может найти подходящего хостера в Турции.",
+      "keywords": [
+        "аренда",
+        "выделенный сервер",
+        "хостер",
+        "Турция",
+        "ресурсы"
+      ]
+    }
+  },
+  {
+    "id": 95992,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:34:46+00:00",
+    "text": "Если собираетесь заниматься разработкой — дорого. Ishosting, локация Турция. 12 ядер, 32 оперативки, 200 SSD. 120 долларов в месяц. Очень жрут стенды много, сами модели очень экономные.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждение затрат на разработку с использованием серверов в Турции.",
+      "keywords": [
+        "разработка",
+        "серверы",
+        "Турция",
+        "цена",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 95991,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:33:41+00:00",
+    "text": "Провайдер ну и характеристики, чтобы знать к чему готовиться.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит неопределенную информацию о характеристиках провайдера.",
+      "keywords": [
+        "провайдер",
+        "характеристики",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 95990,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:33:12+00:00",
+    "text": "Вас интересует хостер или характеристики?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о предпочтениях пользователей по хостингу.",
+      "keywords": [
+        "хостер",
+        "характеристики",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 95989,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:32:48+00:00",
+    "text": "И какой впс? Просто тоже думаю расширить архитектуру",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение VPS без конкретной информации.",
+      "keywords": [
+        "VPS",
+        "архитектура",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 95988,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:32:32+00:00",
+    "text": "Вообще все. У меня искины с моим компьютером вообще не соприкасаются от греха подальше. Только синхронизация идет мутагеном",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение о ненадежности компьютерных систем.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95987,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:31:48+00:00",
+    "text": "Я и в вайбкодинге, и в юридической работе использую сразу несколько моделей. Поэтому для меня выбор очевиден.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным подходом к использованию моделей в работе.",
+      "keywords": [
+        "вайбкодинг",
+        "юридическая работа",
+        "модели",
+        "подход"
+      ]
+    }
+  },
+  {
+    "id": 95986,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:31:26+00:00",
+    "text": "Все материалы по делам или все инструменты по автоматизации?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Вопрос о предпочтениях в материалах или инструментах.",
+      "keywords": [
+        "автоматизация",
+        "инструменты",
+        "материалы"
+      ]
+    }
+  },
+  {
+    "id": 95985,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:29:46+00:00",
+    "text": "надо будет глянуть. Пока просто не совсем понимаю, чем это лучше клодкода или кодекса с точки зрения пользовательского взаимодействия. Но проблему множества аккаунтов и апишек орка мне решила точно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личными размышлениями о пользовательском взаимодействии с определёнными инструментами.",
+      "keywords": [
+        "пользовательское взаимодействие",
+        "аккаунты",
+        "инструменты"
+      ]
+    }
+  },
+  {
+    "id": 95984,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:28:10+00:00",
+    "text": "Таки масса же ютубчиков про орку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит ссылку на видеоролики без важной информации.",
+      "keywords": [
+        "Ютуб",
+        "видео",
+        "контент"
+      ]
+    }
+  },
+  {
+    "id": 95983,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:24:27+00:00",
+    "text": "да ну",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95982,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:23:00+00:00",
+    "text": "но все функции самой орки для меня пока непостижимы. ChatUI работает с помехами, а к CLI я не привык",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Отсутствие понимания работы функций ChatUI и непривычность к CLI.",
+      "keywords": [
+        "ChatUI",
+        "CLI",
+        "непонимание",
+        "помехи"
+      ]
+    }
+  },
+  {
+    "id": 95981,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:22:38+00:00",
+    "text": "Плюс, у меня же весь зоопарк на vps живет. Орка умеет работать с удалёнными серверами, а кодекс/клод нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение возможностей различных программ для работы с удалёнными серверами.",
+      "keywords": [
+        "VPS",
+        "орка",
+        "удалённые сервера",
+        "кодекс",
+        "клод"
+      ]
+    }
+  },
+  {
+    "id": 95980,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:21:42+00:00",
+    "text": "Тут вопрос вкусовщины, кому что удобнее. Мне вообще норм, у меня параллельно пара задач по разработке, пара задач по практике в одном окне работает. И хорошо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение удобства работы с несколькими задачами в одном окне.",
+      "keywords": [
+        "вкусовщина",
+        "продуктивность",
+        "разработка",
+        "задачи"
+      ]
+    }
+  },
+  {
+    "id": 95979,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:21:31+00:00",
+    "text": "я оркой пользуюсь теперь чтобы там загон аккаунтов держать, а работу веду из Кодекса - он сам нужные сессии активирует и управляет аккаунтами как субагентами, проблему 5ч лимитов решает идеально",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования инструментов для работы с аккаунтами.",
+      "keywords": [
+        "инструменты",
+        "аккаунты",
+        "управление",
+        "сессии",
+        "работа"
+      ]
+    }
+  },
+  {
+    "id": 95978,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:18:02+00:00",
+    "text": "Просто Ян вроде говорил, что для юрработы вроде все еще кодом пользуется",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение использования кода в юрработе.",
+      "keywords": [
+        "юриспруденция",
+        "код",
+        "Работа"
+      ]
+    }
+  },
+  {
+    "id": 95977,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:17:04+00:00",
+    "text": "Всю. Я уже очень давно пользуюсь только ide/ade",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом использования ide/ade.",
+      "keywords": [
+        "ide",
+        "ade",
+        "опыт",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 95976,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:16:25+00:00",
+    "text": "Даже юрработу типа подготовь мне апелляционную жалобу?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос на подготовку апелляционной жалобы.",
+      "keywords": [
+        "апелляция",
+        "жалоба",
+        "юрработа"
+      ]
+    }
+  },
+  {
+    "id": 95975,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:11:53+00:00",
+    "text": "Прекрасно. Перешел полностью и не жалею.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о переходе на новую платформу.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95974,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:11:40+00:00",
+    "text": "Я чищу смело.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95973,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:11:04+00:00",
+    "text": "Как орка Максим? Я установил, но так и не начал пользоваться. Все из Клода дергаю.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится своими впечатлениями об установке программы.",
+      "keywords": [
+        "Максим",
+        "Клод",
+        "программа",
+        "установка",
+        "впечатления"
+      ]
+    }
+  },
+  {
+    "id": 95972,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:09:58+00:00",
+    "text": "Просто осталось 6-8 гиг на диске, думаю нужно чистить.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь обсуждает необходимость очистки дискового пространства.",
+      "keywords": [
+        "диск",
+        "очистка",
+        "память"
+      ]
+    }
+  },
+  {
+    "id": 95971,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:09:56+00:00",
+    "text": "Буду пробовать, спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает благодарность.",
+      "keywords": [
+        "благодарность",
+        "пробовать",
+        "спасибо"
+      ]
+    }
+  },
+  {
+    "id": 95970,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:09:30+00:00",
+    "text": "Или зайти с инкогнито?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого контента.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95969,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:09:10+00:00",
+    "text": "Может почистить кукис браузеру?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о чистке кукисов в браузере.",
+      "keywords": [
+        "куки",
+        "браузер",
+        "чистка"
+      ]
+    }
+  },
+  {
+    "id": 95968,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:09:04+00:00",
+    "text": "Если не мешает - можно и не удалять.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95967,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:07:52+00:00",
+    "text": "Коллеги, приветствую!\nПодскажите, пожалуйста, я сделала новый акк на почту outlook, хотела с нее присоединить googl-диск, а он меня перекинул на диск, который был привязан к старому акк. И появилась надпись пройти верификацию.\nНо вроде обошлось пока. Это была надпись, которая относилась к старому акк.\nКак мне теперь прицепить новый диск, не подскажите?\nСделала новую гугл почту, акк. Вышла из старого акк, даже в коннекторах старого клода отцепила привязки.\nА то опять на какую-нибудь блокировку наткнусь.\nИтак весь день архивы и память восстанавливаю, не хочется, чтобы в пустую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь ищет помощь по подключению нового аккаунта Google Диска к новой почте Outlook.",
+      "keywords": [
+        "аккаунт",
+        "Google Диск",
+        "Outlook",
+        "помощь",
+        "верификация"
+      ]
+    }
+  },
+  {
+    "id": 95966,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:07:36+00:00",
+    "text": "Меня он вчера предупредил. Только стрёмно мне стало удалять. Рабочие файлы прошлых сессий 3-4 месячной давности ведь есть смысл удалить? Это же рабочий мусор, правда?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь обсуждает удаление старых рабочих файлов.",
+      "keywords": [
+        "удаление",
+        "рабочие файлы",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 95965,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T12:00:15+00:00",
+    "text": "В приложении Claude Desktop появилась команда `/storage`, позволяющая освободить место на диске.\n\nМожно посмотреть, сколько места Claude занимает на компьютере, а при необходимости удалить неактивные задачи и неиспользуемые Git worktrees, освободив место на диске. 🦀",
+    "views": 10932,
+    "forwards": 161,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "В приложении Claude Desktop появилась новая команда для управления дисковым пространством.",
+      "keywords": [
+        "Claude Desktop",
+        "команда",
+        "освобождение места",
+        "диск",
+        "Git worktrees"
+      ]
+    }
+  },
+  {
+    "id": 95963,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T10:07:14+00:00",
+    "text": "Мои диалоги с клодом перед сном)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Личный пост без значимого содержания.",
+      "keywords": [
+        "диалоги",
+        "Клод",
+        "личные"
+      ]
+    }
+  },
+  {
+    "id": 95962,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T10:06:49+00:00",
+    "text": "в деревне еще есть функция не ставить счетчик и платить по нормативу)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "В деревне есть возможность платить за услуги по нормативу без установки счетчика.",
+      "keywords": [
+        "счетчик",
+        "оплата",
+        "норматив",
+        "услуги",
+        "деревня"
+      ]
+    }
+  },
+  {
+    "id": 95961,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T10:06:25+00:00",
+    "text": "чипик дает о себе знать (8060s)\nно зато 55W)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о чипе с характеристиками.",
+      "keywords": [
+        "чип",
+        "характеристики",
+        "55W"
+      ]
+    }
+  },
+  {
+    "id": 95959,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T10:05:30+00:00",
+    "text": "О, больше 40 т/с на генерацию, уже норм. Префилл только слабый остаётся",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Улучшение производительности генерации до 40 т/с.",
+      "keywords": [
+        "генерация",
+        "производительность",
+        "технология"
+      ]
+    }
+  },
+  {
+    "id": 95957,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:48:46+00:00",
+    "text": "ну как сказать.. я б домой поставил. \nhttps://www.localmaxxing.com/en/hardware/ryzen-ai-max-395?paramSize=110\n\n30+ t/s для qwen-flash - я думаю отличная скорость",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение производительности процессора Ryzen AI Max 395.",
+      "keywords": [
+        "Ryzen AI Max",
+        "производительность",
+        "технологии",
+        "qwen-flash"
+      ]
+    }
+  },
+  {
+    "id": 95956,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:38:18+00:00",
+    "text": "Хорошая бюджетная скорее. Так-то медленная",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит неинформативное мнение о продукте.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95952,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:37:29+00:00",
+    "text": "Гугл как обычно, мать-мать-мать…",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95950,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:37:28+00:00",
+    "text": "идеальная машинка для MoE моделек. Жаль не 192-256 гб только",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение аппаратного обеспечения для моделей MoE.",
+      "keywords": [
+        "машинка",
+        "MoE",
+        "аппаратное обеспечение",
+        "модели"
+      ]
+    }
+  },
+  {
+    "id": 95949,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:36:13+00:00",
+    "text": "Если и фиксировать прибыль, то на пике, а не на середине ралли",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "finance",
+      "summary": "Рекомендация фиксировать прибыль на пике рынка.",
+      "keywords": [
+        "прибыль",
+        "рынок",
+        "ралли",
+        "финансы",
+        "инвестирование"
+      ]
+    }
+  },
+  {
+    "id": 95948,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:35:08+00:00",
+    "text": "главное потом не проесть эту прибыль)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит незначительное выражение мнения о возможности утраты прибыли.",
+      "keywords": [
+        "прибыль",
+        "финансы",
+        "опасность"
+      ]
+    }
+  },
+  {
+    "id": 95947,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:35:06+00:00",
+    "text": "Неееее... Я верю, что он пригодится))) 🤣",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Личное выражение эмоций.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95946,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:34:14+00:00",
+    "text": "Простите за неожиданный ответ, но, с учётом цен на оперативку, может быть хорошей идеей продать и зафиксировать прибыль.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "finance",
+      "summary": "Рекомендация продать оперативную память для фиксации прибыли.",
+      "keywords": [
+        "оперативка",
+        "цены",
+        "прибыль",
+        "продажа"
+      ]
+    }
+  },
+  {
+    "id": 95945,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:34:08+00:00",
+    "text": "Спасибо. Завтра день экспериментов))))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95943,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:33:13+00:00",
+    "text": "https://github.com/Niko1221/Strata/blob/main/docs/STRIX_HALO.md",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на документацию проекта STRIX_HALO на GitHub.",
+      "keywords": [
+        "документация",
+        "GitHub",
+        "STRIX_HALO"
+      ]
+    }
+  },
+  {
+    "id": 95942,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:33:11+00:00",
+    "text": "Пока рано. Я пока заставляю кодекс переделать виндоуз в мак - раскладки и мышку. Очень тяжело работать на 2 операционных системах параллельно (есть МакБук)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится опытом работы с разными операционными системами.",
+      "keywords": [
+        "виндоуз",
+        "мак",
+        "разные операционные системы",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 95940,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:32:07+00:00",
+    "text": "И ещё можете Unsloth глянуть, они сегодня свой динамический квант выложили для QFN — через из приложение или huggingface",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Unsloth выпустил динамический квант для QFN.",
+      "keywords": [
+        "Unsloth",
+        "квант",
+        "QFN",
+        "технологии",
+        "huggingface"
+      ]
+    }
+  },
+  {
+    "id": 95939,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:31:39+00:00",
+    "text": "Признавайтесь, у кого китаец вылез из песочницы?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенное сообщение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95938,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:31:34+00:00",
+    "text": "Посмотрите тогда движок инференса Strata, QFN на нём будет инфереситься быстрее за счёт оптимизации выгрузки слоёв на ССД",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Движок инференса Strata оптимизирует выгрузку слоёв на SSD.",
+      "keywords": [
+        "Strata",
+        "инференс",
+        "оптимизация",
+        "SSD",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 95936,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:31:03+00:00",
+    "text": "Да. Я понял про флэш. Пытался недавно ее поставить, но не заработала одна и я бросил. Покачаю другие версии.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится своим опытом с установкой флэш.",
+      "keywords": [
+        "флэш",
+        "установка",
+        "опыт"
+      ]
+    }
+  },
+  {
+    "id": 95935,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:30:00+00:00",
+    "text": "Пингвин ждёт и надеется!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясное сообщение без содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95934,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:29:05+00:00",
+    "text": "Qwen 3.8 Flash Next имеется в виду",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминание Qwen 3.8 Flash Next без дополнительного контекста.",
+      "keywords": [
+        "Qwen",
+        "Flash Next",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 95933,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:28:22+00:00",
+    "text": "Спасибо, завтра попробую флэш поискать. На Линукс я ещё не решился. Пока на Винде.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь планирует попробовать флэш поиск на Линуксе, но пока использует Windows.",
+      "keywords": [
+        "флэш",
+        "поиск",
+        "Линукс",
+        "Windows"
+      ]
+    }
+  },
+  {
+    "id": 95930,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:16:31+00:00",
+    "text": "qwen-flash 🫡\nв linux можно выделить под GTT почти весь объем RAM",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Обсуждение выделения памяти в Linux.",
+      "keywords": [
+        "Linux",
+        "RAM",
+        "GTT",
+        "память"
+      ]
+    }
+  },
+  {
+    "id": 95927,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:14:19+00:00",
+    "text": "GPT-6 Astra выполняла примерно на 40% меньше работы, когда задачи по программированию представляли как исследования безопасности.\n\nОб этом говорится в [новом](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/) отчёте OpenAI, посвящённом отклонениям в поведении ИИ-моделей.\n\nИсследователи давали модели одинаковые задачи, меняя лишь их описание. Когда речь шла о развитии возможностей ИИ, Astra выполняла больше работы. Но стоило представить те же задачи как исследования безопасности, и объём выполненной работы сокращался примерно на 40%.\n\nПричём происходило это без явного предупреждения со стороны модели.",
+    "views": 15238,
+    "forwards": 123,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "GPT-6 Astra демонстрирует снижение производительности на 40% при выполнении задач, связанных с исследованиями безопасности.",
+      "keywords": [
+        "GPT-6 Astra",
+        "исследования безопасности",
+        "производительность",
+        "отчёт OpenAI",
+        "ИИ-модели"
+      ]
+    }
+  },
+  {
+    "id": 95925,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T09:07:14+00:00",
+    "text": "Здравствуйте. Хотел с вами посоветоваться. У меня AMD Ryzen AI Max+ 395 на 128 ГБ. Установил модель Qwen 3.6-35B-A3B, но не могу найти достойного применения для нее и для компьютера в области локального ИИ. Что можно реально делать с локальными моделями и, может, есть лучше модель для моего компа? На фантазирование и эксперименты с моделями мало времени. Программировать тоже не вижу смысла — есть облачные. Пока использую для доп. анонимизации и как поисковик и ответы на вопросы по поиску информации в своем приложении для работы с делами. Что еще можно делать?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь ищет применение для локальной модели ИИ на своем компьютере.",
+      "keywords": [
+        "локальный ИИ",
+        "применение",
+        "модель",
+        "анонимизация",
+        "поиск"
+      ]
+    }
+  },
+  {
+    "id": 95922,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:57:48+00:00",
+    "text": "Вот это круто!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Общее восхищение без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95920,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:55:12+00:00",
+    "text": "Kimi взбесился",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный пост без значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95919,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:55:11+00:00",
+    "text": "Принимается!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95913,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:38:41+00:00",
+    "text": "пока что старшие родственники возражают даже против индукционной плиты против газа, но мы победим, думаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обсуждение предпочтений в использовании плиты.",
+      "keywords": [
+        "плита",
+        "газ",
+        "индукционная",
+        "родственники",
+        "предпочтения"
+      ]
+    }
+  },
+  {
+    "id": 95911,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:37:52+00:00",
+    "text": "в деревне еще и электричество дешевле, самое место для подвального цода",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение цен на электричество в деревне.",
+      "keywords": [
+        "электричество",
+        "деревня",
+        "ЦОД",
+        "размещение"
+      ]
+    }
+  },
+  {
+    "id": 95907,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:33:05+00:00",
+    "text": "красота! когда в деревню перееду, прям вот нарисую такое и поставлю у ворот как артобъект",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь планирует создать артобъект на своем участке в деревне.",
+      "keywords": [
+        "красота",
+        "артобъект",
+        "деревня",
+        "переезд"
+      ]
+    }
+  },
+  {
+    "id": 95904,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:22:14+00:00",
+    "text": "Так они наконец-то свои акции получили считай",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95901,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:17:01+00:00",
+    "text": "Всё не настолько плохо, чтобы ради этого терять гарантию.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Необходима информация о гарантии.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95900,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:15:05+00:00",
+    "text": "поставь туда PTM 7950",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о PTM 7950.",
+      "keywords": [
+        "PTM 7950"
+      ]
+    }
+  },
+  {
+    "id": 95899,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T08:12:29+00:00",
+    "text": "Тоже про локалки выскажусь. У меня ноут с 5080 и 5060Ti стационар. Ноут страшно шумит и греется, комп, соответственно - не особо шумит и не особо греется. За закрытой дверью никого из них не слышно. \n\nПо применению - вот то, для чего многие используют Хайку или Луну, у меня делает локальный квен. Он рабочая лошадка для примитивных задач в харнесе, нормально генерирует звук. Локально же работает и анализ записей голоса.\n\nА главное - там же у меня крутится всё, что нельзя в публичные нейронки отправлять. А мощные модели придумывают, чем мне обложить локальный зоопарк так, чтобы он выдавал приемлемое качество для конкретных задач.\n\nЕщё отличный сценарий - песочница для теста решений, которые потом планирую развернуть на корпоративных мощностях. \n\nПо цене за электричество: у меня никогда не возникает необходимости загружать видеокарту на 100% 24 часа в сутки. На мой взгляд, это в принципе довольно дикий и нерациональный сценарий для домашнего компа. Субъективно, с учётом моих задач, рублей на 50 в месяц я больше стал платить за электричество. С учётом того, что у меня, очевидно, и до этого были комп и ноут с видеокартами послабее, на которых я модели не гонял.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным опытом использования локальных вычислений на ПК и ноуте для выполнения простых задач.",
+      "keywords": [
+        "локальные вычисления",
+        "графические карты",
+        "ЭЭГ",
+        "применение",
+        "задачи"
+      ]
+    }
+  },
+  {
+    "id": 95889,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:49:32+00:00",
+    "text": "Протон генератор в Гугле",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Запрос в поисковой системе о протонном генераторе.",
+      "keywords": [
+        "протон",
+        "генератор",
+        "Гугл"
+      ]
+    }
+  },
+  {
+    "id": 95888,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:46:23+00:00",
+    "text": "осталось собрать в оригинальную картинку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95887,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:45:26+00:00",
+    "text": "По мотивам оригинального мема))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95885,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:44:00+00:00",
+    "text": "нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Отказ от ответа.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95884,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:43:39+00:00",
+    "text": "Это на 2080?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неопределенный вопрос без контекста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95878,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:35:01+00:00",
+    "text": "да блин.. даже здесь генерация.. а я поверил..",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь выражает разочарование по поводу генерации контента.",
+      "keywords": [
+        "разочарование",
+        "генерация",
+        "контент"
+      ]
+    }
+  },
+  {
+    "id": 95877,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:33:43+00:00",
+    "text": "надо брать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95875,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:32:47+00:00",
+    "text": "Я своему роботу вшил механическую бинарную функцию сверки буквального соответствия цитаты исходному документу. Вроде огонь. Задача была - отслеживать неверные или несуществующие цитаты. Зачем это делать инференсом?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение функциональности робота для проверки цитат.",
+      "keywords": [
+        "робот",
+        "цитаты",
+        "функция",
+        "сверка",
+        "инференс"
+      ]
+    }
+  },
+  {
+    "id": 95874,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:32:27+00:00",
+    "text": "Персональщиков на вас нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95870,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:27:51+00:00",
+    "text": "Что-то они пачками повалили из Ant",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Неясное упоминание о событиях с Ant.",
+      "keywords": [
+        "Ant",
+        "новости",
+        "неясно"
+      ]
+    }
+  },
+  {
+    "id": 95869,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:27:23+00:00",
+    "text": "+ еще 1 из Ant в OpenaAI",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Реклама или незначительная информация.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95867,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:23:59+00:00",
+    "text": "Заживём теперь?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный пост, возможно, выражающий надежду.",
+      "keywords": [
+        "заживём",
+        "надежда",
+        "неясность"
+      ]
+    }
+  },
+  {
+    "id": 95866,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:21:51+00:00",
+    "text": "Опа, внезапно, оказывается, Гугл в превью открыл апи и MCP сервер официальный для Gemini Notebook (бывший NotebookLM) \n\nhttps://developers.google.com/notebook/docs/mcp",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Google анонсировала открытие официального API и MCP сервера для Gemini Notebook.",
+      "keywords": [
+        "Google",
+        "API",
+        "Gemini Notebook",
+        "MCP сервер",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 95865,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:21:04+00:00",
+    "text": "Можно ещё и с вебкой зарабатывать 😁\nВ реальном времени стримить с подменой видеопотока 😏",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение возможности зарабатывать на стримах с подменой видеопотока.",
+      "keywords": [
+        "стриминг",
+        "видеопоток",
+        "заработок"
+      ]
+    }
+  },
+  {
+    "id": 95864,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:20:06+00:00",
+    "text": "Да, можно просто по приколу направить вебку в коридор и считать соседей и изучить их режим жизни.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Предложение установить вебкамеру для наблюдения за соседями.",
+      "keywords": [
+        "вебкамеры",
+        "наблюдение",
+        "соседи",
+        "жизнь"
+      ]
+    }
+  },
+  {
+    "id": 95863,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:19:23+00:00",
+    "text": "Вот кстати! Дя CV они вообще отлично подходят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95862,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:18:26+00:00",
+    "text": "Я направил вебку на парковку и попросил кодекс настроить нейронку, чтобы она считала сколько машин заехало и выехало, чтобы рассчитать количество свободных парковочных мест в слепой зоне.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Идея использования нейронных сетей для подсчета автомобилей на парковке.",
+      "keywords": [
+        "нейронные сети",
+        "парковка",
+        "автомобили",
+        "технологии",
+        "аудио"
+      ]
+    }
+  },
+  {
+    "id": 95861,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:16:55+00:00",
+    "text": "Начни соседям продавать инференс 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост шутливого характера о продаже услуг.",
+      "keywords": [
+        "инференс",
+        "продажа",
+        "соседи",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 95860,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:14:43+00:00",
+    "text": "Расчетная цена в месяц под полной нагрузкой - 3500 руб., под минимальной 850 руб.\n\nРазбивка по железу (на примере 8,90 ₽):\nGPU-часть (2×2080 Ti, ~400 Вт) → ~3,6 ₽/час\nCPU + вентиляторы + потери БП (~135 Вт) → ~1,2 ₽/час\n\nПроизводные: сутки непрерывного пика ≈ 114 ₽, месяц ≈ 3 440 ₽.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "other",
+      "summary": "Обзор расчетных расходов на оборудование с различными уровнями нагрузки.",
+      "keywords": [
+        "расходы",
+        "оборудование",
+        "нагрузка",
+        "цена",
+        "GPU"
+      ]
+    }
+  },
+  {
+    "id": 95859,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:12:57+00:00",
+    "text": "Ага. Только для генерации видео тебе нужна отдельная модель куда большей мощности",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Для генерации видео требуется мощная модель.",
+      "keywords": [
+        "генерация",
+        "видео",
+        "модель",
+        "мощность"
+      ]
+    }
+  },
+  {
+    "id": 95858,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:11:31+00:00",
+    "text": "Ну если совсем грубо, то видео - это тоже много-много картинок…)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост о видеоконтенте.",
+      "keywords": [
+        "видео",
+        "картинки",
+        "контент"
+      ]
+    }
+  },
+  {
+    "id": 95857,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:10:11+00:00",
+    "text": "Нет, конечно. Гифки это ж не видео. Там чисто несколько картинок генерит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Комментарий о GIF-изображениях и их отличие от видео.",
+      "keywords": [
+        "гифки",
+        "видео",
+        "изображения",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 95856,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:09:19+00:00",
+    "text": "Сору решили переупаковать что ли",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Неясный контекст новости о переупаковке.",
+      "keywords": [
+        "переупаковка",
+        "Сору",
+        "новость"
+      ]
+    }
+  },
+  {
+    "id": 95855,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:08:41+00:00",
+    "text": "Тут интересный момент, кстати. \nЭто касается как монтажных программ (cuda ядер достаточно), так и генерации и обработки через нейронки (матричных ядер 512 аж) 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение технических характеристик для монтажа и нейронных сетей.",
+      "keywords": [
+        "монтажные программы",
+        "cuda",
+        "нейронки",
+        "матричные ядра"
+      ]
+    }
+  },
+  {
+    "id": 95853,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:03:33+00:00",
+    "text": "Турбинное исполнение любой видеокарты всегда шумнее. А что по электричеству?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение уровня шума и потребления энергии видеокарт с турбинным исполнением.",
+      "keywords": [
+        "видеокарты",
+        "шум",
+        "электричество",
+        "турбинное исполнение"
+      ]
+    }
+  },
+  {
+    "id": 95852,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T07:01:01+00:00",
+    "text": "Да, я взял комплект 2 x 2090ti 22 gb nvlink. \n\nЕще можно играть) Хочу Экспедицию 33 пройти) Хотя работает только на одной карте.\n\nЯ пока нашел применение - получил uncensored qwen 3.8 просканировать всю мою систему на поиск гипотиз о наличии уязвимостей. За ночь температура в квартире повысилась на 2 градуса)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом с новыми видеокартами и программами.",
+      "keywords": [
+        "2090ti",
+        "гипотезы",
+        "уязвимости",
+        "экспедиция",
+        "игры"
+      ]
+    }
+  },
+  {
+    "id": 95850,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:56:13+00:00",
+    "text": "Можно со звуком/видео/картинками работать.\nQwen3.8 27b поставить (будет много поток для агентских задач с приемлемой скоростью). Или что-то попроще MoE. \nДаже qwen-flash будет работать на одной-двух (в зависимости от объема памяти).  \n\n\nСлегка можно понизить PL (тогда и тише станут, вероятно)\nЕще память до 22гб нарастить (если это не сделано). \n\nУ балкона есть всегда преимущество - он тебя не забанит. До тех пор пока у тебя есть электричество - будет работать. \n\nНу и собраться и переделать на водяное охлаждение.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.3,
+      "category": "tech",
+      "summary": "Обсуждаются технические характеристики и возможности работы с Qwen3.8 27b.",
+      "keywords": [
+        "Qwen3.8",
+        "память",
+        "водяное охлаждение",
+        "агентские задачи",
+        "производительность"
+      ]
+    }
+  },
+  {
+    "id": 95848,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:43:17+00:00",
+    "text": "В наноботе (агент такой легковесный китайский) каждой сессии даётся короткое имя из 4 букв, и по этому имени можно дёрнуть сессию из другой сессии, спросить у нее что нибудь, чтобы она дала ответ текущей сессии. Пока не понял как как это использовать...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Описание функционала легковесного китайского агента Нанобот.",
+      "keywords": [
+        "нанобот",
+        "агент",
+        "технологии",
+        "сессия",
+        "функционал"
+      ]
+    }
+  },
+  {
+    "id": 95847,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:42:38+00:00",
+    "text": "Я посмотрел и, вероятно, хотел бы предупредить тех, кто загорелся идеей купить себе оборудование для локальных нейросетей.\n\nУ меня две 2080 Ti в турбинном исполнении, и самым неожиданным оказались объем выделяемого тепла и шум.\n\nРаботающее оборудование способно отопить балкон зимой, а шум слышно даже через несколько дверей.\n\nКроме того, карты потребляют ощутимое количество электричества.\n\nТут нет схемы «купил и не платишь». Стоимость потребляемого электричества может оказаться достаточно ощутимой.\n\nПлюс никаких нескольких чатов одновременно. Один комплект устройств — один чат в один момент (хотя, если карт несколько, то на каждой можно развернуть отдельную нейросеть, но если карта не 5090, то развернуть получится что-то очень слабое).\n\nКороче, я пока не нашел достойного применения комплекту.\n\nМне кажется, от локальных нейронок кайфуют те, кто купил оборудование в прошлом году, а сейчас это больше похоже на инвестицию с туманными перспективами и сомнительной пользой.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Автор делится опытом использования локальных нейросетей и предостерегает от недостатков в стоимости, шуме и потреблении электроэнергии.",
+      "keywords": [
+        "локальные нейросети",
+        "оборудование",
+        "энергопотребление",
+        "шум",
+        "инвестиции"
+      ]
+    }
+  },
+  {
+    "id": 95846,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:38:02+00:00",
+    "text": "К слову о любителях свистоперделок",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95843,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:31:51+00:00",
+    "text": "ого, появилась надежда хотя бы на gui в кодексе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Упоминание о GUI в кодексе вызывает надежду.",
+      "keywords": [
+        "GUI",
+        "кодекс",
+        "надежда"
+      ]
+    }
+  },
+  {
+    "id": 95842,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:31:40+00:00",
+    "text": "Нуууу такое)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 95840,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:16:09+00:00",
+    "text": "Китайская Tencent бросила вызов DeepSeek и Kimi — открытая ИИ-модель Hy4 умеет видеть и рассуждать https://share.google/uCxqzJEd5ZnnlIPPf",
+    "views": 274,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "ai",
+      "summary": "Китайская компания Tencent представила открытую ИИ-модель Hy4, способную видеть и рассуждать.",
+      "keywords": [
+        "Tencent",
+        "ИИ",
+        "Hy4",
+        "модель",
+        "DeepSeek"
+      ]
+    }
+  },
+  {
+    "id": 95839,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T06:06:01+00:00",
+    "text": "В «соцсети Х» шутят:",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "В посте обсуждаются шутки из соцсети.",
+      "keywords": [
+        "шутки",
+        "соцсеть",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 95838,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T05:42:25+00:00",
+    "text": "Опачки. Руководитель отдела разработки продукта claude code и cowork ушла в openai",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Руководитель отдела разработки продукта claude code и cowork переходит в OpenAI.",
+      "keywords": [
+        "OpenAI",
+        "руководитель",
+        "claude code",
+        "cowork",
+        "муниципалитет"
+      ]
+    }
+  },
+  {
+    "id": 95824,
+    "channel_id": "docsllm",
+    "date": "2026-11-05T02:52:21+00:00",
+    "text": "Прикольный подкаст про локальные модели. @PureLSD , обрати внимание https://youtu.be/v_W6F-HLdeo?is=Y1ndb3s-HOBbO4Bj",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Публикация о подкасте без содержательной информации.",
+      "keywords": [
+        "подкаст",
+        "локальные модели",
+        "реклама"
+      ]
+    }
+  }
+]
