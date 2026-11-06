@@ -1,0 +1,645 @@
+[
+  {
+    "id": 3395,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T13:40:12+00:00",
+    "text": "**Итоги недели по понедельничному плану 📋**\n\nВ понедельник сверились с планами, а теперь смотрим, что удалось сделать за неделю:\n\n@argmaster поделилися результатми работы: на GitHub вышел MCP-сервер для AutoCAD и NanoC560/3306. Теперь Claude Code и Codex могут видеть чертёж и работать с ним напрямую. А ещё обновился Docx-anonymizer до версии 0.5: теперь он поддерживает Excel, PowerPoint, CSV и 50 типов данных, которые важно защитить при работе с ИИ. Подробнее - https://t.me/c/2756587560/3347.\n\nА вы на этой неделе что-нибудь пробовали собрать с помощью ИИ? Даже если проект пока не готов — рассказывайте, что получилось, а где застряли. Обсудим вместе 😉",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Обновления в области ИИ: новые инструменты для AutoCAD и поддержка дополнительных форматов в Docx-anonymizer.",
+      "keywords": [
+        "AutoCAD",
+        "Docx-anonymizer",
+        "ИИ",
+        "GitHub",
+        "обновления"
+      ]
+    }
+  },
+  {
+    "id": 3391,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:25:49+00:00",
+    "text": "Договорились. Куда скинуть?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос информации о способе передачи данных.",
+      "keywords": [
+        "договор",
+        "информация",
+        "передача"
+      ]
+    }
+  },
+  {
+    "id": 3390,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:25:36+00:00",
+    "text": "Про это не подскажу🤷🏻‍♂️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Необоснованное заявление.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3389,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:25:15+00:00",
+    "text": "для тебя 25)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3388,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:24:33+00:00",
+    "text": "А че не 25?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный вопрос без содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3387,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:19:00+00:00",
+    "text": "ок, если кому из чата понадобится - пишите, 5к по цене за 1 вериф аккаунт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Предложение о продаже верифицированного аккаунта.",
+      "keywords": [
+        "верифицированный аккаунт",
+        "продажа",
+        "услуга"
+      ]
+    }
+  },
+  {
+    "id": 3386,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:17:26+00:00",
+    "text": "не, не хочу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь выражает нежелание.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3385,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:17:04+00:00",
+    "text": "там только страница верифа - кидаешь QR и чел проходит проверку, твой акк остается при тебе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Информация о верификации аккаунта с помощью QR-кода.",
+      "keywords": [
+        "верификация",
+        "QR-код",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 3384,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:16:41+00:00",
+    "text": "твой акк и не нужен будет)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3383,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:16:28+00:00",
+    "text": "не, свой ак не дам. на левых не буду",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь отвергает предложение о передаче аккаунта.",
+      "keywords": [
+        "аккаунт",
+        "отказ",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 3382,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:16:26+00:00",
+    "text": "они прошли через свои паспорта",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для оценки значимости.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3381,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:16:11+00:00",
+    "text": "у меня тоже акк на вериф отлетел в начале месяца, верифицировал его через друзей за границей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится личным опытом верификации аккаунта.",
+      "keywords": [
+        "верификация",
+        "аккаунт",
+        "друзья"
+      ]
+    }
+  },
+  {
+    "id": 3380,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:15:55+00:00",
+    "text": "и как же?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно информации для определения сути поста.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3379,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T01:15:41+00:00",
+    "text": "могу помочь с верификацией",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Предложение помощи в верификации.",
+      "keywords": [
+        "верификация",
+        "помощь",
+        "предложение"
+      ]
+    }
+  },
+  {
+    "id": 3378,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:19:39+00:00",
+    "text": "как думаешь?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Не содержит информационного содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3377,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:19:32+00:00",
+    "text": "я прочитал что в антидетект браузер нельзя заходить с основного гугла, пишет забанит гугл из за подозрительной активности",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Сообщение о запрете использования антидетект браузера с основного аккаунта Google.",
+      "keywords": [
+        "антидетект",
+        "браузер",
+        "Google",
+        "запрет"
+      ]
+    }
+  },
+  {
+    "id": 3376,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:17:35+00:00",
+    "text": "Не прокатит😄",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3375,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:17:23+00:00",
+    "text": "мне 17",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3374,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:17:16+00:00",
+    "text": "А вообще попробуй верификацию пройти. Вдруг прокатит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь предлагает попробовать пройти верификацию.",
+      "keywords": [
+        "верификация",
+        "попробовать",
+        "пользователь"
+      ]
+    }
+  },
+  {
+    "id": 3373,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:17:12+00:00",
+    "text": "он тоже новый",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3372,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:16:54+00:00",
+    "text": "Ну с него уже забанили же 🤷🏻‍♂️ значит новый нужен",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3371,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:16:05+00:00",
+    "text": "осталось только килл свич сделать и все четко будет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждается некая функциональность без конкретики.",
+      "keywords": [
+        "килл свич",
+        "функциональность",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 3370,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:15:53+00:00",
+    "text": "с ip все хорошо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3369,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:15:47+00:00",
+    "text": "у меня свой vps настроен как впн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь делится информацией о своем VPS, настроенном как VPN.",
+      "keywords": [
+        "VPS",
+        "VPN",
+        "настройка"
+      ]
+    }
+  },
+  {
+    "id": 3368,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:15:26+00:00",
+    "text": "Главное ip стабильно один и тот же. Свой. Не публичный. И браузер. Т.к Клод запоминает их.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение использования постоянного IP и браузера.",
+      "keywords": [
+        "IP",
+        "браузер",
+        "Клод",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 3367,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:14:56+00:00",
+    "text": "надеюсб поможет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неполное сообщение без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3366,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:14:53+00:00",
+    "text": "спасиб",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимого содержания.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3365,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:14:16+00:00",
+    "text": "Думаю что да. Этот гугл акк тоже открой в чистом браузере.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3364,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:13:06+00:00",
+    "text": "а в самом браузере можно войти в гугл?  аккаунт клод новый с другой почтой, а сам гугл старый (на него был зареган прошлый ак). Мне нужно чтоб клод работал с документами которые в гугл доке",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о совместимости аккаунтов Google с сервисом Claude.",
+      "keywords": [
+        "Google",
+        "аккаунт",
+        "Claude",
+        "документы",
+        "Google Docs"
+      ]
+    }
+  },
+  {
+    "id": 3363,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:11:47+00:00",
+    "text": "Не за что. Меня 4 раза блокнули. Пока так не сделал. Сейчас уже 2 недели - полет нормальный 😄 но подписку пока не покупаю. Думаю месяц хотя бы на free погонять",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь делится опытом использования сервиса.",
+      "keywords": [
+        "блокировка",
+        "подписка",
+        "опыт",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 3362,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:10:08+00:00",
+    "text": "попробую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3361,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:10:03+00:00",
+    "text": "спасибо большое",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Обращение с благодарностью.",
+      "keywords": [
+        "спасибо",
+        "благодарность"
+      ]
+    }
+  },
+  {
+    "id": 3360,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:08:47+00:00",
+    "text": "Из старого выходишь. Ставишь dolphin anty. Он запускает хром без отпечатка. Через него регаешься в Клоде. Но через имейл сторонний.  Через гугл забанят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Советы по анонимной регистрации в сервисах с помощью браузеров.",
+      "keywords": [
+        "анонимность",
+        "регистрация",
+        "браузеры",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 3359,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:04:48+00:00",
+    "text": "браузер без отпечатка? а если мне нужен гугл аккаунт... но он тот же с которым клод работал. А приложение как? просто выйти с 1 аккаунта и в другой войти?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение использования браузера без отпечатка и управления аккаунтами.",
+      "keywords": [
+        "браузер",
+        "отпечаток",
+        "Google аккаунт",
+        "приложение",
+        "безопасность"
+      ]
+    }
+  },
+  {
+    "id": 3358,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-06T00:03:52+00:00",
+    "text": "100%. Ставь прокси с новым чистым ip. И браузер без отпечатка. И через них только работай",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Инструкция по настройке прокси и браузера.",
+      "keywords": [
+        "прокси",
+        "IP",
+        "браузер",
+        "отпечаток",
+        "настройка"
+      ]
+    }
+  }
+]

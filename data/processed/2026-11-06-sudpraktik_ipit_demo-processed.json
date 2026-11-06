@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2085,
+    "channel_id": "sudpraktik_ipit_demo",
+    "date": "2026-11-06T05:50:16+00:00",
+    "text": "**27 онлайн-сервисов** от команды [ЛИЧНЫЕ НАЛОГИ](https://t.me/persontaxes), которые помогут физическому лицу и самозанятому гражданину. \n \nСохраняйте себе пост, чтобы сервисы всегда находились под рукой!\n\n**1. Личные кабинеты (ЛК)**\n[ЛК физлица](https://lkfl2.nalog.ru/lkfl/login)\n[ЛК самозанятого](https://lknpd.nalog.ru/auth/login)\n**2. ИНН**\n[Получить ИНН](https://service.nalog.ru/zpufl/)\n[Узнать Ваш ИНН](https://service.nalog.ru/static/personal-data.html?svc=inn&from=%2Finn.do)\n[Недействительные ИНН](https://service.nalog.ru/invalid-inn-fl.html)\n**3. Уплата налогов**\n[Налоги, страховые взносы](https://service.nalog.ru/payment/payment-pick.html?payer=fl)\n[Госпошлина](https://service.nalog.ru/static/personal-data.html?svc=gp&from=%2Fpayment%2Fgp.html%3Fpayer%3Dfl)\n[Налоги картой иностранного банка](https://service.nalog.ru/static/personal-data.html?svc=payment-cb&from=%2Fpayment%2Fpayment-cb.html%3Fpayer%3Dfl)\n**4. Налоговые калькуляторы **\n[Патент](https://patent.nalog.ru/)\n[Транспортный налог](https://www.nalog.gov.ru/rn16/service/calc_transport/)\n[Земельный налог и налог на имущество](https://www.nalog.gov.ru/rn16/service/nalog_calc/)\n[Калькулятор страховых взносов](https://www.nalog.gov.ru/rn77/service/ops/)\n[Калькулятор НДФЛ](https://www.nalog.gov.ru/rn77/service/ndflcalc/)\n\n**5. Обратная связь**\n[Запись на приём в инспекцию](https://order.nalog.ru/)\n[Обратиться в налоговую службу](https://www.nalog.gov.ru/rn16/service/obr_fts/)\n[Узнать о жалобе](https://service.nalog.ru/complaints.do)\n**6. Иные сервисы ФНС России**\n[Подтверждение статуса налогового резидента](https://service.nalog.ru/nrez/)\n[Подать декларацию 3-НДФЛ через госуслуги](https://www.gosuslugi.ru/10054/25)\n[Узнать решение по жалобе](https://service.nalog.ru/complaints.do)\n[Выбор подходящего режима налогообложения](https://www.nalog.gov.ru/rn77/service/mp/)\n[Декларация](https://www.nalog.gov.ru/rn77/program/5961249/)\n**7. Справочная информация **\n[Ставки имущественных налогов по регионам](https://www.nalog.gov.ru/rn77/service/tax/)\n[Обязательные письма ФНС России](https://www.nalog.gov.ru/rn77/about_fts/about_nalog/)\n[Частые вопросы](https://www.nalog.gov.ru/rn77/service/kb/)\n[Налоговые споры](https://t.me/nalogi_sud)\n[ЛИЧНЫЕ НАЛОГИ](https://t.me/persontaxes)\n[Налоговый советник](https://t.me/tax_advise)\n \n@persontaxes \n ",
+    "views": 174,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост содержит список онлайн-сервисов для физических лиц и самозанятых граждан.",
+      "keywords": [
+        "онлайн-сервисы",
+        "налоги",
+        "ФНС",
+        "физические лица",
+        "самозанятые"
+      ]
+    }
+  }
+]

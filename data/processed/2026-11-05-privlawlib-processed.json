@@ -20,5 +20,25 @@
         "монография"
       ]
     }
+  },
+  {
+    "id": 6958,
+    "channel_id": "privlawlib",
+    "date": "2026-11-05T06:04:08+00:00",
+    "text": "файл обновлён книжным вариантом",
+    "views": 2382,
+    "forwards": 120,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о том, что файл обновлён книжным вариантом.",
+      "keywords": [
+        "обновление",
+        "файл",
+        "книги"
+      ]
+    }
   }
 ]

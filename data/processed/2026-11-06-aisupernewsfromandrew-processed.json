@@ -1,0 +1,68 @@
+[
+  {
+    "id": 857,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-06T05:57:58+00:00",
+    "text": "**Claude и Codex теперь могут управлять почти любыми программами на ПК**\n\nVercel, создатель Next.js, выпустила опенсорсный инструмент Agent Desktop.\n\nЧто умеет:\n— Нажимать кнопки, заполнять поля, переключаться между окнами и работать с буфером обмена.\n— Управлять обычными приложениями без специальных API и интеграций.\n— Распознавать структуру интерфейса, а не просто угадывать координаты по скриншотам.\n— Использовать около 60 команд — от запуска программ до перетаскивания объектов и проверки результата.\n— Работает на Windows, macOS и Linux.\n\nОткидываемся на кресло и раздаём команды — [тут.](https://github.com/vercel-labs/agent-desktop)\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 39,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Vercel выпустила опенсорсный инструмент Agent Desktop, позволяющий управлять приложениями на ПК.",
+      "keywords": [
+        "Vercel",
+        "Agent Desktop",
+        "управление программами",
+        "опенсорс",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 856,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-06T05:57:32+00:00",
+    "text": "**Забираем 20 мощнейших ИИ-тулз для Claude Opus 5.5 — все лежат в открытом доступе совершенно бесплатно**\n\nС ними можно **создавать анимации, ставить 3D-сцены,** генерить реалистичные спецэффекты и масштабные видеоролики.\n\nСама подборка:\n• [Remotion](https://github.com/remotion-dev/remotion) — создание видео через React;\n• [Remotion Skills](https://github.com/remotion-dev/skills) — готовые навыки для ИИ-агентов по созданию видео;\n• [Anime.js](https://github.com/juliangarnier/anime) — сложные анимации и управление таймлайнами;\n• [Motion](https://github.com/motiondivision/motion) — анимация интерфейсов и переходов;\n• [Manim](https://github.com/ManimCommunity/manim) — анимированные схемы, формулы и объяснения;\n• [Lottie](https://github.com/airbnb/lottie-web) — лёгкие векторные анимации;\n• [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) — создание и редактирование 3D-сцен через Claude;\n• [Three.js](https://github.com/mrdoob/three.js) — 3D-графика и движения камеры;\n• [Three GPU Pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer) — реалистичное освещение и отражения;\n• [Jolt Physics](https://github.com/jrouwe/JoltPhysics) — физика столкновений и движения объектов;\n• [postprocessing](https://github.com/pmndrs/postprocessing) — свечение, размытие и цветокоррекция;\n• [Three.quarks](https://github.com/Alchemist0823/three.quarks) — частицы и визуальные эффекты;\n• [Tweakpane](https://github.com/cocopon/tweakpane) — настройка параметров сцены в реальном времени;\n• [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — визуальные процессы ИИ-генерации;\n• [CosyVoice](https://github.com/QwenAudio/CosyVoice) — озвучка на разных языках;\n• [librosa](https://github.com/librosa/librosa) — анализ музыки и синхронизация анимации с битом;\n• [WhisperX](https://github.com/m-bain/whisperX) — точные субтитры с таймкодами;\n• [OBS Studio](https://github.com/obsproject/obs-studio) — запись экрана;\n• [LosslessCut](https://github.com/mifi/lossless-cut) — быстрый монтаж без потери качества;\n• [FFmpeg](https://github.com/FFmpeg/FFmpeg) — обработка, кодирование и экспорт видео.\n\nСохраняем и используем.\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 40,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.8,
+      "category": "tech",
+      "summary": "Представлен список из 20 бесплатных инструментов для создания анимаций и видеороликов с использованием ИИ.",
+      "keywords": [
+        "ИИ",
+        "инструменты",
+        "анимации",
+        "видео",
+        "бесплатно"
+      ]
+    }
+  },
+  {
+    "id": 855,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-06T05:56:40+00:00",
+    "text": "**Ваше местоположение могут вычислить по звуку из видео или голосового сообщения**\n\nOSINT-исследователи нашли способ деанонимизации с помощью эффекта Доплера. Когда самолёт пролетает мимо, звук его двигателя меняет тон. По этой звуковой кривой можно оценить скорость и расстояние до борта.\n\nЗатем данные сверяют с открытой историей полётов ADS-B и пытаются определить, где находился записывавший. Метод потенциально может пригодиться для слежки и расследований, но пока требует точного времени записи и доступа к огромному архиву авиаперелётов.\n\nА на GitHub уже появился инструмент [DOPPLERGEIST](https://github.com/1337isnot1337/DOPPLERGEIST), который позволяет повторить эту технику самостоятельно. Разработчики позиционируют его как исследовательский проект.\n\nСамо исследование и демонстрация — [тут](https://www.youtube.com/watch?v=UytYrhYLOKI).\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 38,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.9,
+      "category": "tech",
+      "summary": "Исследователи нашли способ определения местоположения по звуку с помощью эффекта Доплера.",
+      "keywords": [
+        "деанонимизация",
+        "эффект Доплера",
+        "слежка",
+        "инструмент",
+        "открытые данные"
+      ]
+    }
+  }
+]
