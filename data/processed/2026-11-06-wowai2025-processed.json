@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 225,
+    "channel_id": "wowai2025",
+    "date": "2026-11-06T14:17:45+00:00",
+    "text": "**ИИ или не ИИ?**\n\nВот это настоящее предательство, и я понимаю!\n\nФильм «Романовы: Преданность и предательство». \n\nhttps://www.kinopoisk.ru/picture/4386120/",
+    "views": 91,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост о фильме без содержательного анализа.",
+      "keywords": []
+    }
+  }
+]

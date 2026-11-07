@@ -1,0 +1,24 @@
+[
+  {
+    "id": 23161,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-07T10:17:23+00:00",
+    "text": "⚡️️️️️️️ДЕЛАЕМ РОЛИК ИЗ ОДНОГО ЗАПРОСА В **CLAUDE** ⚡️\n\nПо одному запросу **Claude** может написать сценарий, сделать озвучку, анимировать сцены и субтитры, и собрать всё в готовый ролик.\n\nЧтобы это заработало, сначала нужно дать **Claude Code** доступ к папке проекта и подключить инструменты для видео и озвучки. В рилсе показываю всю настройку по шагам.\n\nА самое удобное - правки. Пишешь прямо в чате: «Убери первые две секунды и сделай субтитры крупнее» - и Claude вносит изменения в проект.\n\nСохрани, чтобы собрать свой первый ролик 🎬\n\n[#нейросеть](https://vk.ru/search/statuses?q=%23%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8C) [#AI](https://vk.ru/search/statuses?q=%23AI) [#ИИвидео](https://vk.ru/search/statuses?q=%23%D0%98%D0%98%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE) [#нейросети](https://vk.ru/search/statuses?q=%23%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8) [#aitutorial](https://vk.ru/search/statuses?q=%23aitutorial) [#aiконтент](https://vk.ru/search/statuses?q=%23ai%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82) [#aiгенерация](https://vk.ru/search/statuses?q=%23ai%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F) [#seedance](https://vk.ru/search/statuses?q=%23seedance) [#nanobanana](https://vk.ru/search/statuses?q=%23nanobanana) [#claude](https://vk.ru/search/statuses?q=%23claude) [#aiartist](https://vk.ru/search/statuses?q=%23aiartist) #Kling",
+    "views": 310,
+    "forwards": 8,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Инструкция по созданию видео с помощью Claude.",
+      "keywords": [
+        "Claude",
+        "видео",
+        "инструкция",
+        "нейросеть",
+        "автоматизация"
+      ]
+    }
+  }
+]

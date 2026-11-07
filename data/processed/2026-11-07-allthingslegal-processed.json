@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1599,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-07T01:33:44+00:00",
+    "text": "LegalTech вендор Opus собрал мнение 15 практиков о будущем ИИ в арбитраже в небольшой книге.\n\n#reference",
+    "views": 156,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "business",
+      "summary": "LegalTech вендор Opus выпустил книгу с мнением экспертов о будущем ИИ в арбитраже.",
+      "keywords": [
+        "LegalTech",
+        "Opus",
+        "ИИ",
+        "арбитраж",
+        "эксперты"
+      ]
+    }
+  }
+]

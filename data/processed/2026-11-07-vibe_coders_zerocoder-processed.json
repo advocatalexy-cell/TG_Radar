@@ -1,0 +1,137 @@
+[
+  {
+    "id": 3411,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T11:10:05+00:00",
+    "text": "можете завести у них пластик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Запрос о возможности заведения пластика.",
+      "keywords": [
+        "пластик",
+        "завести",
+        "запрос"
+      ]
+    }
+  },
+  {
+    "id": 3410,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T11:09:44+00:00",
+    "text": "так может не за карту забанили, а за регион, или просто у вас стояло автосписание а на карте не было денег? у меня она с начала весны, и все оплаты идут отлично, главное чтобы на карте были деньги для продления подписки, иначе карту банят за два неуспешеых списания, до этого были белорусские карты, но чат и клод их перестали принимать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Обсуждение проблем с банком карты и подпиской на услуги.",
+      "keywords": [
+        "карта",
+        "подписка",
+        "проблемы",
+        "автосписание"
+      ]
+    }
+  },
+  {
+    "id": 3409,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T11:00:49+00:00",
+    "text": "те карты, за которые клод не банит, за эту виртуалку уже был бан",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Обсуждение заблокированных карт в виртуальных играх.",
+      "keywords": [
+        "карты",
+        "бан",
+        "виртуалка",
+        "Клод",
+        "игры"
+      ]
+    }
+  },
+  {
+    "id": 3408,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T10:57:53+00:00",
+    "text": "что по вашему норм варианты?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Неясный запрос без конкретной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3407,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T10:57:02+00:00",
+    "text": "я понял, а норм есть варианты?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3406,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T10:55:24+00:00",
+    "text": "Использую сервис Плати по миру, https://platipomiru.com/?code=FPTGLWBE с весны полет нормальный, чат, клод отлично переваривают виртуальную карту",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователь делится положительным опытом использования сервиса 'Плати по миру'.",
+      "keywords": [
+        "Плати по миру",
+        "виртуальная карта",
+        "опыт использования"
+      ]
+    }
+  },
+  {
+    "id": 3405,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-07T10:47:43+00:00",
+    "text": "Салют друзья, а кто подскажет, с каких карт оплачиваете claude? Буду благодарен!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь спрашивает о способах оплаты сервиса Claude.",
+      "keywords": [
+        " Claude",
+        " оплата",
+        " карты"
+      ]
+    }
+  }
+]
