@@ -30,3 +30,4 @@ desktop.ini
 *.log
 logs/
 backups/
+.radar-run/

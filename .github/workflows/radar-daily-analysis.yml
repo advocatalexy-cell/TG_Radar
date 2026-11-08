@@ -1,0 +1,79 @@
+name: Radar daily analysis
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 18:00 Europe/Moscow
+  workflow_dispatch:
+
+concurrency:
+  group: radar-daily-analysis-master
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Prepare daily input
+        id: prepare
+        run: python scripts/run-cloud-analysis.py prepare
+      - name: Install digest dependencies
+        if: steps.prepare.outputs.ready == 'true'
+        run: python -m pip install openai python-dotenv
+      - name: Analyze and compose
+        if: steps.prepare.outputs.ready == 'true'
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt-file: .github/prompts/radar-analysis.md
+          output-file: .radar-run/agent-report.md
+          sandbox: workspace-write
+          safety-strategy: drop-sudo
+          model: ${{ vars.RADAR_CODEX_MODEL }}
+          codex-args: '["-c", "mcp_servers.sqlite.enabled=false"]'
+      - name: Validate output
+        if: steps.prepare.outputs.ready == 'true'
+        run: python scripts/run-cloud-analysis.py validate
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: radar-daily-result
+          include-hidden-files: true
+          path: |
+            .radar-run/
+          retention-days: 14
+          if-no-files-found: warn
+
+  save:
+    needs: analyze
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: master
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: radar-daily-result
+          path: .radar-run
+      - name: Save result to master
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/run-cloud-analysis.py save
