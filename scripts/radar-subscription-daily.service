@@ -1,0 +1,10 @@
+[Unit]
+Description=Radar daily subscription analysis and verified delivery to master
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/lib/radar/run-subscription-daily.sh
+TimeoutStartSec=180min
+UMask=0077
