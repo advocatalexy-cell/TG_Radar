@@ -1,0 +1,24 @@
+[
+  {
+    "id": 860,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-08T08:08:37+00:00",
+    "text": "Собрал детальный гайд про то, как обходить блокировку Claude.\n\nСудя по слухам сегодня ночью, OpenAI так же начал усиленно раздавать баны (пока что в Китае), схема сработает для ChatGPT тоже.\n\nРолик уже на YouTube: https://www.youtube.com/watch?v=S51GVl6h7JE\n\nВ комментарии под этим постом пошаговый план из ролика",
+    "views": 28,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Пост о гайде по обходу блокировки ChatGPT и Claude.",
+      "keywords": [
+        "блокировка",
+        "Claude",
+        "OpenAI",
+        "ChatGPT",
+        "гайд"
+      ]
+    }
+  }
+]

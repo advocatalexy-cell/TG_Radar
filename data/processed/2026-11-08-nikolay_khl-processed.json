@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1178,
+    "channel_id": "nikolay_khl",
+    "date": "2026-11-08T07:17:28+00:00",
+    "text": "Собрал детальный гайд про то, как обходить блокировку Claude.\n\nСудя по слухам сегодня ночью, OpenAI так же начал усиленно раздавать баны (пока что в Китае), схема сработает для ChatGPT тоже.\n\nРолик уже на YouTube: https://www.youtube.com/watch?v=S51GVl6h7JE\n\nВ комментарии под этим постом пошаговый план из ролика",
+    "views": 2766,
+    "forwards": 134,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.7,
+      "category": "tech",
+      "summary": "Опубликован гайд по обходу блокировок AI-сервисов, включая Claude и ChatGPT.",
+      "keywords": [
+        "блокировка",
+        "Claude",
+        "ChatGPT",
+        "гайд",
+        "OpenAI"
+      ]
+    }
+  }
+]

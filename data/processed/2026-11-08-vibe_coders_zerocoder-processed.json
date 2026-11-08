@@ -1,0 +1,63 @@
+[
+  {
+    "id": 3430,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-08T06:00:50+00:00",
+    "text": "Обычная почта и всё норм 👌🏻",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение о состоянии почты.",
+      "keywords": [
+        "почта",
+        "норм",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 3429,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-08T06:00:29+00:00",
+    "text": "Кто рекомендует?😄 Это самое не рекомендуемое действие - рега в Клод через Гугл",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит несущественную информацию о регистрации в сервисе.",
+      "keywords": [
+        "рекомендации",
+        "регистрация",
+        "Клод",
+        "Гугл"
+      ]
+    }
+  },
+  {
+    "id": 3420,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-08T01:53:52+00:00",
+    "text": "Всем привет, может кто-то подскажет о том как защити данные пользователя в нашей системе от взлома и утечки ? Про плагин от Cloudflare знаю, проверяем но хотел бы послушать реальный опыт, буду рад благодарен за помощь и сотрудничеству",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пользователи обсуждают защиту данных в системе.",
+      "keywords": [
+        "защита данных",
+        "пользователь",
+        "взлом"
+      ]
+    }
+  }
+]
