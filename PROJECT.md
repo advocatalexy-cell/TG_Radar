@@ -80,7 +80,7 @@ Radar – это конвейер из пяти шагов. На каждом ш
 - **Язык:** Python 3.12 (venv).
 - **Сбор:** Telethon (MTProto-клиент).
 - **Публикация:** Telegram Bot API.
-- **Фильтрация:** OpenAI API. **Анализ:** Codex CLI на VPS через подписку ChatGPT, модель `gpt-6.1-sol`.
+- **Фильтрация:** OpenAI API, `gpt-6-luna`, полный текст поста; модель задается `OPENAI_FILTER_MODEL`. **Анализ:** Codex CLI на VPS через подписку ChatGPT, модель `gpt-6.1-sol`.
 - **Хранение:** файлы JSON и Markdown в репозитории; вспомогательная загрузка в SQLite (`scripts/load-to-sqlite.py`).
 - **Расписание:** cron для сбора и публикации, systemd timer для анализа на VPS.
 - **Секреты:** переменные окружения и `.env` (не в git).

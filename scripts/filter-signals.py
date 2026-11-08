@@ -39,7 +39,7 @@ UNDIGESTED_LOOKBACK_DAYS = 30
 # прогон на часы без единой строки в логе — с таймаутом худший случай
 # ограничен и ошибки становятся видны.
 openai_client = OpenAI(timeout=30.0, max_retries=2)
-OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_MODEL = os.environ.get("OPENAI_FILTER_MODEL", os.environ.get("OPENAI_MODEL", "gpt-6-luna"))
 
 SYSTEM_PROMPT = """Ты — аналитический фильтр для новостного радара.
 Получаешь текст поста из Telegram-канала и возвращаешь JSON:
@@ -57,15 +57,21 @@ SYSTEM_PROMPT = """Ты — аналитический фильтр для но�
 def classify_post(text: str) -> dict:
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": text[:2000]},
+        {"role": "user", "content": text},
     ]
     try:
-        response = openai_client.chat.completions.create(
-            model=OPENAI_MODEL,
-            max_tokens=256,
-            messages=messages,
-            response_format={"type": "json_object"},
-        )
+        options = {
+            "model": OPENAI_MODEL,
+            "messages": messages,
+            "response_format": {"type": "json_object"},
+        }
+        if OPENAI_MODEL.startswith("gpt-6"):
+            options.update(max_completion_tokens=512, reasoning_effort="none")
+        else:
+            options["max_tokens"] = 256
+        response = openai_client.chat.completions.create(**options)
+        if response.choices[0].finish_reason != "stop":
+            raise ValueError("Classification response was not completed")
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"  classify_post: запрос к LLM не удался ({e}) — пост помечен как non-signal",
