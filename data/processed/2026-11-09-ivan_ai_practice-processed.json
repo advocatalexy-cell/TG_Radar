@@ -1,0 +1,44 @@
+[
+  {
+    "id": 320,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-11-09T12:08:09+00:00",
+    "text": "✅ Собрал **«YouMind на практике»**\n\nВ PDF 8 страниц от первой доски до подключения Духа в Telegram.",
+    "views": 244,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор сообщает о PDF-инструкции по использованию YouMind и подключению Духа в Telegram.",
+      "keywords": [
+        "YouMind",
+        "PDF",
+        "инструкция",
+        "Telegram"
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-11-09T11:41:26+00:00",
+    "text": "🎬 [**Вышел новый ролик про YouMind**](https://youtu.be/4XfLHKIV_5c?utm_source=telegram&utm_medium=social&utm_campaign=youmind)\n\nПоказываю, как я собираю статьи, видео и свои заметки на одной доске, а потом делаю из них сценарий и слайды. Доска удобная. Можно сохранить даже один нужный абзац из статьи, добавить свою пометку и использовать его, когда сядете за черновик.\n\nЕщё показываю, как найти свою презентацию через Telegram и настроить утреннюю сводку по теме, за которой следите. К посту приложил схему доски и промпты, чтобы вы могли повторить это на своём проекте.\n\n▶️ [**Посмотреть ролик**](https://youtu.be/4XfLHKIV_5c?utm_source=telegram&utm_medium=social&utm_campaign=youmind)\n\nВыпуск сделан при поддержке YouMind.",
+    "views": 314,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "ai",
+      "summary": "Рекламный ролик показывает возможности YouMind для сбора материалов, подготовки сценариев и презентаций, а также настройки сводок.",
+      "keywords": [
+        "YouMind",
+        "презентации",
+        "сценарии",
+        "сводки"
+      ]
+    }
+  }
+]
