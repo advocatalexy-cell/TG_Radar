@@ -40,5 +40,25 @@
         "Клуб Цивилистов"
       ]
     }
+  },
+  {
+    "id": 4028,
+    "channel_id": "privlaw_journal",
+    "date": "2026-11-09T17:06:45+00:00",
+    "text": "**1 декабря в Москве** состоится [**презентация сборника**](http://civilistclub.ru/event/20261201?utm_source=tg&utm_medium=organic&utm_campaign=offline)** **[**по **](http://civilistclub.ru/event/20261201?utm_source=tg&utm_medium=organic&utm_campaign=offline)[**банкротству**](http://civilistclub.ru/event/20261201?utm_source=tg&utm_medium=organic&utm_campaign=offline).\n\n📌 **Вход – свободный**, присоединяйтесь:\n\nhttp://civilistclub.ru/event/20261201?utm_source=tg&utm_medium=organic&utm_campaign=offline",
+    "views": 497,
+    "forwards": 11,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "business",
+      "summary": "В Москве анонсирована бесплатная презентация сборника по банкротству.",
+      "keywords": [
+        "банкротство",
+        "презентация",
+        "мероприятие"
+      ]
+    }
   }
 ]

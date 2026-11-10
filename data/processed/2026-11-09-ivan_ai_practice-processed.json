@@ -40,5 +40,25 @@
         "сводки"
       ]
     }
+  },
+  {
+    "id": 321,
+    "channel_id": "ivan_ai_practice",
+    "date": "2026-11-09T15:32:01+00:00",
+    "text": "⚠️ Если пропустили выпуск про YouMind, вот его начало. Можно посмотреть прямо здесь.\n\nВыпуск сделан при поддержке YouMind.\n\n[**Смотреть полный выпуск на YouTube**](https://youtu.be/4XfLHKIV_5c?utm_source=telegram&utm_medium=social&utm_campaign=youmind)",
+    "views": 428,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Рекламный анонс выпуска о YouMind со ссылкой на YouTube.",
+      "keywords": [
+        "YouMind",
+        "выпуск",
+        "YouTube"
+      ]
+    }
   }
 ]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": 18655,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-10T11:11:03+00:00",
+    "text": "👣 **Разминка для стоп на каждый день**\n\nСтопы делают тысячи шагов, а внимания получают меньше всего. Повторяйте упражнения вместе с видео.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 1449,
+    "forwards": 16,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Пост предлагает ежедневно выполнять упражнения для стоп вместе с видео.",
+      "keywords": [
+        "упражнения",
+        "стопы",
+        "здоровье"
+      ]
+    }
+  },
+  {
+    "id": 18654,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-10T04:54:11+00:00",
+    "text": "🆘 **Что делать, если вы сильно подавились**\n\nКогда дыхательные пути перекрыты, счёт идёт на секунды, и важно действовать без паники. Показываем порядок действий, который стоит знать каждому.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 2973,
+    "forwards": 50,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "other",
+      "summary": "Пост напоминает о порядке действий при сильном удушье из-за перекрытия дыхательных путей.",
+      "keywords": [
+        "удушье",
+        "первая помощь",
+        "дыхательные пути",
+        "подавился"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1603,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-10T13:35:08+00:00",
+    "text": "Один из ведущих стратегов юридического рынка, Mark Cohen, написал книгу «Pieces of a Larger Whole. Integrating Law, Business, Technology, and Humanity Amidst Constant Change». Книгу выложил в свободный доступ. \n\n#reference",
+    "views": 113,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "business",
+      "summary": "Стратег юридического рынка Mark Cohen опубликовал в свободном доступе книгу о взаимосвязи права, бизнеса, технологий и общества.",
+      "keywords": [
+        "юридический рынок",
+        "Mark Cohen",
+        "книга",
+        "технологии",
+        "свободный доступ"
+      ]
+    }
+  }
+]

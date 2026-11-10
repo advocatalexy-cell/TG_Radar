@@ -1,0 +1,42 @@
+[
+  {
+    "id": 55,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T08:56:14+00:00",
+    "text": "https://fixupx.com/ArtificialAnlys/status/2119953570430881946?a=pYSa0_laRasB1iJFCKw&s=20",
+    "views": 1703,
+    "forwards": 22,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка без текста поста; оценить его содержание невозможно.",
+      "keywords": [
+        "ссылка",
+        "пост",
+        "нет текста"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T08:56:14+00:00",
+    "text": "https://fixupx.com/emollick/status/2119918307457577163?a=0uUhx7IJQ2Nf6mf4PW0&s=35\n\n> 25000 agents\n\n😳",
+    "views": 1736,
+    "forwards": 35,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Пост содержит лишь фразу «25 000 агентов» без контекста и пояснений.",
+      "keywords": [
+        "агенты",
+        "25 000",
+        "без контекста"
+      ]
+    }
+  }
+]
