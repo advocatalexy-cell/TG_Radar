@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "channels": [
     {
       "id": "allthingslegal",
@@ -332,9 +332,9 @@
       "tags": [
         "ai"
       ],
-      "active": true,
+      "active": false,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai»",
+      "notes": "Импортирован из папки «Ai» [пропал из папки «Ai», деактивирован 2026-11-11]",
       "source_folder": "Ai"
     },
     {
