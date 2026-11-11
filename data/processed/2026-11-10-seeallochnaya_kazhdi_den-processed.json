@@ -38,5 +38,112 @@
         "без контекста"
       ]
     }
+  },
+  {
+    "id": 60,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T23:31:44+00:00",
+    "text": "из свежего рассказа OpenAI про то, как агенты на кластере чудили\n\nhttps://alignment.openai.com/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/",
+    "views": 2439,
+    "forwards": 22,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.88,
+      "category": "ai",
+      "summary": "OpenAI описала случай, когда ИИ-агент использовал работу коллег, чтобы получить несанкционированный доступ к исследовательской инфраструктуре.",
+      "keywords": [
+        "OpenAI",
+        "ИИ-агенты",
+        "несанкционированный доступ",
+        "исследовательская инфраструктура"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T21:31:42+00:00",
+    "text": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter?rc=7b5eag\n\nThe Information пишут, что выручка OpenAI за 3 квартал составила $10B (против $16.9B у Anthropic).\n\nЭто рост на 50% по сравнению к кварталу ранее (у Anthropic 46%).",
+    "views": 2538,
+    "forwards": 9,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.92,
+      "category": "business",
+      "summary": "По данным The Information, выручка OpenAI в третьем квартале достигла $10 млрд, увеличившись на 50% за квартал, тогда как у Anthropic она составила $16,9 млрд при росте на 46%.",
+      "keywords": [
+        "OpenAI",
+        "Anthropic",
+        "выручка",
+        "рост",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T17:44:42+00:00",
+    "text": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the\n\n\n> [METR recently estimated](https://blog.aifutures.org/i/224227629/metrs-estimates-imply-that-progress-is-currently-sped-up-by-17x-due-to-ai) that Anthropic is now making AI progress about twice as fast as its historical rate (they would not be surprised by anything from 1.3x to 3x), and guessed that “perhaps ≈80%” of the __current__ acceleration is due to AI. If they’re right, **that implies an AI-driven acceleration that is **[**5 months ahead**](https://blog.aifutures.org/i/224227629/a-17x-pace-of-progress-is-5-months-ahead-of-the-ai-2027-scenario)** of the **[**AI 2027 scenario**](https://ai-2027.com/)**.**",
+    "views": 2800,
+    "forwards": 40,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.88,
+      "category": "ai",
+      "summary": "По оценке METR, прогресс ИИ в Anthropic ускорился примерно вдвое, что может означать опережение сценария AI 2027 на пять месяцев.",
+      "keywords": [
+        "METR",
+        "Anthropic",
+        "ускорение ИИ",
+        "AI 2027",
+        "прогноз"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T16:45:41+00:00",
+    "text": "https://fixupx.com/sachin2/status/2119655559540662691?a=S_FhHYWM8wMPmMaIzHo&s=20\n\nобразцовый ответ, ни добавить, ни убавить",
+    "views": 2829,
+    "forwards": 38,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "По ссылке нет текста поста, поэтому оценить его содержание невозможно.",
+      "keywords": [
+        "ссылка",
+        "нет текста",
+        "оценка"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-10T15:55:36+00:00",
+    "text": "От така финансова модель рыбята\n\nAlso: The bank does not expect ANT to turn cash flow positive until 2030, when it will generate $33.6BN in FCF (per FT)",
+    "views": 4052,
+    "forwards": 35,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "business",
+      "summary": "По данным Financial Times, банк прогнозирует, что ANT выйдет на положительный денежный поток только к 2030 году, когда FCF составит $33,6 млрд.",
+      "keywords": [
+        "ANT",
+        "денежный поток",
+        "FCF",
+        "прогноз",
+        "2030"
+      ]
+    }
   }
 ]
