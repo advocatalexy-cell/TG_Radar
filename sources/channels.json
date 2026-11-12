@@ -15,7 +15,7 @@
         "law"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "LegalTech: новости права и технологий",
       "source_folder": "Lawyer"
     },
@@ -543,7 +543,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -571,7 +571,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -977,7 +977,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -991,7 +991,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -1033,7 +1033,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 1.0,
       "notes": "Импортирован из папки «Lawyer»",
       "source_folder": "Lawyer"
     },
@@ -1551,7 +1551,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": 1.0,
+      "signal_ratio": null,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     },
@@ -1579,7 +1579,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.0,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     },
@@ -1593,7 +1593,7 @@
         "ai"
       ],
       "active": true,
-      "signal_ratio": 0.8,
+      "signal_ratio": null,
       "source_folder": "Ai",
       "notes": "Импортирован из папки «Ai» (sync)"
     },
@@ -1607,7 +1607,7 @@
         "lawyer"
       ],
       "active": true,
-      "signal_ratio": null,
+      "signal_ratio": 0.25,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     }

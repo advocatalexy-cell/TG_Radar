@@ -1,0 +1,44 @@
+[
+  {
+    "id": 3523,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-12T04:53:45+00:00",
+    "text": "https://www.anthropic.com/legal/supported-regions    Белый список регионов Антропик",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "ai",
+      "summary": "Anthropic опубликовала список регионов, в которых доступны её продукты и сервисы.",
+      "keywords": [
+        "Anthropic",
+        "поддерживаемые регионы",
+        "доступность",
+        "география",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 3522,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-12T03:47:45+00:00",
+    "text": "Всем здравствуйте",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие без новостной или аналитической информации.",
+      "keywords": [
+        "приветствие",
+        "общение",
+        "без содержания"
+      ]
+    }
+  }
+]

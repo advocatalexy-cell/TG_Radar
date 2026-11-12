@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1659,
+    "channel_id": "cognitivniynadzor",
+    "date": "2026-11-12T07:01:49+00:00",
+    "text": "Ну, как обычно 🤷‍♂️",
+    "views": 3351,
+    "forwards": 13,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": [
+        "шум",
+        "без контекста",
+        "нет новости"
+      ]
+    }
+  }
+]
