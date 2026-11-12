@@ -332,10 +332,11 @@
       "tags": [
         "ai"
       ],
-      "active": false,
+      "active": true,
       "signal_ratio": null,
-      "notes": "Импортирован из папки «Ai» [пропал из папки «Ai», деактивирован 2026-11-11]",
-      "source_folder": "Ai"
+      "notes": "Импортирован из папки «Ai» [пропал из папки «Ai», деактивирован 2026-11-11] [подключен и закреплен вручную 2026-11-12]",
+      "source_folder": "Ai",
+      "pinned_active": true
     },
     {
       "id": "vibe_coders_zerocoder",

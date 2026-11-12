@@ -175,6 +175,7 @@ async def main() -> None:
             for ch in data["channels"]:
                 if (ch.get("source_folder") == title_text
                         and ch["id"] not in current_ids
+                        and not ch.get("pinned_active", False)
                         and ch.get("active", True)):
                     ch["active"] = False
                     today = date.today().isoformat()
