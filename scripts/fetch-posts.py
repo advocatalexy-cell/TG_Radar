@@ -17,6 +17,7 @@ import json
 import os
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 from telethon import TelegramClient
@@ -100,12 +101,12 @@ async def fetch_channel(client: TelegramClient, channel: dict, min_id: int) -> l
 async def fetch_channel_by_date(client: TelegramClient, channel: dict, target: date) -> list[dict]:
     posts = []
     # Начинаем с конца целевого дня, идём назад; останавливаемся, когда уходим раньше target
-    offset_dt = datetime(target.year, target.month, target.day, tzinfo=timezone.utc) + timedelta(days=1)
+    offset_dt = datetime(target.year, target.month, target.day, tzinfo=ZoneInfo('Europe/Moscow')) + timedelta(days=1)
     try:
         async for msg in client.iter_messages(channel["url"], offset_date=offset_dt):
             if not isinstance(msg, Message) or not msg.text:
                 continue
-            msg_date = msg.date.astimezone(timezone.utc).date()
+            msg_date = msg.date.astimezone(ZoneInfo('Europe/Moscow')).date()
             if msg_date < target:
                 break
             if msg_date == target:
@@ -152,6 +153,10 @@ async def main() -> None:
     async with TelegramClient(SESSION, API_ID, API_HASH) as client:
         await client.start(phone=PHONE)
         for channel in channels:
+            out_file = RAW_DIR / f"{date_label}-{channel["id"]}-raw.json"
+            if out_file.exists():
+                print(f"  {channel["id"]}: raw file already exists, preserving {out_file.name}")
+                continue
             if backfill:
                 posts = await fetch_channel_by_date(client, channel, target_date)
             else:

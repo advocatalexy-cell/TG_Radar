@@ -14,7 +14,12 @@ trap alert_on_error ERR
 
 git_pull_retry
 
-DATE=$(date -u +%Y-%m-%d)
+DATE=$(TZ=Europe/Moscow date -d yesterday +%F)
+# The November 12 issue was already published before the schedule migration.
+if [[ "$DATE" < "2026-11-13" ]]; then
+  echo "Skipping previously published transition day: $DATE"
+  exit 0
+fi
 DIGEST_FILE="digests/${DATE}-digest.md"
 
 # Облачный Routine иногда коммитит дайджест позже, чем срабатывает этот cron —

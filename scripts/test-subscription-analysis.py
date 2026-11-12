@@ -17,6 +17,12 @@ spec.loader.exec_module(module)
 
 
 class SubscriptionTests(unittest.TestCase):
+    def test_nightly_day_uses_moscow_midnight(self):
+        before = datetime(2026, 11, 12, 20, 59, tzinfo=timezone.utc)
+        after = datetime(2026, 11, 12, 21, 5, tzinfo=timezone.utc)
+        self.assertEqual(module.scheduled_day(before), "2026-11-11")
+        self.assertEqual(module.scheduled_day(after), "2026-11-12")
+
     def test_folder_selection_does_not_filter_signals(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)
@@ -57,7 +63,7 @@ class SubscriptionTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             result = Path(temporary) / 'result.json'
             result.write_text(json.dumps({'date': '2026-11-07', 'dry_run': True}), encoding='utf-8')
-            with patch.object(module, 'RESULT', result), patch.object(module, 'ZoneInfo', return_value=timezone.utc), patch.object(module, 'git') as git:
+            with patch.object(module, 'RESULT', result), patch.object(module, 'git') as git:
                 with self.assertRaisesRegex(RuntimeError, 'test or historical'):
                     module.save()
                 git.assert_not_called()
@@ -76,7 +82,7 @@ class SubscriptionTests(unittest.TestCase):
             module.git(delivery, 'commit', '-m', 'seed')
             module.git(delivery, 'push', 'origin', 'HEAD:master')
             commit = module.git(delivery, 'rev-parse', 'HEAD').stdout.strip()
-            day = datetime.now(timezone.utc).date().isoformat()
+            day = module.scheduled_day()
             workspace = home / 'runs' / 'test' / 'context'
             plan = {'analysts': [{'path': f'data/analysis/{day}-legal.md'}], 'digest': f'digests/{day}-digest.md'}
             paths = [plan['analysts'][0]['path'], plan['digest']]
@@ -89,7 +95,7 @@ class SubscriptionTests(unittest.TestCase):
                                           'workspace': str(workspace), 'paths': paths, 'source_commit': commit,
                                           'model': module.MODEL, 'counts': {'analyst-legal': 1}}), encoding='utf-8')
             with patch.object(module, 'HOME', home), patch.object(module, 'RESULT', result), \
-                 patch.object(module, 'DELIVERY', delivery), patch.object(module, 'ZoneInfo', return_value=timezone.utc), \
+                 patch.object(module, 'DELIVERY', delivery), \
                  patch.object(module, 'load_plan', return_value=plan), \
                  patch.object(module, 'source_urls', return_value={'https://t.me/law/1'}), patch.object(module, 'log'):
                 module.save()

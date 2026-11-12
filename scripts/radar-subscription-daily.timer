@@ -1,8 +1,8 @@
 [Unit]
-Description=Radar daily analysis at 18:00 Moscow time
+Description=Radar previous-day analysis at 00:20 Moscow time
 
 [Timer]
-OnCalendar=*-*-* 18:00:00 Europe/Moscow
+OnCalendar=*-*-* 00:20:00 Europe/Moscow
 Persistent=true
 Unit=radar-subscription-daily.service
 

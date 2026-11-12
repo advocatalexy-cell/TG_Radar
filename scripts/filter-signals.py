@@ -18,6 +18,7 @@ import os
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -134,7 +135,9 @@ def process_file(raw_file: Path, date_str: str, mode: str, processed_max_ids: di
             continue
 
         if mode == "date":
-            post_date = post.get("date", "")[:10]  # "YYYY-MM-DD"
+            post_date = (datetime.fromisoformat(post["date"].replace("Z", "+00:00"))
+                         .astimezone(ZoneInfo("Europe/Moscow")).date().isoformat()
+                         if post.get("date") else "")
             if post_date and post_date != date_str:
                 continue
         else:  # undigested

@@ -1,7 +1,7 @@
 """Radar on a private VPS: ChatGPT login only, parallel Codex analysis, safe Git delivery."""
 import argparse
 from concurrent.futures import ThreadPoolExecutor
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import importlib.util
 import json
 import os
@@ -20,6 +20,11 @@ RESULT = HOME / 'result.json'
 CODEX = HOME / '.local/bin/codex'
 MODEL = 'gpt-6.1-sol'
 URL = re.compile(r'https://t\.me/[a-zA-Z0-9_]+/\d+')
+
+
+def scheduled_day(now=None):
+    now = now or datetime.now(ZoneInfo("Europe/Moscow"))
+    return (now.astimezone(ZoneInfo("Europe/Moscow")).date() - timedelta(days=1)).isoformat()
 
 
 def log(message):
@@ -242,8 +247,8 @@ def analyze(day, dry_run=False):
 def save():
     result = json.loads(RESULT.read_text(encoding='utf-8'))
     day = date.fromisoformat(result['date']).isoformat()
-    today = datetime.now(ZoneInfo('Europe/Moscow')).date().isoformat()
-    if result.get('dry_run') or day != today:
+    expected_day = scheduled_day()
+    if result.get('dry_run') or day != expected_day:
         raise RuntimeError('Refusing delivery of a test or historical result')
     if result['status'] == 'skipped':
         log(f'{day}: already exists; nothing to deliver')
@@ -297,12 +302,12 @@ if __name__ == '__main__':
     os.umask(0o077)
     parser = argparse.ArgumentParser()
     parser.add_argument('phase', choices=['analyze', 'save'])
-    parser.add_argument('--date', default=datetime.now(ZoneInfo('Europe/Moscow')).date().isoformat())
+    parser.add_argument('--date', default=scheduled_day())
     parser.add_argument('--dry-run', action='store_true')
     args = parser.parse_args()
     try:
         if args.phase == 'analyze':
-            if args.date != datetime.now(ZoneInfo('Europe/Moscow')).date().isoformat() and not args.dry_run:
+            if args.date != scheduled_day() and not args.dry_run:
                 raise ValueError('Historical analysis requires --dry-run')
             analyze(args.date, args.dry_run)
         else:
