@@ -152,6 +152,45 @@ def group_payload(workspace, day, instruction):
     return groups, expected if folders else None
 
 
+
+def empty_channels_footer(workspace, day):
+    """Account for every active source from config, independently of model output."""
+    config = json.loads((workspace / 'sources/channels.json').read_text(encoding='utf-8'))
+    folders = {}
+    active = with_posts = missing = 0
+    for channel in config['channels']:
+        if not channel.get('active'):
+            continue
+        active += 1
+        channel_id = channel['id']
+        if not re.fullmatch(r'[a-zA-Z0-9_]+', channel_id):
+            raise ValueError('Unsafe channel id')
+        path = workspace / f'data/processed/{day}-{channel_id}-processed.json'
+        posts = json.loads(path.read_text(encoding='utf-8')) if path.exists() else None
+        if posts is not None and not isinstance(posts, list):
+            raise ValueError(f'Expected an array in {path.name}')
+        if posts:
+            with_posts += 1
+            continue
+        missing += posts is None
+        folder = channel.get('source_folder') or 'Без папки'
+        folders.setdefault(folder, []).append((channel, posts is None))
+    lines = ['## Каналы без публикаций в собранных данных', '',
+             f'Активных каналов: {active} | С публикациями: {with_posts} | '
+             f'Без публикаций в данных: {active - with_posts - missing} | Нет данных: {missing}', '',
+             'Список составлен по данным за дату выпуска. Отсутствие данных отмечено отдельно.']
+    if not folders:
+        lines += ['', 'У всех активных каналов есть публикации в данных за день.']
+    for folder in sorted(folders, key=str.casefold):
+        rows = sorted(folders[folder], key=lambda row: row[0].get('name', row[0]['id']).casefold())
+        lines += ['', f'### Папка «{normalize(folder).strip()}» ({len(rows)})', '']
+        for channel, absent in rows:
+            name = normalize(channel.get('name') or channel['id']).strip()
+            suffix = ' – нет данных за дату' if absent else ''
+            lines.append(f"- {name} – [@{channel['id']}](https://t.me/{channel['id']}){suffix}")
+    return '\n'.join(lines)
+
+
 def analyze(day, dry_run=False):
     day = date.fromisoformat(day).isoformat()
     # cron and manual invocations share one advisory lock.
@@ -234,6 +273,8 @@ def analyze(day, dry_run=False):
         section = (workspace / analyst['path']).read_text(encoding='utf-8').strip()
         if section not in text:
             raise ValueError(f'Composer changed or omitted section {analyst["name"]}')
+    text = text.rstrip() + '\n\n---\n\n' + empty_channels_footer(workspace, day) + '\n'
+    digest.write_text(text, encoding='utf-8')
     if git(SOURCE, 'status', '--porcelain').stdout.strip():
         raise RuntimeError('Source checkout was modified unexpectedly')
     result = {'date': day, 'status': 'ready', 'dry_run': dry_run, 'source_commit': commit,
