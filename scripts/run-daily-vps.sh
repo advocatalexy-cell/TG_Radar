@@ -7,13 +7,13 @@ mkdir -p data/raw
 set -a; source <(sed 's/\r$//' .env); set +a
 source scripts/vps-common.sh
 trap alert_on_error ERR
-git_pull_retry --rebase
 DATE=$(TZ=Europe/Moscow date -d yesterday +%F)
 # The November 12 issue was already published before the schedule migration.
 if [[ "$DATE" < "2026-11-13" ]]; then
   echo "Skipping previously published transition day: $DATE"
   exit 0
 fi
+git_pull_retry --rebase
 if [ -f "digests/${DATE}-digest.md" ]; then
   echo "Digest already exists for $DATE; preserving collected data."
   exit 0

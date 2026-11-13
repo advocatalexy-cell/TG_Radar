@@ -15,6 +15,8 @@ git_pull_retry() {
     echo "git pull $* не удался (попытка ${i}/${attempts})" >&2
     [ "$i" -lt "$attempts" ] && sleep "$delay"
   done
+  RADAR_ERROR_CONTEXT="обновление репозитория: git pull $* (3 неудачные попытки)"
+  git status --short >&2
   return 1
 }
 
@@ -37,5 +39,5 @@ send_alert() {
 # из имени упавшего скрипта, команды и даты и шлёт через send_alert.
 alert_on_error() {
   local exit_code=$?
-  send_alert "🔴 Radar: сбой в $(basename "$0") — шаг «${BASH_COMMAND}», дата $(date -u +%Y-%m-%d), exit=${exit_code}"
+  send_alert "🔴 Radar: сбой в $(basename "$0") — шаг «${RADAR_ERROR_CONTEXT:-$BASH_COMMAND}», дата $(TZ=Europe/Moscow date +%Y-%m-%d), exit=${exit_code}"
 }
