@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4302,
+    "channel_id": "svsarbash",
+    "date": "2026-11-13T18:10:37+00:00",
+    "text": "Завтра,\nВ Римке.\nВ 12.\n\n#ВНА",
+    "views": 291,
+    "forwards": 5,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только время и место без пояснения события.",
+      "keywords": [
+        "Римка",
+        "завтра",
+        "12:00"
+      ]
+    }
+  }
+]

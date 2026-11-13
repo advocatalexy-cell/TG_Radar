@@ -1,0 +1,1274 @@
+[
+  {
+    "id": 3621,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:49:47+00:00",
+    "text": "Увидела сегодня Промто - там безлимит клод и кодекс по подписке, обещают что аккаунт верифицированный и можно без впн юзать\n\nПробовал кто?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор спрашивает об опыте использования подписки на безлимитные Claude и Codex с обещанием доступа без VPN.",
+      "keywords": [
+        "Промто",
+        "Claude",
+        "Codex",
+        "подписка",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 3617,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:37:22+00:00",
+    "text": "оплатил подписку на джпт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пользователь сообщает, что оплатил подписку на ChatGPT.",
+      "keywords": [
+        "ChatGPT",
+        "подписка",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 3616,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:37:14+00:00",
+    "text": "просто у меня валялись на эпл айди щас 20 долларов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что на его Apple ID оставалось 20 долларов.",
+      "keywords": [
+        "Apple ID",
+        "20 долларов",
+        "баланс"
+      ]
+    }
+  },
+  {
+    "id": 3615,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:37:01+00:00",
+    "text": "а что лучше отдать клоду",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пользователь спрашивает, что лучше поручить Claude.",
+      "keywords": [
+        "Claude",
+        "вопрос",
+        "поручение"
+      ]
+    }
+  },
+  {
+    "id": 3614,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:36:57+00:00",
+    "text": "смотрю опыт у тебя есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь задаёт вопрос об опыте, но не сообщает новостей или значимых данных.",
+      "keywords": [
+        "вопрос",
+        "опыт",
+        "общение"
+      ]
+    }
+  },
+  {
+    "id": 3613,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:36:51+00:00",
+    "text": "в чем лучше использовать кодекс и джпт?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Пользователь задаёт общий вопрос о том, для каких задач лучше использовать Codex и ChatGPT.",
+      "keywords": [
+        "Codex",
+        "ChatGPT",
+        "вопрос",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 3612,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T17:36:41+00:00",
+    "text": "Можешь пожалуйста сказать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь задаёт вопрос без новостного или аналитического содержания.",
+      "keywords": [
+        "вопрос",
+        "просьба",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3611,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:11:05+00:00",
+    "text": "кто знает где можно купить вериф для клода",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор спрашивает, где купить верификацию для Claude.",
+      "keywords": [
+        "Claude",
+        "верификация",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 3610,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:10:45+00:00",
+    "text": "всем привет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Приветствие без новостного содержания.",
+      "keywords": [
+        "приветствие",
+        "шум",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 3609,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:10:25+00:00",
+    "text": "Мне возвращали, меня забанили я подписку через гугл пэй отменил и вернули.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что отменил подписку через Google Pay и получил возврат после блокировки.",
+      "keywords": [
+        "блокировка",
+        "подписка",
+        "Google Pay"
+      ]
+    }
+  },
+  {
+    "id": 3608,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:08:45+00:00",
+    "text": "Прокси ICP США использую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткое сообщение о том, что автор использует прокси ICP США.",
+      "keywords": [
+        "прокси",
+        "ICP",
+        "США"
+      ]
+    }
+  },
+  {
+    "id": 3607,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:06:33+00:00",
+    "text": "А какой vps используете?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор спрашивает, каким VPS пользуется собеседник.",
+      "keywords": [
+        "VPS",
+        "вопрос",
+        "хостинг"
+      ]
+    }
+  },
+  {
+    "id": 3606,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:06:04+00:00",
+    "text": "Ни разу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "шум",
+        "нет данных",
+        "короткий текст"
+      ]
+    }
+  },
+  {
+    "id": 3605,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:05:49+00:00",
+    "text": "Таким способом деньги возвращаются в случае блокировок?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.03,
+      "category": "other",
+      "summary": "Пользователь задаёт вопрос о возврате денег при блокировках, но не приводит новость или содержательные данные.",
+      "keywords": [
+        "деньги",
+        "возврат",
+        "блокировки"
+      ]
+    }
+  },
+  {
+    "id": 3604,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:05:28+00:00",
+    "text": "Интере получилось",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации: приведена лишь незаконченная фраза «Интере получилось».",
+      "keywords": [
+        "Интер",
+        "незаконченная фраза",
+        "нет контекста"
+      ]
+    }
+  },
+  {
+    "id": 3603,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:05:24+00:00",
+    "text": "Верификация приходила?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит короткий вопрос о том, приходило ли уведомление о верификации.",
+      "keywords": [
+        "верификация",
+        "уведомление",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 3602,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:05:16+00:00",
+    "text": "Да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только подтверждение без значимой информации.",
+      "keywords": [
+        "подтверждение",
+        "ответ",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3601,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T16:01:27+00:00",
+    "text": "У тебя сервер также на Казахстане?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь спрашивает, находится ли сервер собеседника в Казахстане.",
+      "keywords": [
+        "сервер",
+        "Казахстан",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 3600,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T15:59:43+00:00",
+    "text": "Да, с прокси",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Короткое подтверждение с упоминанием прокси без новостного содержания.",
+      "keywords": [
+        "прокси",
+        "подтверждение",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 3599,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T15:49:10+00:00",
+    "text": "а сейчас испльзуешь клод? Если да, ток как? через vps или?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор спрашивает, использует ли собеседник Claude и каким способом.",
+      "keywords": [
+        "Claude",
+        "VPS",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 3598,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T15:21:41+00:00",
+    "text": "Да можна карту виртуальную привязать к эпл пэй и гугл пэй, и потом уже оплатить клода через них, по крайней мере я так делал с телефона и норм было.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным опытом оплаты Claude через виртуальную карту, привязанную к Apple Pay или Google Pay.",
+      "keywords": [
+        "Claude",
+        "виртуальная карта",
+        "Apple Pay",
+        "Google Pay"
+      ]
+    }
+  },
+  {
+    "id": 3597,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:54:24+00:00",
+    "text": "нет, карта KZ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое уточнение о карте Казахстана без дополнительного контекста.",
+      "keywords": [
+        "карта",
+        "KZ",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 3596,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:50:46+00:00",
+    "text": "Антифрод запрашивает часто",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткий фрагмент без контекста: сказано лишь, что антифрод часто что-то запрашивает.",
+      "keywords": [
+        "антифрод",
+        "запросы",
+        "часто"
+      ]
+    }
+  },
+  {
+    "id": 3595,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:50:15+00:00",
+    "text": "Говорят KYC пройти надо чтобы 5х оплатить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "finance",
+      "summary": "Сообщается о необходимости пройти KYC для оплаты в размере 5x, но контекст и подтверждение отсутствуют.",
+      "keywords": [
+        "KYC",
+        "оплата",
+        "верификация"
+      ]
+    }
+  },
+  {
+    "id": 3594,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:49:47+00:00",
+    "text": "Вирт?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно контекста: пост состоит из одного слова.",
+      "keywords": [
+        "неясно",
+        "контекст",
+        "вирт"
+      ]
+    }
+  },
+  {
+    "id": 3593,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:49:44+00:00",
+    "text": "А карта какая",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткий вопрос о карте без контекста и новостной информации.",
+      "keywords": [
+        "карта",
+        "вопрос",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 3592,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:49:40+00:00",
+    "text": "Интересно)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "реакция",
+        "мнение",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3591,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:49:32+00:00",
+    "text": "5x",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": [
+        "шум",
+        "нет контекста",
+        "неясно"
+      ]
+    }
+  },
+  {
+    "id": 3590,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:48:27+00:00",
+    "text": "Какой тариф?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь спрашивает, какой тариф действует.",
+      "keywords": [
+        "тариф",
+        "вопрос",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 3589,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:48:18+00:00",
+    "text": "Я попросил, меня снесли)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что его удалили после просьбы.",
+      "keywords": [
+        "удаление",
+        "просьба",
+        "личное"
+      ]
+    }
+  },
+  {
+    "id": 3588,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:42:32+00:00",
+    "text": "не еще, но если попросят - не проблема, маркеты же есть",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор говорит, что пока этого не делал, но готов выполнить просьбу; отмечает наличие маркетплейсов.",
+      "keywords": [
+        "готовность",
+        "маркетплейсы",
+        "просьба"
+      ]
+    }
+  },
+  {
+    "id": 3587,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:42:11+00:00",
+    "text": "Просили?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только вопрос «Просили?» и не сообщает значимой информации.",
+      "keywords": [
+        "вопрос",
+        "нет данных",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 3586,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:42:09+00:00",
+    "text": "Вериф",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только незавершённое слово и не передаёт содержательной информации.",
+      "keywords": [
+        "неполный текст",
+        "нет контекста",
+        "информация отсутствует"
+      ]
+    }
+  },
+  {
+    "id": 3585,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:42:07+00:00",
+    "text": "И как",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит значимой информации.",
+      "keywords": [
+        "короткое сообщение",
+        "нет контекста",
+        "нет события"
+      ]
+    }
+  },
+  {
+    "id": 3584,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:41:57+00:00",
+    "text": "сам юзаю*",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткая фраза без новостного или аналитического содержания.",
+      "keywords": [
+        "личное мнение",
+        "без контекста",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 3583,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:41:42+00:00",
+    "text": "Имею ввиду про vps знаю, сам юзай, кейсов бана не слышал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор советует самостоятельно пользоваться VPS и отмечает, что не слышал о случаях блокировки.",
+      "keywords": [
+        "VPS",
+        "совет",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 3582,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:41:13+00:00",
+    "text": "Либо тебе кто-то не до конца поведал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза без достаточного контекста и проверяемой информации.",
+      "keywords": [
+        "контекст",
+        "неполная информация",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 3581,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:41:00+00:00",
+    "text": "Возможно ты путаешь немного",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор указывает на возможную путаницу, не приводя подробностей.",
+      "keywords": [
+        "уточнение",
+        "путаница",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 3580,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:49+00:00",
+    "text": "Даже без впн",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фраза без контекста, не содержащая проверяемой новости или значимой информации.",
+      "keywords": [
+        "без контекста",
+        "фрагмент",
+        "неясный смысл"
+      ]
+    }
+  },
+  {
+    "id": 3579,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:47+00:00",
+    "text": "И с окна сервера его используют",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фраза без контекста не содержит проверяемой новости или значимого утверждения.",
+      "keywords": [
+        "сервер",
+        "окно"
+      ]
+    }
+  },
+  {
+    "id": 3578,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:36+00:00",
+    "text": "Про то что клод устанавливают на сервер",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "tech",
+      "summary": "Пост упоминает установку Claude на сервер, но не содержит деталей или значимой новости.",
+      "keywords": [
+        "Claude",
+        "сервер",
+        "установка"
+      ]
+    }
+  },
+  {
+    "id": 3577,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:28+00:00",
+    "text": "Я слышал только",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит новостной или аналитической информации.",
+      "keywords": [
+        "неполный текст",
+        "нет контекста",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3576,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:22+00:00",
+    "text": "Их много",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Пост содержит только неопределённое утверждение, что их много.",
+      "keywords": [
+        "много",
+        "неопределённость",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 3575,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:40:19+00:00",
+    "text": "Серьёзно?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только короткую эмоциональную реакцию без новостной информации.",
+      "keywords": [
+        "реакция",
+        "эмоция",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 3574,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:36:51+00:00",
+    "text": "А кто-то тут есть кто пользуется клодом из РФ без vps? Я слышал что как-то можно приобрести Team аккаунт, есть тут кто шарит?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Автор спрашивает, как пользоваться Claude из России без VPS и где приобрести Team-аккаунт.",
+      "keywords": [
+        "Claude",
+        "Team-аккаунт",
+        "Россия",
+        "VPS"
+      ]
+    }
+  },
+  {
+    "id": 3573,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:31:14+00:00",
+    "text": "Ничего себе, таких кейсов не слышал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост выражает удивление, но не содержит фактов или новостной информации.",
+      "keywords": [
+        "удивление",
+        "реакция",
+        "нет контекста"
+      ]
+    }
+  },
+  {
+    "id": 3572,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:07:29+00:00",
+    "text": "Многих даже через впс сервера банят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Короткое утверждение о блокировках пользователей серверов VPS без пояснений и контекста.",
+      "keywords": [
+        "VPS",
+        "серверы",
+        "блокировки"
+      ]
+    }
+  },
+  {
+    "id": 3571,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:07:02+00:00",
+    "text": "Теперь страдает простой люд)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая эмоциональная реплика без конкретной новости или контекста.",
+      "keywords": [
+        "люди",
+        "эмоция",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 3570,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:06:55+00:00",
+    "text": "Жалко, что сети китайцев по типу Кими подросли на том, что просто копировали ответы у главных западных конкурентов а создатели оригинала в ответ на это массовое копирование включили жесткую защиту и начали блокировать доступ всем подряд",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "ai",
+      "summary": "Автор утверждает, что китайские ИИ-модели, в том числе Kimi, развивались на копировании ответов западных конкурентов, после чего те ужесточили защиту и стали блокировать доступ.",
+      "keywords": [
+        "Kimi",
+        "китайские ИИ",
+        "копирование ответов",
+        "защита моделей",
+        "блокировка доступа"
+      ]
+    }
+  },
+  {
+    "id": 3569,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:05:15+00:00",
+    "text": "И разрастется еще больше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фраза без контекста утверждает, что нечто станет еще больше.",
+      "keywords": [
+        "рост",
+        "увеличение",
+        "неопределенность"
+      ]
+    }
+  },
+  {
+    "id": 3568,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:05:00+00:00",
+    "text": "После выхода на биржу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза не содержит новости или содержательного утверждения.",
+      "keywords": [
+        "биржа",
+        "выход",
+        "фрагмент"
+      ]
+    }
+  },
+  {
+    "id": 3567,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:04:54+00:00",
+    "text": "Или антропик просто монаполизирует рынок",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "ai",
+      "summary": "Автор задаётся вопросом, не монополизирует ли Anthropic рынок.",
+      "keywords": [
+        "Anthropic",
+        "монополизация",
+        "рынок"
+      ]
+    }
+  },
+  {
+    "id": 3566,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:04:43+00:00",
+    "text": "Не знаю когда сможет хоть что-то сравниться с клодом, но надеюсь это произойдёт в ближайшем будущем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.35,
+      "category": "ai",
+      "summary": "Автор надеется, что в ближайшем будущем появится модель, способная конкурировать с Claude.",
+      "keywords": [
+        "Claude",
+        "ИИ",
+        "конкуренция"
+      ]
+    }
+  },
+  {
+    "id": 3565,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T14:00:27+00:00",
+    "text": "Согласен",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Краткое выражение согласия без содержательной информации.",
+      "keywords": [
+        "согласие",
+        "мнение",
+        "реакция"
+      ]
+    }
+  },
+  {
+    "id": 3564,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T13:13:42+00:00",
+    "text": "написал в личку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор сообщает, что написал кому-то в личные сообщения.",
+      "keywords": [
+        "личные сообщения",
+        "переписка",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 3559,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T12:46:14+00:00",
+    "text": "Салют. Ну в общем прошло около 6 месяцев, 2 из которых я сидел на Клоде, остальное время на Codex. Я хотел ребят у вас спросить мнение, у вас так же? \n\n1. Ну это супер огромная разница в пользу Клода, даже на модели Опус он работает и справляется с задачей намного лучше, продумывает логику, дизайн, качество верстки и кода на 10 голов выше по сравнению с той же Астрой. \n\n2. Лимиты, я на подписке Клода 5x делал за месяц 4-5 сложных проектов с админкой, логикой, подключением всех API и платежек, никогда не упираясь в недельные лимиты. \n\n3. Кодекс я брал и за 100$, и за 200 (сейчас юзаю), бл, я сделал 3 новые страницы на сайте + изменил пару блоков, пару правок по SEO и все, недельный лимит пуст, это пздц. Логика и дизайн - супер плохо, учитывая что я юзаю платные CLI от того же 21st где компоненты уже готовы, просто возьми код, подгони под дизайн систему и вставь. \n\nЧитал в чате просто, что юзай кодекс, если клод банят, но это совсем разные уровни работы, исключительно по моему опыту работы. У Вас как? Есть ли более сильные альтернативы Клоду?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.76,
+      "category": "ai",
+      "summary": "Автор сравнивает Claude и Codex по качеству генерации кода и расходу лимитов, отдавая заметное предпочтение Claude.",
+      "keywords": [
+        "Claude",
+        "Codex",
+        "генерация кода",
+        "лимиты",
+        "сравнение моделей"
+      ]
+    }
+  },
+  {
+    "id": 3558,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T12:19:26+00:00",
+    "text": "Я использую прокси ICP США и уже 2 месяца не банят, до этого стабильно банили.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает, что после перехода на прокси ICP с американским IP его аккаунт не блокируют уже два месяца.",
+      "keywords": [
+        "прокси",
+        "ICP",
+        "США",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 3554,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T08:35:35+00:00",
+    "text": "Вариант переезда ещё есть)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткое упоминание о возможности переезда без контекста.",
+      "keywords": [
+        "переезд",
+        "возможность",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 3552,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T06:24:01+00:00",
+    "text": "В блокировку даже такие попадают",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.25,
+      "category": "other",
+      "summary": "Автор удивляется, что под блокировку попадают даже такие объекты или материалы.",
+      "keywords": [
+        "блокировка",
+        "ограничения",
+        "удивление"
+      ]
+    }
+  },
+  {
+    "id": 3551,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T06:23:49+00:00",
+    "text": "Привет, сейчас урезают эти возможности",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор без контекста утверждает, что некие возможности сейчас урезают.",
+      "keywords": [
+        "урезание",
+        "возможности",
+        "неясный контекст"
+      ]
+    }
+  },
+  {
+    "id": 3546,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T01:02:21+00:00",
+    "text": "Салют, а кто может знает про возможность покупки места или приглашения в Claude Team? Слышал что аккаунты Team обычно не банят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор ищет возможность купить место или приглашение в Claude Team и спрашивает о риске блокировки аккаунта.",
+      "keywords": [
+        "Claude Team",
+        "покупка доступа",
+        "приглашение",
+        "блокировка аккаунта"
+      ]
+    }
+  },
+  {
+    "id": 3545,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T00:21:17+00:00",
+    "text": "Также нужен начинающий reels maker и еще один проект сделать небольшой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "business",
+      "summary": "Ищут начинающего монтажёра Reels и исполнителя для небольшого проекта.",
+      "keywords": [
+        "вакансия",
+        "Reels",
+        "монтаж",
+        "проект"
+      ]
+    }
+  },
+  {
+    "id": 3544,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-13T00:19:45+00:00",
+    "text": "Ищу человека для создания голосового мультиагентного AI-ассистента.\n\nЯ хочу общаться голосом с главным AI-агентом через iPhone, обсуждаю задачи, а он распределяет их между другими агентами на более дешёвых моделях OpenAI. Вся система должна работать на моём MacBook Pro, включая интеграцию с Codex, выполнение задач и контроль расходов на токены.\n\nКто может помочь и объяснить как с этим работать, я оплачу если кому то нужно потренироваться или что то в этом роде",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.22,
+      "category": "ai",
+      "summary": "Автор ищет специалиста для настройки голосового мультиагентного AI-ассистента на MacBook и готов оплатить помощь.",
+      "keywords": [
+        "AI-ассистент",
+        "мультиагентная система",
+        "голосовое управление",
+        "Codex"
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 61,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-13T16:23:49+00:00",
+    "text": "https://www.lesswrong.com/posts/uxsDuWWHNTpKrsF6P/looping-a-transformer-increases-no-cot-capabilities-more",
+    "views": 1978,
+    "forwards": 25,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.84,
+      "category": "ai",
+      "summary": "Исследование показывает, что повторный прогон трансформера повышает его способности решать задачи без цепочки рассуждений.",
+      "keywords": [
+        "трансформеры",
+        "повторный прогон",
+        "без CoT",
+        "способности ИИ",
+        "исследование"
+      ]
+    }
+  }
+]
