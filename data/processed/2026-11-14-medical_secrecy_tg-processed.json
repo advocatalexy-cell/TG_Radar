@@ -1,0 +1,87 @@
+[
+  {
+    "id": 18681,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-14T17:11:06+00:00",
+    "text": "😮 **Зачем китайцы втирают «звёздочку» между пальцами**\n\nКопеечный бальзам из аптечки с неожиданным применением. Смотрите, что это даёт.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 2089,
+    "forwards": 75,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Пост тизерно обещает рассказать о необычном применении бальзама «Звёздочка», но не сообщает сути.",
+      "keywords": [
+        "бальзам",
+        "Звёздочка",
+        "Китай",
+        "здоровье",
+        "тизер"
+      ]
+    }
+  },
+  {
+    "id": 18680,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-14T11:11:01+00:00",
+    "text": "🥛 **Полезное миндальное молоко**\n\nГотовится дома из орехов и воды, без добавок из магазина. Показываем весь процесс.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3161,
+    "forwards": 50,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Пост предлагает рецепт домашнего миндального молока из орехов и воды.",
+      "keywords": [
+        "миндальное молоко",
+        "рецепт",
+        "орехи",
+        "вода"
+      ]
+    }
+  },
+  {
+    "id": 18679,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-14T08:11:04+00:00",
+    "text": "❗️ **Зарядку делают миллионы**\n\nПростая последовательность, которая разошлась по всему миру. Повторяйте её вместе с видео.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3559,
+    "forwards": 122,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Рекламный пост предлагает повторять простую зарядку по видео.",
+      "keywords": [
+        "зарядка",
+        "упражнения",
+        "видео"
+      ]
+    }
+  },
+  {
+    "id": 18678,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-14T06:11:02+00:00",
+    "text": "☕️ **Почему не стоит часто пить чай и кофе**\n\nПривычные напитки влияют на сон, давление и усвоение железа. Смотрите, где проходит разумная граница.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3913,
+    "forwards": 29,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Пост анонсирует материал о влиянии чая и кофе на сон, давление и усвоение железа, но не приводит конкретных данных или выводов.",
+      "keywords": [
+        "чай",
+        "кофе",
+        "сон",
+        "давление",
+        "железо"
+      ]
+    }
+  }
+]

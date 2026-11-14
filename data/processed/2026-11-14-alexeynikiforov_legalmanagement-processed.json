@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2500,
+    "channel_id": "alexeynikiforov_legalmanagement",
+    "date": "2026-11-14T17:21:57+00:00",
+    "text": "Уже скоро выйдет запись нашего третьего диалога. На этого раз мы поговорим о ... Впрочем, если вы можете читать ТГ - значит, можете и открыть [ссылку на Youtube](https://youtu.be/NDV3I2ZYy_w). Уже скоро.",
+    "views": 349,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Анонс скорого выхода записи третьего диалога на YouTube без содержательных подробностей.",
+      "keywords": [
+        "анонс",
+        "YouTube",
+        "диалог"
+      ]
+    }
+  }
+]

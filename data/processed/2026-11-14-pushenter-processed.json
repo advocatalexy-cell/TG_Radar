@@ -1,0 +1,68 @@
+[
+  {
+    "id": 13978,
+    "channel_id": "pushenter",
+    "date": "2026-11-14T18:00:28+00:00",
+    "text": "**🤟**** Топовые видеокарты NVIDIA резко подешевели** — после ухода Дженсена Хуанга RTX 5090 потеряла в цене **20%**, а RTX 5080 — **16%**.\n\nКожаная куртка, оказывается, входила в наценку.\n\n@PushEnter",
+    "views": 1564,
+    "forwards": 33,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "tech",
+      "summary": "После ухода Дженсена Хуанга цены на видеокарты NVIDIA RTX 5090 и RTX 5080 снизились на 20% и 16% соответственно.",
+      "keywords": [
+        "NVIDIA",
+        "RTX 5090",
+        "RTX 5080",
+        "цены",
+        "Дженсен Хуанг"
+      ]
+    }
+  },
+  {
+    "id": 13977,
+    "channel_id": "pushenter",
+    "date": "2026-11-14T11:57:03+00:00",
+    "text": "**👉**** GTA VI можно будет выиграть за просмотр стримов** — Twitch и Kick разыграют копии игры среди зрителей.\n\nО розыгрыше на Twitch рассказал глава сервиса на TwitchCon. С **19 по 30 ноября** в рамках GTA VI Launch Celebration каждый день будут разыгрывать по одной копии **Ultimate Edition**.\n\nУ Kick размах побольше — **10 000 копий** среди тех, кто посмотрит стрим дольше трёх часов.\n\nПервый гринд в GTA VI — ещё до установки.\n\n@PushEnter",
+    "views": 2604,
+    "forwards": 21,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.76,
+      "category": "tech",
+      "summary": "Twitch и Kick проведут розыгрыши копий GTA VI: Twitch — по одной Ultimate Edition ежедневно с 19 по 30 ноября, Kick — 10 000 копий среди зрителей, смотревших стримы более трёх часов.",
+      "keywords": [
+        "GTA VI",
+        "Twitch",
+        "Kick",
+        "розыгрыш",
+        "стримы"
+      ]
+    }
+  },
+  {
+    "id": 13976,
+    "channel_id": "pushenter",
+    "date": "2026-11-14T06:24:26+00:00",
+    "text": "**📀**** Cloudflare открыла код браузера для ИИ-агентов** — Kitesurf написан на Rust и, по заявленным замерам, ест в 7 раз меньше памяти, чем Chromium.\n\n🔤Открывает страницы, выполняет JavaScript и делает скриншоты без Chromium под капотом.\n🔤Работает без вкладок, тем и расширений. Агенту оставили только то, что нужно для работы со страницами.\n🔤Нагружает процессор почти в 4 раза меньше Chromium.\n🔤Подключается через Puppeteer, Playwright и MCP-клиенты.\n\nЗабираем на [GitHub](https://github.com/cloudflare/kitesurf).\n\nНаконец-то браузер, в котором нельзя открыть 47 вкладок «на потом».\n\n@PushEnter",
+    "views": 2966,
+    "forwards": 96,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.88,
+      "category": "tech",
+      "summary": "Cloudflare представила браузерный движок Kitesurf на Rust для ИИ-агентов, который, по заявленным данным, потребляет значительно меньше памяти и процессорных ресурсов, чем Chromium.",
+      "keywords": [
+        "Cloudflare",
+        "Kitesurf",
+        "ИИ-агенты",
+        "Rust",
+        "Chromium"
+      ]
+    }
+  }
+]
