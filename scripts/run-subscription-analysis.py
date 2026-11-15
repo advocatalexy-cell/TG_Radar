@@ -240,19 +240,31 @@ def analyze(day, dry_run=False):
         target.parent.mkdir(parents=True, exist_ok=True)
         instruction = (workspace / f'.claude/agents/{analyst["name"]}.md').read_text(encoding='utf-8')
         groups, expected = group_payload(workspace, day, instruction)
+        instruction += ('\nИсключение из правил полноты и заголовков для канала docsllm: '
+                        'оцени исходный текст каждого сообщения. Пропускай сообщения, если без '
+                        'недоступного контекста нельзя понять конкретное событие, инструмент, проблему '
+                        'или опыт, включая реакции, благодарности и ссылки без пояснения. '
+                        'Конкретные вопросы и опыт сохраняй. Не выводи заголовки вроде '
+                        '«Пост не содержит содержательной информации»: содержательному сообщению '
+                        'дай конкретный заголовок по тексту, иначе пропусти. Для остальных каналов '
+                        'сохраняй все посты. Это правило имеет приоритет над инструкцией роли.')
         prompt = (common + '\nИнструкция роли (упоминания сохранения файла заменены возвратом Markdown):\n'
                   + instruction + '\nЗадание из run-analysis:\n' + analyst['task']
                   + '\nПри конфликте категорий с заданием следуй правилам состава каналов в инструкции роли.\n'
                   + ('\nНиже полный вход по нужной папке, уже отобранный по active/source_folder, '
-                     'без отбора по сигналам. Верни ВСЕ посты: ровно один пункт со ссылкой на каждый URL. '
+                     'без отбора по сигналам. Верни все посты, кроме несодержательных сообщений docsllm по правилу выше. '
                      if expected is not None else '\nНиже вход по всем активным каналам. Выполни отбор по инструкции своей роли. ')
-                  + 'Для заголовка используй summary, если она есть. Ничего не пропускай.\n'
+                  + 'Для заголовка используй summary, если она есть, кроме неконкретных заголовков docsllm.\n'
                   + json.dumps(groups, ensure_ascii=False))
         content = invoke(analyst['name'], prompt, workspace, target)
         check_markdown(content, allowed, '## ')
         actual = set(URL.findall(content))
-        if expected is not None and actual != expected:
-            raise ValueError(f'{analyst["name"]}: post coverage mismatch, missing={len(expected - actual)}, extra={len(actual - expected)}')
+        if expected is not None:
+            optional = {url for url in expected if url.startswith('https://t.me/docsllm/')}
+            missing = expected - optional - actual
+            extra = actual - expected
+            if missing or extra:
+                raise ValueError(f'{analyst["name"]}: post coverage mismatch, missing={len(missing)}, extra={len(extra)}')
         return analyst['name'], len(actual)
 
     # Each worker is a separate Codex session, launched concurrently.
@@ -269,6 +281,7 @@ def analyze(day, dry_run=False):
                   + '\nВерни только готовый дайджест Markdown; вставь секции без изменений. '
                   'Полное содержимое секций передано ниже:\n\n' + complete_sections, workspace, digest)
     check_markdown(text, allowed, f'# Дайджест {day}')
+    check_markdown(text, set(URL.findall(complete_sections)), f'# Дайджест {day}')
     for analyst in plan['analysts']:
         section = (workspace / analyst['path']).read_text(encoding='utf-8').strip()
         if section not in text:
