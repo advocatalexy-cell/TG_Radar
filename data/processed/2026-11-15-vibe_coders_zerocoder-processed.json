@@ -1,0 +1,642 @@
+[
+  {
+    "id": 3736,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T20:04:34+00:00",
+    "text": "Вот это как так, зайцы заблокировали? И что нужно было сделать, чтобы до такого дошло? Что-то в первый раз слышу... Сейчас что, если не блокируешь российский аккаунт уже не можешь считаться серьезной ИИ-компанией?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.58,
+      "category": "ai",
+      "summary": "Автор удивляется блокировке российского аккаунта ИИ-компанией и ставит под вопрос давление на компании, не ограничивающие российских пользователей.",
+      "keywords": [
+        "ИИ-компания",
+        "блокировка",
+        "российский аккаунт",
+        "ограничения",
+        "давление"
+      ]
+    }
+  },
+  {
+    "id": 3730,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T16:21:09+00:00",
+    "text": "Парни, продаю парсер за 3 доллара, система ищет бизнесы по стране/ городам без сайта, работает по всему миру, если вам интересно пишите в лс",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "business",
+      "summary": "Автор рекламирует парсер для поиска компаний без сайта по городам и странам.",
+      "keywords": [
+        "реклама",
+        "парсер",
+        "поиск компаний",
+        "бизнесы"
+      ]
+    }
+  },
+  {
+    "id": 3729,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T14:31:59+00:00",
+    "text": "Всем привет, пишу сайты и crm систему(для контроля других проектов) \nХочу добавить в проект подключение к телеграм, для контроля арбитража. \nСам так же начинаю арбитраж и пришла идея( добавить в crm контроль арбитража подключается основа, и уже с основы идёт добавление других ссылок и ботов те к которым идёт основа) \nИспользую antigravity, vsCode. \nИспользовал zcode но заблокировали(закрыли) \n\nЕсли ли более опытные вайбкодеры",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор ищет опытных вайбкодеров, чтобы обсудить интеграцию Telegram и контроль арбитража в CRM.",
+      "keywords": [
+        "CRM",
+        "Telegram",
+        "арбитраж",
+        "вайбкодинг"
+      ]
+    }
+  },
+  {
+    "id": 3719,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T11:14:13+00:00",
+    "text": "Еще раз повторю. \nВаша проблема элементарная. \nГугл про нее знает все. \n\nНа этом давайте закроем тему",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор завершает обсуждение и утверждает, что ответ на проблему можно найти в Google.",
+      "keywords": [
+        "Google",
+        "проблема",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 3718,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T11:06:33+00:00",
+    "text": "Можем мы отнести совет от более опытных специалистов к другому методу? Я ведь сюда пришел не за тем, чтобы за меня код написали, а просто получить совет от опытного человека. А параллельно изучал в Гугле вопрос, чтобы можно было разные источники рассмотреть. Разве перебор нескольких методов в наше время считается ленью?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор уточняет, что искал совета опытных специалистов и сравнивал разные источники, а не просил написать код.",
+      "keywords": [
+        "совет",
+        "опытные специалисты",
+        "поиск информации",
+        "методы"
+      ]
+    }
+  },
+  {
+    "id": 3717,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T11:04:25+00:00",
+    "text": "Меня просто немного поражает уровень мышления нынешней молодежи. \nНе хочу быть таким категоричным, как предыдущий комментатор, но в чем-то я с ним солидарен.\nСовет будет немного другим. \nВключайте голову и отбросьте лень. \nЕсли что-то не получается, пробуйте по-другому. До тех пор, пока не получится.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор призывает молодежь мыслить самостоятельно и не сдаваться при трудностях.",
+      "keywords": [
+        "молодежь",
+        "совет",
+        "настойчивость"
+      ]
+    }
+  },
+  {
+    "id": 3716,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T11:00:56+00:00",
+    "text": "На всех устройствах по-разному отображается доступ, у кого-то открывается, у кого-то нет. Единого решения я не нашел, т. к. все основные решения, которые посоветовали в гугле, не сработали,  поэтому и написал сюда. Если вопрос показался глупым, есть полное право не отвечать на него и жить своей жизнью, я на вас не обижусь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор просит помочь решить проблему с нестабильным доступом на разных устройствах.",
+      "keywords": [
+        "доступ",
+        "устройства",
+        "проблема",
+        "помощь"
+      ]
+    }
+  },
+  {
+    "id": 3715,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:58:06+00:00",
+    "text": "Лень просто",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации или новости.",
+      "keywords": [
+        "лень",
+        "нет содержания",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 3714,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:57:41+00:00",
+    "text": "Да у вас же элементарный случай. И никогда не поверю, что гугл не знает. \nВ инете можно найти инфу как ядерный реактор собрать.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор утверждает, что в интернете можно найти инструкции по сборке ядерного реактора.",
+      "keywords": [
+        "Google",
+        "интернет",
+        "ядерный реактор"
+      ]
+    }
+  },
+  {
+    "id": 3713,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:56:25+00:00",
+    "text": "Искал инфу в инете, но дельного ничего не нашел, потому и написал сюда",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что не нашёл полезной информации в интернете и обратился сюда.",
+      "keywords": [
+        "поиск информации",
+        "интернет",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 3712,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:55:41+00:00",
+    "text": "Я чет них..я не понимаю. Гугл запретили что ли?\nТам же ответы на все вопросы. \nЯ понимаю обсудить какие-то сложные и спорные моменты с другими людьми. Устроить дискуссию и выслушать разные мнения. Хотя при желании можно и так любую инфу накопать.\nНо это уже простите ту мач.\nСкоро будете спрашивать почему после нажатия кнопки «Удалить» данные удаляются. Нельзя ли сделать, чтобы удалялись, но оставались?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор раздражён вопросами, ответы на которые, по его мнению, можно найти самостоятельно.",
+      "keywords": [
+        "поиск информации",
+        "Google",
+        "дискуссия"
+      ]
+    }
+  },
+  {
+    "id": 3710,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:15:30+00:00",
+    "text": "Обращайся",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только просьбу обратиться к адресату, без новостной или аналитической информации.",
+      "keywords": [
+        "обращение",
+        "просьба",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3709,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:15:23+00:00",
+    "text": "Спасибо большое, добрый человек",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткая благодарность без новостного или аналитического содержания.",
+      "keywords": [
+        "благодарность",
+        "общение",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 3708,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:15:14+00:00",
+    "text": "и посмотри, какое правило заблокировало вход",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Пользователь просит выяснить, какое правило заблокировало вход.",
+      "keywords": [
+        "вход",
+        "блокировка",
+        "правило"
+      ]
+    }
+  },
+  {
+    "id": 3707,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:15:04+00:00",
+    "text": "или зайди в панель Cloudflare вкладка Security потом Events",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "tech",
+      "summary": "Инструкция по поиску событий безопасности в панели Cloudflare.",
+      "keywords": [
+        "Cloudflare",
+        "Security",
+        "Events"
+      ]
+    }
+  },
+  {
+    "id": 3706,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:14:37+00:00",
+    "text": "Ты если не с рф, попробуй без впн зайти",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост предлагает проверить доступ к сервису без VPN, если пользователь находится не в России.",
+      "keywords": [
+        "VPN",
+        "доступ",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 3703,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:14:06+00:00",
+    "text": "Это стандартная заглушка Cloudflare (защита от ботов) рбычно она вылетает из-за включенного VPN, прокси или слишком строгих настроек безопасности на стороне хостинга/домена",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "В сообщении объясняется, что заглушка Cloudflare может появиться из-за VPN, прокси или настроек безопасности сайта.",
+      "keywords": [
+        "Cloudflare",
+        "VPN",
+        "прокси",
+        "защита от ботов"
+      ]
+    }
+  },
+  {
+    "id": 3702,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:13:46+00:00",
+    "text": "Брат",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое обращение без новостного содержания.",
+      "keywords": [
+        "обращение",
+        "брат",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 3701,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:13:15+00:00",
+    "text": "Я надеялся мамок ты перерос уже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Оскорбительная реплика без новостной или аналитической информации.",
+      "keywords": [
+        "оскорбление",
+        "личное сообщение",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 3699,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:12:59+00:00",
+    "text": "Ну не",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "нет содержания",
+        "шум",
+        "прочее"
+      ]
+    }
+  },
+  {
+    "id": 3695,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:11:38+00:00",
+    "text": ".",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": []
+    }
+  },
+  {
+    "id": 3693,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:11:03+00:00",
+    "text": "Стрелочки кидать все умеют",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Короткая фраза без содержательной новости или аналитики.",
+      "keywords": [
+        "стрелочки",
+        "фраза",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 3692,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:10:56+00:00",
+    "text": "Примитивно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.01,
+      "category": "other",
+      "summary": "Одно слово без контекста и содержательной информации.",
+      "keywords": [
+        "примитивно",
+        "мнение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 3690,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:10:30+00:00",
+    "text": "Надеюсь, ты когда нибудь достигнешь желанного",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пожелание без новостного или аналитического содержания.",
+      "keywords": [
+        "пожелание",
+        "личное сообщение",
+        "без новостей"
+      ]
+    }
+  },
+  {
+    "id": 3688,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:10:21+00:00",
+    "text": "Если тебе не дают это ещё не значит что всем не дают",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткая реплика о том, что отсутствие чего-либо у одного человека не означает, что этого нет у других.",
+      "keywords": [
+        "доступ",
+        "личный опыт",
+        "обобщение"
+      ]
+    }
+  },
+  {
+    "id": 3686,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:09:53+00:00",
+    "text": "На твоем языке если говорить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь уточняет, на каком языке говорить.",
+      "keywords": [
+        "язык",
+        "уточнение",
+        "общение"
+      ]
+    }
+  },
+  {
+    "id": 3685,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:09:45+00:00",
+    "text": "Братанчик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "обращение",
+        "разговорное"
+      ]
+    }
+  },
+  {
+    "id": 3684,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:09:43+00:00",
+    "text": "Хоуми",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только слово «Хоуми» и не сообщает значимой информации.",
+      "keywords": [
+        "Хоуми"
+      ]
+    }
+  },
+  {
+    "id": 3682,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:09:19+00:00",
+    "text": "Заблуждаешься тогда)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая реплика без фактического содержания.",
+      "keywords": [
+        "мнение",
+        "возражение",
+        "реплика"
+      ]
+    }
+  },
+  {
+    "id": 3680,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:08:57+00:00",
+    "text": "Дружище, по себе людей не судят, будь добрее к миру",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Общее назидательное высказывание о доброте и отношении к людям.",
+      "keywords": [
+        "доброта",
+        "отношение к людям",
+        "совет"
+      ]
+    }
+  },
+  {
+    "id": 3676,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T10:07:42+00:00",
+    "text": "Я понимаю, хочется подушнить, но все мы с чего то начинали, и я попросил по человечески совета, а не чтобы ты свое мнение обо мне высказывал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор просит дать совет без личных оценок и критики.",
+      "keywords": [
+        "просьба",
+        "совет",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 3674,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-15T09:26:11+00:00",
+    "text": "Друзья, помогите пожалуйста🙏 Буквально первые сайты создаю, натыкаюсь на такую проблему при открытии сайта. Кто сталкивался, как решали?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Автор просит помощи с проблемой при открытии создаваемого сайта, но не сообщает подробностей.",
+      "keywords": [
+        "создание сайтов",
+        "ошибка",
+        "открытие сайта"
+      ]
+    }
+  }
+]

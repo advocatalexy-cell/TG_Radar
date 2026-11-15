@@ -1,0 +1,2372 @@
+[
+  {
+    "id": 99014,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T20:45:46+00:00",
+    "text": "Я очень много и часто использую хигсфилд для генерации видео, у них сейчас очень хорошие скидки  на годовые подписки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор сообщает, что часто пользуется Higgsfield и отмечает скидки на годовые подписки.",
+      "keywords": [
+        "Higgsfield",
+        "генерация видео",
+        "скидки",
+        "годовая подписка"
+      ]
+    }
+  },
+  {
+    "id": 99001,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T19:05:26+00:00",
+    "text": "И он, кстати, в канале, а не в чате",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Уточнение, что он находится в канале, а не в чате.",
+      "keywords": [
+        "канал",
+        "чат",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 99000,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T19:05:11+00:00",
+    "text": "Но оцените его эволюцию!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит лишь призыв оценить эволюцию без указания, о ком или о чём идёт речь.",
+      "keywords": [
+        "эволюция",
+        "оценка",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 98986,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T15:54:28+00:00",
+    "text": "кажется у вас 1 пропущенный бот",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткое сообщение о возможном пропущенном боте без дополнительного контекста.",
+      "keywords": [
+        "бот",
+        "пропуск",
+        "уведомление"
+      ]
+    }
+  },
+  {
+    "id": 98985,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T15:51:42+00:00",
+    "text": "Это как?)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только вопрос без контекста или содержательной информации.",
+      "keywords": [
+        "вопрос",
+        "контекст",
+        "информация"
+      ]
+    }
+  },
+  {
+    "id": 98975,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:52:44+00:00",
+    "text": "Точно посмотрел. 100 юаней 1231. Я заплатил 1336,17. Наврал я, побольше разница",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор уточнил, что заплатил за 100 юаней 1336,17 вместо упомянутых 1231.",
+      "keywords": [
+        "юань",
+        "курс",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 98974,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:50:39+00:00",
+    "text": "За 100. Я смотрел курс цб в гугле и у них, там не сильно разница была. Не как во всяких плати по миру, при официальном курсе 80 у них 95",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.22,
+      "category": "finance",
+      "summary": "Автор сравнивает курс ЦБ с курсом обмена и отмечает разницу, но не приводит конкретных данных или новости.",
+      "keywords": [
+        "курс валют",
+        "ЦБ",
+        "обменный курс"
+      ]
+    }
+  },
+  {
+    "id": 98973,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:49:45+00:00",
+    "text": "Или типа за 100 юаней на 7 рублей  дороже?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Неясный вопрос о разнице в цене при обмене юаней.",
+      "keywords": [
+        "юань",
+        "рубль",
+        "цена"
+      ]
+    }
+  },
+  {
+    "id": 98972,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:48:53+00:00",
+    "text": "Юань 12 рублей стоит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "finance",
+      "summary": "Курс юаня составляет 12 рублей.",
+      "keywords": [
+        "юань",
+        "рубль",
+        "курс"
+      ]
+    }
+  },
+  {
+    "id": 98971,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:48:42+00:00",
+    "text": "ни хрена себе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает удивление, но не содержит новостной или аналитической информации.",
+      "keywords": [
+        "удивление",
+        "реакция",
+        "нет фактов"
+      ]
+    }
+  },
+  {
+    "id": 98970,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:48:04+00:00",
+    "text": "Как бы не просто курс продажи юаня, без всяких накруток",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "В сообщении выражено пожелание видеть курс продажи юаня без дополнительных накруток.",
+      "keywords": [
+        "юань",
+        "курс продажи",
+        "накрутки"
+      ]
+    }
+  },
+  {
+    "id": 98969,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:47:47+00:00",
+    "text": "За 100 юаней был на 7 рублей дороже чем цб, кажется. Неплохой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.25,
+      "category": "finance",
+      "summary": "Краткое наблюдение о том, что курс юаня оказался примерно на 7 рублей выше курса ЦБ.",
+      "keywords": [
+        "юань",
+        "курс валюты",
+        "ЦБ",
+        "рубль"
+      ]
+    }
+  },
+  {
+    "id": 98966,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:23:16+00:00",
+    "text": "А какой курс у Сбера-то?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "finance",
+      "summary": "Вопрос о текущем курсе валют в Сбербанке без указания конкретных данных.",
+      "keywords": [
+        "Сбербанк",
+        "курс",
+        "валюта"
+      ]
+    }
+  },
+  {
+    "id": 98965,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:23:07+00:00",
+    "text": "вот я думаю там надо адрес китайский ставить, не будут ли меня пессимизировать как то или с подозрением относиться))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор спрашивает, может ли китайский адрес вызвать подозрение или негативные последствия.",
+      "keywords": [
+        "китайский адрес",
+        "подозрение",
+        "пессимизация"
+      ]
+    }
+  },
+  {
+    "id": 98964,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:20:15+00:00",
+    "text": "значит можно попробовать QR код в Сбере",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "finance",
+      "summary": "Короткое предложение попробовать оплату по QR-коду в Сбере без новостного контекста.",
+      "keywords": [
+        "Сбер",
+        "QR-код",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 98963,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:16:09+00:00",
+    "text": "у grok есть оплата через алипэй?  😁",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Задан вопрос о возможности оплаты Grok через Alipay.",
+      "keywords": [
+        "Grok",
+        "Alipay",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 98962,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:07:22+00:00",
+    "text": "Возможно и такое.\nУ Кими тоже нельзя просто так поменять.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Недостаточно контекста, чтобы определить, о чём идёт речь.",
+      "keywords": [
+        "Кими",
+        "изменение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 98961,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T14:06:25+00:00",
+    "text": "Может вы запамятовали и просто при регистрации выбрали не ту страну или, может быть, она автоматически подставилась, а вы не обратили внимание и ткнули ок. У меня и самого такое частенько бывает. Просто у большинства сервисов страну можно поменять без каких-либо проблем прямо в интерфейсе. Ну кроме стима и всяких гуглов, Майкрософтов, клод и так далее.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор отмечает, что в некоторых сервисах сложно изменить страну, указанную при регистрации.",
+      "keywords": [
+        "регистрация",
+        "страна аккаунта",
+        "Steam",
+        "Google",
+        "сервисы"
+      ]
+    }
+  },
+  {
+    "id": 98960,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:52:13+00:00",
+    "text": "В общем, пока не могу понять почему. Жду ответа от них.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор ожидает ответа, не уточняя тему или обстоятельства.",
+      "keywords": [
+        "ожидание",
+        "ответ",
+        "неясность"
+      ]
+    }
+  },
+  {
+    "id": 98959,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:48:08+00:00",
+    "text": "Ну я регался с ВПН",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что зарегистрировался через VPN.",
+      "keywords": [
+        "регистрация",
+        "VPN",
+        "личный опыт"
+      ]
+    }
+  },
+  {
+    "id": 98958,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:46:27+00:00",
+    "text": "Я уже и впн отключал, инкогнито включал, куки чистил, всё равно не давал Мир. И переправлял на международный процессинг",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.66,
+      "category": "finance",
+      "summary": "Автор сообщает, что не смог оплатить картой «Мир» даже после отключения VPN, очистки cookies и перенаправления на международный процессинг.",
+      "keywords": [
+        "карта «Мир»",
+        "оплата",
+        "VPN",
+        "международный процессинг"
+      ]
+    }
+  },
+  {
+    "id": 98957,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:44:13+00:00",
+    "text": "Если отпишутся и подтвердят, что регион не РФ, то, видимо при регистрации основной момент. А потом можно хоть как🤷",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Предположение о том, что при регистрации важно подтвердить принадлежность региона не к РФ.",
+      "keywords": [
+        "регистрация",
+        "регион",
+        "подтверждение"
+      ]
+    }
+  },
+  {
+    "id": 98956,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:42:33+00:00",
+    "text": "Может из-за первичной регистрации в самом Кими🤷 я пока только предполагаю.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор предполагает, что причина может быть связана с первичной регистрацией в Kimi.",
+      "keywords": [
+        "Kimi",
+        "регистрация",
+        "предположение"
+      ]
+    }
+  },
+  {
+    "id": 98955,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:42:15+00:00",
+    "text": "У меня был Мир как с VPN, так и без него. Вообще ни от чего не зависело. Но судя по всему зависит от региона регистрации аккаунта.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор предполагает, что работа карты «Мир» может зависеть от региона регистрации аккаунта, а не от использования VPN.",
+      "keywords": [
+        "карта Мир",
+        "VPN",
+        "регион аккаунта"
+      ]
+    }
+  },
+  {
+    "id": 98954,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:41:41+00:00",
+    "text": "Пока еще не точно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост сообщает, что информация пока не подтверждена.",
+      "keywords": [
+        "неподтверждённая информация",
+        "неопределённость",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 98951,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T13:01:21+00:00",
+    "text": "У меня лог в отдельный канал пишется, могу тебя добавить))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Автор предлагает добавить собеседника в канал с логами.",
+      "keywords": [
+        "лог",
+        "канал",
+        "добавление"
+      ]
+    }
+  },
+  {
+    "id": 98948,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T12:53:10+00:00",
+    "text": "также , с впн не было мира, без показывал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткое несвязное сообщение о работе мира с VPN и без него.",
+      "keywords": [
+        "VPN",
+        "мир",
+        "доступ",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 98947,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T12:52:30+00:00",
+    "text": "Шифруются может. Кому охота вторичные санкции",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "finance",
+      "summary": "Краткое предположение о том, что кто-то может шифроваться, чтобы избежать вторичных санкций.",
+      "keywords": [
+        "шифрование",
+        "вторичные санкции",
+        "санкции"
+      ]
+    }
+  },
+  {
+    "id": 98946,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T12:51:28+00:00",
+    "text": "Вообще странно, потому что у меня показывал возможность оплатить МИРом в зависимости от того, включен впн или нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор отмечает, что доступность оплаты картой «Мир» менялась в зависимости от включённого VPN.",
+      "keywords": [
+        "оплата",
+        "Мир",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 98945,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T12:09:57+00:00",
+    "text": "О, отлично, что нашли проблему 👍",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткая реакция на найденную проблему без уточнения её сути.",
+      "keywords": [
+        "реакция",
+        "проблема",
+        "обсуждение"
+      ]
+    }
+  },
+  {
+    "id": 98943,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T11:07:20+00:00",
+    "text": "Но в админке видно последние 48 часов. Раз в десять минут, как видно, кто-то залетает)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор замечает, что в админке видны заходы пользователей за последние 48 часов и что кто-то посещает её примерно раз в десять минут.",
+      "keywords": [
+        "админка",
+        "посещения",
+        "пользователи"
+      ]
+    }
+  },
+  {
+    "id": 98942,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T11:04:12+00:00",
+    "text": "Одного из ботов сделал Ян - наверное, у него есть. Второй - опенсорсный юзаем, там надо разраба спрашивать, это неудобно, он, и так, святой человек)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "В сообщении обсуждают доступность двух ботов и необходимость обратиться к разработчику.",
+      "keywords": [
+        "боты",
+        "опенсорс",
+        "разработчик"
+      ]
+    }
+  },
+  {
+    "id": 98939,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:40:49+00:00",
+    "text": "Задача тысячелетия: выживет ли математика? . ИИ решает проблемы, над которыми математики бились десятилетиями. Что будет с наукой? — Новая газета Европа https://share.google/9jJgntQbv1h9UVEIs",
+    "views": 234,
+    "forwards": 1,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "В статье обсуждают, как ИИ решает сложные математические задачи и что это может изменить в математической науке.",
+      "keywords": [
+        "ИИ",
+        "математика",
+        "наука",
+        "решение задач",
+        "будущее"
+      ]
+    }
+  },
+  {
+    "id": 98938,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:38:06+00:00",
+    "text": "В общем \"заморочился\" с оплатой KIMI. Поизучал, и думаю, что нашел проблемку.\nПри регистрации я использовал VPN Латвийский. И, видимо, КИМИ привязал этот регион к моему аккаунту и при оплате перенаправляет на международный процессинг🤦🏻‍♂️🤣\nСейчас написал в membership@moonshot.ai запрос, жду ответа. Хочу понять к какому региону привязан мой аккаунт и поменять его (если не РФ)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Автор предполагает, что при регистрации через латвийский VPN аккаунт Kimi привязался к этому региону, и запросил поддержку о смене региона.",
+      "keywords": [
+        "Kimi",
+        "VPN",
+        "регион аккаунта",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 98937,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:34:45+00:00",
+    "text": "За пол юаня он только что с нуля всё выкачал, настроил, по MCP подключился к FreeCAD и смоделировал несколько корпусов, которые самому делать ну очень лень было.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "ai",
+      "summary": "ИИ-агент с поддержкой MCP подключили к FreeCAD, где он самостоятельно смоделировал несколько корпусов почти без затрат.",
+      "keywords": [
+        "ИИ-агент",
+        "MCP",
+        "FreeCAD",
+        "3D-моделирование"
+      ]
+    }
+  },
+  {
+    "id": 98932,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:24:15+00:00",
+    "text": "Девушка попросила встроенный ИИ на iPhone убрать женщину с заднего плана фото.\n\nРезультат превзошёл все ожидания.",
+    "views": 214,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "ai",
+      "summary": "Встроенный ИИ на iPhone неудачно удалил женщину с фона фотографии, вызвав неожиданный результат.",
+      "keywords": [
+        "ИИ",
+        "iPhone",
+        "редактирование фото",
+        "удаление объекта",
+        "генеративный ИИ"
+      ]
+    }
+  },
+  {
+    "id": 98931,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:24:15+00:00",
+    "text": "Всем хорошего выходного дня ❤️",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пожелание хорошего выходного дня без новостной или аналитической информации.",
+      "keywords": [
+        "выходной",
+        "пожелание",
+        "поздравление"
+      ]
+    }
+  },
+  {
+    "id": 98930,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:21:31+00:00",
+    "text": "Учитывая экономность дипсик, на эти деньги можно пересобрать ядро Линукс на питон.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "Автор иронично утверждает, что благодаря экономности DeepSeek его можно пересобрать даже на Python.",
+      "keywords": [
+        "DeepSeek",
+        "экономность",
+        "Linux",
+        "Python"
+      ]
+    }
+  },
+  {
+    "id": 98928,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:17:38+00:00",
+    "text": "Китайцы тоже с барского плеча накидывают, стоило денег в Дипсик закинуть. 2 юаня!",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор с иронией отмечает низкую стоимость пополнения DeepSeek — 2 юаня.",
+      "keywords": [
+        "DeepSeek",
+        "Китай",
+        "стоимость",
+        "юань"
+      ]
+    }
+  },
+  {
+    "id": 98927,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:11:18+00:00",
+    "text": "Да, у друга бесплатный акк работает, пару месяцев назад регал, а другой сегодня хотел сделать и упс 🤷",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "other",
+      "summary": "Короткое неформальное сообщение о том, что бесплатная регистрация у одного пользователя работает, а у другого возникла проблема.",
+      "keywords": [
+        "бесплатный аккаунт",
+        "регистрация",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 98926,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:09:07+00:00",
+    "text": "А Клод на Free работает. Ну по-крайней мере в десктопном приложении",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "ai",
+      "summary": "Пользователь отмечает, что Claude доступен бесплатно в десктопном приложении.",
+      "keywords": [
+        "Claude",
+        "бесплатный доступ",
+        "десктопное приложение"
+      ]
+    }
+  },
+  {
+    "id": 98925,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:06:23+00:00",
+    "text": "Невероятно скользкая контора оказалась этот Антропик, мы им, конечно,  все это вспомним однажды 🤠",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор выражает недовольство компанией Anthropic, не приводя подробностей или фактов.",
+      "keywords": [
+        "Anthropic",
+        "критика",
+        "компания"
+      ]
+    }
+  },
+  {
+    "id": 98924,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:04:22+00:00",
+    "text": "видать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": [
+        "шум",
+        "нет данных",
+        "неинформативно"
+      ]
+    }
+  },
+  {
+    "id": 98923,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T10:01:27+00:00",
+    "text": "Клод вообще закрыл регистрацию новых аккаунтов?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "ai",
+      "summary": "Вопрос о том, приостановила ли Anthropic регистрацию новых аккаунтов в Claude.",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "регистрация",
+        "аккаунты"
+      ]
+    }
+  },
+  {
+    "id": 98921,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:37:50+00:00",
+    "text": "Идея - вроде дам ему уже разжеванный контекст, чтобы он не так много жрал и работал уже на готовеньком. Ну и привносил свой хваленый мозг.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Обсуждается идея заранее подготовить контекст для модели, чтобы сократить её затраты и получить более полезный результат.",
+      "keywords": [
+        "контекст",
+        "модель",
+        "затраты",
+        "идея"
+      ]
+    }
+  },
+  {
+    "id": 98920,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:35:08+00:00",
+    "text": "Ребята, я тут думаю как Фейбл использовать (сработала замануха 2 бесплатных ресетов). Есть идея вставить его в качестве ревизора спеков и планов и кода, написанных опусом. Вставлять его собираюсь после работы опуса и перед второй проверкой Кодексом. Имеет смысл или оверинжиниринг?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.14,
+      "category": "ai",
+      "summary": "Автор спрашивает, стоит ли использовать Fable для проверки результатов Opus перед повторной проверкой Codex.",
+      "keywords": [
+        "Fable",
+        "Opus",
+        "Codex",
+        "ревью кода"
+      ]
+    }
+  },
+  {
+    "id": 98918,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:26:47+00:00",
+    "text": "Я кстати залип в higgsfield. У них акция в чёрную пятницу и можно нагенерировать себе аватарок (я понимаю, что это кринжатина, но иногда выходит красиво).",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "other",
+      "summary": "Автор делится личным впечатлением от Higgsfield и упоминает акцию к чёрной пятнице для генерации аватарок.",
+      "keywords": [
+        "Higgsfield",
+        "акция",
+        "чёрная пятница",
+        "аватарки"
+      ]
+    }
+  },
+  {
+    "id": 98917,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:11:57+00:00",
+    "text": "А логи есть у антиспамов? Можно потом мультики сделать, ДаШбОрД опять же как минимум",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Вопрос о наличии логов у антиспам-систем и идее использовать их для создания мультиков и дашборда.",
+      "keywords": [
+        "антиспам",
+        "логи",
+        "дашборд"
+      ]
+    }
+  },
+  {
+    "id": 98916,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:08:43+00:00",
+    "text": "Чел описывает чувака, который годовалый аккаунт юзает при этом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Фраза обрывается и не содержит законченной новости или значимой информации.",
+      "keywords": [
+        "аккаунт",
+        "описание",
+        "фрагмент"
+      ]
+    }
+  },
+  {
+    "id": 98915,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:07:53+00:00",
+    "text": "Ну кроме цены",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза без контекста не содержит значимого сообщения.",
+      "keywords": [
+        "цена",
+        "контекст",
+        "неполный текст"
+      ]
+    }
+  },
+  {
+    "id": 98914,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:07:49+00:00",
+    "text": "Хз, чем отличается впс на Azure от впс на другом белом хостере",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор задаёт общий вопрос о различиях между VPS в Azure и у другого хостинг-провайдера.",
+      "keywords": [
+        "Azure",
+        "VPS",
+        "хостинг",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 98912,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T09:03:51+00:00",
+    "text": "В твиттере делятся информацией, что можно арендовать виртуалку от Майкрософт для Клода. \n\nЯ пока не пробовал.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Упоминается неподтверждённая возможность арендовать виртуальную машину Microsoft для Claude, но автор сам её не проверял.",
+      "keywords": [
+        "Microsoft",
+        "Claude",
+        "виртуальная машина",
+        "аренда"
+      ]
+    }
+  },
+  {
+    "id": 98910,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:53:15+00:00",
+    "text": "В скиллы можно писать не только правила «делай», но и правила «не делай». А трудности закаляют, спокойное море из матроса капитана не сделает 😉",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Общее мотивационное замечание о правилах и трудностях без конкретной новости или аналитики.",
+      "keywords": [
+        "правила",
+        "скиллы",
+        "трудности"
+      ]
+    }
+  },
+  {
+    "id": 98909,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:49:04+00:00",
+    "text": "Зато дипсик быстрее. И платить теперь можно рублями :)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.35,
+      "category": "ai",
+      "summary": "Утверждается, что DeepSeek работает быстрее и теперь принимает оплату в рублях.",
+      "keywords": [
+        "DeepSeek",
+        "скорость",
+        "оплата",
+        "рубли"
+      ]
+    }
+  },
+  {
+    "id": 98908,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:47:08+00:00",
+    "text": "Он все равно лучше обучаем. Схватывает стиль с первого раза. Гопнику постоянно приходится объяснять. Меня еще раздражает его стиль оправдывающегося ботана: если суд не примет нашу позицию, то давайте так. Нужно уверенно писать и отстаивать свою позицию. А не миндальничать с вашей честью.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор критикует стиль общения и обучаемость собеседника, не сообщая значимых новостей или данных.",
+      "keywords": [
+        "обучаемость",
+        "стиль общения",
+        "уверенность"
+      ]
+    }
+  },
+  {
+    "id": 98907,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:46:24+00:00",
+    "text": "глм точно нет, остальные да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткое утверждение без контекста и содержательной новости.",
+      "keywords": [
+        "глм",
+        "исключение",
+        "подтверждение"
+      ]
+    }
+  },
+  {
+    "id": 98906,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:45:50+00:00",
+    "text": "Я теперь простые задачи пишу дипсиком, а сложные сразу соляркой. И на эскалации у меня солярка. Вроде норм",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор делится личным распределением задач между DeepSeek и Solar.",
+      "keywords": [
+        "DeepSeek",
+        "Solar",
+        "ИИ",
+        "задачи",
+        "эскалация"
+      ]
+    }
+  },
+  {
+    "id": 98905,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:44:29+00:00",
+    "text": "Кими 2.8 вообще дурачок. Еще и медленный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "Автор негативно оценивает Kimi 2.8, называя его глупым и медленным.",
+      "keywords": [
+        "Kimi 2.8",
+        "оценка",
+        "скорость"
+      ]
+    }
+  },
+  {
+    "id": 98904,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:44:08+00:00",
+    "text": "Мне дипсик показался умнее тобой вышеперечисленного. А вот луне давать код я чет очкую",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сравнивает ИИ-модели и выражает опасение передавать код Lune.",
+      "keywords": [
+        "DeepSeek",
+        "ИИ",
+        "сравнение моделей",
+        "код",
+        "Lune"
+      ]
+    }
+  },
+  {
+    "id": 98903,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:44:03+00:00",
+    "text": "Нахрена сверху платить, не понимаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает недоумение по поводу дополнительной оплаты, но не содержит новостной информации.",
+      "keywords": [
+        "оплата",
+        "доплата",
+        "недоумение"
+      ]
+    }
+  },
+  {
+    "id": 98902,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:43:50+00:00",
+    "text": "Ну вот Луна/Хайку в подписке особо не уходят",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор отмечает, что Луна и Хайку почти не покидают подписку.",
+      "keywords": [
+        "Луна",
+        "Хайку",
+        "подписка"
+      ]
+    }
+  },
+  {
+    "id": 98901,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:43:21+00:00",
+    "text": "Так и Луна, глм флеш, кими 2.8",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "ai",
+      "summary": "Кратко перечислены названия моделей или сервисов без пояснений и контекста.",
+      "keywords": [
+        "Луна",
+        "GLM Flash",
+        "Kimi 2.8"
+      ]
+    }
+  },
+  {
+    "id": 98899,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:43:06+00:00",
+    "text": "Какая-никакая а экономия. И быстрый",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая фраза об экономии без контекста и конкретных данных.",
+      "keywords": [
+        "экономия",
+        "быстро",
+        "оценка",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 98898,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:42:52+00:00",
+    "text": "Ну код на простых задачах флешка норм пишет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Краткое замечание о том, что флешка нормально записывает код для простых задач.",
+      "keywords": [
+        "код",
+        "флешка",
+        "простые задачи"
+      ]
+    }
+  },
+  {
+    "id": 98897,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:40:39+00:00",
+    "text": "Ну и если апи нннада",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фрагмент разговорной фразы без содержательной новости или утверждения.",
+      "keywords": [
+        "API",
+        "фрагмент",
+        "разговорная речь"
+      ]
+    }
+  },
+  {
+    "id": 98896,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:40:31+00:00",
+    "text": "А так ДипСик крайне полезен, если нужно делать то, что Клод с гопником отказываются",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "ai",
+      "summary": "Автор иронично отмечает, что DeepSeek помогает с задачами, от которых отказываются Claude и «гопник».",
+      "keywords": [
+        "DeepSeek",
+        "Claude",
+        "ИИ",
+        "ирония"
+      ]
+    }
+  },
+  {
+    "id": 98895,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:40:08+00:00",
+    "text": "У клода старые привычки вылезли, эта падла упрощает задачу. Приходится постоянно напоминать про скиллы и спрашивать, не забыл ли вызвать нужное пока работал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор жалуется, что Claude упрощает задачи и забывает использовать нужные навыки.",
+      "keywords": [
+        "Claude",
+        "скиллы",
+        "упрощение задач",
+        "жалоба"
+      ]
+    }
+  },
+  {
+    "id": 98894,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:39:36+00:00",
+    "text": "Ну вон выше видишь, небесспорно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткая реплика без содержательной новости или аналитики.",
+      "keywords": [
+        "мнение",
+        "реплика",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 98893,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:39:13+00:00",
+    "text": "С Террой ситуация сложная — эта скотина задачи бросает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор эмоционально жалуется на Терру, которая бросает задачи.",
+      "keywords": [
+        "Терра",
+        "задачи",
+        "жалоба"
+      ]
+    }
+  },
+  {
+    "id": 98892,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:39:07+00:00",
+    "text": "Луна всем сосед, тут бесспорно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост содержит бессодержательное утверждение о Луне.",
+      "keywords": [
+        "Луна",
+        "соседство",
+        "утверждение"
+      ]
+    }
+  },
+  {
+    "id": 98891,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:38:42+00:00",
+    "text": "Ну разве что с Луной не сосед",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая фраза без контекста и содержательной новости.",
+      "keywords": [
+        "Луна",
+        "сосед",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 98890,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:38:10+00:00",
+    "text": "Сосед с террой или соляркой?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Вопрос о выборе автомобиля с бензиновым или дизельным двигателем.",
+      "keywords": [
+        "автомобиль",
+        "бензин",
+        "дизель"
+      ]
+    }
+  },
+  {
+    "id": 98889,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:37:27+00:00",
+    "text": "Тогда 💯",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое подтверждение без содержательной информации.",
+      "keywords": [
+        "подтверждение",
+        "эмодзи",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 98888,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:37:19+00:00",
+    "text": "А то на клоде так не надо делать было. Я год его учил писать как надо, постоянно задавая один и тот же вопрос в конце удачного диалога: «проанализируй, что нам надо изменить в правилах, чтобы мы получили такой результат с первого раза».",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор рассказывает о том, как обучал Claude писать в нужном стиле с помощью повторяющегося вопроса.",
+      "keywords": [
+        "Claude",
+        "обучение",
+        "правила",
+        "стиль"
+      ]
+    }
+  },
+  {
+    "id": 98887,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:35:41+00:00",
+    "text": "Астра очень мощная модель, но пока мне лично не ясно, как ее применять для писанины. Оставил ее только для аналитики.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.25,
+      "category": "ai",
+      "summary": "Автор считает модель «Астра» мощной, но использует ее только для аналитики, поскольку не видит применения для письма.",
+      "keywords": [
+        "Астра",
+        "модель",
+        "аналитика",
+        "писательство"
+      ]
+    }
+  },
+  {
+    "id": 98886,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:34:07+00:00",
+    "text": "Уже не узнают",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "неполный текст",
+        "без контекста",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 98885,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:32:41+00:00",
+    "text": "У 6.1 в принципе нормальный стиль, не должен резать глаз отечественным правоприменителям. Не так красиво как на Клоде, но в целом пойдет, не видно уже, что нейронка писала.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "ai",
+      "summary": "Автор считает, что модель 6.1 пишет достаточно естественно и её текст не выглядит машинным.",
+      "keywords": [
+        "модель 6.1",
+        "стиль",
+        "нейросеть"
+      ]
+    }
+  },
+  {
+    "id": 98883,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:31:19+00:00",
+    "text": "Кстати, можно ради интереса попробовать написать на Сол 5.6 \nУ него стиль отличается от 6.1, и будто бы в более человечную сторону",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор предлагает попробовать писать на модели Sol 5.6, отмечая её более человечный стиль по сравнению с 6.1.",
+      "keywords": [
+        "Sol 5.6",
+        "Sol 6.1",
+        "модель",
+        "стиль"
+      ]
+    }
+  },
+  {
+    "id": 98882,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:28:39+00:00",
+    "text": "Ещё знают те, кого я ненароком баню вместе с ботами 🙈",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор шутит о пользователях, которых случайно блокирует вместе с ботами.",
+      "keywords": [
+        "блокировка",
+        "боты",
+        "пользователи"
+      ]
+    }
+  },
+  {
+    "id": 98881,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:28:18+00:00",
+    "text": "Да, они знают) \nИ те, кто видит админку)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий комментарий о том, кто имеет доступ к админке, без новостного содержания.",
+      "keywords": [
+        "админка",
+        "доступ",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 98880,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:28:07+00:00",
+    "text": "Бывшие Клодобояре, кто мучается на гопнике, несколько наблюдений после недели работы на Кодексе:\n\n- Если хотите чтобы он держал ваш стиль документов, нужно сохранять скилл буквально после каждой удачной генерации. Иначе ничего не получается. Нужно все разжевывать. Буквально словами объяснять, где он дал нечитаемого нейрослопа. \n\n- Самый человечный стиль написания бумаг у Сол, Астра пишет как все время оправдывающийся ботан, слишком занудно с кучей ненужных подробностей. \n\n- Не стоит запускать несколько серьезных задач сразу, получаются глюки, тормоза и слабое качество на выходе.\nВ целом его как собачку можно отдрессировать, сейчас уже ничего, продолжаем наблюдение.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.56,
+      "category": "tech",
+      "summary": "Автор делится наблюдениями о работе с AI-кодовым инструментом: стиль нужно постоянно настраивать, а параллельные сложные задачи ухудшают качество и стабильность.",
+      "keywords": [
+        "AI-ассистент",
+        "кодинг",
+        "стиль генерации",
+        "качество",
+        "параллельные задачи"
+      ]
+    }
+  },
+  {
+    "id": 98879,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:27:50+00:00",
+    "text": "Думаю, Ян другое слово имел в виду))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Короткий комментарий без новостного или аналитического содержания.",
+      "keywords": [
+        "Ян",
+        "слово",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 98878,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:27:33+00:00",
+    "text": "Те, кто просыпается рано и порой видит тучу сообщений на китайском с сомнительными ссылками знают.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор упоминает сообщения на китайском языке с подозрительными ссылками.",
+      "keywords": [
+        "сообщения",
+        "китайский язык",
+        "подозрительные ссылки"
+      ]
+    }
+  },
+  {
+    "id": 98877,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:24:56+00:00",
+    "text": "Нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "нет",
+        "без содержания",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 98876,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:23:27+00:00",
+    "text": "То есть очень близок по уровню?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос без контекста и содержательного информационного сигнала.",
+      "keywords": [
+        "вопрос",
+        "уровень",
+        "сравнение"
+      ]
+    }
+  },
+  {
+    "id": 98875,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:21:33+00:00",
+    "text": "А чё там сравнивать? Дипсик сосед",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий разговорный комментарий без конкретной новости или содержательного утверждения.",
+      "keywords": [
+        "Дипсик",
+        "сравнение",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 98874,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:19:20+00:00",
+    "text": "Добавил в канал)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое сообщение о добавлении чего-то в канал без содержательной новости.",
+      "keywords": [
+        "канал",
+        "добавление",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 98873,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:13:09+00:00",
+    "text": "По идее такое можно оплачивать через Nihao China (лично не проверял)\nhttps://t.me/pravoros/166",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор предполагает, что описанную ранее услугу можно оплатить через Nihao China, но сам этого не проверял.",
+      "keywords": [
+        "Nihao China",
+        "оплата",
+        "непроверенная информация"
+      ]
+    }
+  },
+  {
+    "id": 98872,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:11:08+00:00",
+    "text": "Макс в пустыне, эти в песочнице",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза без контекста, не содержащая значимой новости или аналитики.",
+      "keywords": [
+        "Макс",
+        "пустыня",
+        "песочница"
+      ]
+    }
+  },
+  {
+    "id": 98871,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:10:47+00:00",
+    "text": "Вторая часть «Безумный Макс». Безумный спам 😂",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Шутливое упоминание второй части «Безумного Макса» без новостной или аналитической информации.",
+      "keywords": [
+        "Безумный Макс",
+        "шутка",
+        "спам"
+      ]
+    }
+  },
+  {
+    "id": 98870,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:08:54+00:00",
+    "text": "Вот не все знают, но в достижения чата можно засчитать создание полноценного мёртвого Интернета в локальной зоне, где бесчисленные атакующие спам-боты и два антиспама ведут полноценную - при том очень бурную - невидимую жизнь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Ироничное замечание о спам-ботах и работе антиспама в чате.",
+      "keywords": [
+        "чат",
+        "спам-боты",
+        "антиспам"
+      ]
+    }
+  },
+  {
+    "id": 98869,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:05:29+00:00",
+    "text": "Хм, я только хотел на грока подписку повышать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор вскользь упоминает намерение повысить подписку на Grok.",
+      "keywords": [
+        "Grok",
+        "подписка",
+        "покупка"
+      ]
+    }
+  },
+  {
+    "id": 98867,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:01:16+00:00",
+    "text": "Ян, а тебе не попадалось сравнение дипсика и чатжпт в кодинге? От реальных пользователей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь спрашивает о сравнении DeepSeek и ChatGPT в задачах программирования по отзывам реальных пользователей.",
+      "keywords": [
+        "DeepSeek",
+        "ChatGPT",
+        "кодинг",
+        "сравнение",
+        "отзывы"
+      ]
+    }
+  },
+  {
+    "id": 98866,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T08:00:03+00:00",
+    "text": "Вкратце:\n• Астра зе бест\n• Сол 6.1 оптимальный вариант по умности/стоимости\n• Луна 6 перфомит в некоторых метриках так же, как Фейбл\n• Луна 6 дешевле и быстрее Дипсика при сходном перфомансе общем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "Сравнение моделей ИИ: Sol 6.1 выделяется соотношением качества и цены, а Luna 6 сопоставима с Fable и дешевле и быстрее DeepSeek.",
+      "keywords": [
+        "модели ИИ",
+        "Sol 6.1",
+        "Luna 6",
+        "стоимость",
+        "производительность"
+      ]
+    }
+  },
+  {
+    "id": 98864,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:56:52+00:00",
+    "text": "Там ребята из какого-то DeepNote сделали бенчмарк по тесту моделей для проактивных агентов (аля дот и его опесорсные аналоги, гермес и т.п.)\n\nhttps://fixupx.com/jakubjurovych/status/2121256499552915586?a=HH5V6w6TfnMUC7oMlXo&s=20",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.75,
+      "category": "ai",
+      "summary": "DeepNote представила бенчмарк для оценки моделей проактивных ИИ-агентов.",
+      "keywords": [
+        "DeepNote",
+        "бенчмарк",
+        "ИИ-агенты",
+        "оценка моделей"
+      ]
+    }
+  },
+  {
+    "id": 98863,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:54:49+00:00",
+    "text": "Отмена приходит, если платишь не в размере того, пополнения, что нажал. Лучший вариант - выбирать custom и в приложении Сбера указывать и платить именно ту сумму в юанях, что указал на странице. Тогда платеж проходит.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "finance",
+      "summary": "Совет по оплате пополнения в юанях через приложение Сбера, чтобы избежать отмены платежа.",
+      "keywords": [
+        "оплата",
+        "юани",
+        "Сбер",
+        "пополнение"
+      ]
+    }
+  },
+  {
+    "id": 98861,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:52:12+00:00",
+    "text": "Курс, кстати, не так уж и плох. Кайф, к кимоше у нас добавился дипсик",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор вскользь упоминает DeepSeek, но не сообщает конкретных новостей или выводов.",
+      "keywords": [
+        "DeepSeek",
+        "Кимоша",
+        "курс"
+      ]
+    }
+  },
+  {
+    "id": 98857,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:50:58+00:00",
+    "text": "Это же сбербанк и китайцы. Просто подождите",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "В посте упоминаются Сбербанк и китайцы, но не раскрывается конкретная новость или событие.",
+      "keywords": [
+        "Сбербанк",
+        "Китай",
+        "ожидание"
+      ]
+    }
+  },
+  {
+    "id": 98856,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:50:27+00:00",
+    "text": "Пришла отмена, но пополнение есть. Это баг.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.64,
+      "category": "tech",
+      "summary": "Сообщается о баге: отмена прошла, но пополнение при этом сохранилось.",
+      "keywords": [
+        "баг",
+        "отмена",
+        "пополнение"
+      ]
+    }
+  },
+  {
+    "id": 98855,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:50:13+00:00",
+    "text": "Не обращайте внимание, что статус сначала «canceled”, потом будет success",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Пост просит не обращать внимания на статус операции, который сначала отображается как отменённый, а позднее станет успешным.",
+      "keywords": [
+        "статус",
+        "canceled",
+        "success"
+      ]
+    }
+  },
+  {
+    "id": 98854,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:49:42+00:00",
+    "text": "И именно в юанях",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост содержит лишь уточнение, что речь идёт о юанях.",
+      "keywords": [
+        "юань",
+        "валюта",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 98853,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:49:35+00:00",
+    "text": "Хотя нет, пополнился!",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткая реплика без контекста и значимой информации.",
+      "keywords": [
+        "реплика",
+        "пополнение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 98852,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:49:07+00:00",
+    "text": "У меня не получилось. Сразу отмена. Но это не показатель, починят.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает о неудачной попытке и отмене, ожидая, что проблему исправят.",
+      "keywords": [
+        "неудача",
+        "отмена",
+        "исправление"
+      ]
+    }
+  },
+  {
+    "id": 98851,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:47:51+00:00",
+    "text": "Закинул 15 юаней, деньги ушли, но баланс пока не пополнился. Продолжаем наблюдение.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор сообщает о задержке зачисления 15 юаней и продолжает наблюдение.",
+      "keywords": [
+        "15 юаней",
+        "платёж",
+        "задержка"
+      ]
+    }
+  },
+  {
+    "id": 98849,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:47:33+00:00",
+    "text": "Anthropic лоббировала законопроекты конгрессменов, которые вызвали Дженсена Хуанга для дачи показаний\n\nРеспубликанцы Брайан Маст, Джон Муленаар и Рик Кроуфорд потребовали от Хуанга дать закрытые показания 1 декабря. В противном случае комитет по иностранным делам пригрозил повесткой.\n\nПо данным Федеральной избирательной комиссии США, десять сотрудников Anthropic перечислили им из личных средств $78 тыс. Это личные пожертвования работников, а не взносы компании. Отдельно политический комитет Anthropic, AnthroPAC, направил Масту $2,5 тыс., Кроуфорду — $1 тыс.\n\nЛоббисты фирм, представлявших интересы Anthropic, пожертвовали ещё $6 тыс. Кроуфорду. Компания отчитывалась о лоббировании законопроектов Маста и Муленаара. Сооснователь Anthropic Джек Кларк выступал в комитете Муленаара за ужесточение экспортного контроля над чипами.\n\nКроме того, Public First Action, получившая от Anthropic $40 млн, размещала рекламу с призывом к Масту и Муленаару «продолжать борьбу за то, чтобы передовые чипы не попадали к врагам». Влияние Anthropic через более крупные структуры, в отличие от небольших пожертвований, действительно может говорить о недобросовестной рыночной борьбе, однако прямое влияние конкурента Nvidia на ход скандала не подтверждено.\n\n13 ноября председатель банковского комитета Сената США потребовал, чтобы Дженсен Хуанг и американский министр торговли выступили перед комитетом. Поводом стал скандал вокруг романа Хуанга с китайской шпионкой и политики в отношении продажи микрочипов в другие страны.",
+    "views": 204,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.86,
+      "category": "business",
+      "summary": "Anthropic и связанные с ней структуры финансировали политиков и лоббировали ограничения экспорта чипов, хотя прямое влияние на вызов Дженсена Хуанга для показаний не подтверждено.",
+      "keywords": [
+        "Anthropic",
+        "лоббизм",
+        "экспорт чипов",
+        "Дженсен Хуанг",
+        "политическое финансирование"
+      ]
+    }
+  },
+  {
+    "id": 98848,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:43:04+00:00",
+    "text": "Хотя им уже и не надо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза без контекста, не содержащая проверяемой новости или значимого утверждения.",
+      "keywords": [
+        "неясный контекст",
+        "нет новости",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 98847,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:42:32+00:00",
+    "text": "Ого, так это можно оплатить любой сервис, где есть оплата через QR-коды Alipay получается. А то я хотел затестить платные фишки аккаунта Honor, а он у меня на Гонконг сделан.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор предполагает, что через Alipay можно оплатить сервисы с QR-кодом, включая платные функции аккаунта Honor.",
+      "keywords": [
+        "Alipay",
+        "QR-код",
+        "Honor",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 98843,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T07:27:55+00:00",
+    "text": "Пополнить баланс DeepSeek из России можно через мобильное приложение Сбербанка, которое поддерживает оплату по QR-кодам Alipay.\n\nДля этого достаточно открыть https://platform.deepseek.com/top_up, выбрать китайские юани (CNY) и отсканировать QR-код через приложение Сбербанка. Создавать аккаунт Alipay не требуется.\n\nОбработка платежа занимает около пяти минут. \n\nТаким способом можно оплачивать использование DeepSeek API напрямую из России, без иностранных банковских карт и посредников. \n\n😘😘😘",
+    "views": 29086,
+    "forwards": 1762,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "tech",
+      "summary": "Пользователи из России могут пополнять баланс DeepSeek API через Сбербанк по QR-коду Alipay без зарубежной карты.",
+      "keywords": [
+        "DeepSeek",
+        "Сбербанк",
+        "Alipay",
+        "оплата API",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 98838,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T06:46:51+00:00",
+    "text": "Китайцы вовсю, смотрю, борются с проблемой перенаселения [irony]",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Ироничное замечание о перенаселении в Китае без конкретных фактов или новостей.",
+      "keywords": [
+        "Китай",
+        "перенаселение",
+        "ирония"
+      ]
+    }
+  },
+  {
+    "id": 98835,
+    "channel_id": "docsllm",
+    "date": "2026-11-15T05:57:52+00:00",
+    "text": "Комментирует и подгоняет. Такой личный эффективный менеджер",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая субъективная оценка без содержательной новости или аналитики.",
+      "keywords": [
+        "менеджер",
+        "комментарий",
+        "оценка"
+      ]
+    }
+  },
+  {
+    "id": 98825,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T22:13:36+00:00",
+    "text": "Мне кажется ии ботов в итоге впихнут везде, где можно имитировать человека без необходимости участия человека.\nКстати была новость что какую-то рекордную партию секс роботов заказали в Китае на 10 млн юаней.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.66,
+      "category": "tech",
+      "summary": "Автор прогнозирует повсеместное внедрение ИИ-ботов и упоминает сообщение о крупном заказе секс-роботов в Китае на 10 млн юаней.",
+      "keywords": [
+        "ИИ-боты",
+        "роботы",
+        "Китай",
+        "секс-роботы",
+        "заказ"
+      ]
+    }
+  },
+  {
+    "id": 98821,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T21:48:28+00:00",
+    "text": "Хорошо, что это хотя бы не ИИ-компаньон, который смотрит как я работаю и комментирует это. Вот тогда кукуха точно съедет.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор шутливо опасается ИИ-компаньона, который наблюдает за работой и комментирует её.",
+      "keywords": [
+        "ИИ",
+        "компаньон",
+        "наблюдение",
+        "работа",
+        "юмор"
+      ]
+    }
+  },
+  {
+    "id": 98820,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T21:13:15+00:00",
+    "text": "Но они поди будут в топе приобретателей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Предположение о возможном лидерстве неких лиц или компаний среди приобретателей без уточнения контекста.",
+      "keywords": [
+        "приобретатели",
+        "топ",
+        "предположение"
+      ]
+    }
+  },
+  {
+    "id": 98819,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T21:12:48+00:00",
+    "text": "Странно, что это появилось не в Корее",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор выражает удивление по поводу места появления чего-то, но не уточняет, о чём речь.",
+      "keywords": [
+        "Корея",
+        "место",
+        "удивление"
+      ]
+    }
+  },
+  {
+    "id": 98818,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T21:03:26+00:00",
+    "text": "**Tencent выпустила ИИ-компаньонок, которые смотрят, как вы играете, и комментируют ваши фейлы в League of Legends**\n\nTencent открыла в Китае бета-тест приложения [Eciyuan](https://ixbt.games/news/2026/11/11/ii-zena-tencent-predstavila-ii-kompanyonov-sposobnyx-nabliudat-za-igrovym-processom-i-obshhatsia-s-igrokami-v-realnom-vremeni.html) (оно же «Goose Dimension»), которое предлагает четырех виртуальных девушек с разными характерами, голосами и биографиями. \n\nВ отличие от обычных чат-ботов, Eciyuan распознает игровой экран в реальном времени: в MOBA и FPS подсказывает тайминги, а в одиночных приключениях — намекает на решения головоломок, причем делает это в манере выбранного персонажа, а не сухим голосом навигатора. \n\nПриложение также может работать и вне игры, на рабочем столе, менять обои под наряд персонажа и болтать на отвлеченные темы. \n\nБета пока доступна только в Китае, без даты глобального релиза и цен.",
+    "views": 14544,
+    "forwards": 264,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.82,
+      "category": "ai",
+      "summary": "Tencent запустила в Китае бета-тест ИИ-компаньонов, которые распознают игровой процесс в реальном времени и общаются с игроками.",
+      "keywords": [
+        "Tencent",
+        "ИИ-компаньоны",
+        "Eciyuan",
+        "игры",
+        "распознавание экрана"
+      ]
+    }
+  },
+  {
+    "id": 98817,
+    "channel_id": "docsllm",
+    "date": "2026-11-14T21:03:26+00:00",
+    "text": "Напоминаю, люди, берегите кукуху",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткий призыв заботиться о психическом здоровье без новостного содержания.",
+      "keywords": [
+        "психическое здоровье",
+        "самозабота",
+        "призыв"
+      ]
+    }
+  }
+]

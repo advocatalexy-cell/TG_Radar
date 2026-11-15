@@ -1,0 +1,82 @@
+[
+  {
+    "id": 23296,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-15T17:54:18+00:00",
+    "text": "https://qwen.ai/qwencode",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "В сообщении приведена только ссылка на Qwen Code без пояснений.",
+      "keywords": [
+        "Qwen",
+        "Qwen Code",
+        "ссылка"
+      ]
+    }
+  },
+  {
+    "id": 23295,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-15T17:51:03+00:00",
+    "text": "https://www.deepseek.com/en/harness/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "В сообщении приведена только ссылка на сайт DeepSeek без пояснений или содержательной информации.",
+      "keywords": [
+        "DeepSeek",
+        "ссылка",
+        "сайт"
+      ]
+    }
+  },
+  {
+    "id": 23292,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-15T17:06:45+00:00",
+    "text": "Вот что нашел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации для оценки.",
+      "keywords": [
+        "пустой пост",
+        "нет данных",
+        "нет новости"
+      ]
+    }
+  },
+  {
+    "id": 23291,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-15T17:06:35+00:00",
+    "text": "https://blog.laozhang.ai/en/posts/qwen-usage-limits",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Ссылка на статью о лимитах использования Qwen без текста или пояснения.",
+      "keywords": [
+        "Qwen",
+        "лимиты использования",
+        "ИИ"
+      ]
+    }
+  }
+]
