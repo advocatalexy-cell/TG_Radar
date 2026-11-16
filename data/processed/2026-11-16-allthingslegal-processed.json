@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1619,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-16T13:12:30+00:00",
+    "text": "Harvey, видимо, нацелен на новый сегмент средних и бутиковых юридических фирм. Среди крупняка ловить уже нечего, практически любая фирма из верхнего сегмента тестирует либо Harvey, либо Legora, а чаще всего обеих. Так что фирма просила консалтеров TITANS создать фреймворк для ИИ в средине и маленькие  юрфирмы. Получилось «The Amplified Firm». \n\n#reference",
+    "views": 227,
+    "forwards": 12,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.76,
+      "category": "business",
+      "summary": "Harvey ориентируется на средние и небольшие юридические фирмы, для которых TITANS разработала ИИ-фреймворк «The Amplified Firm».",
+      "keywords": [
+        "Harvey",
+        "TITANS",
+        "The Amplified Firm",
+        "юридические фирмы",
+        "ИИ"
+      ]
+    }
+  }
+]

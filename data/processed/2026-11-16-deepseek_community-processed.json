@@ -1,0 +1,62 @@
+[
+  {
+    "id": 23338,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-16T18:30:38+00:00",
+    "text": "Кто уже гонял Qwen Max 4 в чате? У меня на длинных задачах пока держится бодро, но лимиты всплывают неожиданно. А у вас как с ним?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "ai",
+      "summary": "Автор делится кратким впечатлением о Qwen Max 4 и спрашивает об опыте других, отмечая неожиданные лимиты.",
+      "keywords": [
+        "Qwen Max 4",
+        "длинные задачи",
+        "лимиты"
+      ]
+    }
+  },
+  {
+    "id": 23323,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-16T14:07:41+00:00",
+    "text": "Ну вот, опять на неделю ляжет... 😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткая шутливая реплика без контекста и содержательной информации.",
+      "keywords": [
+        "шутка",
+        "реакция",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 23304,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-16T07:12:18+00:00",
+    "text": "Попробуем, какая у него там продуктивность..",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор без уточнений предлагает оценить чью-то продуктивность.",
+      "keywords": [
+        "продуктивность",
+        "оценка",
+        "неясный контекст"
+      ]
+    }
+  }
+]

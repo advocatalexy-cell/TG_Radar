@@ -1,0 +1,45 @@
+[
+  {
+    "id": 10550,
+    "channel_id": "uslegalnews",
+    "date": "2026-11-16T18:44:48+00:00",
+    "text": "Губернатор Калифорнии Гэвин Ньюсом посетил Украину.",
+    "views": 1921,
+    "forwards": 63,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "politics",
+      "summary": "Губернатор Калифорнии Гэвин Ньюсом посетил Украину.",
+      "keywords": [
+        "Гэвин Ньюсом",
+        "Калифорния",
+        "Украина",
+        "визит"
+      ]
+    }
+  },
+  {
+    "id": 10549,
+    "channel_id": "uslegalnews",
+    "date": "2026-11-16T17:53:02+00:00",
+    "text": "[Выпуск 203 \"Трифектов\" ](https://youtu.be/CQ7UZ3vEDWw)доступен. \n\nСегодня в программе тройной бурбон американистики: [Ян Веселов](https://t.me/one_big_union), [Александра Филиппенко](https://t.me/USAelections24) и [Игорь Слабых](https://t.me/uslegalnews).\n\nТемы выпуска.\n\nМиллер - новый главы администрации Белого дома\nВ США сбой систем аэропортов\nИмпичмент Хегсета провалился\nШпионский скандал в Nvidia\nШумеру бросили вызов \nWildcard (памятник Трампу-уклонисту)\n\nЕсли вы хотите не смотреть, а слушать, то \"Трифекты\" так же выходят и в виде подкаста на [Spotify](https://open.spotify.com/show/3UJtr9FK92dbz4oPm9blwZ?si=k2oBy9TgTLquw2P9tXR9aw) и[ Apple Podcasts](https://podcasts.apple.com/us/podcast/%D1%82%D1%80%D0%B8%D1%84%D0%B5%D0%BA%D1%82%D1%8B/id1895765116).\n\nhttps://youtu.be/CQ7UZ3vEDWw",
+    "views": 3172,
+    "forwards": 6,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "politics",
+      "summary": "Выпуск подкаста обсуждает кадровые изменения в Белом доме, сбой в аэропортах США, провал импичмента Хегсета и другие политические темы.",
+      "keywords": [
+        "Белый дом",
+        "сбой аэропортов",
+        "импичмент",
+        "США",
+        "Nvidia"
+      ]
+    }
+  }
+]
