@@ -1,0 +1,22 @@
+[
+  {
+    "id": 64,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-17T15:41:20+00:00",
+    "text": "https://horizon-labs.ai/",
+    "views": 2512,
+    "forwards": 50,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "В сообщении размещена только ссылка на сайт Horizon Labs без пояснений или новостного содержания.",
+      "keywords": [
+        "Horizon Labs",
+        "ссылка",
+        "сайт"
+      ]
+    }
+  }
+]

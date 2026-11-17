@@ -1,0 +1,44 @@
+[
+  {
+    "id": 21759,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-17T15:45:16+00:00",
+    "text": "Начинаем уже через 15 минут:)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Сообщение сообщает о скором начале события, но не уточняет его суть.",
+      "keywords": [
+        "начало",
+        "событие",
+        "15 минут"
+      ]
+    }
+  },
+  {
+    "id": 21757,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-17T15:30:48+00:00",
+    "text": "Коллеги, привет! Выложил в публичный репозиторий свой Legal Copilot — набор юридических скиллов, плейбуков и инструментов для работы с ИИ через Claude и Codex. Часть функционала пока в бета-версии. Проект продолжает развиваться, буду рад обратной связи и предложениям! https://github.com/kulpanovichdenis-spec/legal-copilot-ru",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.66,
+      "category": "ai",
+      "summary": "В открытом доступе опубликован Legal Copilot — набор юридических инструментов и сценариев работы с Claude и Codex.",
+      "keywords": [
+        "Legal Copilot",
+        "ИИ",
+        "юридические инструменты",
+        "Claude",
+        "Codex"
+      ]
+    }
+  }
+]

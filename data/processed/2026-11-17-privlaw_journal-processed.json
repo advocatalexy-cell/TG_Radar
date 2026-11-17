@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4037,
+    "channel_id": "privlaw_journal",
+    "date": "2026-11-17T17:37:01+00:00",
+    "text": "**🏙️ Клуб Цивилистов — найди свой город!**\n\nВсе сообщества Клуба — в этом посте. \n\n📌 Вступайте в чат своего города:\n\n• **Нижний Новгород** https://t.me/civilistclubNN\n\n• **Новосибирск** https://t.me/civilistclubnovosib\n\n• **Барнаул** https://t.me/civilistclubbarnaul\n\n• **Краснодар** https://t.me/civilistclubkrasnodar\n\n• **Санкт-Петербург** https://t.me/civilist_club_spb\n\n• **Саратов** https://t.me/+H2GvaRqE5tk3OTMy\n\n• **Самара** [https://t.me/civilistclubsamar](https://t.me/civilistclubsamara)\n\n• **Сыктывкар** https://t.me/+RSavruCwZCExOTNi \n\n• **Челябинск**  https://t.me/civilistclubchelyabinsk\n\n• **Москва** https://t.me/civilistclubmoskva\n\n• **Тюмень** https://t.me/+Pa5yorjZq6cwZDYy\n\n• **Тверь** https://t.me/+0JMMAagv8JMwNmFi\n\n• **Екатеринбург** https://t.me/+muB2fmOSwHpmNGMy\n\n• **Югра** https://t.me/+hvxV1EBayUQwNjhi\n\n• **Мурманск** https://t.me/+O1Md2IhuHUs0YmNi \n\n• **Южно-Сахалинск** https://t.me/+O1Md2IhuHUs0YmNi\n\n• **Красноярск** https://t.me/civilistclubkrasnoyarsk\n\n• **Пермь** https://t.me/+7QSXlBDWu7plNjIy \n\n• **Ярославль** https://t.me/+XbpalLeqC1xkZmEy\n\n• **Иркутск** https://t.me/civilistclubirkutsk \n\n• **Уфа** https://t.me/+477rNxQUw3MyNmFi",
+    "views": 296,
+    "forwards": 1,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Рекламный пост приглашает вступить в городские чаты Клуба Цивилистов.",
+      "keywords": [
+        "Клуб Цивилистов",
+        "городские чаты",
+        "приглашение"
+      ]
+    }
+  },
+  {
+    "id": 4036,
+    "channel_id": "privlaw_journal",
+    "date": "2026-11-17T06:53:50+00:00",
+    "text": "🤖 **Чем грозит использование контента, сгенерированного ИИ?**\n\n💡 Главную проблему использования ИИ-контента подняли в этом видео **Андрей Егоров** и **Наталья Спиридонова** в отрывке из семинара «[**Искусственный интеллект и авторские права: правовое регулирование и риски для бизнеса**](http://civilistclub.ru/event/20260618?gcpc=ada9d&utm_source=max&utm_medium=organic+&utm_campaign=18062026)».\n\n🎞️ Полная десятиминутная версия отрывка — на платформе [VK Видео](https://vkvideo.ru/video-175402540_456239440).\n\nВ ходе семинара также обсуждались **практические вопросы для бизнеса**:\n\n• использование генеративного ИИ и минимизация рисков нарушения авторских прав;\n• договорные механизмы распределения рисков;\n• комплаенс при разработке и внедрении ИИ-решений.\n\n⚡️ **Полная запись **семинара доступна по [**премиум-подписке Клуба Цивилистов**](https://civilistclub.ru/)\n\n**📌 **Подробнее: \n\nhttps://civilistclub.ru/",
+    "views": 510,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "На семинаре обсудили правовые риски использования ИИ-контента для бизнеса, включая авторские права, договорное распределение ответственности и комплаенс.",
+      "keywords": [
+        "генеративный ИИ",
+        "авторское право",
+        "правовые риски",
+        "бизнес",
+        "комплаенс"
+      ]
+    }
+  }
+]
