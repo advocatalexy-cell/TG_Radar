@@ -1,0 +1,43 @@
+[
+  {
+    "id": 21764,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-18T12:14:36+00:00",
+    "text": "По итогам мастер-класса с Кириллом Шишлянниковым по созданию персонального помощника на базе Hermes Agent выкладываем материалы:\n\n- запись встречи https://drive.google.com/file/d/1-IDmkJvld_aJ7n6jnMd3Sr3vcR7W5-tm/view?usp=drive_link\n\n- презентация Кирилла\n\n- полный гайд по установке и запуску Hermes Agent\n\n📣 Следующие анонсы Лаборатории в [Telegram](https://t.me/routinelab) и [MAX](https://max.ru/channel_ailabmsal).\n\n💡Предложить тему для мастер-класса или выступить самому можно [тут](https://forms.yandex.ru/u/6aeb7fd24a052d141b519669/).",
+    "views": 428,
+    "forwards": 46,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "ai",
+      "summary": "Опубликованы запись, презентация и инструкция по итогам мастер-класса о создании персонального помощника на базе Hermes Agent.",
+      "keywords": [
+        "Hermes Agent",
+        "персональный помощник",
+        "мастер-класс",
+        "гайд"
+      ]
+    }
+  },
+  {
+    "id": 21763,
+    "channel_id": "msklegalhackers",
+    "date": "2026-11-18T12:14:35+00:00",
+    "text": "Делимся материалами мастер-класса:",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Анонс материалов мастер-класса без подробностей или содержательной информации.",
+      "keywords": [
+        "мастер-класс",
+        "материалы",
+        "анонс"
+      ]
+    }
+  }
+]

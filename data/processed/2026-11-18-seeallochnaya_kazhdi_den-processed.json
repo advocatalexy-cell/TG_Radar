@@ -1,0 +1,22 @@
+[
+  {
+    "id": 65,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-18T01:34:35+00:00",
+    "text": "🧠💳",
+    "views": 3151,
+    "forwards": 30,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только эмодзи и не сообщает значимой информации.",
+      "keywords": [
+        "эмодзи",
+        "нет содержания",
+        "шум"
+      ]
+    }
+  }
+]
