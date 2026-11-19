@@ -1,0 +1,183 @@
+[
+  {
+    "id": 3791,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T19:49:10+00:00",
+    "text": "давай",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит новостей, данных или аналитики.",
+      "keywords": [
+        "согласие",
+        "без содержания",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 3790,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T19:49:04+00:00",
+    "text": "могу в лс скинуть, чтобы тут не спамить?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор предлагает продолжить разговор в личных сообщениях, чтобы не засорять чат.",
+      "keywords": [
+        "личные сообщения",
+        "чат",
+        "спам"
+      ]
+    }
+  },
+  {
+    "id": 3789,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T19:48:49+00:00",
+    "text": "он на ии делает или как?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В сообщении задаётся вопрос, использовал ли автор ИИ, но контекста для ответа нет.",
+      "keywords": [
+        "ИИ",
+        "вопрос",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 3788,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T19:18:06+00:00",
+    "text": "всех приветствую! возможно у кого то есть, если подскажите буду благодарен\n\nтружусь над ботом, который делает монтаж роликов и он ни в какую не делает нормальную черновую сборку\n\nто дубли выбирает не те, то делает ошибки в склейках и тд. если у кого был с этим опыт, подскажите пожалуйста как решали этот вопрос, заранее благодарю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор просит совета по устранению ошибок в автоматическом монтаже видео ботом.",
+      "keywords": [
+        "бот",
+        "видеомонтаж",
+        "черновая сборка"
+      ]
+    }
+  },
+  {
+    "id": 3775,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T07:40:55+00:00",
+    "text": "😁👍",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только эмодзи и не несёт новостного содержания.",
+      "keywords": [
+        "эмодзи",
+        "шум",
+        "нет содержания"
+      ]
+    }
+  },
+  {
+    "id": 3774,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T07:40:12+00:00",
+    "text": "Надеюсь название профессии во всем мире зафиксируют и станет именем нарицательным. \nКак памперсы, ксерокс, джип и Шкодер",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор надеется, что название профессии станет нарицательным, как названия известных брендов.",
+      "keywords": [
+        "профессия",
+        "название",
+        "имя нарицательное",
+        "бренды"
+      ]
+    }
+  },
+  {
+    "id": 3773,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T06:26:05+00:00",
+    "text": "https://vaso80pupkin-art.github.io/Price-of-panel./\nОдно из того, что делал...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор делится ссылкой на собственный проект без пояснений о его содержании.",
+      "keywords": [
+        "проект",
+        "ссылка",
+        "портфолио"
+      ]
+    }
+  },
+  {
+    "id": 3772,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T06:25:02+00:00",
+    "text": "Работаю с Manus.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что работает с Manus, но не приводит новостей или подробностей.",
+      "keywords": [
+        "Manus",
+        "работа",
+        "инструмент"
+      ]
+    }
+  },
+  {
+    "id": 3771,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-19T06:13:22+00:00",
+    "text": "Всех приветствую.\nНачинающий шкодер Андрюха из Алматы.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор представляется и приветствует аудиторию.",
+      "keywords": [
+        "приветствие",
+        "знакомство",
+        "Алматы"
+      ]
+    }
+  }
+]

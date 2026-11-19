@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3068,
+    "channel_id": "freakingteens",
+    "date": "2026-11-19T13:06:28+00:00",
+    "text": "Всем привет, встречаемся сегодня в 17:00 в эфире радио Маяк.\n\nВопросы можете оставить под постом или:\n\n - позвонить в прямой эфир по телефону 495-728-71-71  \n                                \n -  в[ специальной форме.](https://docs.google.com/forms/d/e/1FAIpQLSeeo3NBcAtqDC6NIfMXUqqNaQaEAKn838eeeRpmyrIngQ2nrA/viewform?pli=1)   \n\nВот тут можно послушать [все предыдущие выпуски.](https://smotrim.ru/brand/73653)  \n\nДо встречи в эфире",
+    "views": 1600,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Анонс прямого эфира на радио «Маяк» с приглашением прислать вопросы.",
+      "keywords": [
+        "эфир",
+        "радио «Маяк»",
+        "анонс"
+      ]
+    }
+  }
+]
