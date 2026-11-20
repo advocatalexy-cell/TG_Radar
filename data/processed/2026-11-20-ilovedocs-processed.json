@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3743,
+    "channel_id": "ilovedocs",
+    "date": "2026-11-20T05:20:57+00:00",
+    "text": "Уже сегодня, в 14:00",
+    "views": 1421,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Указано только время события, без контекста и содержательной информации.",
+      "keywords": [
+        "сегодня",
+        "14:00",
+        "время"
+      ]
+    }
+  }
+]
