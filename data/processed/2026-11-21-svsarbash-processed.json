@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4315,
+    "channel_id": "svsarbash",
+    "date": "2026-11-21T09:43:58+00:00",
+    "text": "Сегодня было несколько новичков, напишите мне, пожалуйста, кто был",
+    "views": 276,
+    "forwards": 0,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Автор просит сообщить, кто сегодня был новичком.",
+      "keywords": [
+        "новички",
+        "сегодня",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 4314,
+    "channel_id": "svsarbash",
+    "date": "2026-11-21T08:04:08+00:00",
+    "text": "Через час",
+    "views": 341,
+    "forwards": 3,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В посте указано только время без контекста или содержательной информации.",
+      "keywords": [
+        "время",
+        "контекст",
+        "информация"
+      ]
+    }
+  }
+]

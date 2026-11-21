@@ -1,0 +1,4436 @@
+[
+  {
+    "id": 100632,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T18:55:29+00:00",
+    "text": "Именно так.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое подтверждение без содержательной информации.",
+      "keywords": [
+        "подтверждение",
+        "реакция",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 100631,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T18:54:22+00:00",
+    "text": "Тогда как он прошёл верификацию. Нет объяснения, получается.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор отмечает, что проверка верификации не объяснена.",
+      "keywords": [
+        "верификация",
+        "проверка",
+        "объяснение"
+      ]
+    }
+  },
+  {
+    "id": 100630,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T18:52:59+00:00",
+    "text": "ноу, это не работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит новости, аналитики, данных или значимого события.",
+      "keywords": [
+        "нет содержания",
+        "не работает",
+        "жалоба"
+      ]
+    }
+  },
+  {
+    "id": 100629,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T18:27:53+00:00",
+    "text": "У племянника был опыт. Выбрал Россию и с российским паспортом прошёл верификацию. Мне кажется, что прошёл, т.к. впн был подключён единый на компе и телефоне. Думаю важно то, откуда твои устройства идентифицируют. Вне РФ: проходит и с российским паспортом.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Автор делится личным опытом прохождения верификации с российским паспортом при подключённом VPN.",
+      "keywords": [
+        "верификация",
+        "российский паспорт",
+        "VPN",
+        "геолокация"
+      ]
+    }
+  },
+  {
+    "id": 100628,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T17:52:10+00:00",
+    "text": "а закинь тогда своему агенту еще вот https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.04,
+      "category": "other",
+      "summary": "Просьба передать агенту ссылку без описания содержимого публикации.",
+      "keywords": [
+        "ссылка",
+        "агент",
+        "просьба"
+      ]
+    }
+  },
+  {
+    "id": 100627,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T17:50:29+00:00",
+    "text": "Оо спасибо! Я как раз на этой неделе делал пайплайн оценки того, как изменения обвязки влияют на скорость производительности. Клод мне предложил разбить пайплайн на ветку оценки производительности кода и производительности самого агента.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.66,
+      "category": "ai",
+      "summary": "Автор описывает пайплайн для оценки влияния изменений обвязки отдельно на скорость кода и производительность ИИ-агента.",
+      "keywords": [
+        "пайплайн",
+        "оценка производительности",
+        "обвязка",
+        "ИИ-агент"
+      ]
+    }
+  },
+  {
+    "id": 100626,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T17:03:01+00:00",
+    "text": "Тормозит, да. Но это стоит того, чтобы сохранить Клода и не ломать голову)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор отмечает, что нечто работает медленно, но считает это приемлемой платой за сохранение Клода.",
+      "keywords": [
+        "Клод",
+        "медленная работа",
+        "сохранение"
+      ]
+    }
+  },
+  {
+    "id": 100625,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T17:02:15+00:00",
+    "text": "Да, работаю. На vps. Полет нормальный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор сообщает, что всё работает нормально на VPS.",
+      "keywords": [
+        "VPS",
+        "работа",
+        "стабильность"
+      ]
+    }
+  },
+  {
+    "id": 100624,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:58:01+00:00",
+    "text": "там ссылка на персону выдаётся, данные аккаунта не",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Фрагмент сообщения сообщает о ссылке на персону и данных аккаунта, но не содержит законченной новости или значимого контекста.",
+      "keywords": [
+        "персона",
+        "ссылка",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 100623,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:57:40+00:00",
+    "text": "А доступ не получает ли человек?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткий вопрос о том, получает ли человек доступ.",
+      "keywords": [
+        "доступ",
+        "человек",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100622,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:50:14+00:00",
+    "text": "Это тогда в контактный зоопарк, раз охото",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.03,
+      "category": "other",
+      "summary": "Шутливый комментарий без значимой новости или аналитического содержания.",
+      "keywords": [
+        "зоопарк",
+        "шутка",
+        "комментарий"
+      ]
+    }
+  },
+  {
+    "id": 100621,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:47:20+00:00",
+    "text": "А мой тезка разве не именно так по удаленке пользуется? @ht_lkn",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост задаёт вопрос о том, как знакомый пользуется удалённой работой, но не содержит новостной или аналитической информации.",
+      "keywords": [
+        "удалёнка",
+        "вопрос",
+        "тёзка"
+      ]
+    }
+  },
+  {
+    "id": 100620,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:47:13+00:00",
+    "text": "а если охото opus 5-5 или fable 5-2?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос о желании попробовать Opus 5-5 или Fable 5-2, без контекста и содержательной новости.",
+      "keywords": [
+        "Opus 5-5",
+        "Fable 5-2",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100619,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:44:37+00:00",
+    "text": "claude.ai",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "Упомянут сервис Claude AI без дополнительной информации.",
+      "keywords": [
+        "Claude",
+        "AI",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 100618,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:41:51+00:00",
+    "text": "добрый вечер пацаны, есть где бесплатно пощупать клода можно?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Автор спрашивает, где можно бесплатно попробовать Claude.",
+      "keywords": [
+        "Claude",
+        "бесплатный доступ",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 100617,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:37:52+00:00",
+    "text": "ага",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит лишь краткое подтверждение и не сообщает значимой информации.",
+      "keywords": [
+        "подтверждение",
+        "краткий ответ",
+        "нет информации"
+      ]
+    }
+  },
+  {
+    "id": 100616,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:37:45+00:00",
+    "text": "Имеете ввиду иной физик подтвердил акк?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Уточняющий вопрос о подтверждении аккаунта физиком.",
+      "keywords": [
+        "физик",
+        "подтверждение",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 100615,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:32:21+00:00",
+    "text": "@Nikolai_Tyukhay кажется у тебя был вопрос про фабрики софта\n\nOpenAI построила внутреннюю систему Performance Factory. Это облачная фабрика агентов Codex, которая находит причины замедлений ChatGPT и предлагает исправления. [Оригинал](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/), подкаст\n\nПервый рабочий процесс, Regression Workflow, открывает задачу, когда срабатывает алерт по производительности. Агент ищет причину и предлагает правку, инженер её проверяет, а после выкладки другой агент смотрит, вернулась ли скорость к норме. Примерно за три месяца процесс отследил больше 1 700 расследований и нашёл первопричину больше чем в 600 случаях, то есть около 17 автоматических расследований в день. Сложнее всего оказалось не найти причину, а сделать правильное исправление: здесь решение пока остаётся за инженером.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.91,
+      "category": "ai",
+      "summary": "OpenAI внедрила фабрику агентов Codex для расследования и устранения замедлений ChatGPT: за три месяца система выявила первопричины более чем в 600 случаях, но исправления проверяют инженеры.",
+      "keywords": [
+        "OpenAI",
+        "агенты Codex",
+        "Performance Factory",
+        "производительность ChatGPT",
+        "автоматизация"
+      ]
+    }
+  },
+  {
+    "id": 100614,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:28:18+00:00",
+    "text": "На Авито? А то мне тоже, прилетела проверка",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор спрашивает, связана ли проверка собеседника с Авито.",
+      "keywords": [
+        "Авито",
+        "проверка",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100613,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:28:05+00:00",
+    "text": "Ага видел ужо - конкурент малышам квенам, которая будет знать что было на площади Тяньаньмэнь.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.76,
+      "category": "ai",
+      "summary": "Упоминается модель-конкурент Qwen, которая, в отличие от неё, отвечает на вопросы о событиях на площади Тяньаньмэнь.",
+      "keywords": [
+        "ИИ",
+        "Qwen",
+        "конкурент",
+        "Тяньаньмэнь"
+      ]
+    }
+  },
+  {
+    "id": 100612,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:26:18+00:00",
+    "text": "покупка верификации по паспорту на сервисах оказывающих такие услуги, ссылки давать не буду ибо вдруг отлечу потом.\nно прошел + оплатил второй раз подписку, пока живу.\nесли что использую впс сервер, без локального пк",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.24,
+      "category": "tech",
+      "summary": "Автор сообщает, что повторно оплатил подписку после верификации по паспорту и пользуется сервисом через VPS.",
+      "keywords": [
+        "верификация",
+        "паспорт",
+        "подписка",
+        "VPS"
+      ]
+    }
+  },
+  {
+    "id": 100611,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:25:04+00:00",
+    "text": "Это как?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В сообщении нет содержательной информации для анализа.",
+      "keywords": [
+        "вопрос",
+        "контекст отсутствует",
+        "содержание отсутствует"
+      ]
+    }
+  },
+  {
+    "id": 100610,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:23:41+00:00",
+    "text": "@PureLSD новая модель, по тестам вроде хорошая https://fixupx.com/unslothai/status/2123873656069877899?a=5wrwVHljoATMqLrOaL4&s=46",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.64,
+      "category": "ai",
+      "summary": "Сообщается о новой модели PureLSD с предварительно хорошими результатами тестирования.",
+      "keywords": [
+        "PureLSD",
+        "новая модель",
+        "тестирование",
+        "результаты"
+      ]
+    }
+  },
+  {
+    "id": 100609,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:23:16+00:00",
+    "text": "да сегодня прошел через стороннюю закупку, полет пока нормальный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор сообщает, что закупка прошла через посредника и пока всё идет нормально.",
+      "keywords": [
+        "закупка",
+        "посредник",
+        "статус"
+      ]
+    }
+  },
+  {
+    "id": 100608,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:19:59+00:00",
+    "text": "не ту модель гопником прозвали...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая реплика без контекста и проверяемой информации.",
+      "keywords": [
+        "модель",
+        "прозвище",
+        "реплика"
+      ]
+    }
+  },
+  {
+    "id": 100607,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:18:24+00:00",
+    "text": "Докладываю. Прошёл идентификацию с русским заграном. В итоге -- отвалился про план. Акк целый. Бана пока нет.\nапдейт. Прилетел бан 😢",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "После прохождения идентификации по российскому загранпаспорту аккаунт сначала остался цел, но позднее был заблокирован.",
+      "keywords": [
+        "идентификация",
+        "российский загранпаспорт",
+        "бан",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 100606,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:17:49+00:00",
+    "text": "Ещё Орка начала оповещать об обновлении харнессов",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "tech",
+      "summary": "Orca начала уведомлять пользователей об обновлениях харнессов.",
+      "keywords": [
+        "Orca",
+        "уведомления",
+        "обновления",
+        "харнессы"
+      ]
+    }
+  },
+  {
+    "id": 100603,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:03:09+00:00",
+    "text": "Только стучаться желательно тоже не напрямую😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Короткая шутливая реплика без новостной или аналитической информации.",
+      "keywords": [
+        "шутка",
+        "общение",
+        "неформальный тон"
+      ]
+    }
+  },
+  {
+    "id": 100602,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:01:27+00:00",
+    "text": "Ну вон Макс Шедогубов из Турции пока сидит на впсе по ssh",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Упоминается, что Макс Шедогубов находится в Турции и подключён к VPS по SSH.",
+      "keywords": [
+        "Макс Шедогубов",
+        "Турция",
+        "VPS",
+        "SSH"
+      ]
+    }
+  },
+  {
+    "id": 100601,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T16:01:24+00:00",
+    "text": "Да. Но они же пока все-таки не запрещают использовать тот же клод с виртуальной машины и удаленно стучаться. Значит ВМ привязать к этому айпишнику и уже на ВМ стучаться удаленно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.16,
+      "category": "tech",
+      "summary": "Обсуждается обход возможных ограничений доступа к Claude через виртуальную машину с привязанным IP-адресом.",
+      "keywords": [
+        "Claude",
+        "виртуальная машина",
+        "IP-адрес",
+        "удалённый доступ"
+      ]
+    }
+  },
+  {
+    "id": 100600,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:58:18+00:00",
+    "text": "у компа есть часовый пояс, данные вайфай, блютус, сетевой карты и прочее\nспалят на раз-два\n\nчерез ssh или вебдашборд лучше вариант - но тут я не знаю ответа - как клод отнесется что его только через терминал гоняют",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Обсуждается возможность отслеживания компьютера по его системным данным и управление Claude через SSH или веб-интерфейс.",
+      "keywords": [
+        "компьютер",
+        "отслеживание",
+        "SSH",
+        "веб-дашборд"
+      ]
+    }
+  },
+  {
+    "id": 100599,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:57:19+00:00",
+    "text": "Тогда как буд-то бы правильнее просто настроить квн  так, чтобы он выходил через роутер с этого статик IP (домашнего провайдера) и потом в клод и обратно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.68,
+      "category": "tech",
+      "summary": "Предлагается направить трафик VPN через домашний роутер со статическим IP для доступа к Claude.",
+      "keywords": [
+        "VPN",
+        "роутер",
+        "статический IP",
+        "Claude",
+        "маршрутизация"
+      ]
+    }
+  },
+  {
+    "id": 100598,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:45:26+00:00",
+    "text": "Через интернет неюзабельно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Краткое оценочное замечание о проблемах с использованием интернета без конкретики.",
+      "keywords": [
+        "интернет",
+        "неудобство",
+        "оценка"
+      ]
+    }
+  },
+  {
+    "id": 100597,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:44:56+00:00",
+    "text": "С мунлайтом такая же фигня. Это не удобно.  В одной квартире по вай-фаю куда ни шло",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор жалуется на неудобство использования Moonlight, которое приемлемо лишь в пределах одной квартиры по Wi‑Fi.",
+      "keywords": [
+        "Moonlight",
+        "Wi‑Fi",
+        "удобство"
+      ]
+    }
+  },
+  {
+    "id": 100594,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:32:09+00:00",
+    "text": "надо чтобы без впн был коннект тогда инпут лага не будет, энидеск же только через впн\nя через зум пробовал там быстрее \nеще это можно попробовать, мунлайт дома летает, как удаленно еще не проверял",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.16,
+      "category": "tech",
+      "summary": "Обсуждают варианты удалённого подключения и задержку ввода в AnyDesk, Zoom и Moonlight.",
+      "keywords": [
+        "удалённое подключение",
+        "AnyDesk",
+        "Zoom",
+        "Moonlight"
+      ]
+    }
+  },
+  {
+    "id": 100593,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:31:54+00:00",
+    "text": "Кошмар конечно((",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Выражение негативной эмоции без конкретной информации.",
+      "keywords": [
+        "эмоция",
+        "негатив",
+        "реакция"
+      ]
+    }
+  },
+  {
+    "id": 100592,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:30:33+00:00",
+    "text": "Недовольны",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит лишь слово «Недовольны» и не передаёт содержательной информации.",
+      "keywords": [
+        "недовольство",
+        "неполный текст",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100591,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:30:18+00:00",
+    "text": "Народ уходит преимущественно на ЧатГПТ, кто-то на китайцев, некоторые на Джемини",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "ai",
+      "summary": "Автор отмечает, что пользователи переходят преимущественно на ChatGPT, а также на китайские модели и Gemini.",
+      "keywords": [
+        "ChatGPT",
+        "Gemini",
+        "китайские модели",
+        "пользователи"
+      ]
+    }
+  },
+  {
+    "id": 100590,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:29:13+00:00",
+    "text": "И какая теперь альтернатива Клоду?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "other",
+      "summary": "Пост содержит короткий вопрос об альтернативах Claude без новостей или содержательной аналитики.",
+      "keywords": [
+        "Claude",
+        "альтернатива",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100589,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:29:02+00:00",
+    "text": "Тут в чате пару человек пыталось — плюнули и сдались, перевели на терминал с ssh работу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.56,
+      "category": "tech",
+      "summary": "Несколько человек не смогли справиться с задачей и перешли работать через терминал по SSH.",
+      "keywords": [
+        "терминал",
+        "SSH",
+        "работа",
+        "неудача"
+      ]
+    }
+  },
+  {
+    "id": 100588,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:28:17+00:00",
+    "text": "Слишком большой инпут лаг",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая жалоба на заметную задержку ввода без контекста.",
+      "keywords": [
+        "инпут лаг",
+        "задержка",
+        "жалоба"
+      ]
+    }
+  },
+  {
+    "id": 100587,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:27:22+00:00",
+    "text": "Ну попробуйте как-нибудь. Я нормально работать через Энидеск на своём мак мини не могу, например",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Автор сообщает о проблемах с работой через AnyDesk на Mac mini.",
+      "keywords": [
+        "AnyDesk",
+        "Mac mini",
+        "удалённый доступ"
+      ]
+    }
+  },
+  {
+    "id": 100586,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:26:57+00:00",
+    "text": "Банят и VPS, и VPN, никакого четкого пути обойти бан нет.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "Сообщается о блокировках VPS и VPN без ясного способа их обхода.",
+      "keywords": [
+        "блокировки",
+        "VPS",
+        "VPN",
+        "обход блокировок"
+      ]
+    }
+  },
+  {
+    "id": 100585,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:26:27+00:00",
+    "text": "это почему? облачный гейминг люди играют даже а тут просто буковки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор недоумевает, почему люди выбирают облачный гейминг, тогда как здесь предлагают читать текст.",
+      "keywords": [
+        "облачный гейминг",
+        "игры",
+        "текст"
+      ]
+    }
+  },
+  {
+    "id": 100584,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:25:34+00:00",
+    "text": "Плюс, если взять статический айпишник, через него не будут идти запросы с десятков и сотен аккаунтов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.16,
+      "category": "tech",
+      "summary": "Утверждается, что статический IP-адрес исключит прохождение запросов от множества аккаунтов.",
+      "keywords": [
+        "статический IP",
+        "запросы",
+        "аккаунты"
+      ]
+    }
+  },
+  {
+    "id": 100583,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:25:10+00:00",
+    "text": "ну впн же можно в другой стране взять сервак, русские берут русские сервера в основном",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "В посте утверждается, что пользователи выбирают VPN-серверы в зависимости от страны.",
+      "keywords": [
+        "VPN",
+        "серверы",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 100582,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:25:01+00:00",
+    "text": "Ну во-первых не факт. во-вторых, ты можешь «пробить»)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая реплика без содержательной новости или аналитики.",
+      "keywords": [
+        "реплика",
+        "проверка",
+        "диалог"
+      ]
+    }
+  },
+  {
+    "id": 100581,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:24:32+00:00",
+    "text": "Так селфхостед в том же ЦОДе сидят наверняка.)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Короткое предположение о размещении селфхостед-сервисов в том же ЦОДе.",
+      "keywords": [
+        "селфхостед",
+        "ЦОД",
+        "размещение"
+      ]
+    }
+  },
+  {
+    "id": 100580,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:23:59+00:00",
+    "text": "публичные впн сервисы имел ввиду",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Уточнение, что речь идёт о публичных VPN-сервисах; содержательной новости или аналитики нет.",
+      "keywords": [
+        "VPN",
+        "публичные сервисы",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 100579,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:23:45+00:00",
+    "text": "Пользоваться нормально невозможно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Краткая жалоба на невозможность нормально пользоваться чем-либо без уточнения контекста.",
+      "keywords": [
+        "жалоба",
+        "неудобство",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 100578,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:23:25+00:00",
+    "text": "почему? 0 шансов бана",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос о причинах утверждения, что шансов на бан нет; контекста недостаточно.",
+      "keywords": [
+        "бан",
+        "вероятность",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100577,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:23:10+00:00",
+    "text": "Да не, это полная шляпа",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только эмоциональную оценку без контекста или фактической информации.",
+      "keywords": [
+        "мнение",
+        "оценка",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 100576,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:23:08+00:00",
+    "text": "Я просто не знаю как иначе истолковать фразу \"не использовать сервисы\".",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор выражает недоумение по поводу смысла фразы «не использовать сервисы».",
+      "keywords": [
+        "сервисы",
+        "толкование",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 100575,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:22:51+00:00",
+    "text": "самое разумное с физического адреса компа в другой стране заходить - через удаленку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "tech",
+      "summary": "Советуется использовать удалённый доступ к компьютеру в другой стране для выхода в интернет с его физического адреса.",
+      "keywords": [
+        "удалённый доступ",
+        "компьютер",
+        "другая страна",
+        "IP-адрес"
+      ]
+    }
+  },
+  {
+    "id": 100574,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:22:49+00:00",
+    "text": "Это, конечно, идеально. Но ты моё мнение и как я делал знаешь",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая реплика с отсылкой к личному мнению и прежнему опыту без новостного содержания.",
+      "keywords": [
+        "мнение",
+        "опыт",
+        "личная реплика"
+      ]
+    }
+  },
+  {
+    "id": 100573,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:21:57+00:00",
+    "text": "да, так делают\n\nнасколько успешно не знаю",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор подтверждает, что так делают, но не знает, насколько это успешно.",
+      "keywords": [
+        "подтверждение",
+        "успешность",
+        "неопределённость"
+      ]
+    }
+  },
+  {
+    "id": 100571,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:21:38+00:00",
+    "text": "Из других вариков - заводить резидентский IP? Учитывая, что ВэПСэ тоже в каких-то ЦОДах сидят.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Обсуждается вариант использовать резидентский IP вместо VPS.",
+      "keywords": [
+        "резидентский IP",
+        "VPS",
+        "ЦОД",
+        "альтернативы"
+      ]
+    }
+  },
+  {
+    "id": 100570,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:21:14+00:00",
+    "text": "То есть назвали Иван Васин и все, а паспорт другого человека",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Фраза указывает на возможное несоответствие имени и паспорта, но не содержит контекста или проверяемых сведений.",
+      "keywords": [
+        "Иван Васин",
+        "паспорт",
+        "несоответствие"
+      ]
+    }
+  },
+  {
+    "id": 100569,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:20:49+00:00",
+    "text": "Тем более сервисы впн, которые всеми ассоциированы с русскими",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Фрагмент высказывания о том, что VPN-сервисы ассоциируются с русскими, без контекста и содержательного сообщения.",
+      "keywords": [
+        "VPN",
+        "сервисы",
+        "ассоциации"
+      ]
+    }
+  },
+  {
+    "id": 100568,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:20:23+00:00",
+    "text": "Ну аккаунт там же логин, под фамилией и именем может сидеть один человек",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Высказано предположение, что за аккаунтом, оформленным на имя и фамилию, может стоять один человек.",
+      "keywords": [
+        "аккаунт",
+        "логин",
+        "имя",
+        "фамилия"
+      ]
+    }
+  },
+  {
+    "id": 100567,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:20:19+00:00",
+    "text": "Тут согласен, эт прям харам",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая реакция согласия без контекста и содержательной информации.",
+      "keywords": [
+        "согласие",
+        "оценка",
+        "реакция"
+      ]
+    }
+  },
+  {
+    "id": 100566,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:20:09+00:00",
+    "text": "целых (!) 10 дней",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит лишь эмоционально выделенный срок в 10 дней без контекста.",
+      "keywords": [
+        "10 дней",
+        "срок",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100565,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:20:04+00:00",
+    "text": "нельзя сервисы использовать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение содержит запрет на использование сервисов, но не сообщает новостей или значимых событий.",
+      "keywords": [
+        "сервисы",
+        "запрет",
+        "ограничение"
+      ]
+    }
+  },
+  {
+    "id": 100564,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:19:51+00:00",
+    "text": "Этот же ВПН до верификации работал с Клодом 10 дней.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "Утверждается, что тот же VPN работал с Claude в течение 10 дней до прохождения верификации.",
+      "keywords": [
+        "VPN",
+        "Claude",
+        "верификация",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 100563,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:19:28+00:00",
+    "text": "Ну, известные массовые впны я бы уже месяцев 8 как не использовал с Клодом",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор сообщает, что около восьми месяцев не использует популярные массовые VPN-сервисы для доступа к Claude.",
+      "keywords": [
+        "VPN",
+        "Claude",
+        "сервисы",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 100562,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:18:22+00:00",
+    "text": "Да, самый настоящий казахский казах. Использовался Red Shield с локой Казахстана.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Утверждается, что человек казахского происхождения использовал Red Shield с локацией в Казахстане.",
+      "keywords": [
+        "казах",
+        "Red Shield",
+        "Казахстан"
+      ]
+    }
+  },
+  {
+    "id": 100561,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:18:02+00:00",
+    "text": "Ага",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "реакция",
+        "подтверждение",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 100560,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:53+00:00",
+    "text": "айпишка не совпала и тд",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Недостаточно контекста, чтобы определить содержание поста.",
+      "keywords": [
+        "неясный контекст",
+        "айпишка",
+        "совпадение"
+      ]
+    }
+  },
+  {
+    "id": 100559,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:51+00:00",
+    "text": "А верификацию в кз проходили?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос о прохождении верификации в Казахстане без дополнительного контекста.",
+      "keywords": [
+        "верификация",
+        "Казахстан",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100558,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:50+00:00",
+    "text": "дык, дальше то статистика будет собираться не с казахского акка и геолокации 🙈️️️️ ... тут впс возможно даст свою фору, но как Ян тут давеча подмечал, скоро впс станет очередным редфлагом ... и я согласен тут с ним",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор обсуждает влияние казахского аккаунта, геолокации и VPN на сбор статистики и возможные подозрения из-за VPN.",
+      "keywords": [
+        "статистика",
+        "геолокация",
+        "казахский аккаунт",
+        "VPN"
+      ]
+    }
+  },
+  {
+    "id": 100557,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:39+00:00",
+    "text": "Вон, участник сообщества верифицировал у гражданина США, с такой же фамилией как у него. Через неделю, что ли, или меньше, повторный запрос верификации и бан",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Участник сообщества рассказал о бане после повторного запроса верификации.",
+      "keywords": [
+        "верификация",
+        "бан",
+        "сообщество"
+      ]
+    }
+  },
+  {
+    "id": 100556,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:34+00:00",
+    "text": "в смысле настоящий? не генка?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос без контекста, не содержащий значимой новости или аналитики.",
+      "keywords": [
+        "вопрос",
+        "уточнение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100555,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:17:11+00:00",
+    "text": "У меня казахский паспорт полетел в бан вместе с моей соткой.)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор шутливо сообщает о блокировке казахстанского паспорта и телефона.",
+      "keywords": [
+        "Казахстан",
+        "паспорт",
+        "телефон",
+        "блокировка"
+      ]
+    }
+  },
+  {
+    "id": 100554,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:16:45+00:00",
+    "text": "Да могут, конечно, но результат не гарантирован",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткое утверждение о том, что возможность есть, но результат не гарантирован.",
+      "keywords": [
+        "возможность",
+        "результат",
+        "неопределённость"
+      ]
+    }
+  },
+  {
+    "id": 100553,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:16:28+00:00",
+    "text": "Например родственники)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "родственники",
+        "пример"
+      ]
+    }
+  },
+  {
+    "id": 100552,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:16:19+00:00",
+    "text": "А мне вот интересно а могут ли они верифицироваться через старый аккаунт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор задаётся вопросом, можно ли пройти верификацию через старый аккаунт.",
+      "keywords": [
+        "верификация",
+        "старый аккаунт",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100551,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:16:05+00:00",
+    "text": "Где найти этого Казаха?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Короткий вопрос без контекста и значимой информации.",
+      "keywords": [
+        "вопрос",
+        "Казах",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100550,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:15:41+00:00",
+    "text": "То есть по логике, если верификацию пройдут с Казахстана",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Незавершённая фраза о прохождении верификации из Казахстана без контекста и содержательной новости.",
+      "keywords": [
+        "верификация",
+        "Казахстан",
+        "проверка"
+      ]
+    }
+  },
+  {
+    "id": 100549,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:15:41+00:00",
+    "text": "Слышал положительные случаи с Казахстаном, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткое неподтверждённое мнение о положительном опыте взаимодействия с Казахстаном.",
+      "keywords": [
+        "Казахстан",
+        "положительный опыт",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 100548,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:15:25+00:00",
+    "text": "Все верно на Казаха делаем аккаунт, верифицируем, оплачиваем его картой и сидим через его сервер) ну или любую другую страну",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.64,
+      "category": "tech",
+      "summary": "Предлагается зарегистрировать и оплатить аккаунт через Казахстан или другую страну, используя местный сервер.",
+      "keywords": [
+        "аккаунт",
+        "верификация",
+        "оплата",
+        "Казахстан",
+        "сервер"
+      ]
+    }
+  },
+  {
+    "id": 100547,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:14:58+00:00",
+    "text": "Я так понимаю у Казахов есть возможность",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост содержит незавершённое предположение без конкретной информации.",
+      "keywords": [
+        "Казахстан",
+        "предположение",
+        "неполный текст"
+      ]
+    }
+  },
+  {
+    "id": 100546,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:14:48+00:00",
+    "text": "Успешно без немедленного бана и без повторного запроса верификации через пару дней проходят реальные жители целевой страны с реальным документом этой страны",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.74,
+      "category": "other",
+      "summary": "Реальные жители целевой страны с местными документами успешно проходят верификацию без бана и повторной проверки.",
+      "keywords": [
+        "верификация",
+        "документы",
+        "жители",
+        "бан",
+        "проверка"
+      ]
+    }
+  },
+  {
+    "id": 100544,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:14:07+00:00",
+    "text": "Вчера пыталась новый аккаунт сделать с этими скрывателями времени и геолокации, не получилось (",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает о неудачной попытке создать аккаунт с инструментами для сокрытия времени и геолокации.",
+      "keywords": [
+        "аккаунт",
+        "геолокация",
+        "время"
+      ]
+    }
+  },
+  {
+    "id": 100543,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:13:19+00:00",
+    "text": "Вот тут и ниже делюсь своими восторгами)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор сообщает, что ниже поделится впечатлениями, но содержательной информации пока нет.",
+      "keywords": [
+        "впечатления",
+        "анонс",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 100542,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:11:53+00:00",
+    "text": "таких нет, русская рулетка-черепомерка ... там выше давали какой-то очередной супералгоритм, но пока никто не возвращался с положительным фидбеком )))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор скептически отзывается о ранее упомянутом алгоритме, отмечая отсутствие положительных отзывов.",
+      "keywords": [
+        "алгоритм",
+        "отзывы",
+        "скепсис"
+      ]
+    }
+  },
+  {
+    "id": 100541,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:11:39+00:00",
+    "text": "Я уже кидал, да)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор сообщает, что уже отправлял это ранее.",
+      "keywords": [
+        "повтор",
+        "сообщение",
+        "ранее"
+      ]
+    }
+  },
+  {
+    "id": 100540,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:09:31+00:00",
+    "text": "Товарищи поделитесь реальным способом верификации в Клод что бы не улететь в бан",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор просит поделиться способом верификации в Claude, чтобы избежать блокировки.",
+      "keywords": [
+        "Claude",
+        "верификация",
+        "блокировка",
+        "аккаунт"
+      ]
+    }
+  },
+  {
+    "id": 100539,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:08:22+00:00",
+    "text": "Там щас полный редизайн идет вообще https://fixupx.com/thsottiaux/status/2123557171321561133/video/1?t=6",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Автор утверждает, что сейчас идет полный редизайн, но не уточняет, о каком продукте речь.",
+      "keywords": [
+        "редизайн",
+        "продукт",
+        "обновление"
+      ]
+    }
+  },
+  {
+    "id": 100538,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:07:16+00:00",
+    "text": "Так что вполне возможно, что бракоделы из ОпенАИ просто забыли его обновить или отложили",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Автор предполагает, что OpenAI не обновила некий объект или отложила обновление.",
+      "keywords": [
+        "OpenAI",
+        "обновление",
+        "предположение"
+      ]
+    }
+  },
+  {
+    "id": 100537,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:06:43+00:00",
+    "text": "Просто приложения для айпада обычно сироты",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "Краткое мнение о том, что приложения для iPad часто остаются без поддержки или развития.",
+      "keywords": [
+        "iPad",
+        "приложения",
+        "поддержка"
+      ]
+    }
+  },
+  {
+    "id": 100536,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:06:22+00:00",
+    "text": "так я про ворк и не говорил, про ворк я выше говорил, и там я тоже не видел ограничений по ризонингу",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор уточняет, что ранее не видел ограничений на рассуждение в упомянутом контексте.",
+      "keywords": [
+        "ворк",
+        "ограничения",
+        "ризонинг"
+      ]
+    }
+  },
+  {
+    "id": 100535,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:06:22+00:00",
+    "text": "Один и тот же аккаунт",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост содержит лишь фразу «Один и тот же аккаунт» без новостного контекста.",
+      "keywords": [
+        "аккаунт",
+        "контекст",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 100534,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:06:09+00:00",
+    "text": "Чудеса",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только одно слово и не сообщает значимой информации.",
+      "keywords": [
+        "шум",
+        "нет содержания",
+        "неинформативно"
+      ]
+    }
+  },
+  {
+    "id": 100533,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:06:06+00:00",
+    "text": "Проверил с телефона - доступен режим максимальный",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "tech",
+      "summary": "Автор сообщает, что с телефона доступен максимальный режим.",
+      "keywords": [
+        "телефон",
+        "максимальный режим",
+        "доступность"
+      ]
+    }
+  },
+  {
+    "id": 100532,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:05:55+00:00",
+    "text": "Он вебчат показывает, видите же Pro плашку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "tech",
+      "summary": "В посте отмечается, что веб-чат показывает плашку Pro.",
+      "keywords": [
+        "веб-чат",
+        "Pro",
+        "интерфейс"
+      ]
+    }
+  },
+  {
+    "id": 100531,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:05:28+00:00",
+    "text": "Ну гляньте, есть у Вас такая настройка или нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит просьбу проверить наличие настройки, но не сообщает новостей или значимых данных.",
+      "keywords": [
+        "настройка",
+        "проверка",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100529,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:04:56+00:00",
+    "text": "Эт не ворк, это вебчат",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Короткая реплика без новостной или аналитической информации.",
+      "keywords": [
+        "вебчат",
+        "реплика",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 100527,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:04:11+00:00",
+    "text": "только такое есть",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "нет данных",
+        "отсутствие информации",
+        "пустой пост"
+      ]
+    }
+  },
+  {
+    "id": 100526,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:04:05+00:00",
+    "text": "Я вот сейчас специально пошёл в настройки, включил Макс и Ультра ризонинги —появились и в Кодексе, и в Ворке на айфоне",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "tech",
+      "summary": "Пользователь сообщает, что после включения режимы Max и Ultra Reasoning стали доступны в Codex и Work на iPhone.",
+      "keywords": [
+        "Max",
+        "Ultra Reasoning",
+        "Codex",
+        "Work",
+        "iPhone"
+      ]
+    }
+  },
+  {
+    "id": 100525,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:03:05+00:00",
+    "text": "В клиенте на айпад они недоступны",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "tech",
+      "summary": "Указано, что некие функции недоступны в клиенте на iPad, без уточнения подробностей.",
+      "keywords": [
+        "iPad",
+        "клиент",
+        "недоступность"
+      ]
+    }
+  },
+  {
+    "id": 100524,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:03:04+00:00",
+    "text": "Нет, отдельного лимита на уровни ризонинга точно нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "В посте утверждается, что отдельного лимита на уровни рассуждения нет, без пояснений и источников.",
+      "keywords": [
+        "лимит",
+        "уровни рассуждения",
+        "утверждение"
+      ]
+    }
+  },
+  {
+    "id": 100523,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T15:00:06+00:00",
+    "text": "У меня в режиме работа также доступен только очень высокий, хотя никаких уведомлений о лимитах не вылезало. Может у них есть скрытый лимит запросов по определенному уровню размышления вне основных лимитов подписок",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.61,
+      "category": "tech",
+      "summary": "Пользователь предполагает наличие скрытого лимита на высокий уровень размышления, не связанного с основными лимитами подписки.",
+      "keywords": [
+        "лимиты запросов",
+        "уровень размышления",
+        "режим работа",
+        "подписка",
+        "скрытый лимит"
+      ]
+    }
+  },
+  {
+    "id": 100522,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:59:23+00:00",
+    "text": "Тогда Алекс Вам правильно показал настройку в приложении ЧатГПТ",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Сообщение подтверждает, что Алекс правильно показал настройку в приложении ChatGPT.",
+      "keywords": [
+        "Алекс",
+        "настройка",
+        "ChatGPT"
+      ]
+    }
+  },
+  {
+    "id": 100521,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:58:36+00:00",
+    "text": "Подписка за 100$",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Указана стоимость подписки — 100 долларов, без дополнительного контекста.",
+      "keywords": [
+        "подписка",
+        "100 долларов",
+        "стоимость"
+      ]
+    }
+  },
+  {
+    "id": 100520,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:58:23+00:00",
+    "text": "Уровень Подписки вероятно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": [
+        "подписка",
+        "уровень",
+        "неясно"
+      ]
+    }
+  },
+  {
+    "id": 100519,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:58:14+00:00",
+    "text": "Технические работы на серверах",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Сообщение о технических работах на серверах без дополнительных подробностей.",
+      "keywords": [
+        "технические работы",
+        "серверы",
+        "обслуживание"
+      ]
+    }
+  },
+  {
+    "id": 100518,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:55:35+00:00",
+    "text": "Что вы имеете в виду под ГПТ Про?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пользователь просит пояснить, что означает термин «ГПТ Про».",
+      "keywords": [
+        "ГПТ Про",
+        "уточнение",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100515,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:52:31+00:00",
+    "text": "в коворке есть ультра, в просто \"чате\" есть \"очень высокий\" и PRO (там что то до 100 запросов в неделю или в месяц, не могу вспомнить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор сравнивает тарифы и лимиты запросов в коворкинге и чате.",
+      "keywords": [
+        "тарифы",
+        "лимиты",
+        "PRO",
+        "запросы"
+      ]
+    }
+  },
+  {
+    "id": 100514,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:52:12+00:00",
+    "text": "Всех приветствую. Кто-нибудь прошел верификацию в Клод?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор спрашивает, удалось ли кому-нибудь пройти верификацию в Claude.",
+      "keywords": [
+        "Claude",
+        "верификация",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 100512,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T14:35:32+00:00",
+    "text": "Дорогие лоеры, у меня в гпт про пропал сначала режим размышления ультра пару дней назад, а сейчас пропал максимальный. Лимиты обновлены вчера, кто-нибудь еще с этим сталкивался? Есть объяснения? Сам гпт объяснить не может",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор спрашивает о пропаже режимов размышления в GPT Pro, но не приводит подтверждённых объяснений или данных.",
+      "keywords": [
+        "GPT Pro",
+        "режим размышления",
+        "лимиты",
+        "вопрос",
+        "пользовательский опыт"
+      ]
+    }
+  },
+  {
+    "id": 100510,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T13:01:57+00:00",
+    "text": "ну тут есть тоже свои нюансы ))) Китай способен сейчас получать более высокую долю чипов с рынка, но не ту мощность, которую обещает их количество. По числу поставленных ИИ-чипов у Китая там где-то может получаться до 18% мирового объёма, по вычислительной мощности только около 10%. Причины тут банальные: все таже пресловутая санкционка, как и у РФ, т.к. значительная часть доступного железа приходится на урезанные экспортные версии вроде H20 и собственные ускорители Huawei и Cambricon. Последние дают около 40% китайского парка, но по производительности уступают передовым решениям Nvidia. Но очевидно, что Китай тут просто небожитель по сравнению с \"ресурсами\", что доступны для РФ. ((((",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.86,
+      "category": "tech",
+      "summary": "Китай располагает примерно 18% мировых ИИ-чипов по числу, но обеспечивает лишь около 10% вычислительной мощности из-за санкционных ограничений и менее производительных ускорителей.",
+      "keywords": [
+        "ИИ-чипы",
+        "Китай",
+        "вычислительная мощность",
+        "санкции",
+        "Huawei"
+      ]
+    }
+  },
+  {
+    "id": 100509,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:53:36+00:00",
+    "text": "Чтобы всё это было реально конкурентоспособным, сначала надо решить вопрос с технологическим ядром ИИ. И проблема здесь не в ЦОДах и даже не в самих LLM. Проблема в железе.\n\nПроцессоры мы худо-бедно проектировать умеем: «Байкал», МЦСТ «Эльбрус», «Элвис». С ИИ-ускорителями хуже: своего ряда GPU/NPU нужного класса нет, а инструментарий проектирования тоже во многом импортный. Но даже спроектировать чип и суметь его выпустить – две очень разные вещи. До 2022 года российские разработки производились в том числе на TSMC. Теперь этот путь фактически закрыт, а своих мощностей сопоставимого уровня нет.\n\nЕсли хочется прям суверенно-скрепного варианта, становится ещё веселее. У нас 90–65 нм, современные ускорители для LLM – 5–3 нм. Это не разрыв, который закрывается за два-три года деньгами и постановлением. Там примерно двадцать лет отставания, плюс HBM-память, современная упаковка, литография и ещё целая цепочка технологий.\n\nПоэтому выбор на ближайшие годы довольно прозаический: либо десятилетиями строить свою цепочку с неочевидным результатом, либо обеспечить тот самый ахулиардный поток чужих чипов. Китайских, серых, арендованных зарубежных мощностей – любых, до которых можно дотянуться. С CPU логика та же: нужен не штучный доступ, а масштаб.\n\nКоробки ЦОДов мы строить умеем. Запитать их тоже можем. Но без вычислительного ядра это просто дорогие коробки с электричеством. LLM (те же \"открытые веса\") можно брать с рынка, дообучать, адаптировать, выращивать свои. Всё это всё равно упирается в железо.\n\nПока этот вопрос не решён, ждать прорыва особенно неоткуда. Можно научиться лучше использовать дефицитный ресурс, но потолок от этого никуда не денется.\n\nВидел где-то статистику (я не супер эксперт, поэтому тут может и пол-палец-потолок, но тем не менее), что типа в районе 70-75% чипов для суперкомпьютеров агрегированно в США, в Китае порядка 10-15%, меньше 5% в ЕС, и остальное разбросано по остальным странам, и очевидно что РФ тут если и есть, то там дайБГ доли процента.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.92,
+      "category": "tech",
+      "summary": "Российские амбиции в ИИ ограничены нехваткой собственных современных ускорителей и производственных мощностей, поэтому в ближайшие годы придётся зависеть от импортных чипов.",
+      "keywords": [
+        "ИИ-ускорители",
+        "полупроводники",
+        "производство чипов",
+        "вычислительные мощности",
+        "технологический суверенитет"
+      ]
+    }
+  },
+  {
+    "id": 100508,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:51:26+00:00",
+    "text": "Жипу согласны",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткая фраза без контекста, из которой невозможно определить новостной смысл.",
+      "keywords": [
+        "Жипу",
+        "согласны",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100506,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:42:39+00:00",
+    "text": "И всё ещё почти в 3 раза больше оценки на IPO, так что инвесторы в плюсе",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "finance",
+      "summary": "Текущая оценка компании почти втрое превышает её оценку при IPO, поэтому инвесторы получили прибыль.",
+      "keywords": [
+        "IPO",
+        "оценка компании",
+        "инвесторы",
+        "доходность"
+      ]
+    }
+  },
+  {
+    "id": 100505,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:41:46+00:00",
+    "text": "Энивей, рынок падать перестал у них",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "finance",
+      "summary": "Кратко отмечается, что рынок перестал снижаться, без указания контекста и подтверждающих данных.",
+      "keywords": [
+        "рынок",
+        "падение",
+        "стабилизация"
+      ]
+    }
+  },
+  {
+    "id": 100503,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:41:24+00:00",
+    "text": "О, прикольно)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "реакция",
+        "оценка",
+        "без контекста"
+      ]
+    }
+  },
+  {
+    "id": 100502,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:39:12+00:00",
+    "text": "1.13 в день ipo",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "finance",
+      "summary": "Пост содержит неясное упоминание показателя «1,13 в день IPO» без контекста.",
+      "keywords": [
+        "IPO",
+        "1,13",
+        "неясный контекст"
+      ]
+    }
+  },
+  {
+    "id": 100501,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:38:48+00:00",
+    "text": "Как думаешь, прикрутит клод черепомерку или наоборот?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Шутливый вопрос о возможной функции Claude без новостного содержания.",
+      "keywords": [
+        "Claude",
+        "вопрос",
+        "шутка"
+      ]
+    }
+  },
+  {
+    "id": 100500,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:38:28+00:00",
+    "text": "Кофейку лучше пойди бахни",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Разговорная фраза без новостного или аналитического содержания.",
+      "keywords": [
+        "кофе",
+        "разговор",
+        "совет"
+      ]
+    }
+  },
+  {
+    "id": 100499,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:34:47+00:00",
+    "text": "Пойду бросаться головой в навоз",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "личное высказывание",
+        "без содержания",
+        "не новость"
+      ]
+    }
+  },
+  {
+    "id": 100498,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:34:36+00:00",
+    "text": "Действительно аргумент",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "В посте нет содержательной информации, только фраза «Действительно аргумент».",
+      "keywords": [
+        "аргумент",
+        "мнение",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 100496,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:34:03+00:00",
+    "text": "В конце октября акции подешевели на 20% ну обалдеть, конец света",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "finance",
+      "summary": "В конце октября акции подешевели на 20%, что автор описывает как резкое падение.",
+      "keywords": [
+        "акции",
+        "падение",
+        "20%",
+        "октябрь"
+      ]
+    }
+  },
+  {
+    "id": 100495,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:33:26+00:00",
+    "text": "Жипу на IPO сделала за первый день x33 от цены размещения",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "business",
+      "summary": "Акции Жипу в первый день торгов выросли в 33 раза относительно цены размещения на IPO.",
+      "keywords": [
+        "Жипу",
+        "IPO",
+        "акции",
+        "рост",
+        "биржа"
+      ]
+    }
+  },
+  {
+    "id": 100493,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:32:54+00:00",
+    "text": "Да ничего там не обвалилось, сколько можно эту пасту таскать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор отрицает сообщения об обвале и устал от повторения неподтверждённого утверждения.",
+      "keywords": [
+        "обвал",
+        "опровержение",
+        "повторение"
+      ]
+    }
+  },
+  {
+    "id": 100492,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:31:38+00:00",
+    "text": "И В Китае очень сильно иишка обвалилась еще https://3dnews.ru/1150459/iipuzir-v-kitae-lopnul-aktsii-proizvoditeley-chipov-i-robotov-poteryali-do-polovini-stoimosti",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.77,
+      "category": "finance",
+      "summary": "В Китае резко упали акции производителей чипов и роботов на фоне схлопывания ажиотажа вокруг ИИ.",
+      "keywords": [
+        "Китай",
+        "ИИ",
+        "акции",
+        "производители чипов",
+        "робототехника"
+      ]
+    }
+  },
+  {
+    "id": 100491,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:31:17+00:00",
+    "text": "Сильно ли ей это помогает?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Без контекста вопрос не содержит новостной или аналитической информации.",
+      "keywords": [
+        "вопрос",
+        "контекст",
+        "неопределённость"
+      ]
+    }
+  },
+  {
+    "id": 100490,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:31:10+00:00",
+    "text": "Ну, скажем так вежливо, сберовская лаборатория вот последовательно выдумывает своё",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор скептически отзывается о разработках лаборатории Сбера, но не приводит конкретных фактов.",
+      "keywords": [
+        "Сбер",
+        "лаборатория",
+        "критика"
+      ]
+    }
+  },
+  {
+    "id": 100489,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:29:46+00:00",
+    "text": "Это факт бесспорно, но как я вижу у них реально кризис мысли скорее, а не мощностей в первую очередь,. Управленцы не хотят играть в ИИ как в США, возможно экономически не выгодно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "ai",
+      "summary": "Автор считает, что кризис в сфере ИИ связан скорее с нехваткой идей и управленческой готовности, чем с дефицитом вычислительных мощностей.",
+      "keywords": [
+        "ИИ",
+        "кризис идей",
+        "управление",
+        "вычислительные мощности"
+      ]
+    }
+  },
+  {
+    "id": 100488,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:28:15+00:00",
+    "text": "И денег нет таких, и господдержки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор заявляет об отсутствии средств и господдержки, но не приводит контекста.",
+      "keywords": [
+        "деньги",
+        "господдержка",
+        "финансирование"
+      ]
+    }
+  },
+  {
+    "id": 100487,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:27:54+00:00",
+    "text": "А наши лаборатории таких возможности как китайцы не имеют",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор без уточнений утверждает, что местные лаборатории уступают китайским по возможностям.",
+      "keywords": [
+        "лаборатории",
+        "Китай",
+        "возможности"
+      ]
+    }
+  },
+  {
+    "id": 100486,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:26:55+00:00",
+    "text": "Ну и вести с полей расследований деятельности Нвидиа это прекрасно подтверждают)))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "tech",
+      "summary": "Автор без подробностей утверждает, что расследования деятельности Nvidia подтверждают ранее обсуждавшиеся тезисы.",
+      "keywords": [
+        "Nvidia",
+        "расследование",
+        "тезисы"
+      ]
+    }
+  },
+  {
+    "id": 100485,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:26:35+00:00",
+    "text": "А, ну так Евгений не говорил, что у китайцев мало вычислительных мощностей. Он как раз говорит, что санкционщиках приходится изворачиваться",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.17,
+      "category": "other",
+      "summary": "Уточняется, что речь шла о способах обхода ограничений, а не о нехватке вычислительных мощностей у Китая.",
+      "keywords": [
+        "Китай",
+        "вычислительные мощности",
+        "санкции",
+        "ограничения"
+      ]
+    }
+  },
+  {
+    "id": 100484,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:25:56+00:00",
+    "text": "Работать будет проще когда у тебя будет свой *опус.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткое высказывание без конкретной новости или содержательной аналитики.",
+      "keywords": [
+        "опус",
+        "работа",
+        "высказывание"
+      ]
+    }
+  },
+  {
+    "id": 100483,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:24:55+00:00",
+    "text": "У Китайцев огромные мощности, им просто легче украсть чем создать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор без доказательств утверждает, что Китаю проще копировать чужие разработки, чем создавать собственные.",
+      "keywords": [
+        "Китай",
+        "технологии",
+        "копирование"
+      ]
+    }
+  },
+  {
+    "id": 100482,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:24:14+00:00",
+    "text": "Почему неправда, не понял?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пользователь просит объяснить, почему что-то неправда, но контекста для оценки нет.",
+      "keywords": [
+        "вопрос",
+        "уточнение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100481,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:22:13+00:00",
+    "text": "Спасибо, попробую впн менять",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор собирается попробовать сменить VPN.",
+      "keywords": [
+        "VPN",
+        "смена",
+        "попытка"
+      ]
+    }
+  },
+  {
+    "id": 100480,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:21:45+00:00",
+    "text": "Они ж не сами народятся, нужны вычислительные мощности",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.56,
+      "category": "tech",
+      "summary": "Для появления таких систем необходимы значительные вычислительные мощности.",
+      "keywords": [
+        "вычислительные мощности",
+        "инфраструктура",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 100479,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:21:21+00:00",
+    "text": "Но вот КОГДА это произойдёт…",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В посте нет контекста или содержательной информации.",
+      "keywords": [
+        "когда",
+        "вопрос",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100478,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:21:01+00:00",
+    "text": "так квен для закрытого контура, локальная модель",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "Qwen можно использовать как локальную модель в закрытом контуре.",
+      "keywords": [
+        "Qwen",
+        "локальная модель",
+        "закрытый контур",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 100477,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:20:36+00:00",
+    "text": "Основание простое: они ведут тренировку моделей и рано или поздно дорастут до уровня там Опуса 4.6 того же",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.63,
+      "category": "ai",
+      "summary": "Автор считает, что благодаря продолжающемуся обучению моделей компания со временем сможет достичь уровня Claude Opus 4.6.",
+      "keywords": [
+        "обучение моделей",
+        "развитие ИИ",
+        "Claude Opus 4.6",
+        "прогноз"
+      ]
+    }
+  },
+  {
+    "id": 100476,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:20:05+00:00",
+    "text": "Для закрытых систем поддержки принятия решений",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Упоминаются закрытые системы поддержки принятия решений без новости или дополнительного контекста.",
+      "keywords": [
+        "закрытые системы",
+        "поддержка принятия решений",
+        "информационные системы"
+      ]
+    }
+  },
+  {
+    "id": 100475,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:19:45+00:00",
+    "text": "Ну, сами таланты уверены, что да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фраза без контекста сообщает, что таланты уверены в положительном ответе.",
+      "keywords": [
+        "таланты",
+        "уверенность",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 100474,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:18:53+00:00",
+    "text": "Тут еще важно учитывать стремление к энергоэффективности. Очень возможно что как раз-таки массовые не-фронтирные модели, закрывающие основные все задачи, будут гораздо эффективнее чем те, которые есть сейчас",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.63,
+      "category": "ai",
+      "summary": "Массовые нефронтирные модели могут оказаться энергоэффективнее и при этом закрывать большинство пользовательских задач.",
+      "keywords": [
+        "ИИ-модели",
+        "энергоэффективность",
+        "нефронтирные модели",
+        "массовое внедрение"
+      ]
+    }
+  },
+  {
+    "id": 100473,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:17:31+00:00",
+    "text": "Неправда про мощности https://fixupx.com/Da7_Tech/status/2123823183912378791\n\nПосмотрите на Zai. Они запускают инференс на более чем 100 000 китайских чипов, их модель GLM-5.3 Flash обслужила около 62 триллионов токенов за шесть дней, а их платформа ZCode даёт каждому пользователю 300 миллионов бесплатных токенов в день. Теперь посмотрите на Alibaba. Они потратили 7,5 миллиарда долларов на инфраструктуру за один квартал, и у них на счету почти 73 миллиарда долларов наличными. Это не цифры того, у кого нет выбора. И вот ирония: самые богатые — те, кто дистиллировал больше всего. Самая крупная кампания по дистилляции, которую обнаружила Anthropic, была приписана операторам, связанным с Alibaba: 151 миллион взаимодействий с Claude между маем и июлем. И согласно Anthropic, [Z.ai](https://t.co/iP5CzzZIWu) пытались дистиллировать Fable 5, а когда защитные механизмы их остановили, они переключились на более старую модель Claude и модель из другой лаборатории.",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.94,
+      "category": "tech",
+      "summary": "Пост сопоставляет крупные вычислительные ресурсы китайских ИИ-компаний с данными Anthropic о масштабных попытках дистилляции её моделей.",
+      "keywords": [
+        "Z.ai",
+        "Alibaba",
+        "дистилляция",
+        "ИИ-инфраструктура",
+        "Anthropic"
+      ]
+    }
+  },
+  {
+    "id": 100472,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:17:23+00:00",
+    "text": "Безусловно. Дайте пару лет и все будет. Это вопрос национальной безопасности",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Пост содержит неопределённое обещание и упоминание национальной безопасности, но не сообщает конкретных фактов.",
+      "keywords": [
+        "национальная безопасность",
+        "прогноз",
+        "обещание"
+      ]
+    }
+  },
+  {
+    "id": 100471,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:08:46+00:00",
+    "text": "Я думаю, дело здесь не в талантах. Как раз талантов у нас, мне кажется, более чем достаточно. \nПроблема скорее в доступе к вычислительным мощностям: даже американские компании вынуждены распределять ресурсы и вводить квоты, потому что спрос значительно превышает предложение. Что уж говорить о санкционных странах - думаю, там приходится изрядно изворачиваться, чтобы вообще достать Nvidia. А полноценных альтернатив пока не так много. Сейчас, пожалуй, вся надежда на Huawei. Но все так быстро меняется, что только успевай следить)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "Дефицит вычислительных мощностей сдерживает развитие ИИ, особенно в санкционных странах, где одной из немногих альтернатив Nvidia может стать Huawei.",
+      "keywords": [
+        "вычислительные мощности",
+        "дефицит GPU",
+        "Nvidia",
+        "Huawei",
+        "санкции"
+      ]
+    }
+  },
+  {
+    "id": 100468,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:05:16+00:00",
+    "text": "впн кривой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Краткое неинформативное замечание о проблеме с VPN.",
+      "keywords": [
+        "VPN",
+        "сбой",
+        "проблема"
+      ]
+    }
+  },
+  {
+    "id": 100467,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T12:00:30+00:00",
+    "text": "Подскажите, кто знает, что можно ещё сделать? Убрал ассоциацию с Россией в гугл аккаунте, поменял в гугл пэй платёжный профиль, привязал его в гугл плей, написал в поддержку Гугл во все сервисы, что я не в России. Через инкогнито захожу в Гемини - заходит, только пытаюсь авторизироваться всё равно ассоциирует с Россией, причём новый аккаунт создаю, авторизируюсь - тоже самое",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор просит совет из-за невозможности отвязать аккаунт Google и Gemini от региона России.",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "аккаунт",
+        "регион",
+        "авторизация"
+      ]
+    }
+  },
+  {
+    "id": 100466,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:59:38+00:00",
+    "text": "а зачем делать если квен качается, через пару лет он закроет все задачи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор предполагает, что Qwen со временем сможет решать все задачи, и задаётся вопросом о целесообразности других разработок.",
+      "keywords": [
+        "Qwen",
+        "ИИ",
+        "развитие моделей"
+      ]
+    }
+  },
+  {
+    "id": 100465,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:54:30+00:00",
+    "text": "Я все же надеюсь, что мы скорее станем благонадежными пользователями для антропика)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор надеется, что пользователи смогут заслужить доверие Anthropic.",
+      "keywords": [
+        "Anthropic",
+        "пользователи",
+        "доверие"
+      ]
+    }
+  },
+  {
+    "id": 100464,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:49:41+00:00",
+    "text": "Альтернативу сделают, но она будет не годная и периодически будет выдавать китайские иероглифы.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор скептически оценивает качество будущей альтернативы, утверждая, что она будет работать нестабильно.",
+      "keywords": [
+        "альтернатива",
+        "качество",
+        "сбои",
+        "иероглифы"
+      ]
+    }
+  },
+  {
+    "id": 100463,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:49:23+00:00",
+    "text": "А пока суем носик в форточку😁",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "разговорное выражение",
+        "шутка",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 100462,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:48:39+00:00",
+    "text": "Да, в общем-то все более-менее серьезные государства идут по этому пути и через несколько лет будет очень много разных национальных решений. Особенно для закрытого контура",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "tech",
+      "summary": "Ожидается распространение национальных технологических решений, особенно для использования в закрытых контурах.",
+      "keywords": [
+        "национальные решения",
+        "закрытый контур",
+        "государства",
+        "технологии"
+      ]
+    }
+  },
+  {
+    "id": 100461,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:47:56+00:00",
+    "text": "По идее у нас и выбора особо нет, если не сделаем, будем в жестких аутсайдерах",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор считает, что без неуточнённого действия группа окажется среди серьёзных аутсайдеров.",
+      "keywords": [
+        "выбор",
+        "аутсайдеры",
+        "решение"
+      ]
+    }
+  },
+  {
+    "id": 100460,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:46:44+00:00",
+    "text": "Делают и сделают, без шуток. Не тотальный фронтир, но историю годную для 95% задач. Но не в ближайшие пару лет скорее всего. Разрыв будет сокращаться, но темп его вообще не детерминирован)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "ai",
+      "summary": "Автор считает, что технологии смогут решать большинство задач, хотя не достигнут передового уровня в ближайшие несколько лет.",
+      "keywords": [
+        "ИИ",
+        "технологии",
+        "автоматизация",
+        "прогноз",
+        "разрыв"
+      ]
+    }
+  },
+  {
+    "id": 100459,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:44:56+00:00",
+    "text": "Вот скажите, мне наивно полагать, что наши скрепные таланты когда-нибудь сделают годную альтернативу Claude?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Автор задаётся риторическим вопросом о возможности создать отечественную альтернативу Claude.",
+      "keywords": [
+        "Claude",
+        "ИИ",
+        "альтернатива"
+      ]
+    }
+  },
+  {
+    "id": 100458,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:40:49+00:00",
+    "text": "Смело, но ненадёжно 😁\nАнтропики и тут начнут проверки какие-то придумывать. Черепомеры хреновы",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Эмоциональный комментарий о проверках, которые якобы введут Anthropic.",
+      "keywords": [
+        "Anthropic",
+        "проверки",
+        "критика"
+      ]
+    }
+  },
+  {
+    "id": 100457,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T11:37:36+00:00",
+    "text": "Какая красота. Специально выложили, чтобы Антропик пофиксили 👍🏻",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Ироничный комментарий о публикации чего-то с целью спровоцировать исправления со стороны Anthropic.",
+      "keywords": [
+        "Anthropic",
+        "ирония",
+        "исправление"
+      ]
+    }
+  },
+  {
+    "id": 100456,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:59:59+00:00",
+    "text": "обязательно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "В сообщении нет новостного содержания или значимой информации.",
+      "keywords": [
+        "обязательно",
+        "без контекста",
+        "нет новости"
+      ]
+    }
+  },
+  {
+    "id": 100451,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:46:28+00:00",
+    "text": "**В сети **[**нашли**](https://x.com/zhuxufng154415/status/2123808801837256964)** способ обходить проверку личности в Claude с помощью поддельных документов.**\n\nОдин из пользователей X поделился инструкцией, как сделать удостоверение личности и попробовать пройти с ним проверку KYC.\n\nДля этого он использовал сайт https://kyc-helper.org/en/, где можно выбрать документ нужной страны, загрузить свою фотографию и подобрать фон. Сам автор выбрал японские водительские права.\n\nДальше сайт предлагает заполнить данные. Причём настоящие указывать необязательно, можно просто сгенерировать случайные.\n\nЕсть и небольшая хитрость. Чтобы скачать готовое изображение без водяного знака, автор предлагает воспользоваться инструментами разработчика в Google Chrome. После генерации документа он открывает их через F12, переходит во вкладку «Сеть» и находит имя ZIP-архива. Затем открывает новую вкладку браузера, добавляет скопированное имя в конец ссылки `kyc-helper.org/static/downloads/` и скачивает готовый документ без водяного знака.\n\nПолучившуюся картинку предлагают использовать для проверки личности в Claude. Причем, можно даже не распечатывать документ, а просто открыть его на хорошем экране и сфотографировать. Хотя вариант с распечаткой тоже предусмотрен.",
+    "views": 19805,
+    "forwards": 1972,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.86,
+      "category": "tech",
+      "summary": "В сети распространяют инструкцию по обходу KYC-проверки Claude с помощью поддельных документов.",
+      "keywords": [
+        "Claude",
+        "KYC",
+        "поддельные документы",
+        "обход проверки личности",
+        "мошенничество"
+      ]
+    }
+  },
+  {
+    "id": 100450,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:42:14+00:00",
+    "text": "Удачи \n\nНапишите потом, пожалуйста, результат",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Короткое пожелание с просьбой сообщить результат, без содержательной новости или аналитики.",
+      "keywords": [
+        "пожелание",
+        "результат",
+        "просьба"
+      ]
+    }
+  },
+  {
+    "id": 100449,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:39:03+00:00",
+    "text": "спасибо",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только благодарность.",
+      "keywords": [
+        "благодарность",
+        "нет новости",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 100448,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:12:02+00:00",
+    "text": "Попробуйте действовать по инструкции выше",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только просьбу следовать инструкции и не сообщает новостей или значимых данных.",
+      "keywords": [
+        "инструкция",
+        "запрос",
+        "без новостей"
+      ]
+    }
+  },
+  {
+    "id": 100447,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:11:45+00:00",
+    "text": "Всем привет\n\nШарился на плати маркете и не удержался от предложения купить за 758 рублей инструкцию по подготовке к верификации антропик, уж сильно было интересно)))\n\nБез откровений, конечно, но есть интересные советы типа использования авиарежима при верификации (вайфай в авиарежиме работает) с выключенной геопозицией для камеры\n\nВсе ссылки из инструкции дублирую:\n• https://geospoof.com/ru\n• https://ip.net.coffee/claude/\n• https://ipinfo.cv/\n• https://ippure.com/\n• https://meowvps.com/tools/ip-check/\n• https://amnezia.org/ru/starter-guide\n• https://docs.amnezia.org/ru/documentation/amnezia-wg/\n\nМожете делать с этой инструкцией и сообщением что хотите, я не против",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.61,
+      "category": "ai",
+      "summary": "Автор описывает платную инструкцию по прохождению верификации Anthropic с советами по настройке сети и геолокации.",
+      "keywords": [
+        "Anthropic",
+        "верификация",
+        "геолокация",
+        "VPN",
+        "обход ограничений"
+      ]
+    }
+  },
+  {
+    "id": 100446,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T10:06:17+00:00",
+    "text": "Если Клод попросил верифицироваться (а Россия там есть) — это конец? Или они наш паспорт примут (я сомневаюсь). У кого есть какой опыт?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор спрашивает, принимают ли паспорт РФ для верификации в Claude.",
+      "keywords": [
+        "Claude",
+        "верификация",
+        "паспорт РФ"
+      ]
+    }
+  },
+  {
+    "id": 100445,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:58:57+00:00",
+    "text": "Самое смешное я просто закрыл вкладку и вроде больше не просит вериф пока что",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает, что после закрытия вкладки запрос на верификацию временно исчез.",
+      "keywords": [
+        "вкладка",
+        "верификация",
+        "проверка"
+      ]
+    }
+  },
+  {
+    "id": 100444,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:11:47+00:00",
+    "text": "Из-за того что я стал пользоваться Клодом только на стационарном мак мини, dot реально выручает + нравится что кроме приложения чатгпт ничего и не надо",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор отмечает удобство Dot для работы с Claude на Mac mini и простоту использования ChatGPT.",
+      "keywords": [
+        "Claude",
+        "Dot",
+        "ChatGPT",
+        "Mac mini"
+      ]
+    }
+  },
+  {
+    "id": 100443,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:08:09+00:00",
+    "text": "мне на второй аккаунт в клоде при продлении пришел кусь. Думаю фиг с вами, решил по заграннику пройти. Заплатить так и не дали, но и не заблокировали 🤨",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "tech",
+      "summary": "Автор не смог оплатить продление подписки Claude со второго аккаунта, но аккаунт не заблокировали.",
+      "keywords": [
+        "Claude",
+        "подписка",
+        "оплата",
+        "аккаунт",
+        "загранпаспорт"
+      ]
+    }
+  },
+  {
+    "id": 100442,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:06:59+00:00",
+    "text": "так они еще и на РФ аккаунте решили заблочить платеж мне вчера, откуда оплата идет уже 12 лет ежемесячно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "business",
+      "summary": "Сервис заблокировал платеж на российском аккаунте пользователя, хотя оплата по нему проходила ежемесячно 12 лет.",
+      "keywords": [
+        "блокировка платежа",
+        "российский аккаунт",
+        "подписка",
+        "оплата",
+        "12 лет"
+      ]
+    }
+  },
+  {
+    "id": 100441,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:05:06+00:00",
+    "text": "И как я попал в компанию таких сплошь неблагонадёжных людей",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор иронично удивляется, что оказался среди неблагонадёжных людей.",
+      "keywords": [
+        "ирония",
+        "люди",
+        "компания"
+      ]
+    }
+  },
+  {
+    "id": 100440,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:01:35+00:00",
+    "text": "Оплату мне еще не дали сделать, так как чудесная компания эпл теперь каждый мой платеж одобряет через поддержку",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.58,
+      "category": "tech",
+      "summary": "Apple требует подтверждать каждый платеж через поддержку, из-за чего пользователь не может оплатить покупку.",
+      "keywords": [
+        "Apple",
+        "платежи",
+        "поддержка",
+        "подтверждение"
+      ]
+    }
+  },
+  {
+    "id": 100439,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T09:00:22+00:00",
+    "text": "Нет просто решил зайти",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пользователь сообщает, что просто решил зайти.",
+      "keywords": [
+        "сообщение",
+        "визит",
+        "без новостей"
+      ]
+    }
+  },
+  {
+    "id": 100438,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:59:59+00:00",
+    "text": "это при оплате так?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Недостаточно контекста, чтобы определить, о какой оплате идёт речь.",
+      "keywords": [
+        "оплата",
+        "вопрос",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100437,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:59:52+00:00",
+    "text": "ого",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только эмоциональное междометие и не сообщает значимой информации.",
+      "keywords": [
+        "междометие",
+        "эмоция",
+        "нет информации"
+      ]
+    }
+  },
+  {
+    "id": 100436,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:59:40+00:00",
+    "text": "Думал прокатит через почту подтверждение возраста, а почта не такая старая эта у меня , придется выбирать из двух стульев",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор не может подтвердить возраст через электронную почту и должен выбрать другой способ.",
+      "keywords": [
+        "подтверждение возраста",
+        "электронная почта",
+        "выбор"
+      ]
+    }
+  },
+  {
+    "id": 100435,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:59:00+00:00",
+    "text": "Там такое творится",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост не содержит конкретной новости или информации.",
+      "keywords": [
+        "неясно",
+        "без контекста",
+        "эмоция"
+      ]
+    }
+  },
+  {
+    "id": 100434,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:58:53+00:00",
+    "text": "Ну а ты шо хотел. Детям нельзя",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой новости или конкретной информации.",
+      "keywords": [
+        "дети",
+        "запрет",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 100433,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:57:43+00:00",
+    "text": "Началось в колхозе утро",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Содержательной новости или аналитики нет.",
+      "keywords": [
+        "утро",
+        "колхоз",
+        "фраза"
+      ]
+    }
+  },
+  {
+    "id": 100432,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:57:02+00:00",
+    "text": "Супер!\nОтличный анализ!\n\nА как насчёт практической составляющей для юриста/фирмы: \n1. сколько потребовалось запросов для достижения результата?\n2. стоимость запроса?\n3. стоимость подписки?\n4. лимиты по запросам в подписке (наличие desktop-приложения)?\n5. Наличие программной анонимизации (не нейронкой)?\n\nПолагаю, отчёт был бы более практичный для принятия управленческих решений юрфирмами, юристами.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Автор предлагает дополнить анализ практическими данными о стоимости, лимитах и анонимизации сервиса для юристов.",
+      "keywords": [
+        "юристы",
+        "стоимость",
+        "лимиты",
+        "анонимизация"
+      ]
+    }
+  },
+  {
+    "id": 100431,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:55:51+00:00",
+    "text": "Нет разницы с какой страной ассоциация для гемини, просто впн не подходит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Короткое замечание о том, что для Gemini важна не страна ассоциации, а то, что VPN не подходит.",
+      "keywords": [
+        "Gemini",
+        "VPN",
+        "ассоциация"
+      ]
+    }
+  },
+  {
+    "id": 100430,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:53:09+00:00",
+    "text": "Но у меня сам гуглоакк не ассоциирован с РФ, правда",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор уточняет, что его аккаунт Google не связан с Россией.",
+      "keywords": [
+        "Google",
+        "аккаунт",
+        "Россия"
+      ]
+    }
+  },
+  {
+    "id": 100429,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:52:11+00:00",
+    "text": "Странно, я Gemini через забугорный Эпплайди плачу без проблем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.1,
+      "category": "other",
+      "summary": "Автор сообщает, что оплачивает Gemini через иностранный Apple ID без проблем.",
+      "keywords": [
+        "Gemini",
+        "Apple ID",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 100427,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:45:38+00:00",
+    "text": "Нормальный впн найти или если есть доступ к серверу с текущим настроить его открыть Gemini и оплатить",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "tech",
+      "summary": "Автор ищет VPN или помощь с настройкой сервера для доступа к Gemini и оплаты сервиса.",
+      "keywords": [
+        "VPN",
+        "сервер",
+        "Gemini",
+        "доступ",
+        "оплата"
+      ]
+    }
+  },
+  {
+    "id": 100426,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:27:07+00:00",
+    "text": "Я виртуалкой плачу давно без проблем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что давно и без проблем расплачивается виртуальной картой.",
+      "keywords": [
+        "виртуальная карта",
+        "оплата",
+        "личный опыт"
+      ]
+    }
+  },
+  {
+    "id": 100425,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:23:08+00:00",
+    "text": "Коллеги, не могу придумать как оплатить антигравити. Чат гпт плачу через appsrore и подарочную карту сбера. А приложение джемини меня сразу спалило (говорит вижу что вы в рф) и оплатить не дает. Какие у меня варианты ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор спрашивает, как оплатить Gemini из России.",
+      "keywords": [
+        "Gemini",
+        "оплата",
+        "Россия",
+        "App Store",
+        "подписка"
+      ]
+    }
+  },
+  {
+    "id": 100424,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:19:08+00:00",
+    "text": "Я тоже склоняюсь к тому, что они там перестраивают систему и идет временный сбой",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.16,
+      "category": "other",
+      "summary": "Автор предполагает, что наблюдаемый сбой временный и связан с перестройкой системы.",
+      "keywords": [
+        "перестройка системы",
+        "временный сбой",
+        "предположение"
+      ]
+    }
+  },
+  {
+    "id": 100423,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:18:09+00:00",
+    "text": "Пацаны просто готовятся к объединению квоты веба и агентных режимов",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.15,
+      "category": "tech",
+      "summary": "Автор предполагает, что разработчики готовятся объединить веб-квоту и агентные режимы.",
+      "keywords": [
+        "веб-квота",
+        "агентные режимы",
+        "объединение"
+      ]
+    }
+  },
+  {
+    "id": 100422,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T08:14:09+00:00",
+    "text": "У меня такое было ещё когда vpn протекал.\n\nСейчас есть баг с загрузкой больших файлов — решаю через интеграцию с Гугл диском.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.35,
+      "category": "tech",
+      "summary": "Автор сообщает о проблеме с загрузкой больших файлов и временном решении через интеграцию с Google Диском.",
+      "keywords": [
+        "баг",
+        "большие файлы",
+        "загрузка",
+        "Google Диск"
+      ]
+    }
+  },
+  {
+    "id": 100419,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:38:55+00:00",
+    "text": "Будущее есть. Спрос на локальные модели в значительной мере зависит не от стоимости облачных апи",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "ai",
+      "summary": "Автор утверждает, что спрос на локальные модели определяется не только стоимостью облачных API.",
+      "keywords": [
+        "локальные модели",
+        "облачные API",
+        "спрос",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 100418,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:36:34+00:00",
+    "text": "@strigov так ваше мнение какое: в итоге будущее у локальных ллм есть или дешевые облачные ллм делают это бессмысленным ?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "Вопрос о перспективах локальных LLM в сравнении с дешевыми облачными моделями.",
+      "keywords": [
+        "локальные LLM",
+        "облачные LLM",
+        "будущее",
+        "стоимость"
+      ]
+    }
+  },
+  {
+    "id": 100417,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:29:27+00:00",
+    "text": "N'est pas?",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фраза «N'est pas?» без контекста не содержит новостной или аналитической информации.",
+      "keywords": [
+        "французский язык",
+        "вопрос",
+        "нет контекста"
+      ]
+    }
+  },
+  {
+    "id": 100416,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:28:08+00:00",
+    "text": "Не совсем обучение . В контексте разговор с Дмитрием был про разворачивание локальной ллм и все что для этого нужно.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Уточнение: разговор с Дмитрием касался развёртывания локальной LLM, а не обучения модели.",
+      "keywords": [
+        "локальная LLM",
+        "развёртывание",
+        "обучение"
+      ]
+    }
+  },
+  {
+    "id": 100415,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:25:49+00:00",
+    "text": "Тогда не понял тейка. Вы говорили про самостоятельное обучение ллмки, я прокомментировал самостоятельное обучение ллмки",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "Автор уточняет, что его комментарий касался самостоятельного обучения языковой модели.",
+      "keywords": [
+        "самостоятельное обучение",
+        "LLM",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 100414,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:24:32+00:00",
+    "text": "Это реплика просто на ваш комент https://t.me/docsllm/100391",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Автор отмечает, что это реплика в ответ на комментарий, не раскрывая её содержание.",
+      "keywords": [
+        "реплика",
+        "комментарий",
+        "ответ"
+      ]
+    }
+  },
+  {
+    "id": 100413,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:23:02+00:00",
+    "text": "в смысле? Не понял вопроса",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает непонимание вопроса, но не содержит значимой информации.",
+      "keywords": [
+        "вопрос",
+        "непонимание",
+        "уточнение"
+      ]
+    }
+  },
+  {
+    "id": 100412,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:21:10+00:00",
+    "text": "@strigov совсем не верите в будущее ПО на ПК ? Ну когда облачное ПО станет стоить копейки так и будет )\nПузырь лопается фондовый - посмотрите на Насдак и Антропик. Владельцы всегда бегут первыми из спекулятивного актива )",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.66,
+      "category": "finance",
+      "summary": "Автор связывает удешевление облачного ПО с будущим рынка программ для ПК и утверждает, что фондовый пузырь лопается, ссылаясь на Nasdaq и Anthropic.",
+      "keywords": [
+        "облачное ПО",
+        "рынок ПК",
+        "фондовый пузырь",
+        "Nasdaq",
+        "Anthropic"
+      ]
+    }
+  },
+  {
+    "id": 100411,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:12:18+00:00",
+    "text": "Пушто там линейно",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит понятного новостного или аналитического содержания.",
+      "keywords": [
+        "неясный текст",
+        "без контекста",
+        "шум"
+      ]
+    }
+  },
+  {
+    "id": 100410,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:11:49+00:00",
+    "text": "А почему для ГПТ модель не указана?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.45,
+      "category": "ai",
+      "summary": "Автор спрашивает, почему не указана модель GPT.",
+      "keywords": [
+        "GPT",
+        "модель",
+        "указание"
+      ]
+    }
+  },
+  {
+    "id": 100409,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:09:25+00:00",
+    "text": "Не то чтобы отстал, он никогда и не догонял, в общем-то",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Фраза без конкретного новостного или аналитического содержания.",
+      "keywords": [
+        "отставание",
+        "оценка",
+        "мнение"
+      ]
+    }
+  },
+  {
+    "id": 100408,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:06:29+00:00",
+    "text": "Да нормальные же. \nАргон, карбон, неон, гудрон...",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткая шутливая реплика с рифмующимся перечислением веществ.",
+      "keywords": [
+        "аргон",
+        "карбон",
+        "неон",
+        "гудрон"
+      ]
+    }
+  },
+  {
+    "id": 100407,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:04:28+00:00",
+    "text": "Заодно, похоже, буду первым, кто отпробует Неон на юридических задачах по российскому праву, а не на кодинге.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.23,
+      "category": "ai",
+      "summary": "Автор планирует протестировать ИИ «Неон» на задачах по российскому праву вместо программирования.",
+      "keywords": [
+        "Неон",
+        "ИИ",
+        "российское право",
+        "юридические задачи",
+        "тестирование"
+      ]
+    }
+  },
+  {
+    "id": 100406,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:03:44+00:00",
+    "text": "Смущает только Антигравити - говорят, этот харнесс отстал по возможностям от конкурентов.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.16,
+      "category": "tech",
+      "summary": "Автор выражает сомнение в возможностях Antigravity, отмечая мнение о его отставании от конкурентов.",
+      "keywords": [
+        "Antigravity",
+        "харнесс",
+        "конкуренты",
+        "возможности"
+      ]
+    }
+  },
+  {
+    "id": 100405,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:02:42+00:00",
+    "text": "Я рассматриваю возможность отдать Гуглу свои деньги, чтобы заиметь сет фронтирных западных подписок (так у меня Кими и Дипсик). Вроде он не так сильно занимается черепомеркой (хотя в этом чате упоминался бан аккаунта Гугла), при этом качество на уровне Опуса 5.5.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Автор размышляет о подписках Google и качестве моделей, но не сообщает о конкретных новостях или данных.",
+      "keywords": [
+        "Google",
+        "подписки",
+        "ИИ-модели",
+        "Claude Opus",
+        "DeepSeek"
+      ]
+    }
+  },
+  {
+    "id": 100404,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:02:21+00:00",
+    "text": "У меня сегодня в ДжиПиТи часть чатов в проектах не подгружаются\n\n20 ноября поддержка OpenAI подтвердила, что расследование сбоя загрузки сохранённых чатов продолжается. У некоторых пользователей при открытии старых переписок появляется ошибка HTTP 429 — «слишком много запросов», и срок решения пока не назван.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.82,
+      "category": "tech",
+      "summary": "OpenAI расследует сбой загрузки старых чатов, из-за которого пользователи получают ошибку HTTP 429.",
+      "keywords": [
+        "OpenAI",
+        "сбой",
+        "чаты",
+        "HTTP 429",
+        "расследование"
+      ]
+    }
+  },
+  {
+    "id": 100403,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T07:00:40+00:00",
+    "text": "Там ещё в Твиттере написали, что с 2 декабря Гугл изменит ToS и подписки можно будет подключать к другим харнессам.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.63,
+      "category": "tech",
+      "summary": "В соцсетях сообщают, что с 2 декабря Google изменит условия использования и разрешит подключать подписки к сторонним интерфейсам.",
+      "keywords": [
+        "Google",
+        "ToS",
+        "подписки",
+        "сторонние интерфейсы"
+      ]
+    }
+  },
+  {
+    "id": 100402,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:43:11+00:00",
+    "text": "Самая щедрая подписка — по-прежнему Клод",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "ai",
+      "summary": "Клод назван самой щедрой подпиской, но без пояснений и деталей.",
+      "keywords": [
+        "Клод",
+        "подписка",
+        "нейросеть"
+      ]
+    }
+  },
+  {
+    "id": 100401,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:41:14+00:00",
+    "text": "Ну он ГЛМ и Дипсик одновременно попробовал тоже",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает, что попробовал GLM и DeepSeek одновременно, без дополнительных выводов или деталей.",
+      "keywords": [
+        "GLM",
+        "DeepSeek",
+        "тестирование"
+      ]
+    }
+  },
+  {
+    "id": 100400,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:40:48+00:00",
+    "text": "Вот это отдельно интересно, в 100ке говорит, Гугл насыпает в 2-2,5 раза больше по апи костам",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "tech",
+      "summary": "Утверждается, что Google предлагает в 2–2,5 раза больше API-кредитов.",
+      "keywords": [
+        "Google",
+        "API",
+        "кредиты",
+        "стоимость",
+        "предложение"
+      ]
+    }
+  },
+  {
+    "id": 100399,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:39:30+00:00",
+    "text": "При этом его текущий сетап",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Фрагмент не содержит законченной мысли или проверяемой информации.",
+      "keywords": [
+        "сетап",
+        "фрагмент",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 100398,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:37:21+00:00",
+    "text": "Им бы ещё с названиями что-то нормальное сделать, мать-мать-мать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор эмоционально критикует названия, не уточняя контекст.",
+      "keywords": [
+        "критика",
+        "названия",
+        "эмоции"
+      ]
+    }
+  },
+  {
+    "id": 100397,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:36:52+00:00",
+    "text": "Вот это уже интересно, да",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает интерес, но не содержит новости, данных или конкретного утверждения.",
+      "keywords": [
+        "реакция",
+        "интерес"
+      ]
+    }
+  },
+  {
+    "id": 100396,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:35:41+00:00",
+    "text": "Глеб Кудрявцев тоже пишет, что топ неон)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что Глеб Кудрявцев тоже положительно оценил топ, но контекста недостаточно.",
+      "keywords": [
+        "Глеб Кудрявцев",
+        "топ",
+        "оценка"
+      ]
+    }
+  },
+  {
+    "id": 100395,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:32:58+00:00",
+    "text": "Чел потестил Гугл Неон и на своих реальных репозиториях https://fixupx.com/pawelhuryn/status/2123351354303300052?a=b5VVYhp75GLtBIUY2VI&s=46",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "Автор протестировал Google Neon на собственных реальных репозиториях.",
+      "keywords": [
+        "Google Neon",
+        "тестирование",
+        "репозитории",
+        "ИИ"
+      ]
+    }
+  },
+  {
+    "id": 100394,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T06:31:34+00:00",
+    "text": "Следующая стадия - подключение китайских нейросетей?)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Короткий вопрос о возможном подключении китайских нейросетей без дополнительной информации.",
+      "keywords": [
+        "нейросети",
+        "Китай",
+        "подключение"
+      ]
+    }
+  },
+  {
+    "id": 100392,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T05:19:18+00:00",
+    "text": "Да ничего не лопается, накачка продолжается. Вон Антропик перебили Теслу на IPO",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.72,
+      "category": "business",
+      "summary": "Автор утверждает, что рыночная накачка продолжается, и сообщает о превосходстве Anthropic над Tesla по оценке на IPO.",
+      "keywords": [
+        "Anthropic",
+        "Tesla",
+        "IPO",
+        "оценка компании",
+        "рынок"
+      ]
+    }
+  },
+  {
+    "id": 100391,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T05:18:37+00:00",
+    "text": "Локальную модель обучать сразу выкидывать вариант надо, смысла обсуждать нет",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Автор без аргументации отвергает вариант обучения локальной модели.",
+      "keywords": [
+        "локальная модель",
+        "обучение",
+        "отказ"
+      ]
+    }
+  },
+  {
+    "id": 100390,
+    "channel_id": "docsllm",
+    "date": "2026-11-21T04:53:54+00:00",
+    "text": "))))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной информации.",
+      "keywords": [
+        "шум",
+        "эмодзи",
+        "нет данных"
+      ]
+    }
+  }
+]
