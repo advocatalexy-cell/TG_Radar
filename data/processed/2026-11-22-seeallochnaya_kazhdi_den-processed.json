@@ -1,0 +1,24 @@
+[
+  {
+    "id": 68,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-22T17:06:46+00:00",
+    "text": "Internal model strikes again\n\nhttps://openai.com/index/perplexity-and-intelligence/",
+    "views": 2223,
+    "forwards": 28,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.76,
+      "category": "ai",
+      "summary": "OpenAI представила Perplexity — новую модель для решения сложных задач с упором на рассуждение и интеллект.",
+      "keywords": [
+        "OpenAI",
+        "Perplexity",
+        "модель",
+        "искусственный интеллект",
+        "рассуждение"
+      ]
+    }
+  }
+]
