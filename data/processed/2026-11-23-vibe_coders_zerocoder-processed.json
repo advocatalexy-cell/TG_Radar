@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3842,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-23T00:30:48+00:00",
+    "text": "me",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Сообщение не содержит новостной или аналитической информации.",
+      "keywords": [
+        "сообщение",
+        "нет данных",
+        "шум"
+      ]
+    }
+  }
+]

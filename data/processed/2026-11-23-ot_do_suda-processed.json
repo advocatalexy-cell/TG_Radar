@@ -1,0 +1,42 @@
+[
+  {
+    "id": 673,
+    "channel_id": "ot_do_suda",
+    "date": "2026-11-23T11:43:21+00:00",
+    "text": "Идеально выполнен элемент 🤝💅️️️️️️",
+    "views": 161,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит содержательной новости или аналитики.",
+      "keywords": [
+        "элемент",
+        "похвала",
+        "эмодзи"
+      ]
+    }
+  },
+  {
+    "id": 672,
+    "channel_id": "ot_do_suda",
+    "date": "2026-11-23T10:11:36+00:00",
+    "text": "Что ж, 51 непрочитанный диалог, берегись...\nЯ иду все читать",
+    "views": 192,
+    "forwards": 0,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.02,
+      "category": "other",
+      "summary": "Автор сообщает, что собирается прочитать 51 непрочитанный диалог.",
+      "keywords": [
+        "диалоги",
+        "сообщения",
+        "прочитать"
+      ]
+    }
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": 23638,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T14:30:25+00:00",
+    "text": "можешь попробовать через heretic расцензурить обычный в Q4 квантизации, так и контекста можно много очень поместить в нем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Пост предлагает попробовать снять ограничения с модели Heretic и использовать обычную Q4-квантизацию для увеличения доступного контекста.",
+      "keywords": [
+        "Heretic",
+        "Q4",
+        "квантизация",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 23637,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T14:20:46+00:00",
+    "text": "Здравствуйте подскажите пожалуйста репозитарий qwen 3.8 27b uncensored чтобы поместился на 3090 24gb?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "ai",
+      "summary": "Пользователь спрашивает о репозитории неконституционной версии Qwen 3.8 27B, подходящей для видеокарты RTX 3090 с 24 ГБ памяти.",
+      "keywords": [
+        "Qwen",
+        "LLM",
+        "репозиторий",
+        "RTX 3090",
+        "uncensored"
+      ]
+    }
+  },
+  {
+    "id": 23633,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T13:56:33+00:00",
+    "text": "Ура",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост содержит только эмоциональное восклицание и не передаёт новостной информации.",
+      "keywords": [
+        "эмоция",
+        "восклицание",
+        "без содержания"
+      ]
+    }
+  },
+  {
+    "id": 23632,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T13:56:26+00:00",
+    "text": "Заработал",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит значимой информации.",
+      "keywords": [
+        "шум",
+        "без контекста",
+        "нет данных"
+      ]
+    }
+  },
+  {
+    "id": 23630,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:40:23+00:00",
+    "text": "я естественно тоже в блоке сижу уже неделю)",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что уже неделю находится в блоке.",
+      "keywords": [
+        "блок",
+        "неделя",
+        "личное"
+      ]
+    }
+  },
+  {
+    "id": 23629,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:37:31+00:00",
+    "text": "Ну  и мои предположения не только мои",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит проверяемой новости, аналитики или конкретного утверждения.",
+      "keywords": [
+        "предположения",
+        "мнение",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 23628,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:34:17+00:00",
+    "text": "да есть падения у него но через раз отвечает . Либо РКН тестит у себя там кнопки новые либо рельно траблы на стороне квена . Ждем",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "Пользователь сообщает о периодических сбоях в работе Qwen и предполагает, что их причина — тесты РКН или проблемы на стороне сервиса.",
+      "keywords": [
+        "Qwen",
+        "сбои",
+        "РКН",
+        "доступность"
+      ]
+    }
+  },
+  {
+    "id": 23627,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:33:11+00:00",
+    "text": "У меня тоже, но после первого же вопроса, Квен опять закапризничал.",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор жалуется, что Квен снова перестал нормально отвечать после первого вопроса.",
+      "keywords": [
+        "Квен",
+        "сбой",
+        "жалоба"
+      ]
+    }
+  },
+  {
+    "id": 23626,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:24:14+00:00",
+    "text": "Кто-то вообще локальные ставит?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткий вопрос о том, используют ли кто-то локальные решения; конкретики нет.",
+      "keywords": [
+        "локальные решения",
+        "вопрос",
+        "использование"
+      ]
+    }
+  },
+  {
+    "id": 23625,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:07:46+00:00",
+    "text": "У меня раздуплился все чаты и проекты подгрузились",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает, что у него снова загрузились чаты и проекты.",
+      "keywords": [
+        "чаты",
+        "проекты",
+        "загрузка"
+      ]
+    }
+  },
+  {
+    "id": 23624,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:06:13+00:00",
+    "text": "Возможно еще квен не справился с наплывом миграции с дип сик . Дип сик нынче лютует и блочит за нарушение правил . Например при использовании BDS расширения на дип сик теперь он это палит на раз и блочит в среднем на неделю . Чисто мое предположение",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.56,
+      "category": "tech",
+      "summary": "Автор предполагает, что наплыв пользователей DeepSeek мог повлиять на работу Qwen, а DeepSeek стал блокировать аккаунты примерно на неделю при обнаружении расширения BDS.",
+      "keywords": [
+        "Qwen",
+        "DeepSeek",
+        "BDS",
+        "блокировка",
+        "пользователи"
+      ]
+    }
+  },
+  {
+    "id": 23623,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:03:52+00:00",
+    "text": "ускоряем развертывание локальных ии)",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "ai",
+      "summary": "Краткая фраза об ускорении развертывания локального ИИ без конкретных деталей.",
+      "keywords": [
+        "локальный ИИ",
+        "развертывание",
+        "ускорение"
+      ]
+    }
+  },
+  {
+    "id": 23622,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:03:19+00:00",
+    "text": "очень странно что именно у нас и у белорусов не работает) Казалось бы причем тут РКН",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.52,
+      "category": "tech",
+      "summary": "Автор иронично связывает сбой сервиса в России и Беларуси с возможным вмешательством Роскомнадзора.",
+      "keywords": [
+        "сбой",
+        "Россия",
+        "Беларусь",
+        "РКН"
+      ]
+    }
+  },
+  {
+    "id": 23621,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:01:46+00:00",
+    "text": "Надеюсь завтра будет норм",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост выражает надежду, но не содержит новостной или аналитической информации.",
+      "keywords": [
+        "надежда",
+        "завтра",
+        "ожидание"
+      ]
+    }
+  },
+  {
+    "id": 23620,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:01:41+00:00",
+    "text": "Моя буся",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Пост не содержит новостной или аналитической информации.",
+      "keywords": [
+        "личное",
+        "без контекста",
+        "неинформативно"
+      ]
+    }
+  },
+  {
+    "id": 23618,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:00:59+00:00",
+    "text": "Переходим на Гигачат))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Короткое сообщение о переходе на Гигачат без контекста и дополнительной информации.",
+      "keywords": [
+        "Гигачат",
+        "переход",
+        "сервис"
+      ]
+    }
+  },
+  {
+    "id": 23617,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T12:00:51+00:00",
+    "text": "Судя по логам на сайтах всяких которые сбои показывают проблемы в основном в РФ и Белоруссии",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.62,
+      "category": "tech",
+      "summary": "По данным сайтов мониторинга сбоев, проблемы преимущественно наблюдаются в России и Беларуси.",
+      "keywords": [
+        "сбои",
+        "мониторинг",
+        "Россия",
+        "Беларусь"
+      ]
+    }
+  },
+  {
+    "id": 23613,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:59:58+00:00",
+    "text": "РКН шалит?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Короткий вопрос без контекста о возможных проблемах у Роскомнадзора.",
+      "keywords": [
+        "РКН",
+        "Роскомнадзор",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 23611,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:59:53+00:00",
+    "text": "Самое интересное что с впн на телефоне зашел и все работает",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор сообщает, что сервис работает при подключении через VPN на телефоне.",
+      "keywords": [
+        "VPN",
+        "телефон",
+        "доступ"
+      ]
+    }
+  },
+  {
+    "id": 23610,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:59:10+00:00",
+    "text": "Пока вот только так 503 ошибка в браузере и в приложении тоже не грузит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.57,
+      "category": "tech",
+      "summary": "Пользователь сообщает о недоступности сервиса: ошибка 503 возникает в браузере, приложение также не загружается.",
+      "keywords": [
+        "ошибка 503",
+        "сбой сервиса",
+        "недоступность",
+        "браузер",
+        "приложение"
+      ]
+    }
+  },
+  {
+    "id": 23609,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:58:25+00:00",
+    "text": "Всем хай, кто-нибудь знает что сейчас с Qwen?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "ai",
+      "summary": "Автор спрашивает о текущем состоянии Qwen, не приводя новостей или фактов.",
+      "keywords": [
+        "Qwen",
+        "вопрос",
+        "новости"
+      ]
+    }
+  },
+  {
+    "id": 23605,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:56:06+00:00",
+    "text": "Плохо ему",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Краткая эмоциональная реплика без контекста и новостной информации.",
+      "keywords": [
+        "эмоция",
+        "реакция",
+        "контекст"
+      ]
+    }
+  },
+  {
+    "id": 23601,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:26:31+00:00",
+    "text": "Вообще не хочет работать. Выкидывает меня, а при повторной авторизации не показывает прошлые чаты и опять выкидывает меня из учетной записи. ))",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Автор жалуется на сбои авторизации и отсутствие прошлых чатов.",
+      "keywords": [
+        "сбой",
+        "авторизация",
+        "чаты"
+      ]
+    }
+  },
+  {
+    "id": 23600,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:25:05+00:00",
+    "text": "Вообще не работает или сильно тупит?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Вопрос о том, работает ли некий сервис или устройство.",
+      "keywords": [
+        "работоспособность",
+        "сбой",
+        "вопрос"
+      ]
+    }
+  },
+  {
+    "id": 23599,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-23T11:17:57+00:00",
+    "text": "Что то у меня откровенно забастовал Qwen. Хотел бы спросить, это только у меня или у кого то еще тоже?",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "ai",
+      "summary": "Автор сообщает о сбоях в работе Qwen и спрашивает, сталкиваются ли с ними другие пользователи.",
+      "keywords": [
+        "Qwen",
+        "сбой",
+        "работа сервиса"
+      ]
+    }
+  }
+]

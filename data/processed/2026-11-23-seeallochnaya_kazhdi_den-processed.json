@@ -1,0 +1,44 @@
+[
+  {
+    "id": 71,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-23T18:07:03+00:00",
+    "text": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "views": 1883,
+    "forwards": 16,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Ссылка на статью без текста, поэтому оценить её содержание и значимость невозможно.",
+      "keywords": [
+        "ссылка",
+        "статья",
+        "содержание"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-23T10:13:16+00:00",
+    "text": "https://z.ai/blog/glm-5.4\nвот и looped-трансформеры нормального размера в опенсурс поехали\n\n• GLM-5.4 is our first flagship model built on the Loop Transformer architecture, reaching intelligence levels comparable to 2T-3T parameter models..\n\nЕщё 1-2 итерации, чтобы done right, и должно стать совсем круто",
+    "views": 3052,
+    "forwards": 80,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.87,
+      "category": "ai",
+      "summary": "Z.ai представила GLM-5.4 — флагманскую модель на архитектуре Loop Transformer, которую автор поста считает перспективным шагом для открытых моделей.",
+      "keywords": [
+        "GLM-5.4",
+        "Z.ai",
+        "Loop Transformer",
+        "открытые модели",
+        "архитектура"
+      ]
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5013,
+    "channel_id": "tips_ai",
+    "date": "2026-11-23T14:38:08+00:00",
+    "text": "Дженсен Хуанг [вернулся](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) на пост гендиректора Nvidia, потому что он уже наигрался в GTA 6 ☕️\n\n@tips_ai",
+    "views": 2910,
+    "forwards": 111,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "ai",
+      "summary": "Пост шутит о возвращении Дженсена Хуанга на пост гендиректора Nvidia, не приводя достоверных новостей или комментариев.",
+      "keywords": [
+        "Дженсен Хуанг",
+        "Nvidia",
+        "гендиректор",
+        "GTA 6"
+      ]
+    }
+  },
+  {
+    "id": 5012,
+    "channel_id": "tips_ai",
+    "date": "2026-11-23T06:54:53+00:00",
+    "text": "Для тех кто спрашивал как мой акк до сих пор живет без KYC..\n\n..больше не живет ☹️ \n\n@tips_ai",
+    "views": 3986,
+    "forwards": 37,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "finance",
+      "summary": "Аккаунт автора без KYC перестал работать.",
+      "keywords": [
+        "KYC",
+        "аккаунт",
+        "верификация",
+        "блокировка"
+      ]
+    }
+  }
+]
