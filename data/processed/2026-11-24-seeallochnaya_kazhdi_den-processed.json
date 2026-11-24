@@ -1,0 +1,23 @@
+[
+  {
+    "id": 72,
+    "channel_id": "seeallochnaya_kazhdi_den",
+    "date": "2026-11-24T17:22:24+00:00",
+    "text": "бенчи chat 6.2 теперь репортят тут, лол\nhttps://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "views": 2123,
+    "forwards": 7,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.25,
+      "category": "ai",
+      "summary": "Автор указывает, что бенчмарки ChatGPT 6.2 теперь публикуются в заметках о выпусках OpenAI.",
+      "keywords": [
+        "ChatGPT",
+        "бенчмарки",
+        "OpenAI",
+        "релиз-ноты"
+      ]
+    }
+  }
+]
