@@ -1,0 +1,24 @@
+[
+  {
+    "id": 698,
+    "channel_id": "alekseyorfeev",
+    "date": "2026-11-25T11:35:57+00:00",
+    "text": "Не студенческой обрезанной версии, а версии с доступом к моделям Carbon, Neon и Hydrogen в Antigravity",
+    "views": 1275,
+    "forwards": 13,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "tech",
+      "summary": "Уточняется, что речь идёт о версии Antigravity с доступом к моделям Carbon, Neon и Hydrogen, а не об урезанном студенческом варианте.",
+      "keywords": [
+        "Antigravity",
+        "Carbon",
+        "Neon",
+        "Hydrogen",
+        "доступ к моделям"
+      ]
+    }
+  }
+]

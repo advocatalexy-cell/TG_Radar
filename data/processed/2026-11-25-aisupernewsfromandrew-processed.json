@@ -1,0 +1,68 @@
+[
+  {
+    "id": 883,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-25T11:22:30+00:00",
+    "text": "**Энтузиаст подключил ИИ к 32-летнему Jeep Cherokee — теперь нейросеть самостоятельно считывает данные двигателя и помогает диагностировать неисправности**\n\nДля этого понадобились Arduino Nano за $3, несколько проводов и ноутбук. Через Claude Code ИИ-агент получил доступ к бортовому компьютеру автомобиля и научился считывать ошибки, отслеживать обороты, температуру, расход топлива и другие параметры.\n\nКроме того, система умеет записывать поездки и запускать встроенные диагностические тесты. Весь проект с инструкциями и исходным кодом выложили на GitHub. Собрать аналогичную систему можно примерно за $15 — [здесь](https://github.com/MZULALI/xj-scanner).\n\n❤️ [**PDA**](https://t.me/+oKM0IF6m0pIzMjM6)",
+    "views": 41,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "Энтузиаст подключил ИИ-агента к старому Jeep для чтения данных двигателя и диагностики неисправностей, опубликовав проект с открытым исходным кодом.",
+      "keywords": [
+        "ИИ-агент",
+        "диагностика автомобиля",
+        "Arduino Nano",
+        "Claude Code",
+        "GitHub"
+      ]
+    }
+  },
+  {
+    "id": 882,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-25T11:05:42+00:00",
+    "text": "Энтузиаст потратил 8,9 миллиарда токенов Claude Code, чтобы создать одну клубнику в Blender - Shazoo https://shazoo.ru/2026/11/25/194605/entuziast-potratil-89-milliarda-tokenov-claude-code-ctoby-sozdat-odnu-klubniku-v-blender",
+    "views": 222,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.78,
+      "category": "ai",
+      "summary": "Энтузиаст потратил 8,9 миллиарда токенов Claude Code на создание модели клубники в Blender.",
+      "keywords": [
+        "Claude Code",
+        "токены",
+        "Blender",
+        "3D-моделирование",
+        "расходы"
+      ]
+    }
+  },
+  {
+    "id": 881,
+    "channel_id": "aisupernewsfromandrew",
+    "date": "2026-11-25T09:40:45+00:00",
+    "text": "**Убираем ИИ-слоп из своих проектов** — на **GitHub** появился инструмент для поиска и исправления архитектурного мусора в коде.\n\nЕго можно подключить **прямо к своим ИИ-агентам**, чтобы они автоматически проверяли и** вычищали весь свой слоп.**\n\nЗабираем — [тут.](https://github.com/deterministic-machines/deslop-please)\n\n🎮[КиберТопор — Подписаться](https://t.me/+6fyKjmOWmW5lYzMy)",
+    "views": 55,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.68,
+      "category": "tech",
+      "summary": "На GitHub появился инструмент Deslop Please для поиска и исправления архитектурного мусора в коде, в том числе с помощью ИИ-агентов.",
+      "keywords": [
+        "GitHub",
+        "Deslop Please",
+        "ИИ-агенты",
+        "анализ кода",
+        "рефакторинг"
+      ]
+    }
+  }
+]
