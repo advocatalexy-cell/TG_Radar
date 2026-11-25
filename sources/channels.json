@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "channels": [
     {
       "id": "allthingslegal",
@@ -1609,6 +1609,20 @@
       ],
       "active": true,
       "signal_ratio": 1.0,
+      "source_folder": "Lawyer",
+      "notes": "Импортирован из папки «Lawyer» (sync)"
+    },
+    {
+      "id": "clubligalegal",
+      "name": "Лига | юридический бизнес",
+      "url": "https://t.me/ClubLigaLegal",
+      "type": "telegram",
+      "priority": "medium",
+      "tags": [
+        "lawyer"
+      ],
+      "active": true,
+      "signal_ratio": null,
       "source_folder": "Lawyer",
       "notes": "Импортирован из папки «Lawyer» (sync)"
     }
