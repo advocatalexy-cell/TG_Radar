@@ -1,0 +1,64 @@
+[
+  {
+    "id": 23718,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-26T05:58:36+00:00",
+    "text": "Через пару лет все. Изменится",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Пост содержит неопределённое утверждение о будущих переменах без контекста.",
+      "keywords": [
+        "будущее",
+        "перемены",
+        "прогноз"
+      ]
+    }
+  },
+  {
+    "id": 23717,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-26T05:56:53+00:00",
+    "text": "Буду тестировать",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.0,
+      "category": "other",
+      "summary": "Автор сообщает, что будет проводить тестирование.",
+      "keywords": [
+        "тестирование",
+        "проверка",
+        "сообщение"
+      ]
+    }
+  },
+  {
+    "id": 23716,
+    "channel_id": "deepseek_community",
+    "date": "2026-11-26T05:56:48+00:00",
+    "text": "Вчера оплатил 2 раза API дипсика. И нашел кое какой баг в оплате...\nНо суть в том, что через опен код(в будущем буду в харнесс работать) неплохо справляется дипсик флеш на хай ризонинге) 👍 с языками программирования С++, Пайтон, Lua.\nПричем с С++ лучше чем кодекс sol6.2 на хай ризонинге справляется))",
+    "views": null,
+    "forwards": null,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.68,
+      "category": "ai",
+      "summary": "Автор сообщает, что DeepSeek Flash на высоком уровне рассуждений хорошо справляется с программированием на C++, Python и Lua, а на C++ превосходит Codex sol6.2.",
+      "keywords": [
+        "DeepSeek Flash",
+        "программирование",
+        "C++",
+        "Python",
+        "сравнение моделей"
+      ]
+    }
+  }
+]

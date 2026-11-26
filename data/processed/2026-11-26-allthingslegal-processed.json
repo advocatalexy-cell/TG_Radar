@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1637,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-26T10:26:19+00:00",
+    "text": "Российским организаторам ИИ-курсов - вы сильно растянете обучение, ребята! German Federal Association of the Digital Economy всего за два дня из любого чувака делает AI Officer. Вот так.",
+    "views": 195,
+    "forwards": 4,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.65,
+      "category": "business",
+      "summary": "Немецкая ассоциация цифровой экономики предлагает двухдневное обучение с присвоением статуса AI Officer.",
+      "keywords": [
+        "Германия",
+        "ИИ-курсы",
+        "AI Officer",
+        "обучение"
+      ]
+    }
+  }
+]

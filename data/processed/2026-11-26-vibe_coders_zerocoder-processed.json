@@ -1,0 +1,43 @@
+[
+  {
+    "id": 3920,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-26T05:42:28+00:00",
+    "text": "Да есть, решения пока не увидел",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Автор сообщает о наличии чего-то, но не уточняет предмет и говорит, что решения пока нет.",
+      "keywords": [
+        "наличие",
+        "решение",
+        "неопределённость"
+      ]
+    }
+  },
+  {
+    "id": 3916,
+    "channel_id": "vibe_coders_zerocoder",
+    "date": "2026-11-25T21:23:50+00:00",
+    "text": "у кого то есть проблемы с клодом? там вериф просит",
+    "views": null,
+    "forwards": null,
+    "has_media": false,
+    "classification": {
+      "signal": true,
+      "score": 0.56,
+      "category": "tech",
+      "summary": "Пользователь сообщает о проблемах с Claude, который запрашивает верификацию.",
+      "keywords": [
+        "Claude",
+        "верификация",
+        "сбой",
+        "доступ"
+      ]
+    }
+  }
+]

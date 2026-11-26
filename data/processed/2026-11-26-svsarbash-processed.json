@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4320,
+    "channel_id": "svsarbash",
+    "date": "2026-11-26T08:39:38+00:00",
+    "text": "Количество подпищиков растет.",
+    "views": 345,
+    "forwards": 4,
+    "has_media": false,
+    "classification": {
+      "signal": false,
+      "score": 0.05,
+      "category": "other",
+      "summary": "Сообщается о росте числа подписчиков без дополнительных подробностей.",
+      "keywords": [
+        "подписчики",
+        "рост",
+        "аудитория"
+      ]
+    }
+  }
+]

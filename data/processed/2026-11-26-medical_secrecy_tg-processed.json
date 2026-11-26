@@ -1,0 +1,84 @@
+[
+  {
+    "id": 18764,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-26T17:11:02+00:00",
+    "text": "🥝 **Киви после белковой еды: зачем его добавляют**\n\nВ нём есть фермент, который расщепляет белок в желудке. Смотрите, как его используют в питании.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 2015,
+    "forwards": 45,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.2,
+      "category": "other",
+      "summary": "Пост рекламно-анонсовый: утверждает, что фермент киви помогает расщеплять белок, и предлагает перейти к материалу.",
+      "keywords": [
+        "киви",
+        "белок",
+        "фермент",
+        "питание"
+      ]
+    }
+  },
+  {
+    "id": 18763,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-26T11:11:07+00:00",
+    "text": "⏰ **Комендантский час для кофе**\n\nПоследняя чашка влияет на сон сильнее, чем кажется. Смотрите, когда пора остановиться.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3382,
+    "forwards": 46,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Пост рекламирует материал о влиянии времени употребления кофе на сон, но не раскрывает его содержание.",
+      "keywords": [
+        "кофе",
+        "сон",
+        "реклама"
+      ]
+    }
+  },
+  {
+    "id": 18762,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-26T08:11:02+00:00",
+    "text": "🚶‍♀️ **Вы недооцениваете ходьбу**\n\nСамое доступное «упражнение», которое работает лучше многих тренировок. Смотрите, сколько нужно ходить.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3724,
+    "forwards": 64,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Пост рекламирует материал о пользе ходьбы, но не содержит конкретных данных или выводов.",
+      "keywords": [
+        "ходьба",
+        "упражнения",
+        "здоровье"
+      ]
+    }
+  },
+  {
+    "id": 18761,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-26T06:11:03+00:00",
+    "text": "🪵 **Микропластик на вашей разделочной доске**\n\nПластиковая доска оставляет в еде больше, чем следы от ножа. Смотрите, чем её заменить.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 4010,
+    "forwards": 59,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Пост утверждает, что пластиковая разделочная доска может оставлять микропластик в еде, и предлагает заменить её.",
+      "keywords": [
+        "микропластик",
+        "разделочная доска",
+        "пластик",
+        "здоровье"
+      ]
+    }
+  }
+]
