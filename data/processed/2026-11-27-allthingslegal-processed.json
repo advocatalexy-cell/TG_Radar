@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1639,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-27T15:21:07+00:00",
+    "text": "Увидел эту коллекцию в посте у коллеги из Польши. Не только сами Legal AI продукты не сильно отличаются друг от друга, но и их мерч 😀. И, по их мнению, все юристы обезвоженные...",
+    "views": 171,
+    "forwards": 2,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.08,
+      "category": "other",
+      "summary": "Шутливое замечание о сходстве мерча у Legal AI-продуктов и стереотипе про юристов.",
+      "keywords": [
+        "Legal AI",
+        "мерч",
+        "юристы"
+      ]
+    }
+  },
+  {
+    "id": 1638,
+    "channel_id": "allthingslegal",
+    "date": "2026-11-27T07:00:10+00:00",
+    "text": "Интересная [статья](https://www.legaltechnologyhub.com/contents/off-the-map-why-the-world-keeps-missing-chinas-legal-tech/) о китайском рынке LegalTech на LTH. \n\n#reference",
+    "views": 216,
+    "forwards": 6,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "tech",
+      "summary": "В статье рассматривается китайский рынок LegalTech и причины, по которым он остается вне поля зрения мирового сообщества.",
+      "keywords": [
+        "Китай",
+        "LegalTech",
+        "юридические технологии",
+        "рынок",
+        "статья"
+      ]
+    }
+  }
+]

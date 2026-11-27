@@ -1,0 +1,84 @@
+[
+  {
+    "id": 18768,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-27T17:11:04+00:00",
+    "text": "🧀 **Как сохранить сыр свежим и вкусным**\n\nПергамент работает лучше пищевой плёнки и контейнера. Показываем, как правильно его заворачивать.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 1812,
+    "forwards": 35,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Пост содержит бытовой совет по хранению сыра в пергаменте.",
+      "keywords": [
+        "сыр",
+        "хранение",
+        "пергамент"
+      ]
+    }
+  },
+  {
+    "id": 18767,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-27T11:11:02+00:00",
+    "text": "📋 **Как дефициты отражаются на теле**\n\nНехватку витаминов и минералов выдают мелочи, которые легко пропустить. Сохраните памятку себе.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3119,
+    "forwards": 44,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.12,
+      "category": "other",
+      "summary": "Пост анонсирует памятку о внешних признаках нехватки витаминов и минералов, но не содержит конкретных данных или рекомендаций.",
+      "keywords": [
+        "дефицит витаминов",
+        "минералы",
+        "здоровье"
+      ]
+    }
+  },
+  {
+    "id": 18766,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-27T08:11:07+00:00",
+    "text": "🥤 **Почему не стоит пить прямо из жестяных банок**\n\nДело не в напитке, а в том, что оказывается на крышке. Смотрите, в чём риск.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 3746,
+    "forwards": 66,
+    "has_media": true,
+    "classification": {
+      "signal": true,
+      "score": 0.55,
+      "category": "other",
+      "summary": "Пост предупреждает о возможном риске питья из жестяных банок из-за загрязнений на крышке.",
+      "keywords": [
+        "гигиена",
+        "жестяные банки",
+        "загрязнения",
+        "безопасность напитков"
+      ]
+    }
+  },
+  {
+    "id": 18765,
+    "channel_id": "medical_secrecy_tg",
+    "date": "2026-11-27T06:11:07+00:00",
+    "text": "💊 **Добавки, которые нельзя принимать вместе**\n\nНекоторые витамины и минералы мешают усвоению друг друга. Смотрите, что стоит развести по времени.\n\n[Врачебная тайна](https://t.me/+d8mXpBqWRuhmNzUy) | 👉🏻 [**Мы в MAX**](https://max.ru/join/-vZe05MhOnP6Y52_LgVMo-NE2xUv5BJcdjKj9rHYCqA)",
+    "views": 4015,
+    "forwards": 49,
+    "has_media": true,
+    "classification": {
+      "signal": false,
+      "score": 0.18,
+      "category": "other",
+      "summary": "Пост анонсирует материал о совместимости добавок, но не содержит конкретных рекомендаций или фактов.",
+      "keywords": [
+        "добавки",
+        "витамины",
+        "минералы",
+        "усвоение"
+      ]
+    }
+  }
+]
